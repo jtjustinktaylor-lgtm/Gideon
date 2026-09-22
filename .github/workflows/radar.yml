@@ -1,0 +1,40 @@
+# GitHub Radar — self-hosted daily scrape.
+# Runs on GitHub's own infrastructure every day, scrapes GitHub intel,
+# and commits the fresh digest back to this repo. No secrets needed:
+# the built-in GITHUB_TOKEN does the commit.
+name: radar-daily
+
+on:
+  schedule:
+    - cron: '30 12 * * *'   # 12:30 UTC = 8:30 AM ET (summer time)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run GitHub Radar
+        # Incremental: reports only items not seen in previous runs.
+        # state.json + out/ are committed back, so the state survives between runs.
+        run: node scrape.mjs
+
+      - name: Commit fresh digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: daily radar digest $(date -u +%F)"
+            git push
+          fi
