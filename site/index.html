@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GitHub Radar — a Gideon app</title>
+<meta name="description" content="Daily GitHub intelligence: releases, commits, new repos, keyword hits and trending. Scraped every day, automatically.">
+<style>
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d; --text: #e6edf3;
+    --muted: #8b949e; --accent: #58a6ff; --ok: #3fb950; --warn: #d29922;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; }
+  h1 .radar { display: inline-block; animation: spin 6s linear infinite; transform-origin: center; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .tag { color: var(--muted); margin: 0 0 16px; font-size: 1.05rem; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 28px; }
+  .badge { background: var(--card); border: 1px solid var(--border); border-radius: 999px;
+           padding: 3px 12px; font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+  .badge.ok { color: var(--ok); border-color: var(--ok); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 14px; margin-bottom: 28px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; }
+  .card h3 { margin: 0 0 6px; font-size: .95rem; color: var(--accent); }
+  .card p { margin: 0; color: var(--muted); font-size: .9rem; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .digest { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px 24px; }
+  .digest h2 { margin-top: 0; font-size: 1.15rem; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+  .digest h3 { color: var(--accent); font-size: 1rem; margin: 18px 0 8px; }
+  .digest ul { margin: 0; padding-left: 18px; }
+  .digest li { margin: 5px 0; }
+  .digest code { background: #0d1117; border: 1px solid var(--border); border-radius: 6px; padding: 1px 6px; font-size: 12px; }
+  .meta { color: var(--muted); font-size: .85rem; }
+  footer { margin-top: 36px; color: var(--muted); font-size: .85rem; text-align: center; }
+  pre { white-space: pre-wrap; background: #0d1117; border: 1px solid var(--border); border-radius: 8px; padding: 12px; overflow-x: auto; }
+  code.block { display: block; background: #0d1117; border: 1px solid var(--border); border-radius: 8px; padding: 12px; overflow-x: auto; font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="radar">🛰️</span> GitHub Radar</h1>
+  <p class="tag">A Gideon app. It scrapes GitHub every day so you don't have to.</p>
+
+  <div class="badges">
+    <span class="badge ok">● live</span>
+    <span class="badge">public</span>
+    <span class="badge">MIT</span>
+    <span class="badge">zero dependencies</span>
+    <span class="badge">daily 12:30 UTC</span>
+  </div>
+
+  <div class="grid">
+    <div class="card"><h3>🚀 Releases</h3><p>Every release on the watched repos — Sidiora-Labs, Paxeer-X, LayerX, 9router.</p></div>
+    <div class="card"><h3>🔨 Fresh commits</h3><p>What just shipped, who shipped it.</p></div>
+    <div class="card"><h3>🆕 New repos</h3><p>Brand-new repos in watched orgs + keyword hits: paxeer, layerx, 402lxp, sidiora.</p></div>
+    <div class="card"><h3>💌 Trending</h3><p>GitHub's daily trending board, overall + TypeScript.</p></div>
+  </div>
+
+  <div class="card" style="margin-bottom:28px">
+    <h3>📲 Install</h3>
+    <p><b>In Gideon:</b> accept the “GitHub Radar Daily Digest” skill proposal in the Learning queue — then just ask “run the radar”. The <code>GitHub Radar Daily Run</code> automation delivers it daily at 8:30 AM.</p>
+    <p style="margin-top:8px"><b>Self-host:</b></p>
+    <code class="block">git clone https://github.com/jtjustinktaylor-lgtm/Gideon
+cd Gideon &amp;&amp; node scrape.mjs</code>
+  </div>
+
+  <div class="digest">
+    <h2>📡 Latest sweep</h2>
+    <p class="meta" id="meta">Loading digest…</p>
+    <div id="body"></div>
+  </div>
+
+  <footer>
+    Built by <a href="https://github.com/jtjustinktaylor-lgtm">Justin Taylor</a> + Gideon ·
+    <a href="https://github.com/jtjustinktaylor-lgtm/Gideon">source</a> ·
+    <a href="LATEST.md">raw digest</a>
+  </footer>
+</div>
+<script>
+const SECTIONS = [['releases','🚀 Releases'],['commits','🔨 Fresh commits'],['new-repos','🆕 New repos on the radar'],['trending','💌 GitHub Trending (daily)']];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('data.json').then(r => r.json()).then(rep => {
+  document.getElementById('meta').textContent =
+    `${rep.newCount} item(s) · generated ${rep.generated}` + (rep.errors?.length ? ` · ${rep.errors.length} source(s) failed` : '');
+  let html = '';
+  for (const [key, label] of SECTIONS) {
+    html += `<h3>${label}</h3>`;
+    const rows = rep[key] || [];
+    if (!rows.length) { html += '<p class="meta">Nothing new.</p>'; continue; }
+    html += '<ul>' + rows.map(it =>
+      `<li><a href="${esc(it.url)}">${esc(it.title || it.repo)}</a> <code>${esc(it.repo)}</code>` +
+      (it.note ? ` — ${esc(it.note)}` : '') + (it.when ? ` <span class="meta">· ${esc(String(it.when).slice(0,10))}</span>` : '') +
+      '</li>').join('') + '</ul>';
+  }
+  document.getElementById('body').innerHTML = html;
+}).catch(() => {
+  document.getElementById('meta').textContent = 'Digest not generated yet — check LATEST.md or run the workflow.';
+});
+</script>
+</body>
+</html>
