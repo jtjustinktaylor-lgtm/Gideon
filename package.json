@@ -1,0 +1,18 @@
+{
+  "name": "github-radar",
+  "version": "1.0.0",
+  "description": "Daily GitHub intelligence scraper: releases, commits, new repos, keyword hits and trending — as a markdown digest. Zero dependencies.",
+  "type": "module",
+  "main": "scrape.mjs",
+  "bin": { "github-radar": "scrape.mjs" },
+  "scripts": {
+    "start": "node scrape.mjs",
+    "full": "node scrape.mjs --full",
+    "json": "node scrape.mjs --json",
+    "test": "node --check scrape.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["github", "scraper", "trending", "releases", "digest", "agent", "gideon"],
+  "author": "jtjustinktaylor-lgtm",
+  "license": "MIT"
+}

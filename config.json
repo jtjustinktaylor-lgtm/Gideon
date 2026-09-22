@@ -1,0 +1,13 @@
+{
+  "trackedRepos": [
+    "Sidiora-Labs/LayerX-Network",
+    "Sidiora-Labs/Paxeer-X-Network",
+    "Sidiora-Labs/centra-gideon-agent",
+    "decolua/9router"
+  ],
+  "trackedOrgs": ["Sidiora-Labs"],
+  "keywords": ["paxeer", "layerx", "402lxp", "sidiora"],
+  "trending": ["overall", "typescript"],
+  "lookbackDays": 2,
+  "maxPerSection": 15
+}
