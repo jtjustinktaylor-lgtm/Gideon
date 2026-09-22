@@ -222,6 +222,12 @@ async function main() {
   await writeFile(path.join(OUT, 'latest.md'), md);
   await writeFile(path.join(OUT, 'latest.json'), JSON.stringify(rep, null, 2));
 
+  // Public site feed — served by GitHub Pages from /site (see site/index.html)
+  const SITE = path.join(ROOT, 'site');
+  await mkdir(SITE, { recursive: true });
+  await writeFile(path.join(SITE, 'LATEST.md'), md);
+  await writeFile(path.join(SITE, 'data.json'), JSON.stringify(rep, null, 2));
+
   if (AS_JSON) console.log(JSON.stringify(rep, null, 2));
   else console.log(md);
   if (errs.length) console.error(`[github-radar] ${errs.length} source(s) failed \u2014 listed in the digest.`);
