@@ -1,0 +1,44 @@
+{
+  "installed": [
+    {
+      "name": "AttCheck",
+      "repo": "https://github.com/A-n-v-i-t-h/AttCheck",
+      "status": "INSTALLED",
+      "verdict": "clean - zero-infra attendance & payroll (Google Sheets DB, phone punch-in)",
+      "use_for": "FlowJob crew time tracking / payroll export",
+      "path": "/data/workspace/apps/AttCheck/AttCheck-HEAD"
+    },
+    {
+      "name": "Reel-watcher-telegram-Agent",
+      "repo": "https://github.com/HNF-FRN/Reel-watcher-telegram-Agent",
+      "status": "INSTALLED (needs bot token to go live)",
+      "verdict": "acceptable - normal Telegram-bot patterns (subprocess/base64/token handling)",
+      "use_for": "DM a reel to a bot, get an explainer + plan",
+      "path": "/data/workspace/apps/Reel-watcher-telegram-Agent/Reel-watcher-telegram-Agent-HEAD"
+    }
+  ],
+  "rejected": [
+    {
+      "name": "LaunchBar-Stable",
+      "repo": "https://github.com/Fierceoorestore/LaunchBar-Stable",
+      "verdict": "REJECTED - dropper pattern: 2 files, no source code, README funnels you to an unauditable binary in Releases",
+      "action": "deleted + removed from store shelf"
+    },
+    {
+      "name": "skipper",
+      "repo": "https://github.com/seuros/skipper",
+      "verdict": "on shelf - legit MCP git tool but ships curl|bash installer; install manually if ever needed"
+    },
+    {
+      "name": "Scrui",
+      "repo": "https://github.com/brovk2008/Scrui",
+      "verdict": "on shelf - heavy UI reverse-engineering/deobfuscation kit; gray-area use, not installed"
+    },
+    {
+      "name": "system1-agents",
+      "repo": "https://github.com/ThinkFlowLab/system1-agents",
+      "verdict": "on shelf - legit research framework, 13MB w/ desktop-agent exec(); too heavy to auto-install"
+    }
+  ],
+  "policy": "Nothing installs without a code scan first. Dropper patterns (no source + binary-only Releases) = instant reject."
+}
