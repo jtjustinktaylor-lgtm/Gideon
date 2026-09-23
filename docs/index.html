@@ -38,6 +38,10 @@
   footer { margin-top: 36px; color: var(--muted); font-size: .85rem; text-align: center; }
   pre { white-space: pre-wrap; background: #0d1117; border: 1px solid var(--border); border-radius: 8px; padding: 12px; overflow-x: auto; }
   code.block { display: block; background: #0d1117; border: 1px solid var(--border); border-radius: 8px; padding: 12px; overflow-x: auto; font-size: 13px; }
+.add{background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:6px 10px;
+  cursor:pointer;font-size:12px;margin-right:10px}
+#toast{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ok);
+  color:var(--bg);padding:10px 16px;border-radius:999px;font-size:13px;z-index:99}
 </style>
 </head>
 <body>
@@ -84,6 +88,7 @@ cd Gideon &amp;&amp; node scrape.mjs</code>
 <li><strong>Copy the link from your browser’s address bar and paste it to Gideon</strong> — say <em>“what does this do”</em> or <em>“install this”</em>.</li>
 <li><strong>Gideon inspects it first</strong> — these are brand-new apps from strangers, and code is checked before anything gets installed on your gear. Then Gideon installs it or tells you exactly what it needs (Node, Docker, whatever).</li>
 </ol>
+<p class="note">⚡ Or tap <strong>Add to Gideon</strong> on any card — it copies the install request to your clipboard; paste it in the dashboard and Gideon vets &amp; installs it immediately.</p>
 <p class="note">DIY route: on the GitHub page tap the green <strong>Code</strong> button → <strong>Download ZIP</strong>, then follow the README. A <strong>Releases</strong> box on the right side = ready-made download, no coding needed.</p></div>
 <div id="store" style="display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));margin:16px 0 28px"></div>
 <h2>📡 Latest sweep</h2>
@@ -101,13 +106,27 @@ cd Gideon &amp;&amp; node scrape.mjs</code>
 const SECTIONS = [['releases','🚀 Releases'],['commits','🔨 Fresh commits'],['new-repos','🆕 New repos on the radar'],['apps','🧰 Fresh apps & tools'],['showhn','📣 Show HN launches'],['trending','💌 GitHub Trending (daily)']];
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
+function addGideon(u) {
+  const cmd = 'Gideon: vet & install this app \u2014 ' + u;
+  const done = () => { const t = document.getElementById('toast'); t.style.display = 'block';
+    clearTimeout(window._tt); window._tt = setTimeout(() => t.style.display = 'none', 2600); };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(cmd).then(done, () => window.prompt('Copy this and paste it to Gideon:', cmd));
+  } else window.prompt('Copy this and paste it to Gideon:', cmd);
+}
+
 fetch('store.json').then(r => r.json()).then(store => {
   const apps = (store.apps || []).slice(0, 24);
   document.getElementById('store').innerHTML = apps.map(a =>
     '<div class="card"><h3>📦 ' + esc(a.name) + '</h3><p>' + esc(a.desc) + '</p>' +
     '<p class="note">' + esc(a.note || '') + '</p>' +
+    '<button class="add" data-u="' + encodeURIComponent(a.url) + '">⚡ Add to Gideon</button>' +
     '<a href="' + esc(a.url) + '" target="_blank" rel="noopener">Get it →</a></div>'
   ).join('') || '<p class="note">No apps on the shelf yet — the next daily run fills it.</p>';
+  document.getElementById('store').addEventListener('click', e => {
+    const b = e.target.closest('button[data-u]');
+    if (b) addGideon(decodeURIComponent(b.dataset.u));
+  });
   document.getElementById('store-count').textContent = (store.apps || []).length;
 }).catch(() => {});
 
@@ -127,5 +146,6 @@ fetch('data.json').then(r => r.json()).then(rep => {
   if (el) el.textContent = 'Digest not generated yet — run the daily workflow.';
 });
 </script>
+<div id="toast">⚡ Copied! Paste it in the Gideon dashboard — Gideon vets &amp; installs it on the spot.</div>
 </body>
 </html>
