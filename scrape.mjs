@@ -6,7 +6,9 @@
  *   1. Releases + fresh commits on watched repos
  *   2. Brand-new repos in watched orgs/accounts
  *   3. Brand-new repos matching watched keywords
- *   4. GitHub Trending (daily)
+ *   4. Fresh apps & tools (topic hunts for installable things)
+ *   5. Show HN launches (new products from outside GitHub)
+ *   6. GitHub Trending (daily)
  *
  * Writes: out/digest-YYYY-MM-DD.md · out/latest.md · out/latest.json
  *
@@ -42,6 +44,9 @@ const DEFAULTS = {
   ],
   trackedOrgs: ['Sidiora-Labs'],
   keywords: ['paxeer', 'layerx', '402lxp', 'sidiora'],
+  // Topic hunts for fresh installable apps/tools (the new-apps finder).
+  discover: ['topic:ai-agent', 'topic:mcp-server', 'topic:telegram-bot', 'topic:pwa', 'topic:web-scraping', 'topic:automation'],
+  showHN: true,
   trending: ['overall', 'typescript'],
   lookbackDays: 2,
   maxPerSection: 15,
@@ -153,10 +158,58 @@ async function trending(cfg, errs) {
   return items;
 }
 
+/** Fresh APPS & TOOLS: brand-new repos that look installable, found via topic hunts. */
+async function appDiscovery(cfg, errs) {
+  const items = [];
+  const since = new Date(Date.now() - cfg.lookbackDays * 864e5).toISOString().slice(0, 10);
+  for (const topic of cfg.discover) {
+    try {
+      const q = encodeURIComponent(`${topic} created:>=${since} fork:false`);
+      const data = await gh(`/search/repositories?q=${q}&sort=stars&order=desc&per_page=10`);
+      for (const r of data.items || []) {
+        if (!r.description || r.stargazers_count < 1) continue; // must look like a real, usable thing
+        items.push({
+          id: `app:${r.full_name}`, section: 'apps', repo: r.full_name,
+          title: r.description.trim().slice(0, 120), url: r.html_url, when: r.created_at,
+          note: `${r.language || '\u2014'} \u00b7 \u2605${r.stargazers_count} \u00b7 ${topic.replace('topic:', '#')}`,
+        });
+      }
+    } catch (e) { errs.push(`apps \u00b7 ${topic}: ${e.message}`); }
+  }
+  return items;
+}
+
+/** Show HN \u2014 brand-new products launching outside GitHub (Algolia HN API, no key needed). */
+async function showHN(cfg, errs) {
+  if (cfg.showHN === false) return [];
+  const items = [];
+  const since = Math.floor((Date.now() - cfg.lookbackDays * 864e5) / 1000);
+  try {
+    const res = await fetch(
+      `https://hn.algolia.com/api/v1/search_by_date?tags=show_hn&numericFilters=created_at_i%3E=${since}&hitsPerPage=15`,
+      { headers: { 'User-Agent': UA } },
+    );
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    for (const h of data.hits || []) {
+      items.push({
+        id: `hn:${h.objectID}`, section: 'showhn', repo: `Show HN #${h.objectID}`,
+        title: (h.title || '').slice(0, 120),
+        url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+        when: h.created_at,
+        note: `${h.points || 0} pts \u00b7 ${h.num_comments || 0} comments`,
+      });
+    }
+  } catch (e) { errs.push(`show-hn: ${e.message}`); }
+  return items;
+}
+
 const SECTIONS = [
   ['releases', '\ud83d\ude80 Releases'],
   ['commits', '\ud83d\udd28 Fresh commits'],
   ['new-repos', '\ud83c\udd95 New repos on the radar'],
+  ['apps', '🧰 Fresh apps & tools'],
+  ['showhn', '📣 Show HN launches'],
   ['trending', '\ud83d\udc8c GitHub Trending (daily)'],
 ];
 
@@ -179,7 +232,7 @@ function render(rep) {
     for (const e of rep.errors) L.push(`- ${e}`);
     L.push('');
   }
-  L.push('---', '_github-radar v1.0 \u00b7 zero-dependency Node scraper_');
+  L.push('---', '_github-radar v1.2 \u00b7 zero-dependency Node scraper_');
   return L.join('\n');
 }
 
@@ -188,8 +241,8 @@ async function main() {
   const prev = FULL ? { seen: {} } : await load(STATE, { seen: {} });
   const errs = [];
 
-  const [rel, nw, tr] = await Promise.all([watchRepos(cfg, errs), newRepos(cfg, errs), trending(cfg, errs)]);
-  const all = [...rel, ...nw, ...tr];
+  const [rel, nw, ap, hn, tr] = await Promise.all([watchRepos(cfg, errs), newRepos(cfg, errs), appDiscovery(cfg, errs), showHN(cfg, errs), trending(cfg, errs)]);
+  const all = [...rel, ...nw, ...ap, ...hn, ...tr];
   const fresh = all.filter((i) => !prev.seen[i.id]);
 
   const bucket = {};
@@ -216,17 +269,35 @@ async function main() {
   }
   await writeFile(STATE, JSON.stringify({ lastRun: now.toISOString(), seen }, null, 2));
 
+  // Gideon App Store shelf \u2014 every discovered app is catalogued here permanently.
+  const storePath = path.join(ROOT, 'docs', 'store.json');
+  const store = await load(storePath, { apps: [] });
+  const known = new Set((store.apps || []).map((a) => a.id));
+  for (const it of all.filter((i2) => i2.section === 'apps')) {
+    if (known.has(it.id)) continue;
+    known.add(it.id);
+    store.apps.push({
+      id: it.id, name: it.repo.split('/')[1], repo: it.repo,
+      desc: it.title, url: it.url, when: it.when, note: it.note,
+    });
+  }
+  store.updated = now.toISOString();
+  store.apps = (store.apps || [])
+    .sort((a, b) => String(b.when || '').localeCompare(String(a.when || '')))
+    .slice(0, 200);
+
   const md = render(rep);
   await mkdir(OUT, { recursive: true });
   await writeFile(path.join(OUT, `digest-${rep.date}.md`), md);
   await writeFile(path.join(OUT, 'latest.md'), md);
   await writeFile(path.join(OUT, 'latest.json'), JSON.stringify(rep, null, 2));
 
-  // Public site feed — served by GitHub Pages from /site (see site/index.html)
-  const SITE = path.join(ROOT, 'site');
+  // Public site feed — served by GitHub Pages from /docs (see docs/index.html)
+  const SITE = path.join(ROOT, 'docs');
   await mkdir(SITE, { recursive: true });
   await writeFile(path.join(SITE, 'LATEST.md'), md);
   await writeFile(path.join(SITE, 'data.json'), JSON.stringify(rep, null, 2));
+  await writeFile(path.join(ROOT, 'docs', 'store.json'), JSON.stringify(store, null, 2));
 
   if (AS_JSON) console.log(JSON.stringify(rep, null, 2));
   else console.log(md);

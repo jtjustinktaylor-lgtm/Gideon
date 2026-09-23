@@ -58,6 +58,8 @@
     <div class="card"><h3>🔨 Fresh commits</h3><p>What just shipped, who shipped it.</p></div>
     <div class="card"><h3>🆕 New repos</h3><p>Brand-new repos in watched orgs + keyword hits: paxeer, layerx, 402lxp, sidiora.</p></div>
     <div class="card"><h3>💌 Trending</h3><p>GitHub's daily trending board, overall + TypeScript.</p></div>
+    <div class="card"><h3>🧰 Fresh apps & tools</h3><p>Brand-new installable apps found by topic hunts: AI agents, MCP servers, bots, PWAs, scrapers, automation.</p></div>
+    <div class="card"><h3>📣 Show HN</h3><p>Products launching on Hacker News — new apps from outside GitHub too.</p></div>
   </div>
 
   <div class="card" style="margin-bottom:28px">
@@ -69,7 +71,10 @@ cd Gideon &amp;&amp; node scrape.mjs</code>
   </div>
 
   <div class="digest">
-    <h2>📡 Latest sweep</h2>
+    <h2>🛒 Gideon App Store</h2>
+<p class="note"><span id="store-count">0</span> apps auto-discovered so far — new ones get shelved here every day, straight from the scraper.</p>
+<div id="store" style="display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));margin:16px 0 28px"></div>
+<h2>📡 Latest sweep</h2>
     <p class="meta" id="meta">Loading digest…</p>
     <div id="body"></div>
   </div>
@@ -81,24 +86,33 @@ cd Gideon &amp;&amp; node scrape.mjs</code>
   </footer>
 </div>
 <script>
-const SECTIONS = [['releases','🚀 Releases'],['commits','🔨 Fresh commits'],['new-repos','🆕 New repos on the radar'],['trending','💌 GitHub Trending (daily)']];
+const SECTIONS = [['releases','🚀 Releases'],['commits','🔨 Fresh commits'],['new-repos','🆕 New repos on the radar'],['apps','🧰 Fresh apps & tools'],['showhn','📣 Show HN launches'],['trending','💌 GitHub Trending (daily)']];
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+fetch('store.json').then(r => r.json()).then(store => {
+  const apps = (store.apps || []).slice(0, 24);
+  document.getElementById('store').innerHTML = apps.map(a =>
+    '<div class="card"><h3>📦 ' + esc(a.name) + '</h3><p>' + esc(a.desc) + '</p>' +
+    '<p class="note">' + esc(a.note || '') + '</p>' +
+    '<a href="' + esc(a.url) + '" target="_blank" rel="noopener">Get it →</a></div>'
+  ).join('') || '<p class="note">No apps on the shelf yet — the next daily run fills it.</p>';
+  document.getElementById('store-count').textContent = (store.apps || []).length;
+}).catch(() => {});
+
 fetch('data.json').then(r => r.json()).then(rep => {
-  document.getElementById('meta').textContent =
-    `${rep.newCount} item(s) · generated ${rep.generated}` + (rep.errors?.length ? ` · ${rep.errors.length} source(s) failed` : '');
-  let html = '';
+  let html = '<p class="note">' + rep.newCount + ' new item(s) · generated ' + esc(rep.generated) + '</p>';
   for (const [key, label] of SECTIONS) {
-    html += `<h3>${label}</h3>`;
+    html += '<h2>' + label + '</h2>';
     const rows = rep[key] || [];
-    if (!rows.length) { html += '<p class="meta">Nothing new.</p>'; continue; }
+    if (!rows.length) { html += '<p class="note">Nothing new.</p>'; continue; }
     html += '<ul>' + rows.map(it =>
-      `<li><a href="${esc(it.url)}">${esc(it.title || it.repo)}</a> <code>${esc(it.repo)}</code>` +
-      (it.note ? ` — ${esc(it.note)}` : '') + (it.when ? ` <span class="meta">· ${esc(String(it.when).slice(0,10))}</span>` : '') +
-      '</li>').join('') + '</ul>';
+      '<li><a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.title || it.repo) + '</a> <code>' + esc(it.repo) + '</code>' + (it.note ? ' — ' + esc(it.note) : '') + '</li>'
+    ).join('') + '</ul>';
   }
   document.getElementById('body').innerHTML = html;
 }).catch(() => {
-  document.getElementById('meta').textContent = 'Digest not generated yet — check LATEST.md or run the workflow.';
+  const el = document.getElementById('meta');
+  if (el) el.textContent = 'Digest not generated yet — run the daily workflow.';
 });
 </script>
 </body>
