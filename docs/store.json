@@ -7,16 +7,7 @@
       "desc": "MCP server for git repositories: local git in-process via gitoxide, plus GitHub, GitLab, Gitea and Forgejo through their",
       "url": "https://github.com/seuros/skipper",
       "when": "2026-09-22T22:16:37Z",
-      "note": "Rust · ★4 · #ai-agent"
-    },
-    {
-      "id": "app:Fierceoorestore/LaunchBar-Stable",
-      "name": "LaunchBar-Stable",
-      "repo": "Fierceoorestore/LaunchBar-Stable",
-      "desc": "Fast, minimal, effective",
-      "url": "https://github.com/Fierceoorestore/LaunchBar-Stable",
-      "when": "2026-09-22T21:03:36Z",
-      "note": "— · ★9 · #automation"
+      "note": "Rust \u00b7 \u26054 \u00b7 #ai-agent"
     },
     {
       "id": "app:HNF-FRN/Reel-watcher-telegram-Agent",
@@ -25,7 +16,7 @@
       "desc": "Telegram bot that watches the reels you send, explains what they show, and plans and builds them on your Windows PC with",
       "url": "https://github.com/HNF-FRN/Reel-watcher-telegram-Agent",
       "when": "2026-09-22T21:01:33Z",
-      "note": "Python · ★2 · #telegram-bot"
+      "note": "Python \u00b7 \u26052 \u00b7 #telegram-bot"
     },
     {
       "id": "app:ThinkFlowLab/system1-agents",
@@ -34,7 +25,7 @@
       "desc": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
       "url": "https://github.com/ThinkFlowLab/system1-agents",
       "when": "2026-09-22T16:42:42Z",
-      "note": "Python · ★3 · #mcp-server"
+      "note": "Python \u00b7 \u26053 \u00b7 #mcp-server"
     },
     {
       "id": "app:brovk2008/Scrui",
@@ -43,7 +34,7 @@
       "desc": "A full UI cloner",
       "url": "https://github.com/brovk2008/Scrui",
       "when": "2026-09-22T15:02:00Z",
-      "note": "Python · ★1 · #web-scraping"
+      "note": "Python \u00b7 \u26051 \u00b7 #web-scraping"
     },
     {
       "id": "app:A-n-v-i-t-h/AttCheck",
@@ -52,16 +43,16 @@
       "desc": "Zero-infrastructure attendance and payroll system for a small learning centre. Google Sheets as the datastore, Apps Scri",
       "url": "https://github.com/A-n-v-i-t-h/AttCheck",
       "when": "2026-09-22T13:25:24Z",
-      "note": "JavaScript · ★1 · #telegram-bot"
+      "note": "JavaScript \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:LAYRAGA-OFFICIAL/hublr",
       "name": "hublr",
       "repo": "LAYRAGA-OFFICIAL/hublr",
-      "desc": "🌀 Powerful startpage by LAYRAGA OFFICIAL.",
+      "desc": "\ud83c\udf00 Powerful startpage by LAYRAGA OFFICIAL.",
       "url": "https://github.com/LAYRAGA-OFFICIAL/hublr",
       "when": "2026-09-22T12:18:25Z",
-      "note": "JavaScript · ★1 · #pwa"
+      "note": "JavaScript \u00b7 \u26051 \u00b7 #pwa"
     },
     {
       "id": "app:aleksandr-developer1/notchmate",
@@ -70,16 +61,16 @@
       "desc": "A living companion in your MacBook notch: music, notes, calendar, Jira, calls and AI. Free & open source (beta)",
       "url": "https://github.com/aleksandr-developer1/notchmate",
       "when": "2026-09-22T11:35:45Z",
-      "note": "Swift · ★2 · #mcp-server"
+      "note": "Swift \u00b7 \u26052 \u00b7 #mcp-server"
     },
     {
       "id": "app:wangke-112/agent-safe-tools",
       "name": "agent-safe-tools",
       "repo": "wangke-112/agent-safe-tools",
-      "desc": "Ask your AI coding agent, in natural language, to search production logs or inspect a database — safely. Two drop-in MCP",
+      "desc": "Ask your AI coding agent, in natural language, to search production logs or inspect a database \u2014 safely. Two drop-in MCP",
       "url": "https://github.com/wangke-112/agent-safe-tools",
       "when": "2026-09-22T10:51:18Z",
-      "note": "Python · ★3 · #mcp-server"
+      "note": "Python \u00b7 \u26053 \u00b7 #mcp-server"
     },
     {
       "id": "app:0xKT/claude-limit-watch",
@@ -88,7 +79,7 @@
       "desc": "Resume Claude Code sessions stuck on the five-hour usage limit",
       "url": "https://github.com/0xKT/claude-limit-watch",
       "when": "2026-09-22T06:35:31Z",
-      "note": "Python · ★4 · #automation"
+      "note": "Python \u00b7 \u26054 \u00b7 #automation"
     },
     {
       "id": "app:piotrv1001/how-to-search-alibaba-by-image-in-nodejs",
@@ -97,16 +88,16 @@
       "desc": "Node.js example for finding Alibaba products and suppliers from an image with Apify",
       "url": "https://github.com/piotrv1001/how-to-search-alibaba-by-image-in-nodejs",
       "when": "2026-09-22T06:00:18Z",
-      "note": "JavaScript · ★1 · #web-scraping"
+      "note": "JavaScript \u00b7 \u26051 \u00b7 #web-scraping"
     },
     {
       "id": "app:yousi123091/UnrealHybridAgent",
       "name": "UnrealHybridAgent",
       "repo": "yousi123091/UnrealHybridAgent",
-      "desc": "UnrealHybridAgent (UHA) — a hybrid AI-agent runtime for Unreal Engine 5 with structured tools, Computer Use fallback, po",
+      "desc": "UnrealHybridAgent (UHA) \u2014 a hybrid AI-agent runtime for Unreal Engine 5 with structured tools, Computer Use fallback, po",
       "url": "https://github.com/yousi123091/UnrealHybridAgent",
       "when": "2026-09-22T05:33:25Z",
-      "note": "Python · ★1 · #automation"
+      "note": "Python \u00b7 \u26051 \u00b7 #automation"
     },
     {
       "id": "app:OpenMuseAgent/OpenMuse",
@@ -115,7 +106,7 @@
       "desc": "Open-source version of Meta's Muse: a personal agent with a phone app, a Sentinel gatekeeper, a credential vault, memory",
       "url": "https://github.com/OpenMuseAgent/OpenMuse",
       "when": "2026-09-22T02:20:32Z",
-      "note": "Python · ★3 · #ai-agent"
+      "note": "Python \u00b7 \u26053 \u00b7 #ai-agent"
     },
     {
       "id": "app:Mintahandrews/verity",
@@ -124,25 +115,25 @@
       "desc": "Multi-signal media authenticity engine: C2PA cryptographic provenance, perceptual-hash near-duplicates, metadata forensi",
       "url": "https://github.com/Mintahandrews/verity",
       "when": "2026-09-21T23:27:09Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
+      "note": "TypeScript \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:danielyedaniel/jevme",
       "name": "jevme",
       "repo": "danielyedaniel/jevme",
-      "desc": "Talk to your Mac and it does it — in any app, while you're still talking. Open-source voice agent that gets faster the m",
+      "desc": "Talk to your Mac and it does it \u2014 in any app, while you're still talking. Open-source voice agent that gets faster the m",
       "url": "https://github.com/danielyedaniel/jevme",
       "when": "2026-09-21T22:03:13Z",
-      "note": "Python · ★2 · #automation"
+      "note": "Python \u00b7 \u26052 \u00b7 #automation"
     },
     {
       "id": "app:Poorija/P00RIJA-CRYPTOGRAPHY",
       "name": "P00RIJA-CRYPTOGRAPHY",
       "repo": "Poorija/P00RIJA-CRYPTOGRAPHY",
-      "desc": "Offline-first encryption suite and end-to-end encrypted messenger — AES-256-GCM, RSA-OAEP-3072, Argon2id. One app for ma",
+      "desc": "Offline-first encryption suite and end-to-end encrypted messenger \u2014 AES-256-GCM, RSA-OAEP-3072, Argon2id. One app for ma",
       "url": "https://github.com/Poorija/P00RIJA-CRYPTOGRAPHY",
       "when": "2026-09-21T19:45:56Z",
-      "note": "JavaScript · ★2 · #pwa"
+      "note": "JavaScript \u00b7 \u26052 \u00b7 #pwa"
     },
     {
       "id": "app:DaizeDong/grokbot-cdp",
@@ -151,7 +142,7 @@
       "desc": "Drive the cloud machine behind a Grok Bot (xAI computer-use agent) from Python: there is no API, so attach over the Chro",
       "url": "https://github.com/DaizeDong/grokbot-cdp",
       "when": "2026-09-21T19:19:31Z",
-      "note": "Python · ★2 · #automation"
+      "note": "Python \u00b7 \u26052 \u00b7 #automation"
     },
     {
       "id": "app:menma4ever/agentic-team-mcp",
@@ -160,7 +151,7 @@
       "desc": "Autonomous hierarchical multi-agent team (CEO -> Manager -> Workers) for Model Context Protocol (MCP). Mix Claude Code, ",
       "url": "https://github.com/menma4ever/agentic-team-mcp",
       "when": "2026-09-21T18:42:47Z",
-      "note": "Python · ★7 · #mcp-server"
+      "note": "Python \u00b7 \u26057 \u00b7 #mcp-server"
     },
     {
       "id": "app:davyboss/ownvitals-fitbit-reports",
@@ -169,7 +160,7 @@
       "desc": "Self-hosted Fitbit and Pixel Watch health reports with personal baselines, Telegram, Claude, and Google Health.",
       "url": "https://github.com/davyboss/ownvitals-fitbit-reports",
       "when": "2026-09-21T18:37:57Z",
-      "note": "Python · ★1 · #telegram-bot"
+      "note": "Python \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:YusufSizmaz/visa-bot",
@@ -178,7 +169,7 @@
       "desc": "Watches embassy and airline campaign pages, publishes what matters to Telegram. A production-grade .NET 9 reference for ",
       "url": "https://github.com/YusufSizmaz/visa-bot",
       "when": "2026-09-21T18:33:49Z",
-      "note": "C# · ★3 · #web-scraping"
+      "note": "C# \u00b7 \u26053 \u00b7 #web-scraping"
     },
     {
       "id": "app:vladislavkovalskyi/viewoncer",
@@ -187,7 +178,7 @@
       "desc": "Telegram userbot that saves view-once photos, videos, voice messages and video notes to your Saved Messages",
       "url": "https://github.com/vladislavkovalskyi/viewoncer",
       "when": "2026-09-21T18:12:19Z",
-      "note": "Python · ★1 · #telegram-bot"
+      "note": "Python \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:hazelpe/ComptyAI",
@@ -196,7 +187,7 @@
       "desc": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacit",
       "url": "https://github.com/hazelpe/ComptyAI",
       "when": "2026-09-21T18:07:22Z",
-      "note": "JavaScript · ★42 · #ai-agent"
+      "note": "JavaScript \u00b7 \u260542 \u00b7 #ai-agent"
     },
     {
       "id": "app:abhishekswe/agent-fastpath",
@@ -205,16 +196,16 @@
       "desc": "Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (System One model). Ship gates, risk checks, f",
       "url": "https://github.com/abhishekswe/agent-fastpath",
       "when": "2026-09-21T18:02:22Z",
-      "note": "TypeScript · ★3 · #mcp-server"
+      "note": "TypeScript \u00b7 \u26053 \u00b7 #mcp-server"
     },
     {
       "id": "app:AyaseEli-Bing/Mac-Arch-Installer",
       "name": "Mac-Arch-Installer",
       "repo": "AyaseEli-Bing/Mac-Arch-Installer",
-      "desc": "Mac 虚拟机安装 Arch Linux 懒人包｜在 Apple Silicon + Parallels Desktop 上自动安装 Arch Linux ARM（官方 ISO 仅 x86_64，无法直接启动）",
+      "desc": "Mac \u865a\u62df\u673a\u5b89\u88c5 Arch Linux \u61d2\u4eba\u5305\uff5c\u5728 Apple Silicon + Parallels Desktop \u4e0a\u81ea\u52a8\u5b89\u88c5 Arch Linux ARM\uff08\u5b98\u65b9 ISO \u4ec5 x86_64\uff0c\u65e0\u6cd5\u76f4\u63a5\u542f\u52a8\uff09",
       "url": "https://github.com/AyaseEli-Bing/Mac-Arch-Installer",
       "when": "2026-09-21T18:01:43Z",
-      "note": "Shell · ★28 · #automation"
+      "note": "Shell \u00b7 \u260528 \u00b7 #automation"
     },
     {
       "id": "app:open-ai-jobs/firecrawl-api-examples",
@@ -223,7 +214,7 @@
       "desc": "Firecrawl API examples in Python: scrape one URL, map then batch scrape, start a crawl and poll its status.",
       "url": "https://github.com/open-ai-jobs/firecrawl-api-examples",
       "when": "2026-09-21T17:56:59Z",
-      "note": "— · ★29 · #web-scraping"
+      "note": "\u2014 \u00b7 \u260529 \u00b7 #web-scraping"
     },
     {
       "id": "app:tavily-api/awesome-firecrawl-api",
@@ -232,7 +223,7 @@
       "desc": "Awesome list for the Firecrawl API: docs, endpoint references, SDK, customer stories, integrations and alternatives.",
       "url": "https://github.com/tavily-api/awesome-firecrawl-api",
       "when": "2026-09-21T17:56:49Z",
-      "note": "— · ★8 · #web-scraping"
+      "note": "\u2014 \u00b7 \u26058 \u00b7 #web-scraping"
     },
     {
       "id": "app:seedance-2-5-dev/firecrawl-api",
@@ -241,16 +232,16 @@
       "desc": "Practical guide to the Firecrawl API: scrape, crawl, map, search and extract endpoints, pricing pointers, gotchas.",
       "url": "https://github.com/seedance-2-5-dev/firecrawl-api",
       "when": "2026-09-21T17:56:38Z",
-      "note": "— · ★10 · #web-scraping"
+      "note": "\u2014 \u00b7 \u260510 \u00b7 #web-scraping"
     },
     {
       "id": "app:thorsten/Voltopia",
       "name": "Voltopia",
       "repo": "thorsten/Voltopia",
-      "desc": "⚡ A cozy low-poly city builder where the grid is the game — balance solar, wind, batteries and biogas against a living c",
+      "desc": "\u26a1 A cozy low-poly city builder where the grid is the game \u2014 balance solar, wind, batteries and biogas against a living c",
       "url": "https://github.com/thorsten/Voltopia",
       "when": "2026-09-21T16:52:46Z",
-      "note": "TypeScript · ★2 · #pwa"
+      "note": "TypeScript \u00b7 \u26052 \u00b7 #pwa"
     },
     {
       "id": "app:2scraper/lg-scraper",
@@ -259,7 +250,7 @@
       "desc": "LG.com catalogue scraper (the site's own catalogue API, plus Playwright, Selenium and Puppeteer over the rendered grid) ",
       "url": "https://github.com/2scraper/lg-scraper",
       "when": "2026-09-21T16:39:52Z",
-      "note": "Python · ★2 · #web-scraping"
+      "note": "Python \u00b7 \u26052 \u00b7 #web-scraping"
     },
     {
       "id": "app:shikaizhong-design/ego-jev-ultrafast",
@@ -268,34 +259,34 @@
       "desc": "Jev drives your Ego Lite browser: one typed-choice request per step. Single-file, zero-dependency port of browser-use/je",
       "url": "https://github.com/shikaizhong-design/ego-jev-ultrafast",
       "when": "2026-09-21T16:34:32Z",
-      "note": "JavaScript · ★2 · #ai-agent"
+      "note": "JavaScript \u00b7 \u26052 \u00b7 #ai-agent"
     },
     {
       "id": "app:Remezzo/NTE-Fish-Bot",
       "name": "NTE-Fish-Bot",
       "repo": "Remezzo/NTE-Fish-Bot",
-      "desc": "Auto-fishing bot for Neverness to Everness — finds the game on its own at any resolution, hooks every bite, and reels fi",
+      "desc": "Auto-fishing bot for Neverness to Everness \u2014 finds the game on its own at any resolution, hooks every bite, and reels fi",
       "url": "https://github.com/Remezzo/NTE-Fish-Bot",
       "when": "2026-09-21T16:25:34Z",
-      "note": "— · ★1 · #automation"
+      "note": "\u2014 \u00b7 \u26051 \u00b7 #automation"
     },
     {
       "id": "app:boty-po-probivu/probiv-informacii",
       "name": "probiv-informacii",
       "repo": "boty-po-probivu/probiv-informacii",
-      "desc": "Пробив информации: поиск и сопоставление открытых упоминаний по телефону, username, email, ФИО и профилям.",
+      "desc": "\u041f\u0440\u043e\u0431\u0438\u0432 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438: \u043f\u043e\u0438\u0441\u043a \u0438 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0439 \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443, username, email, \u0424\u0418\u041e \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044f\u043c.",
       "url": "https://github.com/boty-po-probivu/probiv-informacii",
       "when": "2026-09-21T14:37:28Z",
-      "note": "— · ★44 · #telegram-bot"
+      "note": "\u2014 \u00b7 \u260544 \u00b7 #telegram-bot"
     },
     {
       "id": "app:boty-po-probivu/probiv-po-nomeru-telefona",
       "name": "probiv-po-nomeru-telefona",
       "repo": "boty-po-probivu/probiv-po-nomeru-telefona",
-      "desc": "Пробив по номеру телефона: как подготовить запрос, проверить открытые упоминания и сопоставить найденные профили.",
+      "desc": "\u041f\u0440\u043e\u0431\u0438\u0432 \u043f\u043e \u043d\u043e\u043c\u0435\u0440\u0443 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430: \u043a\u0430\u043a \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0441, \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u043e\u0444\u0438\u043b\u0438.",
       "url": "https://github.com/boty-po-probivu/probiv-po-nomeru-telefona",
       "when": "2026-09-21T14:36:47Z",
-      "note": "— · ★38 · #telegram-bot"
+      "note": "\u2014 \u00b7 \u260538 \u00b7 #telegram-bot"
     },
     {
       "id": "app:andududu/jeview",
@@ -304,7 +295,7 @@
       "desc": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSa",
       "url": "https://github.com/andududu/jeview",
       "when": "2026-09-21T14:03:13Z",
-      "note": "JavaScript · ★37 · #ai-agent"
+      "note": "JavaScript \u00b7 \u260537 \u00b7 #ai-agent"
     },
     {
       "id": "app:zkousama/morocco-communes",
@@ -313,34 +304,34 @@
       "desc": "Morocco's 1,503 communes as open data: HCP codes, the 2024 and 2014 censuses, boundaries, an HTTP API and an MCP server.",
       "url": "https://github.com/zkousama/morocco-communes",
       "when": "2026-09-21T14:01:22Z",
-      "note": "TypeScript · ★2 · #mcp-server"
+      "note": "TypeScript \u00b7 \u26052 \u00b7 #mcp-server"
     },
     {
       "id": "app:Charlielyo/TimeHub",
       "name": "TimeHub",
       "repo": "Charlielyo/TimeHub",
-      "desc": "纯前端时间管理工具集：番茄钟 · 秒表 · 多组倒计时 · 世界时钟 · 截止倒计时 · 呼吸训练｜零依赖 · 免构建 · 可离线",
+      "desc": "\u7eaf\u524d\u7aef\u65f6\u95f4\u7ba1\u7406\u5de5\u5177\u96c6\uff1a\u756a\u8304\u949f \u00b7 \u79d2\u8868 \u00b7 \u591a\u7ec4\u5012\u8ba1\u65f6 \u00b7 \u4e16\u754c\u65f6\u949f \u00b7 \u622a\u6b62\u5012\u8ba1\u65f6 \u00b7 \u547c\u5438\u8bad\u7ec3\uff5c\u96f6\u4f9d\u8d56 \u00b7 \u514d\u6784\u5efa \u00b7 \u53ef\u79bb\u7ebf",
       "url": "https://github.com/Charlielyo/TimeHub",
       "when": "2026-09-21T14:00:41Z",
-      "note": "HTML · ★1 · #pwa"
+      "note": "HTML \u00b7 \u26051 \u00b7 #pwa"
     },
     {
       "id": "app:Keirolabs-API/google-serp-api",
       "name": "google-serp-api",
       "repo": "Keirolabs-API/google-serp-api",
-      "desc": "Google SERP API for Python — real Google search results in 2 lines. No proxies, no CAPTCHAs.",
+      "desc": "Google SERP API for Python \u2014 real Google search results in 2 lines. No proxies, no CAPTCHAs.",
       "url": "https://github.com/Keirolabs-API/google-serp-api",
       "when": "2026-09-21T13:59:46Z",
-      "note": "Python · ★1 · #web-scraping"
+      "note": "Python \u00b7 \u26051 \u00b7 #web-scraping"
     },
     {
       "id": "app:ishandutta2007/Vishnu",
       "name": "Vishnu",
       "repo": "ishandutta2007/Vishnu",
-      "desc": "Open source alternative of Palantir Gotham  🌟 Star if you like it! 🌟'",
+      "desc": "Open source alternative of Palantir Gotham  \ud83c\udf1f Star if you like it! \ud83c\udf1f'",
       "url": "https://github.com/ishandutta2007/Vishnu",
       "when": "2026-09-21T13:31:50Z",
-      "note": "— · ★3 · #mcp-server"
+      "note": "\u2014 \u00b7 \u26053 \u00b7 #mcp-server"
     },
     {
       "id": "app:alexlnos/dsm-mini",
@@ -349,7 +340,7 @@
       "desc": "Telegram bot with a Mini App for a Synology NAS: downloads, files, disks, containers",
       "url": "https://github.com/alexlnos/dsm-mini",
       "when": "2026-09-21T12:43:41Z",
-      "note": "Go · ★1 · #telegram-bot"
+      "note": "Go \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:SH-DaWushi/web-api-extractor",
@@ -358,34 +349,34 @@
       "desc": "Capture browser API traffic via CDP and turn any site into a ready-to-run FastMCP server, with no official API required.",
       "url": "https://github.com/SH-DaWushi/web-api-extractor",
       "when": "2026-09-21T12:26:03Z",
-      "note": "Python · ★2 · #mcp-server"
+      "note": "Python \u00b7 \u26052 \u00b7 #mcp-server"
     },
     {
       "id": "app:Faintimi/dlsite-tracker",
       "name": "dlsite-tracker",
       "repo": "Faintimi/dlsite-tracker",
-      "desc": "同人游戏雷达 · Doujin Game Radar —— 本地优先的 DLsite 同人游戏浏览与筛选应用（macOS）+ 合规每日数据管道；数据与封面只存在本机。Local-first DLsite doujin game browse",
+      "desc": "\u540c\u4eba\u6e38\u620f\u96f7\u8fbe \u00b7 Doujin Game Radar \u2014\u2014 \u672c\u5730\u4f18\u5148\u7684 DLsite \u540c\u4eba\u6e38\u620f\u6d4f\u89c8\u4e0e\u7b5b\u9009\u5e94\u7528\uff08macOS\uff09+ \u5408\u89c4\u6bcf\u65e5\u6570\u636e\u7ba1\u9053\uff1b\u6570\u636e\u4e0e\u5c01\u9762\u53ea\u5b58\u5728\u672c\u673a\u3002Local-first DLsite doujin game browse",
       "url": "https://github.com/Faintimi/dlsite-tracker",
       "when": "2026-09-21T12:09:50Z",
-      "note": "Python · ★1 · #web-scraping"
+      "note": "Python \u00b7 \u26051 \u00b7 #web-scraping"
     },
     {
       "id": "app:CCWP123/lanzou-direct-link",
       "name": "lanzou-direct-link",
       "repo": "CCWP123/lanzou-direct-link",
-      "desc": "把蓝奏云分享链接解析成浏览器下载直链 / Turn a Lanzou share link into a direct download URL",
+      "desc": "\u628a\u84dd\u594f\u4e91\u5206\u4eab\u94fe\u63a5\u89e3\u6790\u6210\u6d4f\u89c8\u5668\u4e0b\u8f7d\u76f4\u94fe / Turn a Lanzou share link into a direct download URL",
       "url": "https://github.com/CCWP123/lanzou-direct-link",
       "when": "2026-09-21T11:38:22Z",
-      "note": "Python · ★1 · #web-scraping"
+      "note": "Python \u00b7 \u26051 \u00b7 #web-scraping"
     },
     {
       "id": "app:liyana31811/ios-pwa-push",
       "name": "ios-pwa-push",
       "repo": "liyana31811/ios-pwa-push",
-      "desc": "给 iPhone 主屏幕上的自建 PWA 加系统通知：点通知回到对应页面，后台被回收后也能按正确路径恢复。",
+      "desc": "\u7ed9 iPhone \u4e3b\u5c4f\u5e55\u4e0a\u7684\u81ea\u5efa PWA \u52a0\u7cfb\u7edf\u901a\u77e5\uff1a\u70b9\u901a\u77e5\u56de\u5230\u5bf9\u5e94\u9875\u9762\uff0c\u540e\u53f0\u88ab\u56de\u6536\u540e\u4e5f\u80fd\u6309\u6b63\u786e\u8def\u5f84\u6062\u590d\u3002",
       "url": "https://github.com/liyana31811/ios-pwa-push",
       "when": "2026-09-21T11:22:37Z",
-      "note": "— · ★2 · #pwa"
+      "note": "\u2014 \u00b7 \u26052 \u00b7 #pwa"
     },
     {
       "id": "app:R0YC0LD/humancode",
@@ -394,16 +385,16 @@
       "desc": "HumanCODE: birth-date numerology decoder and compatibility web app (Turkish UI). Proprietary, all rights reserved.",
       "url": "https://github.com/R0YC0LD/humancode",
       "when": "2026-09-21T10:01:00Z",
-      "note": "TypeScript · ★1 · #pwa"
+      "note": "TypeScript \u00b7 \u26051 \u00b7 #pwa"
     },
     {
       "id": "app:agimx-ai/seedagent-tia-programming",
       "name": "seedagent-tia-programming",
       "repo": "agimx-ai/seedagent-tia-programming",
-      "desc": "西门子博途(博图) / Siemens TIA Portal V16–V21 AI 编程智能体。支持 S7-1200/1500 SCL 代码自动生成、编译诊断、工程归档(.zap)、PLCSIM 仿真与 PLC 下载。| AI agent ",
+      "desc": "\u897f\u95e8\u5b50\u535a\u9014(\u535a\u56fe) / Siemens TIA Portal V16\u2013V21 AI \u7f16\u7a0b\u667a\u80fd\u4f53\u3002\u652f\u6301 S7-1200/1500 SCL \u4ee3\u7801\u81ea\u52a8\u751f\u6210\u3001\u7f16\u8bd1\u8bca\u65ad\u3001\u5de5\u7a0b\u5f52\u6863(.zap)\u3001PLCSIM \u4eff\u771f\u4e0e PLC \u4e0b\u8f7d\u3002| AI agent ",
       "url": "https://github.com/agimx-ai/seedagent-tia-programming",
       "when": "2026-09-21T09:45:21Z",
-      "note": "— · ★6 · #ai-agent"
+      "note": "\u2014 \u00b7 \u26056 \u00b7 #ai-agent"
     },
     {
       "id": "app:evoke-build/evoke",
@@ -412,16 +403,16 @@
       "desc": "Software, by reflex. Say it, and the right small program runs: chosen by a calibrated classifier, run only when it is su",
       "url": "https://github.com/evoke-build/evoke",
       "when": "2026-09-21T08:44:53Z",
-      "note": "Rust · ★11 · #automation"
+      "note": "Rust \u00b7 \u260511 \u00b7 #automation"
     },
     {
       "id": "app:Lens-lzy/miaoda-agent-kit",
       "name": "miaoda-agent-kit",
       "repo": "Lens-lzy/miaoda-agent-kit",
-      "desc": "在飞书妙搭（apaas）上用 AI Agent 开发的避坑手册 + harness。83 条实测踩坑，一条命令接入。",
+      "desc": "\u5728\u98de\u4e66\u5999\u642d\uff08apaas\uff09\u4e0a\u7528 AI Agent \u5f00\u53d1\u7684\u907f\u5751\u624b\u518c + harness\u300283 \u6761\u5b9e\u6d4b\u8e29\u5751\uff0c\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u3002",
       "url": "https://github.com/Lens-lzy/miaoda-agent-kit",
       "when": "2026-09-21T08:14:54Z",
-      "note": "JavaScript · ★3 · #ai-agent"
+      "note": "JavaScript \u00b7 \u26053 \u00b7 #ai-agent"
     },
     {
       "id": "app:woodcoal/SearchHub",
@@ -430,16 +421,16 @@
       "desc": "SearchHub normalizes Serper, Tavily, Exa, AnySearch, and other search APIs behind one HTTP, CLI, and MCP interface. It m",
       "url": "https://github.com/woodcoal/SearchHub",
       "when": "2026-09-21T07:27:24Z",
-      "note": "TypeScript · ★3 · #mcp-server"
+      "note": "TypeScript \u00b7 \u26053 \u00b7 #mcp-server"
     },
     {
       "id": "app:arpitnayan123-bot/Agri-link",
       "name": "Agri-link",
       "repo": "arpitnayan123-bot/Agri-link",
-      "desc": "🌱 Farmer-direct quick-commerce (F2C) — your UPI payment instantly pays every farmer in your basket, with payout proof o",
+      "desc": "\ud83c\udf31 Farmer-direct quick-commerce (F2C) \u2014 your UPI payment instantly pays every farmer in your basket, with payout proof o",
       "url": "https://github.com/arpitnayan123-bot/Agri-link",
       "when": "2026-09-21T07:24:54Z",
-      "note": "TypeScript · ★1 · #pwa"
+      "note": "TypeScript \u00b7 \u26051 \u00b7 #pwa"
     },
     {
       "id": "app:aryan-confity/openultra-browser",
@@ -448,16 +439,16 @@
       "desc": "System 1 decision model controlled ultrafast browser use running fully locally at 0 cost. Control your browser and compl",
       "url": "https://github.com/aryan-confity/openultra-browser",
       "when": "2026-09-21T07:11:04Z",
-      "note": "Python · ★3 · #ai-agent"
+      "note": "Python \u00b7 \u26053 \u00b7 #ai-agent"
     },
     {
       "id": "app:changshenhan/bb-mcp",
       "name": "bb-mcp",
       "repo": "changshenhan/bb-mcp",
-      "desc": "Headless Blackboard MCP server for bb.cuhk.edu.cn — courseware download, assignment inspection & submission, announcemen",
+      "desc": "Headless Blackboard MCP server for bb.cuhk.edu.cn \u2014 courseware download, assignment inspection & submission, announcemen",
       "url": "https://github.com/changshenhan/bb-mcp",
       "when": "2026-09-21T06:18:38Z",
-      "note": "Python · ★3 · #automation"
+      "note": "Python \u00b7 \u26053 \u00b7 #automation"
     },
     {
       "id": "app:card0re/synapse",
@@ -466,34 +457,34 @@
       "desc": "Skill-exchange marketplace where the currency is time, not money. Go + React, live on Cloud Run at synapse.tel",
       "url": "https://github.com/card0re/synapse",
       "when": "2026-09-21T06:11:26Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
+      "note": "TypeScript \u00b7 \u26051 \u00b7 #telegram-bot"
     },
     {
       "id": "app:rajasekharponakala/jev-mcp",
       "name": "jev-mcp",
       "repo": "rajasekharponakala/jev-mcp",
-      "desc": "MCP server wrapping TypeSafe's Jev System One models — typed noul/choice/score judgments for AI agents",
+      "desc": "MCP server wrapping TypeSafe's Jev System One models \u2014 typed noul/choice/score judgments for AI agents",
       "url": "https://github.com/rajasekharponakala/jev-mcp",
       "when": "2026-09-21T04:08:49Z",
-      "note": "Python · ★2 · #mcp-server"
+      "note": "Python \u00b7 \u26052 \u00b7 #mcp-server"
     },
     {
       "id": "app:ahang008/ah-douyin-clean-downloader",
       "name": "ah-douyin-clean-downloader",
       "repo": "ahang008/ah-douyin-clean-downloader",
-      "desc": "把抖音链接或口令直接交给 Codex，下载无平台角标原视频并按博主自动归档",
+      "desc": "\u628a\u6296\u97f3\u94fe\u63a5\u6216\u53e3\u4ee4\u76f4\u63a5\u4ea4\u7ed9 Codex\uff0c\u4e0b\u8f7d\u65e0\u5e73\u53f0\u89d2\u6807\u539f\u89c6\u9891\u5e76\u6309\u535a\u4e3b\u81ea\u52a8\u5f52\u6863",
       "url": "https://github.com/ahang008/ah-douyin-clean-downloader",
       "when": "2026-09-21T03:16:09Z",
-      "note": "Python · ★37 · #ai-agent"
+      "note": "Python \u00b7 \u260537 \u00b7 #ai-agent"
     },
     {
       "id": "app:freestylefly/WeChatBridge",
       "name": "WeChatBridge",
       "repo": "freestylefly/WeChatBridge",
-      "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "desc": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
       "url": "https://github.com/freestylefly/WeChatBridge",
       "when": "2026-09-21T02:54:51Z",
-      "note": "Swift · ★253 · #ai-agent"
+      "note": "Swift \u00b7 \u2605253 \u00b7 #ai-agent"
     },
     {
       "id": "app:tjoyarzun/throughline",
@@ -502,7 +493,7 @@
       "desc": "A media tracker built on an explicit ontology and a SQL semantic layer. Answers \"why are these two things connected?\" wi",
       "url": "https://github.com/tjoyarzun/throughline",
       "when": "2026-09-21T02:28:23Z",
-      "note": "TypeScript · ★1 · #pwa"
+      "note": "TypeScript \u00b7 \u26051 \u00b7 #pwa"
     },
     {
       "id": "app:Larryzpl123/smart-schedule",
@@ -511,7 +502,7 @@
       "desc": "Weekly timetable for a school on an 8-day rotation. Runs either with an account or entirely in the browser, sending noth",
       "url": "https://github.com/Larryzpl123/smart-schedule",
       "when": "2026-09-21T01:56:49Z",
-      "note": "Python · ★3 · #pwa"
+      "note": "Python \u00b7 \u26053 \u00b7 #pwa"
     }
   ],
   "updated": "2026-09-23T00:28:43.330Z"
