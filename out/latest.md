@@ -1,11 +1,11 @@
-# GitHub Radar — 2026-09-22
+# GitHub Radar — 2026-09-23
 
-_91 new item(s) since last run · generated 2026-09-22T23:26:12.292Z_
+_174 new item(s) since last run · generated 2026-09-23T17:22:03.479Z_
 
 ## 🚀 Releases
 
-- **[HPX Registry 27e6a3947f40](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-27e6a3947f4058f916c82ad9e0946df10a0a8272)** `Sidiora-Labs/LayerX-Network` — Revision-bound HPX registry runtime for 27e6a3947f4058f916c82ad9e0946df10a0a8272. · 2026-09-21
-- **[HPX Registry 27e6a3947f40](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-27e6a3947f4058f916c82ad9e0946df10a0a8272)** `Sidiora-Labs/Paxeer-X-Network` — Revision-bound HPX registry runtime for 27e6a3947f4058f916c82ad9e0946df10a0a8272. · 2026-09-21
+- **[HPX Registry](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-27e6a3947f4058f916c82ad9e0946df10a0a8272)** `Sidiora-Labs/LayerX-Network` — Revision-bound HPX registry runtime for 27e6a3947f4058f916c82ad9e0946df10a0a8272. · 2026-09-21
+- **[HPX Registry](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-27e6a3947f4058f916c82ad9e0946df10a0a8272)** `Sidiora-Labs/Paxeer-X-Network` — Revision-bound HPX registry runtime for 27e6a3947f4058f916c82ad9e0946df10a0a8272. · 2026-09-21
 - **[HPX Registry 9e53bcf5c43c](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-9e53bcf5c43c2f555f624a57cbe7dd36ec001d0a)** `Sidiora-Labs/LayerX-Network` — Revision-bound HPX registry runtime for 9e53bcf5c43c2f555f624a57cbe7dd36ec001d0a. · 2026-09-20
 - **[HPX Registry 9e53bcf5c43c](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-9e53bcf5c43c2f555f624a57cbe7dd36ec001d0a)** `Sidiora-Labs/Paxeer-X-Network` — Revision-bound HPX registry runtime for 9e53bcf5c43c2f555f624a57cbe7dd36ec001d0a. · 2026-09-20
 - **[HPX Registry f684eadb6638](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-f684eadb663872e759cfdb9a9093dc9a88d44304)** `Sidiora-Labs/LayerX-Network` — Revision-bound HPX registry runtime for f684eadb663872e759cfdb9a9093dc9a88d44304. · 2026-09-10
@@ -22,21 +22,21 @@ _91 new item(s) since last run · generated 2026-09-22T23:26:12.292Z_
 
 ## 🔨 Fresh commits
 
-- **[# v0.5.85 (2026-09-22)](https://github.com/decolua/9router/commit/21583c03e5c5d5276924efad82328ebe6e215854)** `decolua/9router` — decolua · 2026-09-22
-- **[feat(combos): hide preset buttons and migrate legacy mimo vision adapter](https://github.com/decolua/9router/commit/1a02713150685898a3a1032acb2f0af9dad9ecf9)** `decolua/9router` — decolua · 2026-09-22
-- **[feat(usage): add All Time period option and refine overview cards](https://github.com/decolua/9router/commit/b53260ca54b52ec5652a0ec3946ef3f8d09abe07)** `decolua/9router` — decolua · 2026-09-22
-- **[fix(translator): map Claude "refusal" stop_reason to content_filter and surface its explanation](https://github.com/decolua/9router/commit/0f488c702706154b2a2c1a95b0f1dcb6ffcfeaa1)** `decolua/9router` — Welington · 2026-09-22
-- **[style(sidebar): match NEW badge style across 9Remote, Media Providers, and System One](https://github.com/decolua/9router/commit/ce9ac43da55ffa2f7852549f264a518c5e62dca1)** `decolua/9router` — decolua · 2026-09-22
-- **[perf(usage): bound lastUsed overlay scan to 2-day window; reach max thinking tier](https://github.com/decolua/9router/commit/d1de324586ff0e2511f1f29c22be09f379963b84)** `decolua/9router` — Rafli Ahmad Zulfikar · 2026-09-22
-- **[fix(antigravity): drop requestType "agent" to avoid false 429 RESOURCE_EXHAUSTED](https://github.com/decolua/9router/commit/5798b308419d3798a706b2756e39d59dda9d8a29)** `decolua/9router` — BFLabsAI · 2026-09-22
-- **[fix(qoder): prevent signed request replay and surface upstream errors](https://github.com/decolua/9router/commit/782c137b1fd6db0928544a1a08d45b435eb9b885)** `decolua/9router` — yiwen65 · 2026-09-22
-- **[bug fixes and minor patches](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/3e14a72727267e504bbb754e39344701238d1773)** `Sidiora-Labs/centra-gideon-agent` — paxeer-dev · 2026-09-22
-- **[Merge pull request #450 from Sidiora-Labs/lane/fix-guarantor-auth](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ef5d66174a2f323938277c1c999d241b514d0f51)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-21
-- **[Merge pull request #450 from Sidiora-Labs/lane/fix-guarantor-auth](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ef5d66174a2f323938277c1c999d241b514d0f51)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-21
-- **[Merge delivered owner bindings with socket-signed ones and make repeated delivery harmless](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ebd2c9cd989447c71e8d2320a28246872e259032)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-21
-- **[Merge delivered owner bindings with socket-signed ones and make repeated delivery harmless](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ebd2c9cd989447c71e8d2320a28246872e259032)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-21
-- **[Keep the guarantor waiting when a publication signer is unreachable and ship the signing tool](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/200d71f967a15faa6a2b500f6326ae414b097046)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-21
-- **[Keep the guarantor waiting when a publication signer is unreachable and ship the signing tool](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/200d71f967a15faa6a2b500f6326ae414b097046)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-21
+- **[Merge pull request #468 from Sidiora-Labs/lane/fork-9-16](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/13cd8e4f8e88a3a6c6139533b80a0517de85341a)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Merge pull request #468 from Sidiora-Labs/lane/fork-9-16](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/13cd8e4f8e88a3a6c6139533b80a0517de85341a)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Script the v6.6 upgrade and consensus-timeout governance for the Paxeer X fork](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/05b874e8de85514bad2528166e006bfe1d072ed8)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Script the v6.6 upgrade and consensus-timeout governance for the Paxeer X fork](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/05b874e8de85514bad2528166e006bfe1d072ed8)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Add the governance scripting task for the v6.6 upgrade and consensus parameters](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ecc949c53387f7902797fc1fe76794cbeec43d91)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Add the governance scripting task for the v6.6 upgrade and consensus parameters](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ecc949c53387f7902797fc1fe76794cbeec43d91)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Name the fork upgrade v6.6 in the spec since the fleet binary already carries v6.5](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/56b8586d76f04b34ac137f1ade24a56194616b58)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Name the fork upgrade v6.6 in the spec since the fleet binary already carries v6.5](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/56b8586d76f04b34ac137f1ade24a56194616b58)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Merge pull request #466 from Sidiora-Labs/lane/fix-web-typecheck](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/1ee5ca38a9689b176bc0c0e672b3ca718887e517)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Merge pull request #466 from Sidiora-Labs/lane/fix-web-typecheck](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/1ee5ca38a9689b176bc0c0e672b3ca718887e517)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Merge pull request #467 from Sidiora-Labs/lane/upgrade-v66](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/913a90af7849fd0399296861231a4513a541dec0)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Merge pull request #467 from Sidiora-Labs/lane/upgrade-v66](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/913a90af7849fd0399296861231a4513a541dec0)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Name the Paxeer X fork upgrade v6.6 and restore v6.5 to the custody-only plan](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3cbd40eb250f7fc2fbef52dd997bccaf40be1bb9)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
+- **[Name the Paxeer X fork upgrade v6.6 and restore v6.5 to the custody-only plan](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3cbd40eb250f7fc2fbef52dd997bccaf40be1bb9)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-09-23
+- **[Record the fork surface tasks, wave-9 close-out and the capability-gating and paxscan backfill tasks](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3d3f2ed2607f1741b62f536443132c3019aca16d)** `Sidiora-Labs/LayerX-Network` — Sidiora Development Team · 2026-09-23
 
 ## 🆕 New repos on the radar
 
@@ -55,23 +55,59 @@ _91 new item(s) since last run · generated 2026-09-22T23:26:12.292Z_
 - **[The first agent that truly evolves not through prompt tricks, but by modifying, testing, and safely promoting changes to its own harness.](https://github.com/Sidiora-Labs/keith-agent-harness)** `Sidiora-Labs/keith-agent-harness` — Rust · ★3 · via @Sidiora-Labs · 2026-09-02
 - **[Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them. ](https://github.com/Sidiora-Labs/Paxeer-X-Network)** `Sidiora-Labs/Paxeer-X-Network` — Go · ★371 · via @Sidiora-Labs · 2026-08-14
 
+## 🧰 Fresh apps & tools
+
+- **[Automated APK payload builder for security testing. Exfiltrates device photos to Telegram, supports custom redirect URLs](https://github.com/hex0user/SycoTool)** `hex0user/SycoTool` — Shell · ★1 · #telegram-bot · 2026-09-23
+- **[微信公众号文章抓取 → Markdown / 纯文本 / JSON。单文件零依赖 TypeScript Skill，Node 直接跑，无需浏览器或 npm install。WeChat official-account (mp.weixin](https://github.com/2217173240/wechat-article-scraping-skill)** `2217173240/wechat-article-scraping-skill` — TypeScript · ★3 · #web-scraping · 2026-09-23
+- **[Local browser AI agent with indexed action space — Laya local decisions, /opt/homebrew/bin/bash/run. Google Flights demo](https://github.com/xuancuongdoo/laya-ultrafast)** `xuancuongdoo/laya-ultrafast` — Python · ★6 · #automation · 2026-09-23
+- **[Node.js example for the corresponding FalconScrape Apify Actor](https://github.com/piotrv1001/how-to-check-alibaba-supplier-profiles-in-nodejs)** `piotrv1001/how-to-check-alibaba-supplier-profiles-in-nodejs` — JavaScript · ★1 · #web-scraping · 2026-09-23
+- **[🧸 nanoMuse: an open-source Meta Muse that works in China — a personal agent on your phone that does things, keeps worki](https://github.com/nano-muse/nanoMuse)** `nano-muse/nanoMuse` — Python · ★6 · #ai-agent · 2026-09-23
+- **[MCP server for git repositories: local git in-process via gitoxide, plus GitHub, GitLab, Gitea and Forgejo through their](https://github.com/seuros/skipper)** `seuros/skipper` — Rust · ★11 · #ai-agent · 2026-09-22
+- **[100 free vanilla JavaScript projects with live demos and source code. No frameworks, one HTML file each.](https://github.com/mmrahmanbappi/100-vanilla-javascript-projects)** `mmrahmanbappi/100-vanilla-javascript-projects` — HTML · ★2 · #pwa · 2026-09-22
+- **[Telegram bot that watches the reels you send, explains what they show, and plans and builds them on your Windows PC with](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent)** `HNF-FRN/Reel-watcher-telegram-Agent` — Python · ★2 · #telegram-bot · 2026-09-22
+- **[Telegram bot that watches the reels you send, explains what they show, and plans and builds them on your Windows PC with](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent)** `HNF-FRN/Reel-watcher-telegram-Agent` — Python · ★2 · #automation · 2026-09-22
+- **[A lightweight, mobile-first web calculator for computing bKash cash out charges in Bangladesh with customizable rates an](https://github.com/Shishir-ip/Bkash-Cashout-Balance-Counter)** `Shishir-ip/Bkash-Cashout-Balance-Counter` — HTML · ★1 · #pwa · 2026-09-22
+- **[System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics](https://github.com/ThinkFlowLab/system1-agents)** `ThinkFlowLab/system1-agents` — Python · ★32 · #mcp-server · 2026-09-22
+- **[A full UI cloner](https://github.com/brovk2008/Scrui)** `brovk2008/Scrui` — Python · ★1 · #web-scraping · 2026-09-22
+- **[Connect YouTube live stream subscribers & likes to real-time Minecraft server events (kill-all, creeper spawns, spawn re](https://github.com/fahadiot/youtube-minecraft-streaming-kit)** `fahadiot/youtube-minecraft-streaming-kit` — Python · ★2 · #automation · 2026-09-22
+- **[🌀 Powerful startpage by LAYRAGA OFFICIAL.](https://github.com/LAYRAGA-OFFICIAL/hublr)** `LAYRAGA-OFFICIAL/hublr` — JavaScript · ★1 · #pwa · 2026-09-22
+- **[Ask your AI coding agent, in natural language, to search production logs or inspect a database — safely. Two drop-in MCP](https://github.com/wangke-112/agent-safe-tools)** `wangke-112/agent-safe-tools` — Python · ★3 · #mcp-server · 2026-09-22
+
+## 📣 Show HN launches
+
+- **[Show HN: Diurnal – add a task without switching, with your calendar in view](https://diurnal.in/)** `Show HN #49819350` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Psychosis Guard – Safety for long LLM conversations](https://github.com/nwjang/psychosis-guard)** `Show HN #49819122` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Powerful Org-Mode at Home on iOS](https://apps.apple.com/us/app/orger/id6775281796)** `Show HN #49819046` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Sanemark – Markdown LSP for notes readable in plain text](https://github.com/nkitsaini/sanemark)** `Show HN #49819035` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Ox – A local agent that uses the internet for you](https://openox.ai/)** `Show HN #49818914` — 2 pts · 0 comments · 2026-09-23
+- **[Show HN: Chromafolk – A pixel canvas inhabited by AIs that see the world as text](https://chromafolk.world/)** `Show HN #49818882` — 1 pts · 1 comments · 2026-09-23
+- **[Show HN: Open Java Format – a maintained fork of Palantir-Java-format](https://github.com/openjavaformat/open-java-format)** `Show HN #49818768` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Karpathy's microgpt in Rust and an array language](https://softwarewrighter.github.io/microgpt-mlpl/)** `Show HN #49818692` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Tenderness – open-source synthetic data generation for VLM/OCR](https://github.com/paperchase-labs/tenderness)** `Show HN #49818611` — 1 pts · 1 comments · 2026-09-23
+- **[Show HN: HookDeploy – Webhook infra with mTLS private delivery](https://hookdeploy.dev)** `Show HN #49818514` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Droid ASC – An On-Demand Android Decompiler, 41–269x Faster Than JADX](https://github.com/MG1937/ASC)** `Show HN #49818490` — 2 pts · 1 comments · 2026-09-23
+- **[Show HN: Local Software Factory – running multiple coding agents in parallel](https://github.com/stratonext/software-factory)** `Show HN #49818439` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Make It Nice](https://liseman.github.io/make-it-nice/#/result/ATAC1fBVUPvgLIZ-Je3tNSsbNREfGzUbGysVdjhmd3JrZzJ5dTJzaHY0MgAA)** `Show HN #49818430` — 1 pts · 0 comments · 2026-09-23
+- **[Show HN: Watch Newsletters by AI](https://newsletrix.com/)** `Show HN #49818343` — 2 pts · 0 comments · 2026-09-23
+- **[Show HN: Cloud-based email and calendar sync platform and Android app – for sale](https://sugarmail.app/)** `Show HN #49818313` — 1 pts · 0 comments · 2026-09-23
+
 ## 💌 GitHub Trending (daily)
 
 - **[anthropics/financial-services](https://github.com/anthropics/financial-services)** `anthropics/financial-services` — Python
-- **[agent-substrate/substrate](https://github.com/agent-substrate/substrate)** `agent-substrate/substrate` — Go
-- **[dream-num/univer](https://github.com/dream-num/univer)** `dream-num/univer` — TypeScript
-- **[sponsors/davila7](https://github.com/sponsors/davila7)** `sponsors/davila7` — Python
 - **[google/ax](https://github.com/google/ax)** `google/ax` — Go
-- **[mvt-project/mvt](https://github.com/mvt-project/mvt)** `mvt-project/mvt` — Python
-- **[superdesigndev/treg](https://github.com/superdesigndev/treg)** `superdesigndev/treg` — Python
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** `browser-use/video-use` — Python
-- **[dream-num/univer](https://github.com/dream-num/univer)** `dream-num/univer` — TypeScript
-- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** `vercel-labs/json-render` — TypeScript
-- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `upscayl/upscayl` — TypeScript
-- **[krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)** `krillinai/OpenCreator` — TypeScript
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** `Open-Dev-Society/OpenStock` — TypeScript
+- **[sponsors/davila7](https://github.com/sponsors/davila7)** `sponsors/davila7` — Python
 - **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `BuilderIO/agent-native` — TypeScript
-- **[stablyai/orca](https://github.com/stablyai/orca)** `stablyai/orca` — TypeScript
+- **[sponsors/obra](https://github.com/sponsors/obra)** `sponsors/obra` — Shell
+- **[dream-num/univer](https://github.com/dream-num/univer)** `dream-num/univer` — TypeScript
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** `Open-Dev-Society/OpenStock` — TypeScript
+- **[agent-substrate/substrate](https://github.com/agent-substrate/substrate)** `agent-substrate/substrate` — Go
+- **[strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)** `strands-agents/harness-sdk` — Python
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** `HKUDS/CLI-Anything` — Python
+- **[superdesigndev/treg](https://github.com/superdesigndev/treg)** `superdesigndev/treg` — Python
+- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `pbakaus/impeccable` — JavaScript
+- **[mvt-project/mvt](https://github.com/mvt-project/mvt)** `mvt-project/mvt` — Python
+- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** `DeusData/codebase-memory-mcp` — C
+- **[harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)** `harry7557558/spirula-studio` — C++
 
 ---
-_github-radar v1.0 · zero-dependency Node scraper_
+_github-radar v1.2 · zero-dependency Node scraper_
