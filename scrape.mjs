@@ -29,7 +29,7 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const OUT = path.join(ROOT, 'out');
 const STATE = path.join(ROOT, 'state.json');
 const CONFIG = path.join(ROOT, 'config.json');
-const UA = 'github-radar/1.0 (github.com/jtjustinktaylor-lgtm/github-radar)';
+const UA = 'github-radar/1.2 (github.com/jtjustinktaylor-lgtm/Gideon)';
 
 const args = new Set(process.argv.slice(2));
 const FULL = args.has('--full');
@@ -37,7 +37,8 @@ const AS_JSON = args.has('--json');
 
 const DEFAULTS = {
   trackedRepos: [
-    'Sidiora-Labs/LayerX-Network',
+    // LayerX-Network was absorbed into Paxeer-X-Network — the old name now just
+    // redirects there and double-listed every release/commit. Track canonical names only.
     'Sidiora-Labs/Paxeer-X-Network',
     'Sidiora-Labs/centra-gideon-agent',
     'decolua/9router',
@@ -242,7 +243,16 @@ async function main() {
   const errs = [];
 
   const [rel, nw, ap, hn, tr] = await Promise.all([watchRepos(cfg, errs), newRepos(cfg, errs), appDiscovery(cfg, errs), showHN(cfg, errs), trending(cfg, errs)]);
-  const all = [...rel, ...nw, ...ap, ...hn, ...tr];
+  // Dedupe before reporting: the same repo surfaces via several keywords ("paxeer"/
+  // "layerx"/"sidiora"), and a renamed repo (LayerX-Network -> Paxeer-X-Network)
+  // answers under BOTH names with identical URLs. Keep the first hit per id and per URL.
+  const uniqIds = new Set(), uniqUrls = new Set(), all = [];
+  for (const it of [...rel, ...nw, ...ap, ...hn, ...tr]) {
+    if (uniqIds.has(it.id) || (it.url && uniqUrls.has(it.url))) continue;
+    uniqIds.add(it.id);
+    if (it.url) uniqUrls.add(it.url);
+    all.push(it);
+  }
   const fresh = all.filter((i) => !prev.seen[i.id]);
 
   const bucket = {};
