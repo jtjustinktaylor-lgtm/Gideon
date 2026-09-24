@@ -1,6 +1,186 @@
 {
   "apps": [
     {
+      "id": "app:wasaybuilds/lead-finder",
+      "name": "lead-finder",
+      "repo": "wasaybuilds/lead-finder",
+      "desc": "Free local app to find founders, decision makers & HR emails at agencies and tech startups by country, state & company s",
+      "url": "https://github.com/wasaybuilds/lead-finder",
+      "when": "2026-09-24T16:14:51Z",
+      "note": "HTML · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
+      "name": "how-to-scrape-shopify-product-variants-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
+      "desc": "Node.js example for auditing Shopify product variants with Apify",
+      "url": "https://github.com/piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
+      "when": "2026-09-24T12:33:19Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
+      "name": "how-to-scrape-chrono24-watch-prices-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
+      "desc": "Node.js example for comparing Chrono24 asking prices with Apify",
+      "url": "https://github.com/piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
+      "when": "2026-09-24T12:33:18Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
+      "name": "how-to-scrape-betexplorer-football-odds-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
+      "desc": "Node.js example for exporting BetExplorer football odds with Apify",
+      "url": "https://github.com/piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
+      "when": "2026-09-24T12:33:16Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:AppmanAI-com/AppmanAi-MCP",
+      "name": "AppmanAi-MCP",
+      "repo": "AppmanAI-com/AppmanAi-MCP",
+      "desc": "AppmanAi turns your AI assistant into an ASO analyst with real store data. Ask in chat — it pulls keyword ideas, rank hi",
+      "url": "https://github.com/AppmanAI-com/AppmanAi-MCP",
+      "when": "2026-09-24T07:36:19Z",
+      "note": "JavaScript · ★2 · #mcp-server"
+    },
+    {
+      "id": "app:sexylowrie/agent-hub",
+      "name": "agent-hub",
+      "repo": "sexylowrie/agent-hub",
+      "desc": "把 Claude Code、Codex、Cursor 的本机会话装进口袋：手机上看进度、接着聊、处理审批。本机单进程 + Tailscale，不经第三方中转。",
+      "url": "https://github.com/sexylowrie/agent-hub",
+      "when": "2026-09-24T07:11:29Z",
+      "note": "TypeScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:NikichVP/letotalks",
+      "name": "letotalks",
+      "repo": "NikichVP/letotalks",
+      "desc": "Anonymous teacher ratings and reviews for Letovo School students. Node.js, Express, SQLite, LLM moderation.",
+      "url": "https://github.com/NikichVP/letotalks",
+      "when": "2026-09-24T06:29:23Z",
+      "note": "JavaScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:yhyy135/babello",
+      "name": "babello",
+      "repo": "yhyy135/babello",
+      "desc": "A language-learning platform that runs entirely in your browser — listening, writing, and reading on the way. 完全运行在浏览器里的",
+      "url": "https://github.com/yhyy135/babello",
+      "when": "2026-09-24T03:15:39Z",
+      "note": "TypeScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:Noe1120/jev-advisor",
+      "name": "jev-advisor",
+      "repo": "Noe1120/jev-advisor",
+      "desc": "A private, local decision-advice Skill for Codex that ranks tool choices, estimates risks, guides recovery, and checks c",
+      "url": "https://github.com/Noe1120/jev-advisor",
+      "when": "2026-09-24T00:57:55Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:mohsen-niksirat/api-key-manager",
+      "name": "api-key-manager",
+      "repo": "mohsen-niksirat/api-key-manager",
+      "desc": "A privacy-first, offline-first web application for managing your API keys across multiple providers. Built as a PWA (Pro",
+      "url": "https://github.com/mohsen-niksirat/api-key-manager",
+      "when": "2026-09-23T23:38:23Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:PyModel/jev-judge-mcp",
+      "name": "jev-judge-mcp",
+      "repo": "PyModel/jev-judge-mcp",
+      "desc": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, ex",
+      "url": "https://github.com/PyModel/jev-judge-mcp",
+      "when": "2026-09-23T22:48:43Z",
+      "note": "Python · ★28 · #mcp-server"
+    },
+    {
+      "id": "app:keithadler/leanstudio",
+      "name": "leanstudio",
+      "repo": "keithadler/leanstudio",
+      "desc": "A native desktop IDE for Lean 4 on macOS, Windows and Linux. Every proof re-checked by Tenet, an independent Lean 4 kern",
+      "url": "https://github.com/keithadler/leanstudio",
+      "when": "2026-09-23T20:12:25Z",
+      "note": "C# · ★2 · #mcp-server"
+    },
+    {
+      "id": "app:LyraVoid/ImageForge",
+      "name": "ImageForge",
+      "repo": "LyraVoid/ImageForge",
+      "desc": "Universal Android image patcher that runs entirely in your browser: analyze, patch, repack, verify and export. No server",
+      "url": "https://github.com/LyraVoid/ImageForge",
+      "when": "2026-09-23T18:02:27Z",
+      "note": "TypeScript · ★27 · #pwa"
+    },
+    {
+      "id": "app:Marcusvrg23/release-orchestrator",
+      "name": "release-orchestrator",
+      "repo": "Marcusvrg23/release-orchestrator",
+      "desc": "Evidence-first, provider-agnostic release orchestration for AI coding agents.",
+      "url": "https://github.com/Marcusvrg23/release-orchestrator",
+      "when": "2026-09-23T17:30:58Z",
+      "note": "Python · ★3 · #automation"
+    },
+    {
+      "id": "app:akhatovgayratjon/suniyku",
+      "name": "suniyku",
+      "repo": "akhatovgayratjon/suniyku",
+      "desc": "Suniyku ☀️ — AI bilan rasm, video va marketpleys kartochka yarating, to'g'ridan-to'g'ri Telegram'da",
+      "url": "https://github.com/akhatovgayratjon/suniyku",
+      "when": "2026-09-23T17:20:34Z",
+      "note": "— · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:lzc878776-beep/VSManager",
+      "name": "VSManager",
+      "repo": "lzc878776-beep/VSManager",
+      "desc": "A multi-instance management and GitHub Copilot collaboration tool for Visual Studio, supporting AI task assignment, auto",
+      "url": "https://github.com/lzc878776-beep/VSManager",
+      "when": "2026-09-23T15:59:42Z",
+      "note": "C# · ★3 · #automation"
+    },
+    {
+      "id": "app:dbowlin/CoCo3_MCP_Server",
+      "name": "CoCo3_MCP_Server",
+      "repo": "dbowlin/CoCo3_MCP_Server",
+      "desc": "MCP server for Color Computer 3 (TRS-80) using MAME",
+      "url": "https://github.com/dbowlin/CoCo3_MCP_Server",
+      "when": "2026-09-23T13:14:28Z",
+      "note": "TypeScript · ★4 · #mcp-server"
+    },
+    {
+      "id": "app:spokospace/filament-ops-notify",
+      "name": "filament-ops-notify",
+      "repo": "spokospace/filament-ops-notify",
+      "desc": "Ops notifications (inquiries, errors, builds) for Laravel + Filament panels, delivered to Telegram",
+      "url": "https://github.com/spokospace/filament-ops-notify",
+      "when": "2026-09-23T12:47:47Z",
+      "note": "PHP · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:vij-sameerb5/JevX",
+      "name": "JevX",
+      "repo": "vij-sameerb5/JevX",
+      "desc": "When and Where Actually to use Jev in your code base.",
+      "url": "https://github.com/vij-sameerb5/JevX",
+      "when": "2026-09-23T12:46:44Z",
+      "note": "TypeScript · ★3 · #mcp-server"
+    },
+    {
+      "id": "app:yanglei070-ux/bili-hardcore-jev",
+      "name": "bili-hardcore-jev",
+      "repo": "yanglei070-ux/bili-hardcore-jev",
+      "desc": "用 JEV（TypeSafe System One 判断模型）自动完成 B 站「硬核会员试炼」的单文件 Python 脚本：手机只扫码登录一次，100 题在电脑上自动答完，零第三方依赖。",
+      "url": "https://github.com/yanglei070-ux/bili-hardcore-jev",
+      "when": "2026-09-23T11:26:29Z",
+      "note": "Python · ★2 · #automation"
+    },
+    {
       "id": "app:hex0user/SycoTool",
       "name": "SycoTool",
       "repo": "hex0user/SycoTool",
@@ -8,6 +188,33 @@
       "url": "https://github.com/hex0user/SycoTool",
       "when": "2026-09-23T10:58:22Z",
       "note": "Shell · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:omkarcloud/twitter-scraper",
+      "name": "twitter-scraper",
+      "repo": "omkarcloud/twitter-scraper",
+      "desc": "Twitter Scraper — free, open-source Twitter scraper. Unlimited tweets, profiles, trends & replies as clean JSON, no API ",
+      "url": "https://github.com/omkarcloud/twitter-scraper",
+      "when": "2026-09-23T10:42:36Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:alicewe1/alice_skill",
+      "name": "alice_skill",
+      "repo": "alicewe1/alice_skill",
+      "desc": "Alice 集成技能包 · 放进去就能用 · Drop-in skill suite for AI coding agents",
+      "url": "https://github.com/alicewe1/alice_skill",
+      "when": "2026-09-23T09:48:44Z",
+      "note": "Python · ★8 · #ai-agent"
+    },
+    {
+      "id": "app:piotrv1001/how-to-find-property-management-companies-in-nodejs",
+      "name": "how-to-find-property-management-companies-in-nodejs",
+      "repo": "piotrv1001/how-to-find-property-management-companies-in-nodejs",
+      "desc": "Node.js example for exporting property management companies and business emails with Apify",
+      "url": "https://github.com/piotrv1001/how-to-find-property-management-companies-in-nodejs",
+      "when": "2026-09-23T09:27:30Z",
+      "note": "JavaScript · ★1 · #web-scraping"
     },
     {
       "id": "app:2217173240/wechat-article-scraping-skill",
@@ -46,6 +253,60 @@
       "note": "Python · ★6 · #ai-agent"
     },
     {
+      "id": "app:MH4GF/pi-chat-sdk",
+      "name": "pi-chat-sdk",
+      "repo": "MH4GF/pi-chat-sdk",
+      "desc": "Run pi (the minimal coding agent) as a Slack / Discord / Telegram bot with Chat SDK. One thread = one pi session.",
+      "url": "https://github.com/MH4GF/pi-chat-sdk",
+      "when": "2026-09-23T04:55:50Z",
+      "note": "TypeScript · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:FlashyLabs/flashyos-spec",
+      "name": "flashyos-spec",
+      "repo": "FlashyLabs/flashyos-spec",
+      "desc": "⚡️ Apache-2.0 formats for organisational accountability on the agentic web: who is accountable, which lanes an organizat",
+      "url": "https://github.com/FlashyLabs/flashyos-spec",
+      "when": "2026-09-23T04:50:56Z",
+      "note": "— · ★4 · #ai-agent"
+    },
+    {
+      "id": "app:phpclaw-php/phpclaw-monorepo",
+      "name": "phpclaw-monorepo",
+      "repo": "phpclaw-php/phpclaw-monorepo",
+      "desc": "The universal AI agent engine for PHP. Tools, memory, guards, and a ReAct loop already built. Works with Laravel, Symfon",
+      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+      "when": "2026-09-23T03:50:03Z",
+      "note": "PHP · ★9 · #ai-agent"
+    },
+    {
+      "id": "app:AgusLoza2021/pi-telegram-bridge",
+      "name": "pi-telegram-bridge",
+      "repo": "AgusLoza2021/pi-telegram-bridge",
+      "desc": "Control your Pi coding sessions from your own private Telegram bot. Windows-only, local-only, delivers finalized answers",
+      "url": "https://github.com/AgusLoza2021/pi-telegram-bridge",
+      "when": "2026-09-23T00:39:58Z",
+      "note": "JavaScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Evy0210/ledger",
+      "name": "ledger",
+      "repo": "Evy0210/ledger",
+      "desc": "Self-hosted, mobile-first expense tracker for students in the UK — receipts, email bills, Telegram, GBP/CNY",
+      "url": "https://github.com/Evy0210/ledger",
+      "when": "2026-09-22T23:34:46Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Usuario614/workflowproof",
+      "name": "workflowproof",
+      "repo": "Usuario614/workflowproof",
+      "desc": "Local-first n8n workflow reliability and security audit workbench.",
+      "url": "https://github.com/Usuario614/workflowproof",
+      "when": "2026-09-22T22:25:20Z",
+      "note": "TypeScript · ★2 · #automation"
+    },
+    {
       "id": "app:seuros/skipper",
       "name": "skipper",
       "repo": "seuros/skipper",
@@ -73,6 +334,15 @@
       "note": "Python · ★2 · #telegram-bot"
     },
     {
+      "id": "app:lordbasex/macdub",
+      "name": "macdub",
+      "repo": "lordbasex/macdub",
+      "desc": "Real-time offline dubbing for macOS — capture any app, transcribe, translate and speak locally.",
+      "url": "https://github.com/lordbasex/macdub",
+      "when": "2026-09-22T20:59:11Z",
+      "note": "Swift · ★2 · #mcp-server"
+    },
+    {
       "id": "app:Shishir-ip/Bkash-Cashout-Balance-Counter",
       "name": "Bkash-Cashout-Balance-Counter",
       "repo": "Shishir-ip/Bkash-Cashout-Balance-Counter",
@@ -98,6 +368,24 @@
       "url": "https://github.com/brovk2008/Scrui",
       "when": "2026-09-22T15:02:00Z",
       "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:fadeynotchenko/netrun-mcp",
+      "name": "netrun-mcp",
+      "repo": "fadeynotchenko/netrun-mcp",
+      "desc": "Publish websites and Telegram bots to Netrun from Cursor, Claude Code, Codex and other MCP clients — upload a folder, ge",
+      "url": "https://github.com/fadeynotchenko/netrun-mcp",
+      "when": "2026-09-22T14:58:58Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:nitesh933438/WorkSphere-HRMS-Demo",
+      "name": "WorkSphere-HRMS-Demo",
+      "repo": "nitesh933438/WorkSphere-HRMS-Demo",
+      "desc": "🚀 WorkSphere HRMS — A modern role-based HRMS for Admin, HR, Manager & Employee. Manage employees, attendance with GPS/g",
+      "url": "https://github.com/nitesh933438/WorkSphere-HRMS-Demo",
+      "when": "2026-09-22T14:48:00Z",
+      "note": "JavaScript · ★2 · #pwa"
     },
     {
       "id": "app:fahadiot/youtube-minecraft-streaming-kit",
@@ -163,6 +451,24 @@
       "note": "Python · ★3 · #mcp-server"
     },
     {
+      "id": "app:CatCatUncle/ruanzhu-kit",
+      "name": "ruanzhu-kit",
+      "repo": "CatCatUncle/ruanzhu-kit",
+      "desc": "中国软著登记材料生成器：源码进去，页数一页不差的 PDF 出来",
+      "url": "https://github.com/CatCatUncle/ruanzhu-kit",
+      "when": "2026-09-22T08:48:41Z",
+      "note": "JavaScript · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:gischina/dsh-console",
+      "name": "dsh-console",
+      "repo": "gischina/dsh-console",
+      "desc": "DSH Console — 本地 Web 控制台，构建和运行时空智能体应用",
+      "url": "https://github.com/gischina/dsh-console",
+      "when": "2026-09-22T08:30:50Z",
+      "note": "JavaScript · ★2 · #mcp-server"
+    },
+    {
       "id": "app:0xKT/claude-limit-watch",
       "name": "claude-limit-watch",
       "repo": "0xKT/claude-limit-watch",
@@ -224,6 +530,15 @@
       "url": "https://github.com/1612535983/deepreseach-learing",
       "when": "2026-09-22T01:34:20Z",
       "note": "Python · ★15 · #ai-agent"
+    },
+    {
+      "id": "app:mehedieh/railway-booking-helper",
+      "name": "railway-booking-helper",
+      "repo": "mehedieh/railway-booking-helper",
+      "desc": "Personal Chrome extension (MV3) that speeds up booking your own tickets on Bangladesh Railway's e-ticket site — fills th",
+      "url": "https://github.com/mehedieh/railway-booking-helper",
+      "when": "2026-09-22T00:58:02Z",
+      "note": "JavaScript · ★2 · #automation"
     },
     {
       "id": "app:Mintahandrews/verity",
@@ -631,5 +946,5 @@
       "note": "Python · ★3 · #pwa"
     }
   ],
-  "updated": "2026-09-23T17:22:03.479Z"
+  "updated": "2026-09-24T17:27:23.634Z"
 }
