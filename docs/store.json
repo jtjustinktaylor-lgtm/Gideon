@@ -1,6 +1,213 @@
 {
   "apps": [
     {
+      "id": "app:Demet5292/cf-clearance",
+      "name": "cf-clearance",
+      "repo": "Demet5292/cf-clearance",
+      "desc": "Get a valid cf_clearance cookie from the Cloudflare Challenge automatically - Python library, CLI and examples, one REST",
+      "url": "https://github.com/Demet5292/cf-clearance",
+      "when": "2026-09-25T16:57:11Z",
+      "note": "Python · ★24 · #automation"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-billing-spend-anomaly-guard-skill",
+      "name": "genpark-billing-spend-anomaly-guard-skill",
+      "repo": "Alpha-Park/genpark-billing-spend-anomaly-guard-skill",
+      "desc": "Real-time spend clarity anomaly detector identifying runaway agent token burn spikes with statistical Z-scores",
+      "url": "https://github.com/Alpha-Park/genpark-billing-spend-anomaly-guard-skill",
+      "when": "2026-09-25T14:58:41Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-multidimensional-pricing-matrix-engine-skill",
+      "name": "genpark-multidimensional-pricing-matrix-engine-skill",
+      "repo": "Alpha-Park/genpark-multidimensional-pricing-matrix-engine-skill",
+      "desc": "Multi-dimensional pricing matrix evaluator resolving dynamic pricing rates across region, SLA tiers, and commitments",
+      "url": "https://github.com/Alpha-Park/genpark-multidimensional-pricing-matrix-engine-skill",
+      "when": "2026-09-25T14:57:11Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:RomainMILLAN/WebPushNotificationBundle",
+      "name": "WebPushNotificationBundle",
+      "repo": "RomainMILLAN/WebPushNotificationBundle",
+      "desc": "Web Push notifications for Symfony & Laravel: subscription storage, VAPID delivery, SSRF-hardened, ready-made service wo",
+      "url": "https://github.com/RomainMILLAN/WebPushNotificationBundle",
+      "when": "2026-09-25T13:35:09Z",
+      "note": "PHP · ★1 · #pwa"
+    },
+    {
+      "id": "app:nomicsadmin/hub-agentes-ia",
+      "name": "hub-agentes-ia",
+      "repo": "nomicsadmin/hub-agentes-ia",
+      "desc": "Seu próprio Agente de IA treinado no seu método: hub de agentes com login, venda automática e painel admin. Next.js + Su",
+      "url": "https://github.com/nomicsadmin/hub-agentes-ia",
+      "when": "2026-09-25T12:27:21Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:InfraIntelcluster/echo-desk",
+      "name": "echo-desk",
+      "repo": "InfraIntelcluster/echo-desk",
+      "desc": "The Listener. Finds who trades first on Solana and who echoes it seconds later. No calls, no targets.",
+      "url": "https://github.com/InfraIntelcluster/echo-desk",
+      "when": "2026-09-25T11:56:59Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:lintsinghua/paint-mv-skills",
+      "name": "paint-mv-skills",
+      "repo": "lintsinghua/paint-mv-skills",
+      "desc": "Agent skills that turn a song and its lyrics into a hand-painted watercolour music video (p5.brush + headless Chrome + f",
+      "url": "https://github.com/lintsinghua/paint-mv-skills",
+      "when": "2026-09-25T11:23:17Z",
+      "note": "JavaScript · ★14 · #ai-agent"
+    },
+    {
+      "id": "app:piotrv1001/how-to-track-momo-prices-and-stock-in-nodejs",
+      "name": "how-to-track-momo-prices-and-stock-in-nodejs",
+      "repo": "piotrv1001/how-to-track-momo-prices-and-stock-in-nodejs",
+      "desc": "Node.js example: track Momo Taiwan prices and stock with the FalconScrape Apify Actor",
+      "url": "https://github.com/piotrv1001/how-to-track-momo-prices-and-stock-in-nodejs",
+      "when": "2026-09-25T09:38:47Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:bannonhary248-code/uniswap-cca-monitor",
+      "name": "uniswap-cca-monitor",
+      "repo": "bannonhary248-code/uniswap-cca-monitor",
+      "desc": "Read-only multi-chain Uniswap CCA monitor with verified Telegram alerts",
+      "url": "https://github.com/bannonhary248-code/uniswap-cca-monitor",
+      "when": "2026-09-25T08:10:15Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:bannonhary248-code/fomo-smart-money-alert",
+      "name": "fomo-smart-money-alert",
+      "repo": "bannonhary248-code/fomo-smart-money-alert",
+      "desc": "Read-only Fomo/Trenches smart-money alerts for Telegram on Robinhood Chain",
+      "url": "https://github.com/bannonhary248-code/fomo-smart-money-alert",
+      "when": "2026-09-25T06:39:02Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:MiguelEscobar0345/asistente-personal",
+      "name": "asistente-personal",
+      "repo": "MiguelEscobar0345/asistente-personal",
+      "desc": "Asistente personal en Telegram con IA: recordatorios, calendario, listas, gastos, memoria y más. Corre gratis en Cloudfl",
+      "url": "https://github.com/MiguelEscobar0345/asistente-personal",
+      "when": "2026-09-24T21:28:20Z",
+      "note": "TypeScript · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-customer-health-credit-burn-tracker-skill",
+      "name": "genpark-customer-health-credit-burn-tracker-skill",
+      "repo": "Alpha-Park/genpark-customer-health-credit-burn-tracker-skill",
+      "desc": "Real-time prepaid credit burn velocity tracker calculating runway days, health scores, and upsell triggers inspired by M",
+      "url": "https://github.com/Alpha-Park/genpark-customer-health-credit-burn-tracker-skill",
+      "when": "2026-09-24T20:11:27Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-customer-health-credit-burn-tracker-skill",
+      "name": "genpark-customer-health-credit-burn-tracker-skill",
+      "repo": "alphaparkinc/genpark-customer-health-credit-burn-tracker-skill",
+      "desc": "Real-time prepaid credit burn velocity tracker calculating runway days, health scores, and upsell triggers inspired by M",
+      "url": "https://github.com/alphaparkinc/genpark-customer-health-credit-burn-tracker-skill",
+      "when": "2026-09-24T20:11:00Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-pricing-model-iteration-simulator-skill",
+      "name": "genpark-pricing-model-iteration-simulator-skill",
+      "repo": "Alpha-Park/genpark-pricing-model-iteration-simulator-skill",
+      "desc": "Side-by-side seat-based, usage-based, and hybrid pricing revenue simulator with elasticity scoring inspired by Metronome",
+      "url": "https://github.com/Alpha-Park/genpark-pricing-model-iteration-simulator-skill",
+      "when": "2026-09-24T20:10:32Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-pricing-model-iteration-simulator-skill",
+      "name": "genpark-pricing-model-iteration-simulator-skill",
+      "repo": "alphaparkinc/genpark-pricing-model-iteration-simulator-skill",
+      "desc": "Side-by-side seat-based, usage-based, and hybrid pricing revenue simulator with elasticity scoring inspired by Metronome",
+      "url": "https://github.com/alphaparkinc/genpark-pricing-model-iteration-simulator-skill",
+      "when": "2026-09-24T20:10:03Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-usage-based-billing-metering-engine-skill",
+      "name": "genpark-usage-based-billing-metering-engine-skill",
+      "repo": "Alpha-Park/genpark-usage-based-billing-metering-engine-skill",
+      "desc": "Real-time usage event ingestion, multi-tier metric aggregation, and precise invoice calculation engine inspired by Metro",
+      "url": "https://github.com/Alpha-Park/genpark-usage-based-billing-metering-engine-skill",
+      "when": "2026-09-24T20:09:34Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-usage-based-billing-metering-engine-skill",
+      "name": "genpark-usage-based-billing-metering-engine-skill",
+      "repo": "alphaparkinc/genpark-usage-based-billing-metering-engine-skill",
+      "desc": "Real-time usage event ingestion, multi-tier metric aggregation, and precise invoice calculation engine inspired by Metro",
+      "url": "https://github.com/alphaparkinc/genpark-usage-based-billing-metering-engine-skill",
+      "when": "2026-09-24T20:09:08Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Hicksonaut/kalorien-tracker",
+      "name": "kalorien-tracker",
+      "repo": "Hicksonaut/kalorien-tracker",
+      "desc": "Training-Dashboard für Garmin-Daten und Kalorien-Tracker (BLS + Open Food Facts, Barcode-Scan) – selbst gehostete PWAs f",
+      "url": "https://github.com/Hicksonaut/kalorien-tracker",
+      "when": "2026-09-24T19:10:56Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:jaksonmoliveira/job-hunter",
+      "name": "job-hunter",
+      "repo": "jaksonmoliveira/job-hunter",
+      "desc": "Caçador de vagas automático feito com Claude. Todo dia útil ele varre a Gupy, os alertas do LinkedIn e a InHire, filtra ",
+      "url": "https://github.com/jaksonmoliveira/job-hunter",
+      "when": "2026-09-24T18:59:42Z",
+      "note": "HTML · ★2 · #automation"
+    },
+    {
+      "id": "app:CataBulu/ParkingBot",
+      "name": "ParkingBot",
+      "repo": "CataBulu/ParkingBot",
+      "desc": "Serverless AWS bot that alerts you on Telegram when a residential parking spot or submission session opens in Craiova, w",
+      "url": "https://github.com/CataBulu/ParkingBot",
+      "when": "2026-09-24T18:58:10Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:overjoyde/bra-kriminalstatistik",
+      "name": "bra-kriminalstatistik",
+      "repo": "overjoyde/bra-kriminalstatistik",
+      "desc": "Hämta Brås kriminalstatistik automatiskt (SOL-databasen + färdiga tabeller) + brottskodskatalog för AML/CTF och bedräger",
+      "url": "https://github.com/overjoyde/bra-kriminalstatistik",
+      "when": "2026-09-24T18:07:40Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:bablobanov/hermes-agent-telegram-dashboard",
+      "name": "hermes-agent-telegram-dashboard",
+      "repo": "bablobanov/hermes-agent-telegram-dashboard",
+      "desc": "Read-only status dashboard for Hermes Agent as one pinned Telegram message: freshness, account limits, config drift, las",
+      "url": "https://github.com/bablobanov/hermes-agent-telegram-dashboard",
+      "when": "2026-09-24T17:49:55Z",
+      "note": "Python · ★4 · #telegram-bot"
+    },
+    {
+      "id": "app:red16124724/Aurum-Clipper",
+      "name": "Aurum-Clipper",
+      "repo": "red16124724/Aurum-Clipper",
+      "desc": "AI-powered short-form video clipper with local Whisper transcription, Google Gemini virality scoring, and ASS kinetic su",
+      "url": "https://github.com/red16124724/Aurum-Clipper",
+      "when": "2026-09-24T16:52:19Z",
+      "note": "Python · ★4 · #automation"
+    },
+    {
       "id": "app:wasaybuilds/lead-finder",
       "name": "lead-finder",
       "repo": "wasaybuilds/lead-finder",
@@ -8,6 +215,42 @@
       "url": "https://github.com/wasaybuilds/lead-finder",
       "when": "2026-09-24T16:14:51Z",
       "note": "HTML · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:WncFht/winnow",
+      "name": "winnow",
+      "repo": "WncFht/winnow",
+      "desc": "Winnow/风选 — daily AI-news pipeline: ~160 sources in, one narrated mp4 out. Two human gates, deadline-autopilot, offline-",
+      "url": "https://github.com/WncFht/winnow",
+      "when": "2026-09-24T15:31:09Z",
+      "note": "TypeScript · ★3 · #automation"
+    },
+    {
+      "id": "app:MadestSamurai/bd2-equipment-assistant",
+      "name": "bd2-equipment-assistant",
+      "repo": "MadestSamurai/bd2-equipment-assistant",
+      "desc": "Standalone equipment assistant for BrownDust II on Windows. Chinese/English UI; Portable/Lite releases.",
+      "url": "https://github.com/MadestSamurai/bd2-equipment-assistant",
+      "when": "2026-09-24T14:08:23Z",
+      "note": "C# · ★3 · #automation"
+    },
+    {
+      "id": "app:TopDeckhandBlock/grok-x-farm",
+      "name": "grok-x-farm",
+      "repo": "TopDeckhandBlock/grok-x-farm",
+      "desc": "Grok/X farming suite — account pool, grok2api gateway, X parser farm, roast verify. Full pipeline.",
+      "url": "https://github.com/TopDeckhandBlock/grok-x-farm",
+      "when": "2026-09-24T14:00:49Z",
+      "note": "Python · ★4 · #automation"
+    },
+    {
+      "id": "app:zmflm0110/bike-doctor",
+      "name": "bike-doctor",
+      "repo": "zmflm0110/bike-doctor",
+      "desc": "헛걸음 제로 — 따릉이 '빌리자마자 반납' 기록으로, 아무도 신고하지 않은 고장 자전거를 실시간으로 찾는다. 서울·대전 약 1천만 건 검증, 공개 데이터만 사용.",
+      "url": "https://github.com/zmflm0110/bike-doctor",
+      "when": "2026-09-24T13:43:05Z",
+      "note": "HTML · ★1 · #pwa"
     },
     {
       "id": "app:piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
@@ -35,6 +278,15 @@
       "url": "https://github.com/piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
       "when": "2026-09-24T12:33:16Z",
       "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:laurinlibossek/setlog",
+      "name": "setlog",
+      "repo": "laurinlibossek/setlog",
+      "desc": "Private, offline-first workout tracker for iPhone. Progressive Web App with Strong import, charts and PR tracking. No ac",
+      "url": "https://github.com/laurinlibossek/setlog",
+      "when": "2026-09-24T11:01:55Z",
+      "note": "JavaScript · ★1 · #pwa"
     },
     {
       "id": "app:AppmanAI-com/AppmanAi-MCP",
@@ -73,6 +325,15 @@
       "note": "TypeScript · ★1 · #pwa"
     },
     {
+      "id": "app:izynu/ZoneVaz",
+      "name": "ZoneVaz",
+      "repo": "izynu/ZoneVaz",
+      "desc": "🎧 A personal music space for discovering, listening, creating playlists and getting lost in the vibe.",
+      "url": "https://github.com/izynu/ZoneVaz",
+      "when": "2026-09-24T02:59:55Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
       "id": "app:Noe1120/jev-advisor",
       "name": "jev-advisor",
       "repo": "Noe1120/jev-advisor",
@@ -107,6 +368,15 @@
       "url": "https://github.com/keithadler/leanstudio",
       "when": "2026-09-23T20:12:25Z",
       "note": "C# · ★2 · #mcp-server"
+    },
+    {
+      "id": "app:stevenayman70/linkedin-job-bot",
+      "name": "linkedin-job-bot",
+      "repo": "stevenayman70/linkedin-job-bot",
+      "desc": "بوت بيدوّر على وظايف لينكدإن الريموت كل يوم، بيرتّبها حسب مهاراتك وعدد المتقدمين، وبيبعتلك الأحسن على تليجرام. مجاني بال",
+      "url": "https://github.com/stevenayman70/linkedin-job-bot",
+      "when": "2026-09-23T19:48:52Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
       "id": "app:LyraVoid/ImageForge",
@@ -287,6 +557,15 @@
       "url": "https://github.com/AgusLoza2021/pi-telegram-bridge",
       "when": "2026-09-23T00:39:58Z",
       "note": "JavaScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:vivian-labs/1point3acres-toolkit",
+      "name": "1point3acres-toolkit",
+      "repo": "vivian-labs/1point3acres-toolkit",
+      "desc": "一亩三分地自动签到 + 每日答题：在你自己电脑的 Chrome 里、用你自己的登录完成，不经过第三方；也是给 Claude Code / Codex 用的 MCP 服务。1point3acres daily check-in & quiz ",
+      "url": "https://github.com/vivian-labs/1point3acres-toolkit",
+      "when": "2026-09-23T00:38:58Z",
+      "note": "Python · ★10 · #mcp-server"
     },
     {
       "id": "app:Evy0210/ledger",
@@ -946,5 +1225,5 @@
       "note": "Python · ★3 · #pwa"
     }
   ],
-  "updated": "2026-09-24T17:27:23.634Z"
+  "updated": "2026-09-25T17:25:51.904Z"
 }
