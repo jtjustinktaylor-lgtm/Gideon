@@ -1,6 +1,177 @@
 {
   "apps": [
     {
+      "id": "app:TheAlgo7/dueline",
+      "name": "dueline",
+      "repo": "TheAlgo7/dueline",
+      "desc": "Everything you need to pay, on one line. An offline-first PWA for bills, cards, subscriptions and UPI payees, with a zer",
+      "url": "https://github.com/TheAlgo7/dueline",
+      "when": "2026-09-26T15:42:57Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-adversarial-prompt-jailbreak-detector-skill",
+      "name": "genpark-adversarial-prompt-jailbreak-detector-skill",
+      "repo": "Alpha-Park/genpark-adversarial-prompt-jailbreak-detector-skill",
+      "desc": "Adversarial prompt jailbreak detector analyzing framing evasion, hypothetical bypasses, and token smuggling",
+      "url": "https://github.com/Alpha-Park/genpark-adversarial-prompt-jailbreak-detector-skill",
+      "when": "2026-09-26T12:31:17Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-indirect-prompt-injection-sanitizer-skill",
+      "name": "genpark-indirect-prompt-injection-sanitizer-skill",
+      "repo": "alphaparkinc/genpark-indirect-prompt-injection-sanitizer-skill",
+      "desc": "Indirect prompt injection sanitizer and delimiter boundary firewall neutralizing embedded command overrides",
+      "url": "https://github.com/alphaparkinc/genpark-indirect-prompt-injection-sanitizer-skill",
+      "when": "2026-09-26T12:24:50Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:figranium/figranium-py",
+      "name": "figranium-py",
+      "repo": "figranium/figranium-py",
+      "desc": "Official Python SDK for Figranium.",
+      "url": "https://github.com/figranium/figranium-py",
+      "when": "2026-09-26T12:16:30Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:brandelkrefinery/t66y-automatic",
+      "name": "t66y-automatic",
+      "repo": "brandelkrefinery/t66y-automatic",
+      "desc": "草榴社区 t66y(1024）自动化工具 · 自动签到 / 自动回帖 / 新帖监控 / Telegram·Bark·Server酱推送 · 多账号 · Node.js CLI · 一条命令安装",
+      "url": "https://github.com/brandelkrefinery/t66y-automatic",
+      "when": "2026-09-26T05:53:07Z",
+      "note": "JavaScript · ★21 · #telegram-bot"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-reputation-credit-ledger-skill",
+      "name": "genpark-agent-reputation-credit-ledger-skill",
+      "repo": "Alpha-Park/genpark-agent-reputation-credit-ledger-skill",
+      "desc": "Verifiable agent reputation ledger tracking cryptographic task receipts and enforcing slashable staking penalties",
+      "url": "https://github.com/Alpha-Park/genpark-agent-reputation-credit-ledger-skill",
+      "when": "2026-09-26T05:06:46Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:minosdevs/copycat-skill",
+      "name": "copycat-skill",
+      "repo": "minosdevs/copycat-skill",
+      "desc": "copycat - Claude Code skill: URL → pixel-perfect website clone. Playwright capture (3 viewports, folds, sections, hover)",
+      "url": "https://github.com/minosdevs/copycat-skill",
+      "when": "2026-09-26T05:04:53Z",
+      "note": "JavaScript · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-inter-agent-handshake-negotiator-skill",
+      "name": "genpark-inter-agent-handshake-negotiator-skill",
+      "repo": "Alpha-Park/genpark-inter-agent-handshake-negotiator-skill",
+      "desc": "Protocol schema negotiator and capability handshake engine ensuring secure interoperability between agents",
+      "url": "https://github.com/Alpha-Park/genpark-inter-agent-handshake-negotiator-skill",
+      "when": "2026-09-26T05:04:34Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-swarm-task-decomposition-auctioneer-skill",
+      "name": "genpark-swarm-task-decomposition-auctioneer-skill",
+      "repo": "Alpha-Park/genpark-swarm-task-decomposition-auctioneer-skill",
+      "desc": "Multi-agent swarm combinatorial auctioneer decomposing objectives and allocating subtasks based on bids",
+      "url": "https://github.com/Alpha-Park/genpark-swarm-task-decomposition-auctioneer-skill",
+      "when": "2026-09-26T05:03:28Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-synthetic-persona-consensus-engine-skill",
+      "name": "genpark-agent-synthetic-persona-consensus-engine-skill",
+      "repo": "Alpha-Park/genpark-agent-synthetic-persona-consensus-engine-skill",
+      "desc": "Multi-persona deliberation and Bayesian weighted consensus engine resolving complex agent decision ambiguities",
+      "url": "https://github.com/Alpha-Park/genpark-agent-synthetic-persona-consensus-engine-skill",
+      "when": "2026-09-26T04:18:06Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-personal-boundary-auto-negotiator-skill",
+      "name": "genpark-personal-boundary-auto-negotiator-skill",
+      "repo": "Alpha-Park/genpark-personal-boundary-auto-negotiator-skill",
+      "desc": "Executive boundary defense and communication arbitrator deflecting non-urgent real-time interruptions to async channels",
+      "url": "https://github.com/Alpha-Park/genpark-personal-boundary-auto-negotiator-skill",
+      "when": "2026-09-26T02:47:47Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:graygnatconsole/mcp-audit-tool",
+      "name": "mcp-audit-tool",
+      "repo": "graygnatconsole/mcp-audit-tool",
+      "desc": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, h",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+      "when": "2026-09-26T02:42:57Z",
+      "note": "Python · ★61 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-personal-circadian-energy-scheduler-skill",
+      "name": "genpark-personal-circadian-energy-scheduler-skill",
+      "repo": "alphaparkinc/genpark-personal-circadian-energy-scheduler-skill",
+      "desc": "Biological chronotype and circadian rhythm personal scheduler maximizing deep cognitive analytical output",
+      "url": "https://github.com/alphaparkinc/genpark-personal-circadian-energy-scheduler-skill",
+      "when": "2026-09-26T02:24:13Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-personal-cognitive-load-balancer-skill",
+      "name": "genpark-personal-cognitive-load-balancer-skill",
+      "repo": "alphaparkinc/genpark-personal-cognitive-load-balancer-skill",
+      "desc": "Personal cognitive load and attention fragmentation index analyzer restructuring daily agendas into deep work blocks",
+      "url": "https://github.com/alphaparkinc/genpark-personal-cognitive-load-balancer-skill",
+      "when": "2026-09-26T02:23:09Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:breakstageaxe61/genspark-claw",
+      "name": "genspark-claw",
+      "repo": "breakstageaxe61/genspark-claw",
+      "desc": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep re",
+      "url": "https://github.com/breakstageaxe61/genspark-claw",
+      "when": "2026-09-26T02:18:05Z",
+      "note": "JavaScript · ★61 · #ai-agent"
+    },
+    {
+      "id": "app:markx520/WeChat-H5-DevTools",
+      "name": "WeChat-H5-DevTools",
+      "repo": "markx520/WeChat-H5-DevTools",
+      "desc": "微信电脑版内置网页与 H5 前端排版调试工具箱（第三方开源开发者工具）",
+      "url": "https://github.com/markx520/WeChat-H5-DevTools",
+      "when": "2026-09-26T00:58:20Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:PuntoyComaTech/hermes-agent-squads",
+      "name": "hermes-agent-squads",
+      "repo": "PuntoyComaTech/hermes-agent-squads",
+      "desc": "Ready-to-install AI agent squads for Hermes Agent: a marketing agency, a job search team and more. One orchestrator mess",
+      "url": "https://github.com/PuntoyComaTech/hermes-agent-squads",
+      "when": "2026-09-26T00:10:04Z",
+      "note": "HTML · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Lunik/EtymoLogique",
+      "name": "EtymoLogique",
+      "repo": "Lunik/EtymoLogique",
+      "desc": "Jeu de logique et de collection : assemblez des briques linguistiques (préfixes, suffixes, racines) pour retrouver des m",
+      "url": "https://github.com/Lunik/EtymoLogique",
+      "when": "2026-09-25T21:33:08Z",
+      "note": "Python · ★1 · #pwa"
+    },
+    {
+      "id": "app:jamespolyakov9829/captcha-api",
+      "name": "captcha-api",
+      "repo": "jamespolyakov9829/captcha-api",
+      "desc": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batc",
+      "url": "https://github.com/jamespolyakov9829/captcha-api",
+      "when": "2026-09-25T19:27:22Z",
+      "note": "Python · ★263 · #automation"
+    },
+    {
       "id": "app:Demet5292/cf-clearance",
       "name": "cf-clearance",
       "repo": "Demet5292/cf-clearance",
@@ -28,6 +199,33 @@
       "note": "Python · ★7 · #ai-agent"
     },
     {
+      "id": "app:feder-cr/invisible_puppeteer",
+      "name": "invisible_puppeteer",
+      "repo": "feder-cr/invisible_puppeteer",
+      "desc": "pyppeteer's API on a patched Firefox with a deterministic stealth profile. Change the import, keep the script.",
+      "url": "https://github.com/feder-cr/invisible_puppeteer",
+      "when": "2026-09-25T14:20:21Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:feder-cr/invisible_selenium",
+      "name": "invisible_selenium",
+      "repo": "feder-cr/invisible_selenium",
+      "desc": "Selenium's API on a patched Firefox with a deterministic stealth profile. Change the import, keep the script.",
+      "url": "https://github.com/feder-cr/invisible_selenium",
+      "when": "2026-09-25T14:20:17Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:auntor69/jomi-hisheb",
+      "name": "jomi-hisheb",
+      "repo": "auntor69/jomi-hisheb",
+      "desc": "Free, ad-free, open-source Bangladeshi land unit converter — katha, bigha, shotangsho, decimal, gonda, kani, acre, squar",
+      "url": "https://github.com/auntor69/jomi-hisheb",
+      "when": "2026-09-25T13:54:27Z",
+      "note": "TypeScript · ★3 · #pwa"
+    },
+    {
       "id": "app:RomainMILLAN/WebPushNotificationBundle",
       "name": "WebPushNotificationBundle",
       "repo": "RomainMILLAN/WebPushNotificationBundle",
@@ -35,6 +233,15 @@
       "url": "https://github.com/RomainMILLAN/WebPushNotificationBundle",
       "when": "2026-09-25T13:35:09Z",
       "note": "PHP · ★1 · #pwa"
+    },
+    {
+      "id": "app:looper42/mobile_agent",
+      "name": "mobile_agent",
+      "repo": "looper42/mobile_agent",
+      "desc": "An open-source Android AI agent that operates your phone in the background, with local models, tool calling, and automat",
+      "url": "https://github.com/looper42/mobile_agent",
+      "when": "2026-09-25T12:30:37Z",
+      "note": "Kotlin · ★8 · #ai-agent"
     },
     {
       "id": "app:nomicsadmin/hub-agentes-ia",
@@ -64,6 +271,15 @@
       "note": "JavaScript · ★14 · #ai-agent"
     },
     {
+      "id": "app:darttroll/gemini-router",
+      "name": "gemini-router",
+      "repo": "darttroll/gemini-router",
+      "desc": "Quota-aware multi-account scheduler and load balancer for Google Gemini / Antigravity CLI on Linux — adaptive rate limit",
+      "url": "https://github.com/darttroll/gemini-router",
+      "when": "2026-09-25T10:53:34Z",
+      "note": "Go · ★2 · #automation"
+    },
+    {
       "id": "app:piotrv1001/how-to-track-momo-prices-and-stock-in-nodejs",
       "name": "how-to-track-momo-prices-and-stock-in-nodejs",
       "repo": "piotrv1001/how-to-track-momo-prices-and-stock-in-nodejs",
@@ -89,6 +305,33 @@
       "url": "https://github.com/bannonhary248-code/fomo-smart-money-alert",
       "when": "2026-09-25T06:39:02Z",
       "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:sixtysevenlf/dsh-skill-blender-modeling",
+      "name": "dsh-skill-blender-modeling",
+      "repo": "sixtysevenlf/dsh-skill-blender-modeling",
+      "desc": "DSH skill · Blender 建模与装配流程：多 Agent 分工范式（冻结 spec/写作用域/接口表）、参考图形体还原、六条必踩的坑、数值门装配审计；配套 dsh-blender-plugin",
+      "url": "https://github.com/sixtysevenlf/dsh-skill-blender-modeling",
+      "when": "2026-09-25T05:29:59Z",
+      "note": "— · ★13 · #ai-agent"
+    },
+    {
+      "id": "app:matank001/clodfarm",
+      "name": "clodfarm",
+      "repo": "matank001/clodfarm",
+      "desc": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work,",
+      "url": "https://github.com/matank001/clodfarm",
+      "when": "2026-09-25T00:48:32Z",
+      "note": "Python · ★10 · #automation"
+    },
+    {
+      "id": "app:nfbl/ai-sales-assistant-bot",
+      "name": "ai-sales-assistant-bot",
+      "repo": "nfbl/ai-sales-assistant-bot",
+      "desc": "ИИ-менеджер по продажам: Telegram-бот на Python (aiogram 3) квалифицирует заявки, оценивает лиды и создаёт сделки в Битр",
+      "url": "https://github.com/nfbl/ai-sales-assistant-bot",
+      "when": "2026-09-24T21:33:49Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
       "id": "app:MiguelEscobar0345/asistente-personal",
@@ -199,6 +442,15 @@
       "note": "Python · ★4 · #telegram-bot"
     },
     {
+      "id": "app:engasnm111/lnwjud-watcher",
+      "name": "lnwjud-watcher",
+      "repo": "engasnm111/lnwjud-watcher",
+      "desc": "lnwjud Watcher — read-only live monitoring companion for lnwjud on Desktop, Web/PWA, Android, and iOS",
+      "url": "https://github.com/engasnm111/lnwjud-watcher",
+      "when": "2026-09-24T16:52:21Z",
+      "note": "TypeScript · ★1 · #pwa"
+    },
+    {
       "id": "app:red16124724/Aurum-Clipper",
       "name": "Aurum-Clipper",
       "repo": "red16124724/Aurum-Clipper",
@@ -224,6 +476,24 @@
       "url": "https://github.com/WncFht/winnow",
       "when": "2026-09-24T15:31:09Z",
       "note": "TypeScript · ★3 · #automation"
+    },
+    {
+      "id": "app:sharon-schwaab/gans-etl-pipeline-python-mysql",
+      "name": "gans-etl-pipeline-python-mysql",
+      "repo": "sharon-schwaab/gans-etl-pipeline-python-mysql",
+      "desc": "Gans E-Scooter ETL Pipeline with Python, APIs & MySQL",
+      "url": "https://github.com/sharon-schwaab/gans-etl-pipeline-python-mysql",
+      "when": "2026-09-24T15:14:24Z",
+      "note": "Jupyter Notebook · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:DavidVoitenko/proxy-workbench",
+      "name": "proxy-workbench",
+      "repo": "DavidVoitenko/proxy-workbench",
+      "desc": "Free proxies that actually work for YOUR sites: collects 55 public lists, checks HTTP/HTTPS/SOCKS4/SOCKS5 against your s",
+      "url": "https://github.com/DavidVoitenko/proxy-workbench",
+      "when": "2026-09-24T14:31:09Z",
+      "note": "Python · ★2 · #web-scraping"
     },
     {
       "id": "app:MadestSamurai/bd2-equipment-assistant",
@@ -253,6 +523,15 @@
       "note": "HTML · ★1 · #pwa"
     },
     {
+      "id": "app:maximilianfeix/proxy-scraper",
+      "name": "proxy-scraper",
+      "repo": "maximilianfeix/proxy-scraper",
+      "desc": "Free proxies that actually work: 700+ sources, every hit verified (honeypots, injected scripts, TLS), a live list every ",
+      "url": "https://github.com/maximilianfeix/proxy-scraper",
+      "when": "2026-09-24T12:33:28Z",
+      "note": "Python · ★5 · #web-scraping"
+    },
+    {
       "id": "app:piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
       "name": "how-to-scrape-shopify-product-variants-in-nodejs",
       "repo": "piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
@@ -278,6 +557,15 @@
       "url": "https://github.com/piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
       "when": "2026-09-24T12:33:16Z",
       "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Big-mangoo/agy-sub-agent",
+      "name": "agy-sub-agent",
+      "repo": "Big-mangoo/agy-sub-agent",
+      "desc": "把任务外派给 Antigravity CLI（agy headless）的子代理方法、技能与实测数据 | Delegate subtasks to the Antigravity CLI as an independent sub-agen",
+      "url": "https://github.com/Big-mangoo/agy-sub-agent",
+      "when": "2026-09-24T12:18:38Z",
+      "note": "— · ★2 · #automation"
     },
     {
       "id": "app:laurinlibossek/setlog",
@@ -1225,5 +1513,5 @@
       "note": "Python · ★3 · #pwa"
     }
   ],
-  "updated": "2026-09-25T17:25:51.904Z"
+  "updated": "2026-09-26T16:35:59.919Z"
 }
