@@ -1,6 +1,195 @@
 {
   "apps": [
     {
+      "id": "app:TINGLISE/bot-auto-daily-swap-bridge-ammora-on-giwa",
+      "name": "bot-auto-daily-swap-bridge-ammora-on-giwa",
+      "repo": "TINGLISE/bot-auto-daily-swap-bridge-ammora-on-giwa",
+      "desc": "Ammora Auto Swap & Auto Bridge — automated GIWA transactions, 24/7.",
+      "url": "https://github.com/TINGLISE/bot-auto-daily-swap-bridge-ammora-on-giwa",
+      "when": "2026-09-28T17:00:46Z",
+      "note": "JavaScript · ★3 · #automation"
+    },
+    {
+      "id": "app:aidvizhhub/camoufox-research",
+      "name": "camoufox-research",
+      "repo": "aidvizhhub/camoufox-research",
+      "desc": "Browser research toolkit for AI agents, exposed through MCP: real browser (Camoufox), deep research 20+ sources, extract",
+      "url": "https://github.com/aidvizhhub/camoufox-research",
+      "when": "2026-09-28T15:54:42Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:ZenRows/large-scale-web-scraping-zenrows-batch",
+      "name": "large-scale-web-scraping-zenrows-batch",
+      "repo": "ZenRows/large-scale-web-scraping-zenrows-batch",
+      "desc": "Run large URL lists as one managed job with the Zenrows Batch API: submission, polling, webhooks, HMAC verification, rer",
+      "url": "https://github.com/ZenRows/large-scale-web-scraping-zenrows-batch",
+      "when": "2026-09-28T15:54:22Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-manomano-product-prices-in-nodejs",
+      "name": "how-to-scrape-manomano-product-prices-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-manomano-product-prices-in-nodejs",
+      "desc": "Node.js example for ManoMano product listing and price data",
+      "url": "https://github.com/piotrv1001/how-to-scrape-manomano-product-prices-in-nodejs",
+      "when": "2026-09-28T13:16:23Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-caring-senior-living-in-nodejs",
+      "name": "how-to-scrape-caring-senior-living-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-caring-senior-living-in-nodejs",
+      "desc": "Node.js example for Caring.com senior living facility listings",
+      "url": "https://github.com/piotrv1001/how-to-scrape-caring-senior-living-in-nodejs",
+      "when": "2026-09-28T13:16:11Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-json-schema-auto-repair-skill",
+      "name": "genpark-agent-json-schema-auto-repair-skill",
+      "repo": "Alpha-Park/genpark-agent-json-schema-auto-repair-skill",
+      "desc": "Instant zero-LLM deterministic JSON extractor & schema auto-repair engine healing truncated braces, markdown wrappers & ",
+      "url": "https://github.com/Alpha-Park/genpark-agent-json-schema-auto-repair-skill",
+      "when": "2026-09-28T10:22:12Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-bezier-curve-surface-evaluator-skill",
+      "name": "genpark-bezier-curve-surface-evaluator-skill",
+      "repo": "alphaparkinc/genpark-bezier-curve-surface-evaluator-skill",
+      "desc": "Parametric polynomial curves and surfaces with de Casteljau's algorithm and bicubic Bézier patch evaluation.",
+      "url": "https://github.com/alphaparkinc/genpark-bezier-curve-surface-evaluator-skill",
+      "when": "2026-09-28T05:08:21Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-lsm-tree-sstable-compaction-skill",
+      "name": "genpark-lsm-tree-sstable-compaction-skill",
+      "repo": "alphaparkinc/genpark-lsm-tree-sstable-compaction-skill",
+      "desc": "Log-Structured Merge-tree (LSM Tree) storage engine with in-memory MemTable, SSTables, and compaction.",
+      "url": "https://github.com/alphaparkinc/genpark-lsm-tree-sstable-compaction-skill",
+      "when": "2026-09-28T04:51:44Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-dynamic-prompt-prefix-cache-skill",
+      "name": "genpark-dynamic-prompt-prefix-cache-skill",
+      "repo": "Alpha-Park/genpark-dynamic-prompt-prefix-cache-skill",
+      "desc": "Radix trie-based prompt prefix cache optimizer matching longest common prompt token prefixes to eliminate redundant pref",
+      "url": "https://github.com/Alpha-Park/genpark-dynamic-prompt-prefix-cache-skill",
+      "when": "2026-09-28T03:28:27Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-statistical-zscore-iqr-anomaly-detector-skill",
+      "name": "genpark-statistical-zscore-iqr-anomaly-detector-skill",
+      "repo": "alphaparkinc/genpark-statistical-zscore-iqr-anomaly-detector-skill",
+      "desc": "Multi-strategy anomaly detector computing standard Z-score, modified median absolute deviation (MAD), and Tukey IQR fenc",
+      "url": "https://github.com/alphaparkinc/genpark-statistical-zscore-iqr-anomaly-detector-skill",
+      "when": "2026-09-28T03:15:23Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:MadestSamurai/bd2-fiend-hunter",
+      "name": "bd2-fiend-hunter",
+      "repo": "MadestSamurai/bd2-fiend-hunter",
+      "desc": "Standalone Fiend Hunter assistant for BrownDust II on Windows. Chinese/English UI; Portable/Lite releases.",
+      "url": "https://github.com/MadestSamurai/bd2-fiend-hunter",
+      "when": "2026-09-28T01:41:53Z",
+      "note": "C# · ★4 · #automation"
+    },
+    {
+      "id": "app:TTNAN/muse-file-bridge",
+      "name": "muse-file-bridge",
+      "repo": "TTNAN/muse-file-bridge",
+      "desc": "Let Muse read and write files on your Windows PC over a Cloudflare Tunnel — token auth, folder whitelist, traversal prot",
+      "url": "https://github.com/TTNAN/muse-file-bridge",
+      "when": "2026-09-28T01:02:30Z",
+      "note": "Python · ★4 · #automation"
+    },
+    {
+      "id": "app:wuttashi1/fitness-bot-mvp",
+      "name": "fitness-bot-mvp",
+      "repo": "wuttashi1/fitness-bot-mvp",
+      "desc": "Telegram workout tracker: programs, progress and community workshop | Дневник тренировок. EN / RU",
+      "url": "https://github.com/wuttashi1/fitness-bot-mvp",
+      "when": "2026-09-27T22:37:37Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:wuttashi1/food-planner-bot",
+      "name": "food-planner-bot",
+      "repo": "wuttashi1/food-planner-bot",
+      "desc": "Telegram meal planner: shared menus, nutrition, groceries and Excel | Планировщик питания. EN / RU",
+      "url": "https://github.com/wuttashi1/food-planner-bot",
+      "when": "2026-09-27T22:37:32Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:ArcCommercial/roblox-frame-forge",
+      "name": "roblox-frame-forge",
+      "repo": "ArcCommercial/roblox-frame-forge",
+      "desc": "Roblox Performance Booster 2026: Top FPS Guide for Low-End PCs",
+      "url": "https://github.com/ArcCommercial/roblox-frame-forge",
+      "when": "2026-09-27T21:43:17Z",
+      "note": "HTML · ★10 · #automation"
+    },
+    {
+      "id": "app:capybara-vpn/capybara-vpn.github.io",
+      "name": "capybara-vpn.github.io",
+      "repo": "capybara-vpn/capybara-vpn.github.io",
+      "desc": "Capybara VPN — быстрый VPN от 249 ₽ | VLESS, 38 локаций, 100+ серверов | Подключение через Telegram или браузер",
+      "url": "https://github.com/capybara-vpn/capybara-vpn.github.io",
+      "when": "2026-09-27T20:11:21Z",
+      "note": "Astro · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:smotim/perepost",
+      "name": "perepost",
+      "repo": "smotim/perepost",
+      "desc": "Self-hosted bot that mirrors Telegram channel posts to MAX channels: formatting, media, albums, many-to-many routes",
+      "url": "https://github.com/smotim/perepost",
+      "when": "2026-09-27T19:12:07Z",
+      "note": "Go · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:PierreEbele/cadenas",
+      "name": "cadenas",
+      "repo": "PierreEbele/cadenas",
+      "desc": "Encrypt a file with a password, right in your browser: nothing leaves your device. Also a CLI and a Docker image. age-co",
+      "url": "https://github.com/PierreEbele/cadenas",
+      "when": "2026-09-27T19:11:45Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:YanxingShen/purine-query-web",
+      "name": "purine-query-web",
+      "repo": "YanxingShen/purine-query-web",
+      "desc": "QingTou KongSuan - Gout & Hyperuricemia Diet Assistant PWA. Glass UI + splash screen, 642 food database, 264 health arti",
+      "url": "https://github.com/YanxingShen/purine-query-web",
+      "when": "2026-09-27T18:01:20Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:aghaabdullah/python-data-parser",
+      "name": "python-data-parser",
+      "repo": "aghaabdullah/python-data-parser",
+      "desc": "A lightweight, robust Python utility designed to parse proprietary text-based data formats into standard lists and dicti",
+      "url": "https://github.com/aghaabdullah/python-data-parser",
+      "when": "2026-09-27T17:50:50Z",
+      "note": "Python · ★8 · #automation"
+    },
+    {
+      "id": "app:aghaabdullah/railway-crossing-iot",
+      "name": "railway-crossing-iot",
+      "repo": "aghaabdullah/railway-crossing-iot",
+      "desc": "Embedded systems Arduino project simulating an automated, sensor-driven railway crossing gate mechanism.",
+      "url": "https://github.com/aghaabdullah/railway-crossing-iot",
+      "when": "2026-09-27T17:50:33Z",
+      "note": "C++ · ★7 · #automation"
+    },
+    {
       "id": "app:Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill",
       "name": "genpark-personal-agent-dual-cognition-orchestrator-skill",
       "repo": "Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill",
@@ -16,6 +205,42 @@
       "desc": "Token-safe AST import re-aliasing and dependency migration engine safely replacing module paths and callsites without re",
       "url": "https://github.com/alphaparkinc/genpark-ast-import-dependency-rewriter-skill",
       "when": "2026-09-27T16:43:05Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
+      "name": "genpark-cyclomatic-complexity-refactoring-scout-skill",
+      "repo": "Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
+      "desc": "AST McCabe cyclomatic complexity and cognitive nesting depth evaluator identifying refactoring hotspots and decompositio",
+      "url": "https://github.com/Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
+      "when": "2026-09-27T16:42:23Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/awesome-ai-agent-skills",
+      "name": "awesome-ai-agent-skills",
+      "repo": "Alpha-Park/awesome-ai-agent-skills",
+      "desc": "Categorized index of 718 public GenPark AI agent skills, with tested Python packages and MCP integrations.",
+      "url": "https://github.com/Alpha-Park/awesome-ai-agent-skills",
+      "when": "2026-09-27T16:26:37Z",
+      "note": "Python · ★8 · #ai-agent"
+    },
+    {
+      "id": "app:kosio-labs/clicker4ai",
+      "name": "clicker4ai",
+      "repo": "kosio-labs/clicker4ai",
+      "desc": "Self-hosted web app to drive Claude Code sessions on your Linux server from a phone, tablet or laptop",
+      "url": "https://github.com/kosio-labs/clicker4ai",
+      "when": "2026-09-27T14:41:10Z",
+      "note": "Python · ★2 · #pwa"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
+      "name": "genpark-personal-digital-hoarding-declutter-agent-skill",
+      "repo": "alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
+      "desc": "Personal digital asset decluttering agent classifying orphaned downloads, duplicate screenshots, and stale browser bookm",
+      "url": "https://github.com/alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
+      "when": "2026-09-27T12:04:15Z",
       "note": "Python · ★7 · #mcp-server"
     },
     {
@@ -35,6 +260,24 @@
       "url": "https://github.com/Alpha-Park/genpark-personal-inbox-cognitive-triage-skill",
       "when": "2026-09-27T12:00:05Z",
       "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:johndoecesko/uchet-objektov",
+      "name": "uchet-objektov",
+      "repo": "johndoecesko/uchet-objektov",
+      "desc": "Учёт затрат, зарплат и прибыли по объектам для монтажных организаций. Laravel 12 + Filament 4, PWA.",
+      "url": "https://github.com/johndoecesko/uchet-objektov",
+      "when": "2026-09-27T08:18:17Z",
+      "note": "PHP · ★2 · #pwa"
+    },
+    {
+      "id": "app:ufo-ai/ufo-core",
+      "name": "ufo-core",
+      "repo": "ufo-ai/ufo-core",
+      "desc": "Business agent operating system",
+      "url": "https://github.com/ufo-ai/ufo-core",
+      "when": "2026-09-27T07:25:44Z",
+      "note": "Python · ★78 · #ai-agent"
     },
     {
       "id": "app:Alpha-Park/genpark-document-redaction-pii-scrubber-skill",
@@ -91,6 +334,15 @@
       "note": "PHP · ★1 · #telegram-bot"
     },
     {
+      "id": "app:MarcoAbramo/spin-doctor",
+      "name": "spin-doctor",
+      "repo": "MarcoAbramo/spin-doctor",
+      "desc": "Satirical mobile-first idle game: spin every scandal as press secretary of the fictional Republic of Superbia. PixiJS + ",
+      "url": "https://github.com/MarcoAbramo/spin-doctor",
+      "when": "2026-09-26T20:00:01Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
       "id": "app:thesyedammar/SahkarSetu",
       "name": "SahkarSetu",
       "repo": "thesyedammar/SahkarSetu",
@@ -136,6 +388,24 @@
       "note": "Python · ★7 · #ai-agent"
     },
     {
+      "id": "app:alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
+      "name": "genpark-conversational-barge-in-interruption-arbitrator-skill",
+      "repo": "alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
+      "desc": "Full-duplex conversational barge-in arbitrator classifying user interruptions, backchannels, and acoustic echo with cont",
+      "url": "https://github.com/alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
+      "when": "2026-09-26T17:13:45Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
+      "name": "genpark-continual-fewshot-exemplar-distiller-skill",
+      "repo": "alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
+      "desc": "Continual few-shot exemplar distiller mining high-scoring execution trajectories into prompt demonstrations",
+      "url": "https://github.com/alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
+      "when": "2026-09-26T17:08:29Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
       "id": "app:Alpha-Park/genpark-contradiction-detection-belief-updater-skill",
       "name": "genpark-contradiction-detection-belief-updater-skill",
       "repo": "Alpha-Park/genpark-contradiction-detection-belief-updater-skill",
@@ -154,11 +424,38 @@
       "note": "JavaScript · ★1 · #pwa"
     },
     {
+      "id": "app:omkarcloud/google-flights-scraper",
+      "name": "google-flights-scraper",
+      "repo": "omkarcloud/google-flights-scraper",
+      "desc": "Google Flights Scraper — free, open-source Google Flights scraper. Unlimited fares, booking options & price calendars as",
+      "url": "https://github.com/omkarcloud/google-flights-scraper",
+      "when": "2026-09-26T14:24:13Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
+      "name": "genpark-gui-screen-som-coordinate-mapper-skill",
+      "repo": "Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
+      "desc": "Set-of-Marks (SoM) bounding box resolution and relative viewport coordinate mapper for computer-use vision agents",
+      "url": "https://github.com/Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
+      "when": "2026-09-26T13:24:09Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
       "id": "app:bonsalvadorasier-blip/App-Job-Search-Deck-Cadet",
       "name": "App-Job-Search-Deck-Cadet",
       "repo": "bonsalvadorasier-blip/App-Job-Search-Deck-Cadet",
       "desc": "Local dashboard that finds shipping companies across Europe, digs through their websites for the right contact, and send",
       "url": "https://github.com/bonsalvadorasier-blip/App-Job-Search-Deck-Cadet",
+      "when": "2026-09-26T12:32:54Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:asierbits/App-Job-Search-Deck-Cadet",
+      "name": "App-Job-Search-Deck-Cadet",
+      "repo": "asierbits/App-Job-Search-Deck-Cadet",
+      "desc": "Local dashboard that finds shipping companies across Europe, digs through their websites for the right contact, and send",
+      "url": "https://github.com/asierbits/App-Job-Search-Deck-Cadet",
       "when": "2026-09-26T12:32:54Z",
       "note": "Python · ★2 · #web-scraping"
     },
@@ -197,6 +494,15 @@
       "url": "https://github.com/figranium/figranium-py",
       "when": "2026-09-26T12:16:30Z",
       "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:ipanalytics/TTS-Voice-Pool",
+      "name": "TTS-Voice-Pool",
+      "repo": "ipanalytics/TTS-Voice-Pool",
+      "desc": "Speak through several text-to-speech providers behind one call: a Gemini voice pool with Sulafat and edge fallbacks, per",
+      "url": "https://github.com/ipanalytics/TTS-Voice-Pool",
+      "when": "2026-09-26T11:35:26Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
       "id": "app:Sour00001/pair_guardian_portal_releases",
@@ -277,6 +583,24 @@
       "desc": "Multi-persona deliberation and Bayesian weighted consensus engine resolving complex agent decision ambiguities",
       "url": "https://github.com/Alpha-Park/genpark-agent-synthetic-persona-consensus-engine-skill",
       "when": "2026-09-26T04:18:06Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-sandboxed-file-diff-safety-auditor-skill",
+      "name": "genpark-agent-sandboxed-file-diff-safety-auditor-skill",
+      "repo": "Alpha-Park/genpark-agent-sandboxed-file-diff-safety-auditor-skill",
+      "desc": "Pre-commit diff safety scanner preventing destructive shell commands, API token leaks, and disk corruptions",
+      "url": "https://github.com/Alpha-Park/genpark-agent-sandboxed-file-diff-safety-auditor-skill",
+      "when": "2026-09-26T04:16:55Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-context-compaction-deduplicator-skill",
+      "name": "genpark-agent-context-compaction-deduplicator-skill",
+      "repo": "Alpha-Park/genpark-agent-context-compaction-deduplicator-skill",
+      "desc": "Long-horizon context window compression and semantic deduplicator eliminating redundant tool outputs",
+      "url": "https://github.com/Alpha-Park/genpark-agent-context-compaction-deduplicator-skill",
+      "when": "2026-09-26T04:13:51Z",
       "note": "Python · ★7 · #ai-agent"
     },
     {
@@ -1475,331 +1799,7 @@
       "url": "https://github.com/hazelpe/ComptyAI",
       "when": "2026-09-21T18:07:22Z",
       "note": "JavaScript · ★42 · #ai-agent"
-    },
-    {
-      "id": "app:abhishekswe/agent-fastpath",
-      "name": "agent-fastpath",
-      "repo": "abhishekswe/agent-fastpath",
-      "desc": "Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (System One model). Ship gates, risk checks, f",
-      "url": "https://github.com/abhishekswe/agent-fastpath",
-      "when": "2026-09-21T18:02:22Z",
-      "note": "TypeScript · ★3 · #mcp-server"
-    },
-    {
-      "id": "app:AyaseEli-Bing/Mac-Arch-Installer",
-      "name": "Mac-Arch-Installer",
-      "repo": "AyaseEli-Bing/Mac-Arch-Installer",
-      "desc": "Mac 虚拟机安装 Arch Linux 懒人包｜在 Apple Silicon + Parallels Desktop 上自动安装 Arch Linux ARM（官方 ISO 仅 x86_64，无法直接启动）",
-      "url": "https://github.com/AyaseEli-Bing/Mac-Arch-Installer",
-      "when": "2026-09-21T18:01:43Z",
-      "note": "Shell · ★28 · #automation"
-    },
-    {
-      "id": "app:open-ai-jobs/firecrawl-api-examples",
-      "name": "firecrawl-api-examples",
-      "repo": "open-ai-jobs/firecrawl-api-examples",
-      "desc": "Firecrawl API examples in Python: scrape one URL, map then batch scrape, start a crawl and poll its status.",
-      "url": "https://github.com/open-ai-jobs/firecrawl-api-examples",
-      "when": "2026-09-21T17:56:59Z",
-      "note": "— · ★29 · #web-scraping"
-    },
-    {
-      "id": "app:tavily-api/awesome-firecrawl-api",
-      "name": "awesome-firecrawl-api",
-      "repo": "tavily-api/awesome-firecrawl-api",
-      "desc": "Awesome list for the Firecrawl API: docs, endpoint references, SDK, customer stories, integrations and alternatives.",
-      "url": "https://github.com/tavily-api/awesome-firecrawl-api",
-      "when": "2026-09-21T17:56:49Z",
-      "note": "— · ★8 · #web-scraping"
-    },
-    {
-      "id": "app:seedance-2-5-dev/firecrawl-api",
-      "name": "firecrawl-api",
-      "repo": "seedance-2-5-dev/firecrawl-api",
-      "desc": "Practical guide to the Firecrawl API: scrape, crawl, map, search and extract endpoints, pricing pointers, gotchas.",
-      "url": "https://github.com/seedance-2-5-dev/firecrawl-api",
-      "when": "2026-09-21T17:56:38Z",
-      "note": "— · ★10 · #web-scraping"
-    },
-    {
-      "id": "app:thorsten/Voltopia",
-      "name": "Voltopia",
-      "repo": "thorsten/Voltopia",
-      "desc": "⚡ A cozy low-poly city builder where the grid is the game — balance solar, wind, batteries and biogas against a living c",
-      "url": "https://github.com/thorsten/Voltopia",
-      "when": "2026-09-21T16:52:46Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:2scraper/lg-scraper",
-      "name": "lg-scraper",
-      "repo": "2scraper/lg-scraper",
-      "desc": "LG.com catalogue scraper (the site's own catalogue API, plus Playwright, Selenium and Puppeteer over the rendered grid) ",
-      "url": "https://github.com/2scraper/lg-scraper",
-      "when": "2026-09-21T16:39:52Z",
-      "note": "Python · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:shikaizhong-design/ego-jev-ultrafast",
-      "name": "ego-jev-ultrafast",
-      "repo": "shikaizhong-design/ego-jev-ultrafast",
-      "desc": "Jev drives your Ego Lite browser: one typed-choice request per step. Single-file, zero-dependency port of browser-use/je",
-      "url": "https://github.com/shikaizhong-design/ego-jev-ultrafast",
-      "when": "2026-09-21T16:34:32Z",
-      "note": "JavaScript · ★2 · #ai-agent"
-    },
-    {
-      "id": "app:Remezzo/NTE-Fish-Bot",
-      "name": "NTE-Fish-Bot",
-      "repo": "Remezzo/NTE-Fish-Bot",
-      "desc": "Auto-fishing bot for Neverness to Everness — finds the game on its own at any resolution, hooks every bite, and reels fi",
-      "url": "https://github.com/Remezzo/NTE-Fish-Bot",
-      "when": "2026-09-21T16:25:34Z",
-      "note": "— · ★1 · #automation"
-    },
-    {
-      "id": "app:boty-po-probivu/probiv-informacii",
-      "name": "probiv-informacii",
-      "repo": "boty-po-probivu/probiv-informacii",
-      "desc": "Пробив информации: поиск и сопоставление открытых упоминаний по телефону, username, email, ФИО и профилям.",
-      "url": "https://github.com/boty-po-probivu/probiv-informacii",
-      "when": "2026-09-21T14:37:28Z",
-      "note": "— · ★44 · #telegram-bot"
-    },
-    {
-      "id": "app:boty-po-probivu/probiv-po-nomeru-telefona",
-      "name": "probiv-po-nomeru-telefona",
-      "repo": "boty-po-probivu/probiv-po-nomeru-telefona",
-      "desc": "Пробив по номеру телефона: как подготовить запрос, проверить открытые упоминания и сопоставить найденные профили.",
-      "url": "https://github.com/boty-po-probivu/probiv-po-nomeru-telefona",
-      "when": "2026-09-21T14:36:47Z",
-      "note": "— · ★38 · #telegram-bot"
-    },
-    {
-      "id": "app:andududu/jeview",
-      "name": "jeview",
-      "repo": "andududu/jeview",
-      "desc": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSa",
-      "url": "https://github.com/andududu/jeview",
-      "when": "2026-09-21T14:03:13Z",
-      "note": "JavaScript · ★37 · #ai-agent"
-    },
-    {
-      "id": "app:zkousama/morocco-communes",
-      "name": "morocco-communes",
-      "repo": "zkousama/morocco-communes",
-      "desc": "Morocco's 1,503 communes as open data: HCP codes, the 2024 and 2014 censuses, boundaries, an HTTP API and an MCP server.",
-      "url": "https://github.com/zkousama/morocco-communes",
-      "when": "2026-09-21T14:01:22Z",
-      "note": "TypeScript · ★2 · #mcp-server"
-    },
-    {
-      "id": "app:Charlielyo/TimeHub",
-      "name": "TimeHub",
-      "repo": "Charlielyo/TimeHub",
-      "desc": "纯前端时间管理工具集：番茄钟 · 秒表 · 多组倒计时 · 世界时钟 · 截止倒计时 · 呼吸训练｜零依赖 · 免构建 · 可离线",
-      "url": "https://github.com/Charlielyo/TimeHub",
-      "when": "2026-09-21T14:00:41Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:Keirolabs-API/google-serp-api",
-      "name": "google-serp-api",
-      "repo": "Keirolabs-API/google-serp-api",
-      "desc": "Google SERP API for Python — real Google search results in 2 lines. No proxies, no CAPTCHAs.",
-      "url": "https://github.com/Keirolabs-API/google-serp-api",
-      "when": "2026-09-21T13:59:46Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:ishandutta2007/Vishnu",
-      "name": "Vishnu",
-      "repo": "ishandutta2007/Vishnu",
-      "desc": "Open source alternative of Palantir Gotham  🌟 Star if you like it! 🌟'",
-      "url": "https://github.com/ishandutta2007/Vishnu",
-      "when": "2026-09-21T13:31:50Z",
-      "note": "— · ★3 · #mcp-server"
-    },
-    {
-      "id": "app:alexlnos/dsm-mini",
-      "name": "dsm-mini",
-      "repo": "alexlnos/dsm-mini",
-      "desc": "Telegram bot with a Mini App for a Synology NAS: downloads, files, disks, containers",
-      "url": "https://github.com/alexlnos/dsm-mini",
-      "when": "2026-09-21T12:43:41Z",
-      "note": "Go · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:hojttaler/Resolvr",
-      "name": "Resolvr",
-      "repo": "hojttaler/Resolvr",
-      "desc": "Free, source-available desktop GraphQL client and IDE for macOS, Linux and Windows: tabs that survive crashes, collectio",
-      "url": "https://github.com/hojttaler/Resolvr",
-      "when": "2026-09-21T12:42:53Z",
-      "note": "TypeScript · ★3 · #mcp-server"
-    },
-    {
-      "id": "app:SH-DaWushi/web-api-extractor",
-      "name": "web-api-extractor",
-      "repo": "SH-DaWushi/web-api-extractor",
-      "desc": "Capture browser API traffic via CDP and turn any site into a ready-to-run FastMCP server, with no official API required.",
-      "url": "https://github.com/SH-DaWushi/web-api-extractor",
-      "when": "2026-09-21T12:26:03Z",
-      "note": "Python · ★2 · #mcp-server"
-    },
-    {
-      "id": "app:Faintimi/dlsite-tracker",
-      "name": "dlsite-tracker",
-      "repo": "Faintimi/dlsite-tracker",
-      "desc": "同人游戏雷达 · Doujin Game Radar —— 本地优先的 DLsite 同人游戏浏览与筛选应用（macOS）+ 合规每日数据管道；数据与封面只存在本机。Local-first DLsite doujin game browse",
-      "url": "https://github.com/Faintimi/dlsite-tracker",
-      "when": "2026-09-21T12:09:50Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:CCWP123/lanzou-direct-link",
-      "name": "lanzou-direct-link",
-      "repo": "CCWP123/lanzou-direct-link",
-      "desc": "把蓝奏云分享链接解析成浏览器下载直链 / Turn a Lanzou share link into a direct download URL",
-      "url": "https://github.com/CCWP123/lanzou-direct-link",
-      "when": "2026-09-21T11:38:22Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:liyana31811/ios-pwa-push",
-      "name": "ios-pwa-push",
-      "repo": "liyana31811/ios-pwa-push",
-      "desc": "给 iPhone 主屏幕上的自建 PWA 加系统通知：点通知回到对应页面，后台被回收后也能按正确路径恢复。",
-      "url": "https://github.com/liyana31811/ios-pwa-push",
-      "when": "2026-09-21T11:22:37Z",
-      "note": "— · ★2 · #pwa"
-    },
-    {
-      "id": "app:R0YC0LD/humancode",
-      "name": "humancode",
-      "repo": "R0YC0LD/humancode",
-      "desc": "HumanCODE: birth-date numerology decoder and compatibility web app (Turkish UI). Proprietary, all rights reserved.",
-      "url": "https://github.com/R0YC0LD/humancode",
-      "when": "2026-09-21T10:01:00Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:agimx-ai/seedagent-tia-programming",
-      "name": "seedagent-tia-programming",
-      "repo": "agimx-ai/seedagent-tia-programming",
-      "desc": "西门子博途(博图) / Siemens TIA Portal V16–V21 AI 编程智能体。支持 S7-1200/1500 SCL 代码自动生成、编译诊断、工程归档(.zap)、PLCSIM 仿真与 PLC 下载。| AI agent ",
-      "url": "https://github.com/agimx-ai/seedagent-tia-programming",
-      "when": "2026-09-21T09:45:21Z",
-      "note": "— · ★6 · #ai-agent"
-    },
-    {
-      "id": "app:evoke-build/evoke",
-      "name": "evoke",
-      "repo": "evoke-build/evoke",
-      "desc": "Software, by reflex. Say it, and the right small program runs: chosen by a calibrated classifier, run only when it is su",
-      "url": "https://github.com/evoke-build/evoke",
-      "when": "2026-09-21T08:44:53Z",
-      "note": "Rust · ★11 · #automation"
-    },
-    {
-      "id": "app:Lens-lzy/miaoda-agent-kit",
-      "name": "miaoda-agent-kit",
-      "repo": "Lens-lzy/miaoda-agent-kit",
-      "desc": "在飞书妙搭（apaas）上用 AI Agent 开发的避坑手册 + harness。83 条实测踩坑，一条命令接入。",
-      "url": "https://github.com/Lens-lzy/miaoda-agent-kit",
-      "when": "2026-09-21T08:14:54Z",
-      "note": "JavaScript · ★3 · #ai-agent"
-    },
-    {
-      "id": "app:woodcoal/SearchHub",
-      "name": "SearchHub",
-      "repo": "woodcoal/SearchHub",
-      "desc": "SearchHub normalizes Serper, Tavily, Exa, AnySearch, and other search APIs behind one HTTP, CLI, and MCP interface. It m",
-      "url": "https://github.com/woodcoal/SearchHub",
-      "when": "2026-09-21T07:27:24Z",
-      "note": "TypeScript · ★3 · #mcp-server"
-    },
-    {
-      "id": "app:arpitnayan123-bot/Agri-link",
-      "name": "Agri-link",
-      "repo": "arpitnayan123-bot/Agri-link",
-      "desc": "🌱 Farmer-direct quick-commerce (F2C) — your UPI payment instantly pays every farmer in your basket, with payout proof o",
-      "url": "https://github.com/arpitnayan123-bot/Agri-link",
-      "when": "2026-09-21T07:24:54Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:aryan-confity/openultra-browser",
-      "name": "openultra-browser",
-      "repo": "aryan-confity/openultra-browser",
-      "desc": "System 1 decision model controlled ultrafast browser use running fully locally at 0 cost. Control your browser and compl",
-      "url": "https://github.com/aryan-confity/openultra-browser",
-      "when": "2026-09-21T07:11:04Z",
-      "note": "Python · ★3 · #ai-agent"
-    },
-    {
-      "id": "app:changshenhan/bb-mcp",
-      "name": "bb-mcp",
-      "repo": "changshenhan/bb-mcp",
-      "desc": "Headless Blackboard MCP server for bb.cuhk.edu.cn — courseware download, assignment inspection & submission, announcemen",
-      "url": "https://github.com/changshenhan/bb-mcp",
-      "when": "2026-09-21T06:18:38Z",
-      "note": "Python · ★3 · #automation"
-    },
-    {
-      "id": "app:card0re/synapse",
-      "name": "synapse",
-      "repo": "card0re/synapse",
-      "desc": "Skill-exchange marketplace where the currency is time, not money. Go + React, live on Cloud Run at synapse.tel",
-      "url": "https://github.com/card0re/synapse",
-      "when": "2026-09-21T06:11:26Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:rajasekharponakala/jev-mcp",
-      "name": "jev-mcp",
-      "repo": "rajasekharponakala/jev-mcp",
-      "desc": "MCP server wrapping TypeSafe's Jev System One models — typed noul/choice/score judgments for AI agents",
-      "url": "https://github.com/rajasekharponakala/jev-mcp",
-      "when": "2026-09-21T04:08:49Z",
-      "note": "Python · ★2 · #mcp-server"
-    },
-    {
-      "id": "app:ahang008/ah-douyin-clean-downloader",
-      "name": "ah-douyin-clean-downloader",
-      "repo": "ahang008/ah-douyin-clean-downloader",
-      "desc": "把抖音链接或口令直接交给 Codex，下载无平台角标原视频并按博主自动归档",
-      "url": "https://github.com/ahang008/ah-douyin-clean-downloader",
-      "when": "2026-09-21T03:16:09Z",
-      "note": "Python · ★37 · #ai-agent"
-    },
-    {
-      "id": "app:freestylefly/WeChatBridge",
-      "name": "WeChatBridge",
-      "repo": "freestylefly/WeChatBridge",
-      "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "url": "https://github.com/freestylefly/WeChatBridge",
-      "when": "2026-09-21T02:54:51Z",
-      "note": "Swift · ★253 · #ai-agent"
-    },
-    {
-      "id": "app:tjoyarzun/throughline",
-      "name": "throughline",
-      "repo": "tjoyarzun/throughline",
-      "desc": "A media tracker built on an explicit ontology and a SQL semantic layer. Answers \"why are these two things connected?\" wi",
-      "url": "https://github.com/tjoyarzun/throughline",
-      "when": "2026-09-21T02:28:23Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:Larryzpl123/smart-schedule",
-      "name": "smart-schedule",
-      "repo": "Larryzpl123/smart-schedule",
-      "desc": "Weekly timetable for a school on an 8-day rotation. Runs either with an account or entirely in the browser, sending noth",
-      "url": "https://github.com/Larryzpl123/smart-schedule",
-      "when": "2026-09-21T01:56:49Z",
-      "note": "Python · ★3 · #pwa"
     }
   ],
-  "updated": "2026-09-27T17:09:40.273Z"
+  "updated": "2026-09-28T19:47:31.952Z"
 }
