@@ -1,21 +1,28 @@
-# GitHub Radar — 2026-09-29
+# GitHub Radar — 2026-09-30
 
-_68 new item(s) since last run · generated 2026-09-29T18:12:20.219Z_
+_65 new item(s) since last run · generated 2026-09-30T18:04:24.743Z_
 
 ## 🚀 Releases
 
-- **[HPX Registry a24f8294275d](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-a24f8294275d3e65cdaafaa1f2f6ba10ebe943ad)** `Sidiora-Labs/Paxeer-X-Network` — Revision-bound HPX registry runtime for a24f8294275d3e65cdaafaa1f2f6ba10ebe943ad. · 2026-09-29
+_Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[px26-leader px26-fm00 2026-09-29 main fcd8e99acb351b9d30bea113bc9650079c5f9303 Merge the browser-safe SDK entry into mai](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/fd62b1872952f76b3745f09d71680fed233f3b1a)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-29
-- **[px26-w266 px26-fm06 2026-09-29 wave/paxeer-x-wallet/6.13 fcd8e99acb351b9d30bea113bc9650079c5f9303 Give the wallet SDK a ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/c093a3b7c400ddfbaca897e4c27274b25a4f0e8d)** `Sidiora-Labs/Paxeer-X-Network` — gavin-sidiora · 2026-09-29
-- **[px26-leader px26-fm00 2026-09-29 main 0d5dd616769e4ce040347a953aa7c882c343d721 Merge the container unification into main](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a24f8294275d3e65cdaafaa1f2f6ba10ebe943ad)** `Sidiora-Labs/Paxeer-X-Network` — dev-paxeer · 2026-09-29
-- **[px26-w265 px26-fm06 2026-09-29 wave/paxeer-x-wallet/6.10 65003f3d36305aae4b766c68a07731c5252b62ae Move the chain, intero](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/35d075fac0bdad89300958f750aead3f0d53b4fe)** `Sidiora-Labs/Paxeer-X-Network` — jg-sidioralabs · 2026-09-29
-- **[px26-leader px26-fm00 2026-09-29 main c48ccc0ddce819ee5cce96344e35e19ddeca664c Merge the human service bring-up into mai](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a6d8ac6dcafbb5ce9f97352618728fead57b2e8c)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-29
-- **[px26-w265 px26-fm06 2026-09-29 wave/paxeer-x-wallet/6.10 f1c0657b5b87412ad131024821b2959dbe8b5d8e Move the platform serv](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/4095e860bd3bab0b9c4dd28fabaa65be1d789376)** `Sidiora-Labs/Paxeer-X-Network` — gavin-sidiora · 2026-09-29
-- **[px26-w264 px26-fm06 2026-09-29 wave/paxeer-x-wallet/6.1 fdf878ca5783e2a263d4e5d6933a5507c23765f5 Deploy the human servic](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/6bdaf3b62ef38bd7786066cd2536b7644377561f)** `Sidiora-Labs/Paxeer-X-Network` — dev-paxeer · 2026-09-29
-- **[px26-w265 px26-fm06 2026-09-29 wave/paxeer-x-wallet/6.10 96fae7bf2dfd88b235e54beaca7e83c500aaf7a1 Move the wallet PWA, w](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/28c7668eeaf831d868f09ceb8724c87809043530)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-29
+- **[px26-leader px26-fm00 2026-09-30 main 94557fb25d7a46fac036a02405afb3f7c6adbb18 Merge the bring-up feature into main: the](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/96b5a351c9e1fca565aa821eab8a3920e082df68)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-30
+- **[px26-fm07 px26-fm07 2026-09-30 feature/paxeer-x-bringup 94557fb25d7a46fac036a02405afb3f7c6adbb18 Merge the wallet PWA hu](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/4de2721bb42b7f9cad90e882a0d411663c429c55)** `Sidiora-Labs/Paxeer-X-Network` — dev-paxeer · 2026-09-30
+- **[px26-leader px26-fm00 2026-09-30 main e552f7b546dadabac6b1ed3602a40f0bde277b10 Merge the bring-up feature into main: the](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2fa7983ca852965b61231f28a2881531e3465f65)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-30
+- **[px26-fm07 px26-fm07 2026-09-30 feature/paxeer-x-bringup e552f7b546dadabac6b1ed3602a40f0bde277b10 Set the edge registrati](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/26b211c9ccba18c31c51a4bae828cf17e185902e)** `Sidiora-Labs/Paxeer-X-Network` — gavin-sidiora · 2026-09-30
+- **[px26-w319 px26-fm07 2026-09-30 wave/paxeer-x-bringup/3.7 063923751bc5e0139d679098aecd18398f40d647 Add the human-session ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2f1b704378cd05a218074d8c2b602dc6646c67df)** `Sidiora-Labs/Paxeer-X-Network` — dev-paxeer · 2026-09-30
+- **[px26-leader px26-fm00 2026-09-30 main cc9c24faefec9b8af84b9a8c11e2f6f4579b7b91 Merge the bring-up feature into main: the](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2744e1a11eaae7b8063cf536ce2a2572f0fb05c0)** `Sidiora-Labs/Paxeer-X-Network` — jg-sidioralabs · 2026-09-30
+- **[px26-fm07 px26-fm07 2026-09-30 feature/paxeer-x-bringup cc9c24faefec9b8af84b9a8c11e2f6f4579b7b91 Merge the edge registra](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/12d05f76b940b21ffd1476bdc7c29026950bd1a3)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-30
+- **[px26-w500 px26-fm07 2026-09-30 wave/paxeer-x-bringup/0.9 cc9c24faefec9b8af84b9a8c11e2f6f4579b7b91 Record router edge reg](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/99357d8761d8edc43c0cce582c8384f1276ed4cb)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/c296d5c2791cc6215e45a2d207223bf7ad180892)** `Sidiora-Labs/centra-gideon-agent` — dev-paxeer · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/3a957160bd273d7fd079fa55bf8d0fcd124ee787)** `Sidiora-Labs/centra-gideon-agent` — gavin-sidiora · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/3f50ca0ec139e0e3acecd2cf1f94d8fbe7a5fedf)** `Sidiora-Labs/centra-gideon-agent` — dev-paxeer · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/5f2aa41b031860df61ddecf9df4afc17ca2c1d64)** `Sidiora-Labs/centra-gideon-agent` — gavin-sidiora · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/ac9e482bc2681869f7e83948e7e66d815afe10e1)** `Sidiora-Labs/centra-gideon-agent` — paxlabs-inc · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/8ced39aaefe7df71cce37956be092fda63fa7c0e)** `Sidiora-Labs/centra-gideon-agent` — dev-paxeer · 2026-09-30
+- **[gu26-leader](https://github.com/Sidiora-Labs/centra-gideon-agent/commit/685f96d2a39a9584b8cf797b2b2d7f821aa6b882)** `Sidiora-Labs/centra-gideon-agent` — paxlabs-inc · 2026-09-30
 
 ## 🆕 New repos on the radar
 
@@ -23,53 +30,54 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[⚡ xbeeear · 大二秋季高能时间骨架与可插拔任务卡系统 (PWA / Responsive Schedule)](https://github.com/xiongpc520-hub/schedule)** `xiongpc520-hub/schedule` — HTML · ★1 · #pwa · 2026-09-29
-- **[Production-ready website audit API featuring asynchronous scraping, SSRF protection, caching, rate limiting, and CI/CD. ](https://github.com/tnuislostq/SitePulse)** `tnuislostq/SitePulse` — Python · ★1 · #web-scraping · 2026-09-29
-- **[Telegram bot that pulls a student's diary from nz.ua, finds the homework, locates the exercise in the textbook PDF (opti](https://github.com/tarilka0gg/nz-dz-helper)** `tarilka0gg/nz-dz-helper` — Python · ★3 · #telegram-bot · 2026-09-29
-- **[Self-hosted job aggregator that scores postings against your resume with Claude and writes a tailored resume and cover l](https://github.com/vadimermolenko8787/jobchecker)** `vadimermolenko8787/jobchecker` — PHP · ★2 · #telegram-bot · 2026-09-29
-- **[Multi-modal speech prosody and vocal sentiment analyzer detecting speech rate, pitch variance, and user cognitive fatigu](https://github.com/Alpha-Park/genpark-multimodal-voice-prosody-sentiment-analyzer-skill)** `Alpha-Park/genpark-multimodal-voice-prosody-sentiment-analyzer-skill` — Python · ★7 · #ai-agent · 2026-09-29
-- **[Voice-first desktop assistant for Windows — talk to your PC and it works inside real apps, safely. By VORNEX.](https://github.com/VORNEX-01/JARVIS-VORNEX)** `VORNEX-01/JARVIS-VORNEX` — Python · ★9 · #automation · 2026-09-29
-- **[WordPress plugin that scrapes and categorizes UK B2B exhibition listings, with search, registration, and admin dashboard](https://github.com/devhimoco/UKExhibition-Wordpress-Plugin)** `devhimoco/UKExhibition-Wordpress-Plugin` — PHP · ★1 · #web-scraping · 2026-09-29
-- **[Autonomous Multi-Channel Content QA Pipeline with Llama-3, anti-cliche reviewer gate, and Telegram HITL.](https://github.com/therealfullmetal55555/content-qa-pipeline)** `therealfullmetal55555/content-qa-pipeline` — Python · ★1 · #telegram-bot · 2026-09-29
-- **[一句话生成手机上能点、能筛选、能导航的城市美食地图：抖音挖本地人真吃的店 + 高德定位 + GitHub Pages 永久托管。AionUi skill / mobile-first city food map generator.](https://github.com/gcy6630/city-food-map-skill)** `gcy6630/city-food-map-skill` — JavaScript · ★1 · #web-scraping · 2026-09-29
-- **[Portable engineering workflows for AI coding agents — 35 playbooks for bug fixing, feature development, code review, tes](https://github.com/chiragmangaldev3112/agent-playbooks)** `chiragmangaldev3112/agent-playbooks` — Shell · ★4 · #automation · 2026-09-29
-- **[Grounded RAG Customer Support & Human Handoff Help Desk with n8n, Qdrant, Gemini, Postgres memory, and Telegram.](https://github.com/therealfullmetal55555/brewcraft-rag-support)** `therealfullmetal55555/brewcraft-rag-support` — HTML · ★1 · #telegram-bot · 2026-09-29
-- **[Mojito — the local, evolving alternative to cloud personal AI like Meta Muse.](https://github.com/TimeLovercc/mojito)** `TimeLovercc/mojito` — Python · ★9 · #ai-agent · 2026-09-29
-- **[Production-proven stateful AI wellness coaching architecture: nutrition, adaptive training, clinical guardrails, multimo](https://github.com/cryptocarouge/stateful-wellness-coach-ai-agent)** `cryptocarouge/stateful-wellness-coach-ai-agent` — Python · ★1 · #telegram-bot · 2026-09-29
-- **[🌟 رِسا — Telegram Post Studio + Premium Emoji Engine + Rich Buttons + Mini App — Bot API 10.3 | Cloudflare Workers](https://github.com/Alisarani7021/RasaRichBot)** `Alisarani7021/RasaRichBot` — JavaScript · ★1 · #telegram-bot · 2026-09-28
-- **[Node.js example for Grailed seller profiles, reviews, and sold-item data](https://github.com/piotrv1001/how-to-scrape-grailed-seller-reviews-in-nodejs)** `piotrv1001/how-to-scrape-grailed-seller-reviews-in-nodejs` — JavaScript · ★1 · #web-scraping · 2026-09-28
+- **[【页流幻灯片管理平台】单页 PPT 编目、授权、组合与放映](https://github.com/HawkonS/slide-flow)** `HawkonS/slide-flow` — Python · ★1 · #pwa · 2026-09-30
+- **[Automated MiniMax Agent account signup + daily check-in + JWT/cookie harvester. Uses Zenvex disposable email and Playwri](https://github.com/0xgetz/minimax-agent-automation)** `0xgetz/minimax-agent-automation` — Python · ★5 · #automation · 2026-09-30
+- **[Meridian HRMS by Broadmate Global — open-source multi-tenant HR, attendance (GPS + face) and payroll PWA for Indian comp](https://github.com/nitishjhavats/Meridian-HRMS)** `nitishjhavats/Meridian-HRMS` — TypeScript · ★1 · #pwa · 2026-09-30
+- **[Spicrawl CLI: scrape any URL to Markdown or JSON from your terminal, batch-scrape up to 10,000 URLs, and connect Claude ](https://github.com/Spicrawl/cli)** `Spicrawl/cli` — Go · ★2 · #web-scraping · 2026-09-30
+- **[GKN全球信息采集程序：简易好用的网页栏目爬取与关键词检索工具，可接深度搜索和AI摘要、研判、标签API，融入自动化追踪，也可交给agent部署。 Global Knowledge Crawl Pipeline (by GKN): trac](https://github.com/workstonedai-collab/global-knowledge-crawl-pipeline)** `workstonedai-collab/global-knowledge-crawl-pipeline` — Python · ★2 · #web-scraping · 2026-09-30
+- **[Talk to your Claude Code sessions from your phone or your car's browser — voice & touch, English/Turkish](https://github.com/emiralpayar/dashcall)** `emiralpayar/dashcall` — JavaScript · ★5 · #pwa · 2026-09-30
+- **[Craft your own AI agent: a real Agent Skill (SKILL.md) with a job, rules and a personality. Keep your team in one folder](https://github.com/Helpercraft/helpercraft)** `Helpercraft/helpercraft` — HTML · ★1 · #pwa · 2026-09-30
+- **[Agentic AI summarizer that compresses source code and technical theory into meaningful summaries. Focus keywords, source](https://github.com/Nikhil-creat/summerize_ai)** `Nikhil-creat/summerize_ai` — HTML · ★2 · #pwa · 2026-09-30
+- **[Agentic OPAV speaker health & bio-acoustic suite: Digital Twin, thermal/excursion safety governor, Hyper Clean 60 Hz–20 ](https://github.com/Nikhil-creat/aeroacoustic-ai)** `Nikhil-creat/aeroacoustic-ai` — JavaScript · ★2 · #pwa · 2026-09-30
+- **[Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.](https://github.com/feder-cr/dots)** `feder-cr/dots` — Python · ★1926 · #ai-agent · 2026-09-29
+- **[Rust rewrite of TelegramHelper: userbot + control bot (grammers), localhost dashboard, Zig SIMD helpers](https://github.com/tarilka0gg/telegram-helper-rs)** `tarilka0gg/telegram-helper-rs` — Rust · ★5 · #telegram-bot · 2026-09-29
+- **[Unofficial Guild Wars 2 crafting-tree visualizer: interactive recipe graphs, Mystic Forge recipes, cheapest paths and sh](https://github.com/BrettWhitson/gw2-visualizer)** `BrettWhitson/gw2-visualizer` — JavaScript · ★1 · #pwa · 2026-09-29
+- **[双击一个文件，给 DeepSeek Harness 注入操作者人格：不拒绝、不中途停、全力执行。只写你自己的文件、官方安装目录零改动、改完下一句对话就生效（不用重启）、改前自动备份可一键还原。纯 Python 标准库，零依赖、零网络请求。](https://github.com/z91772524-ai/pojia-dsh)** `z91772524-ai/pojia-dsh` — Python · ★5 · #automation · 2026-09-29
+- **[Automated swap bot for Stabilizer Phase 2 on Arbitrum Sepolia — support multi-account, random swaps, amounts, delays, an](https://github.com/TINGLISE/Auto-Swap-Bot-Stabilizer-Phase-2)** `TINGLISE/Auto-Swap-Bot-Stabilizer-Phase-2` — JavaScript · ★3 · #automation · 2026-09-29
+- **[The open-source brain for personal AI agents. One agent for every user of your app, with memory, schedules, tools and ap](https://github.com/AgentForEach/AgentForEach)** `AgentForEach/AgentForEach` — TypeScript · ★6 · #telegram-bot · 2026-09-29
 
 ## 📣 Show HN launches
 
-- **[Show HN: RouteMind – routing instead of retrieval for agent knowledge](https://github.com/CSP911/routemind)** `Show HN #49897711` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: OpenDots – model agnostic alternative to OpenAI's Dots](https://github.com/diggerhq/opendots)** `Show HN #49897591` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: Taijora – AI-assisted Bazi and Chinese astrology charting](https://taijora.com/zh-hant)** `Show HN #49897522` — 1 pts · 0 comments · 2026-09-29
-- **[Show HN: Worlds, local replicas of Stripe and Zendesk for testing AI agents](https://www.usesparta.co/)** `Show HN #49897497` — 1 pts · 0 comments · 2026-09-29
-- **[Show HN: Binary Code Translator – free browser-based text↔binary converter](https://binarycodetranslator.org/)** `Show HN #49897350` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: Last Internet Connection](https://reparadoxy.itch.io/last-internet-connection)** `Show HN #49897196` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: Greek and Cypriot Greek TTS that runs faster than real time on CPU](https://huggingface.co/myned-ai/pocket-tts-greek)** `Show HN #49896938` — 1 pts · 0 comments · 2026-09-29
-- **[Show HN: A working 3D model of an Enigma machine](https://enigma.design)** `Show HN #49896757` — 3 pts · 0 comments · 2026-09-29
-- **[Show HN: Orderbook – a matching engine in Go, tested against a second one](https://github.com/intrepidkarthi/orderbook)** `Show HN #49896718` — 1 pts · 0 comments · 2026-09-29
-- **[Show HN: ChooseBrowser – route Mac links to a Chrome profile by URL rules](https://choosebrowser.leeguoo.com/download)** `Show HN #49896673` — 1 pts · 1 comments · 2026-09-29
-- **[Show HN: Iiveg.app – Find vegan food, restaurants and cosmetics around the world](https://iiveg.app/)** `Show HN #49896651` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: Retro Metro – Play Retro Games from the Browser](https://retro-metro.xyz/arcade/)** `Show HN #49896592` — 1 pts · 0 comments · 2026-09-29
-- **[Show HN: Helping small business owners automate their front of house](https://essencetheapp.com)** `Show HN #49896439` — 2 pts · 0 comments · 2026-09-29
-- **[Show HN: Text alerts when Codex resets are announced](https://resetalerts.com)** `Show HN #49896361` — 3 pts · 2 comments · 2026-09-29
-- **[Show HN: Magic 8 Ball powered by Jev](https://jevball.rorz.io/)** `Show HN #49896340` — 1 pts · 0 comments · 2026-09-29
+- **[Show HN: We stress-tested LangGraph with an evolutionary fuzzer](https://github.com/zariffromlatif/life-forge)** `Show HN #49912241` — 1 pts · 0 comments · 2026-09-30
+- **[Show HN: "Music Theory Duolingo" on ChatGPT (Or Muse, Claude, etc.)](https://raywu.org/music-theory-agent-on-chatgpt)** `Show HN #49912217` — 1 pts · 0 comments · 2026-09-30
+- **[Show HN: Hypercolor – Epic RGB orchestration for everything](https://github.com/hyperb1iss/hypercolor)** `Show HN #49912208` — 1 pts · 0 comments · 2026-09-30
+- **[Show HN: I made a techmeme for EdTech with Jev](https://edfountain.com/)** `Show HN #49912171` — 1 pts · 0 comments · 2026-09-30
+- **[Show HN: Quiet – exploring when an AI assistant should intervene](https://quiet-hci.pages.dev)** `Show HN #49912153` — 2 pts · 0 comments · 2026-09-30
+- **[Show HN: Let's Chat – A retro mIRC-style web chat app](https://letschat.exepad.app/)** `Show HN #49912062` — 1 pts · 0 comments · 2026-09-30
+- **[Show HN: Kyno – Direction as a first-class primitive for AI agents](https://cizambra.github.io/kyno/)** `Show HN #49911977` — 4 pts · 0 comments · 2026-09-30
+- **[Show HN: I built a free Burp/Caido alternative that needs zero setup](https://apiaxess.dev)** `Show HN #49911931` — 17 pts · 5 comments · 2026-09-30
+- **[Show HN: Token compression CLI to save Codex/Astra costs](https://news.ycombinator.com/item?id=49911910)** `Show HN #49911910` — 7 pts · 4 comments · 2026-09-30
+- **[Show HN: Honorfit – a pushup app blocker for your phone](https://honorfitapp.com/)** `Show HN #49911899` — 5 pts · 1 comments · 2026-09-30
+- **[Show HN: Transcrever Entrevista – browser-based interview transcription](https://transcreverentrevista.com/)** `Show HN #49911745` — 3 pts · 0 comments · 2026-09-30
+- **[Show HN: Died of Exposure](https://honeywired.com/games/died-of-exposure/)** `Show HN #49911559` — 4 pts · 0 comments · 2026-09-30
+- **[Show HN: An OSS text to CAD MCP and API](https://github.com/Zesuperaker/scratchcad)** `Show HN #49911523` — 3 pts · 0 comments · 2026-09-30
+- **[Show HN: Open-source model routing for coding agents at Astra-level performance](https://news.ycombinator.com/item?id=49911500)** `Show HN #49911500` — 4 pts · 0 comments · 2026-09-30
+- **[Show HN: Sedum – Playwright tests in English, cheap enough to run on every PR](https://github.com/sedum-dev/sedum)** `Show HN #49911464` — 3 pts · 1 comments · 2026-09-30
 
 ## 💌 GitHub Trending (daily)
 
-- **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `NVIDIA/OpenShell` — Rust
-- **[t8y2/dbx](https://github.com/t8y2/dbx)** `t8y2/dbx` — Rust
-- **[oblien/openship](https://github.com/oblien/openship)** `oblien/openship` — TypeScript
-- **[averygan/reclip](https://github.com/averygan/reclip)** `averygan/reclip` — HTML
-- **[sponsors/VectifyAI](https://github.com/sponsors/VectifyAI)** `sponsors/VectifyAI` — Python
-- **[rakyll/hey](https://github.com/rakyll/hey)** `rakyll/hey` — Go
-- **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc)** `chrisryugj/kordoc` — TypeScript
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** `cloudflare/vinext` — TypeScript
-- **[cypress-io/cypress](https://github.com/cypress-io/cypress)** `cypress-io/cypress` — TypeScript
-- **[sponsors/VoltAgent](https://github.com/sponsors/VoltAgent)** `sponsors/VoltAgent` — TypeScript
-- **[OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)** `OpenCTI-Platform/opencti` — TypeScript
+- **[sponsors/mksglu](https://github.com/sponsors/mksglu)** `sponsors/mksglu` — TypeScript
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `modelcontextprotocol/servers` — TypeScript
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `firecrawl/firecrawl` — TypeScript
+- **[makeplane/plane](https://github.com/makeplane/plane)** `makeplane/plane` — TypeScript
+- **[homarr-labs/homarr](https://github.com/homarr-labs/homarr)** `homarr-labs/homarr` — TypeScript
+- **[aipoch/open-science](https://github.com/aipoch/open-science)** `aipoch/open-science` — TypeScript
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** `anthropics/claude-code` — TypeScript
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `OpenHands/OpenHands` — TypeScript
+
+## ⚠️ Sources that failed
+
+- trending · overall: HTTP 502
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
