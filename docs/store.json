@@ -1,6 +1,78 @@
 {
   "apps": [
     {
+      "id": "app:lhfer/factory-switcher",
+      "name": "factory-switcher",
+      "repo": "lhfer/factory-switcher",
+      "desc": "🔁 Native macOS menu-bar app to switch between your own Factory (Droid) accounts — quota at a glance, backup-first switc",
+      "url": "https://github.com/lhfer/factory-switcher",
+      "when": "2026-10-01T05:24:35Z",
+      "note": "Swift · ★11 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
+      "name": "genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
+      "repo": "Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
+      "desc": "GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discover",
+      "url": "https://github.com/Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
+      "when": "2026-10-01T02:33:05Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:cmoraes10/loci",
+      "name": "loci",
+      "repo": "cmoraes10/loci",
+      "desc": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
+      "url": "https://github.com/cmoraes10/loci",
+      "when": "2026-10-01T01:09:03Z",
+      "note": "Python · ★23 · #mcp-server"
+    },
+    {
+      "id": "app:exfador/cxh-fp",
+      "name": "cxh-fp",
+      "repo": "exfador/cxh-fp",
+      "desc": "🦊 CXH FP — управление магазином FunPay через Telegram: заказы, лоты, автовыдача, плагины и подписанные обновления.",
+      "url": "https://github.com/exfador/cxh-fp",
+      "when": "2026-09-30T23:01:29Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:SanyaSS111/jarvis",
+      "name": "jarvis",
+      "repo": "SanyaSS111/jarvis",
+      "desc": "J.A.R.V.I.S. — ИИ-агент для Windows: лаунчер, локальные модели, картинки, Telegram-бот",
+      "url": "https://github.com/SanyaSS111/jarvis",
+      "when": "2026-09-30T22:28:33Z",
+      "note": "JavaScript · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:VoltEmperorChaos/ai-agent-for-pc",
+      "name": "ai-agent-for-pc",
+      "repo": "VoltEmperorChaos/ai-agent-for-pc",
+      "desc": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
+      "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+      "when": "2026-09-30T18:42:11Z",
+      "note": "— · ★46 · #ai-agent"
+    },
+    {
+      "id": "app:Stxqq/aevori-app",
+      "name": "aevori-app",
+      "repo": "Stxqq/aevori-app",
+      "desc": "Local AI chat and personal agents for macOS. Ollama-powered conversations, customizable characters, controllable memory,",
+      "url": "https://github.com/Stxqq/aevori-app",
+      "when": "2026-09-30T18:13:48Z",
+      "note": "TypeScript · ★16 · #ai-agent"
+    },
+    {
+      "id": "app:produtoramaxvision/DeckTech",
+      "name": "DeckTech",
+      "repo": "produtoramaxvision/DeckTech",
+      "desc": "O DeckTech transforma um Mac ou PC Windows em host de um dock remoto para Android, iPhone e navegador na rede local. Est",
+      "url": "https://github.com/produtoramaxvision/DeckTech",
+      "when": "2026-09-30T15:44:04Z",
+      "note": "— · ★2 · #pwa"
+    },
+    {
       "id": "app:HawkonS/slide-flow",
       "name": "slide-flow",
       "repo": "HawkonS/slide-flow",
@@ -8,6 +80,33 @@
       "url": "https://github.com/HawkonS/slide-flow",
       "when": "2026-09-30T15:39:08Z",
       "note": "Python · ★1 · #pwa"
+    },
+    {
+      "id": "app:OMG-Guest/Halo-Mobile",
+      "name": "Halo-Mobile",
+      "repo": "OMG-Guest/Halo-Mobile",
+      "desc": "🔥 Halo CE in your browser: mobile touch controls, streamed maps, System Link, and WebAssembly absurdity.",
+      "url": "https://github.com/OMG-Guest/Halo-Mobile",
+      "when": "2026-09-30T15:27:58Z",
+      "note": "C · ★2 · #pwa"
+    },
+    {
+      "id": "app:SergeyGer/AlphaAgent",
+      "name": "AlphaAgent",
+      "repo": "SergeyGer/AlphaAgent",
+      "desc": "Autonomous multi-agent investment platform: Django 5 + DRF, Celery/Redis, PostgreSQL, and a CrewAI bull-vs-bear debate b",
+      "url": "https://github.com/SergeyGer/AlphaAgent",
+      "when": "2026-09-30T15:08:25Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:renfei421/ResearchPilot",
+      "name": "ResearchPilot",
+      "repo": "renfei421/ResearchPilot",
+      "desc": "Evidence-grounded academic research agent with claim verification, prior-work analysis, and persistent research workspac",
+      "url": "https://github.com/renfei421/ResearchPilot",
+      "when": "2026-09-30T12:54:09Z",
+      "note": "Python · ★10 · #ai-agent"
     },
     {
       "id": "app:0xgetz/minimax-agent-automation",
@@ -46,6 +145,15 @@
       "note": "Python · ★2 · #web-scraping"
     },
     {
+      "id": "app:alphaparkinc/genpark-agentic-delegated-escrow-settlement-ledger-skill",
+      "name": "genpark-agentic-delegated-escrow-settlement-ledger-skill",
+      "repo": "alphaparkinc/genpark-agentic-delegated-escrow-settlement-ledger-skill",
+      "desc": "Cryptographic Delegated Agentic Commerce Escrow & Settlement Ledger (inspired by Mastercard Agent Connect & Stripe Split",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-delegated-escrow-settlement-ledger-skill",
+      "when": "2026-09-30T03:50:30Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
       "id": "app:emiralpayar/dashcall",
       "name": "dashcall",
       "repo": "emiralpayar/dashcall",
@@ -53,6 +161,15 @@
       "url": "https://github.com/emiralpayar/dashcall",
       "when": "2026-09-30T03:40:17Z",
       "note": "JavaScript · ★5 · #pwa"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-enterprise-knowledge-graph-provenance-tracer-skill",
+      "name": "genpark-enterprise-knowledge-graph-provenance-tracer-skill",
+      "repo": "alphaparkinc/genpark-enterprise-knowledge-graph-provenance-tracer-skill",
+      "desc": "Enterprise Knowledge Graph Provenance & Anti-Hallucination Tracer (inspired by Tencent Docs, Meeting & Enterprise Knowle",
+      "url": "https://github.com/alphaparkinc/genpark-enterprise-knowledge-graph-provenance-tracer-skill",
+      "when": "2026-09-30T03:12:23Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
       "id": "app:Helpercraft/helpercraft",
@@ -91,6 +208,15 @@
       "note": "Python · ★1926 · #ai-agent"
     },
     {
+      "id": "app:SmokeyS30/orbit-buddy",
+      "name": "orbit-buddy",
+      "repo": "SmokeyS30/orbit-buddy",
+      "desc": "Privacy-first, self-hostable persistent AI buddy for web, Mac, and iPhone.",
+      "url": "https://github.com/SmokeyS30/orbit-buddy",
+      "when": "2026-09-29T22:50:19Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
       "id": "app:tarilka0gg/telegram-helper-rs",
       "name": "telegram-helper-rs",
       "repo": "tarilka0gg/telegram-helper-rs",
@@ -125,6 +251,15 @@
       "url": "https://github.com/TINGLISE/Auto-Swap-Bot-Stabilizer-Phase-2",
       "when": "2026-09-29T18:11:13Z",
       "note": "JavaScript · ★3 · #automation"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agentic-payment-tokenized-authorization-sentinel-skill",
+      "name": "genpark-agentic-payment-tokenized-authorization-sentinel-skill",
+      "repo": "alphaparkinc/genpark-agentic-payment-tokenized-authorization-sentinel-skill",
+      "desc": "Cryptographic Agent Delegated Payment Authorization & Tokenized Checkout Sentinel (inspired by Mastercard Agent Connect,",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-payment-tokenized-authorization-sentinel-skill",
+      "when": "2026-09-29T16:25:41Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
       "id": "app:AgentForEach/AgentForEach",
@@ -163,6 +298,24 @@
       "note": "Python · ★3 · #telegram-bot"
     },
     {
+      "id": "app:alphaparkinc/genpark-cognitive-load-budget-optimizer-skill",
+      "name": "genpark-cognitive-load-budget-optimizer-skill",
+      "repo": "alphaparkinc/genpark-cognitive-load-budget-optimizer-skill",
+      "desc": "Dynamic Cognitive Load, Latency & Token Budget Router. Monitors running agent loops, estimates token consumption and mon",
+      "url": "https://github.com/alphaparkinc/genpark-cognitive-load-budget-optimizer-skill",
+      "when": "2026-09-29T09:29:57Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-execution-tree-rollback-checkpointer-skill",
+      "name": "genpark-agent-execution-tree-rollback-checkpointer-skill",
+      "repo": "Alpha-Park/genpark-agent-execution-tree-rollback-checkpointer-skill",
+      "desc": "Autonomous Agent Tree-of-Thoughts (ToT) State Rollback Checkpointer. Allows long-running personal agents (Manus, Devin) ",
+      "url": "https://github.com/Alpha-Park/genpark-agent-execution-tree-rollback-checkpointer-skill",
+      "when": "2026-09-29T09:26:16Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
       "id": "app:vadimermolenko8787/jobchecker",
       "name": "jobchecker",
       "repo": "vadimermolenko8787/jobchecker",
@@ -170,6 +323,15 @@
       "url": "https://github.com/vadimermolenko8787/jobchecker",
       "when": "2026-09-29T09:22:45Z",
       "note": "PHP · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+      "name": "genpark-personal-vault-zero-knowledge-sanitizer-skill",
+      "repo": "Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+      "desc": "Local-first zero-knowledge personal vault encryptor and PII sanitizer masking credentials, credit cards, and addresses b",
+      "url": "https://github.com/Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+      "when": "2026-09-29T09:21:28Z",
+      "note": "Python · ★7 · #ai-agent"
     },
     {
       "id": "app:Alpha-Park/genpark-multimodal-voice-prosody-sentiment-analyzer-skill",
@@ -187,6 +349,15 @@
       "desc": "Multi-modal speech prosody and vocal sentiment analyzer detecting speech rate, pitch variance, and user cognitive fatigu",
       "url": "https://github.com/alphaparkinc/genpark-multimodal-voice-prosody-sentiment-analyzer-skill",
       "when": "2026-09-29T09:19:56Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-recursive-self-critique-reflection-skill",
+      "name": "genpark-agent-recursive-self-critique-reflection-skill",
+      "repo": "Alpha-Park/genpark-agent-recursive-self-critique-reflection-skill",
+      "desc": "Multi-agent recursive self-critique and reflection engine executing iterative evaluation-revision loops to autonomously ",
+      "url": "https://github.com/Alpha-Park/genpark-agent-recursive-self-critique-reflection-skill",
+      "when": "2026-09-29T09:17:03Z",
       "note": "Python · ★7 · #mcp-server"
     },
     {
@@ -235,6 +406,15 @@
       "note": "Rust · ★9 · #mcp-server"
     },
     {
+      "id": "app:starity777-byte/naituan",
+      "name": "naituan",
+      "repo": "starity777-byte/naituan",
+      "desc": "🐾 一只住在手机里的白色小熊猫：摸摸、喂小鱼、玩小游戏、布置小窝。打开即玩的网页养成小游戏。",
+      "url": "https://github.com/starity777-byte/naituan",
+      "when": "2026-09-29T07:32:17Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
       "id": "app:chiragmangaldev3112/agent-playbooks",
       "name": "agent-playbooks",
       "repo": "chiragmangaldev3112/agent-playbooks",
@@ -251,6 +431,15 @@
       "url": "https://github.com/hamedmit/python-job-scraper",
       "when": "2026-09-29T06:53:24Z",
       "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:Digisensus/digisensus-recorder",
+      "name": "digisensus-recorder",
+      "repo": "Digisensus/digisensus-recorder",
+      "desc": "Free, open source call recorder and bot-free AI meeting note taker for Mac: record Zoom, Meet, Teams, FaceTime, WhatsApp",
+      "url": "https://github.com/Digisensus/digisensus-recorder",
+      "when": "2026-09-29T05:57:42Z",
+      "note": "Swift · ★8 · #mcp-server"
     },
     {
       "id": "app:therealfullmetal55555/brewcraft-rag-support",
@@ -280,6 +469,15 @@
       "note": "Python · ★9 · #ai-agent"
     },
     {
+      "id": "app:alphaparkinc/genpark-personal-agent-unified-autonomous-copilot-skill",
+      "name": "genpark-personal-agent-unified-autonomous-copilot-skill",
+      "repo": "alphaparkinc/genpark-personal-agent-unified-autonomous-copilot-skill",
+      "desc": "Master cognitive personal copilot integrating Today AI (agenda), Manus (autonomous sandbox), Cue (ambient cues), Instinc",
+      "url": "https://github.com/alphaparkinc/genpark-personal-agent-unified-autonomous-copilot-skill",
+      "when": "2026-09-29T01:53:26Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
       "id": "app:cryptocarouge/stateful-wellness-coach-ai-agent",
       "name": "stateful-wellness-coach-ai-agent",
       "repo": "cryptocarouge/stateful-wellness-coach-ai-agent",
@@ -287,6 +485,24 @@
       "url": "https://github.com/cryptocarouge/stateful-wellness-coach-ai-agent",
       "when": "2026-09-29T01:52:23Z",
       "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-manus-autonomous-generalist-sandbox-executor-skill",
+      "name": "genpark-manus-autonomous-generalist-sandbox-executor-skill",
+      "repo": "alphaparkinc/genpark-manus-autonomous-generalist-sandbox-executor-skill",
+      "desc": "General-purpose autonomous task decomposition, multi-modal web/sandbox execution loop, and self-correcting goal resoluti",
+      "url": "https://github.com/alphaparkinc/genpark-manus-autonomous-generalist-sandbox-executor-skill",
+      "when": "2026-09-29T01:50:01Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-rate-limit-token-bucket-regulator-skill",
+      "name": "genpark-agent-rate-limit-token-bucket-regulator-skill",
+      "repo": "Alpha-Park/genpark-agent-rate-limit-token-bucket-regulator-skill",
+      "desc": "Multi-provider token-bucket and sliding-window rate limiter preventing TPM/RPM throttling across LLM APIs with predictiv",
+      "url": "https://github.com/Alpha-Park/genpark-agent-rate-limit-token-bucket-regulator-skill",
+      "when": "2026-09-29T00:58:46Z",
+      "note": "Python · ★7 · #ai-agent"
     },
     {
       "id": "app:Alpha-Park/genpark-agent-hallucination-fact-verifier-skill",
@@ -1583,223 +1799,7 @@
       "url": "https://github.com/bablobanov/hermes-agent-telegram-dashboard",
       "when": "2026-09-24T17:49:55Z",
       "note": "Python · ★4 · #telegram-bot"
-    },
-    {
-      "id": "app:engasnm111/lnwjud-watcher",
-      "name": "lnwjud-watcher",
-      "repo": "engasnm111/lnwjud-watcher",
-      "desc": "lnwjud Watcher — read-only live monitoring companion for lnwjud on Desktop, Web/PWA, Android, and iOS",
-      "url": "https://github.com/engasnm111/lnwjud-watcher",
-      "when": "2026-09-24T16:52:21Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:red16124724/Aurum-Clipper",
-      "name": "Aurum-Clipper",
-      "repo": "red16124724/Aurum-Clipper",
-      "desc": "AI-powered short-form video clipper with local Whisper transcription, Google Gemini virality scoring, and ASS kinetic su",
-      "url": "https://github.com/red16124724/Aurum-Clipper",
-      "when": "2026-09-24T16:52:19Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:wasaybuilds/lead-finder",
-      "name": "lead-finder",
-      "repo": "wasaybuilds/lead-finder",
-      "desc": "Free local app to find founders, decision makers & HR emails at agencies and tech startups by country, state & company s",
-      "url": "https://github.com/wasaybuilds/lead-finder",
-      "when": "2026-09-24T16:14:51Z",
-      "note": "HTML · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:WncFht/winnow",
-      "name": "winnow",
-      "repo": "WncFht/winnow",
-      "desc": "Winnow/风选 — daily AI-news pipeline: ~160 sources in, one narrated mp4 out. Two human gates, deadline-autopilot, offline-",
-      "url": "https://github.com/WncFht/winnow",
-      "when": "2026-09-24T15:31:09Z",
-      "note": "TypeScript · ★3 · #automation"
-    },
-    {
-      "id": "app:sharon-schwaab/gans-etl-pipeline-python-mysql",
-      "name": "gans-etl-pipeline-python-mysql",
-      "repo": "sharon-schwaab/gans-etl-pipeline-python-mysql",
-      "desc": "Gans E-Scooter ETL Pipeline with Python, APIs & MySQL",
-      "url": "https://github.com/sharon-schwaab/gans-etl-pipeline-python-mysql",
-      "when": "2026-09-24T15:14:24Z",
-      "note": "Jupyter Notebook · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:DavidVoitenko/proxy-workbench",
-      "name": "proxy-workbench",
-      "repo": "DavidVoitenko/proxy-workbench",
-      "desc": "Free proxies that actually work for YOUR sites: collects 55 public lists, checks HTTP/HTTPS/SOCKS4/SOCKS5 against your s",
-      "url": "https://github.com/DavidVoitenko/proxy-workbench",
-      "when": "2026-09-24T14:31:09Z",
-      "note": "Python · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:MadestSamurai/bd2-equipment-assistant",
-      "name": "bd2-equipment-assistant",
-      "repo": "MadestSamurai/bd2-equipment-assistant",
-      "desc": "Standalone equipment assistant for BrownDust II on Windows. Chinese/English UI; Portable/Lite releases.",
-      "url": "https://github.com/MadestSamurai/bd2-equipment-assistant",
-      "when": "2026-09-24T14:08:23Z",
-      "note": "C# · ★3 · #automation"
-    },
-    {
-      "id": "app:TopDeckhandBlock/grok-x-farm",
-      "name": "grok-x-farm",
-      "repo": "TopDeckhandBlock/grok-x-farm",
-      "desc": "Grok/X farming suite — account pool, grok2api gateway, X parser farm, roast verify. Full pipeline.",
-      "url": "https://github.com/TopDeckhandBlock/grok-x-farm",
-      "when": "2026-09-24T14:00:49Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:zmflm0110/bike-doctor",
-      "name": "bike-doctor",
-      "repo": "zmflm0110/bike-doctor",
-      "desc": "헛걸음 제로 — 따릉이 '빌리자마자 반납' 기록으로, 아무도 신고하지 않은 고장 자전거를 실시간으로 찾는다. 서울·대전 약 1천만 건 검증, 공개 데이터만 사용.",
-      "url": "https://github.com/zmflm0110/bike-doctor",
-      "when": "2026-09-24T13:43:05Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:maximilianfeix/proxy-scraper",
-      "name": "proxy-scraper",
-      "repo": "maximilianfeix/proxy-scraper",
-      "desc": "Free proxies that actually work: 700+ sources, every hit verified (honeypots, injected scripts, TLS), a live list every ",
-      "url": "https://github.com/maximilianfeix/proxy-scraper",
-      "when": "2026-09-24T12:33:28Z",
-      "note": "Python · ★5 · #web-scraping"
-    },
-    {
-      "id": "app:piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
-      "name": "how-to-scrape-shopify-product-variants-in-nodejs",
-      "repo": "piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
-      "desc": "Node.js example for auditing Shopify product variants with Apify",
-      "url": "https://github.com/piotrv1001/how-to-scrape-shopify-product-variants-in-nodejs",
-      "when": "2026-09-24T12:33:19Z",
-      "note": "JavaScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
-      "name": "how-to-scrape-chrono24-watch-prices-in-nodejs",
-      "repo": "piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
-      "desc": "Node.js example for comparing Chrono24 asking prices with Apify",
-      "url": "https://github.com/piotrv1001/how-to-scrape-chrono24-watch-prices-in-nodejs",
-      "when": "2026-09-24T12:33:18Z",
-      "note": "JavaScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
-      "name": "how-to-scrape-betexplorer-football-odds-in-nodejs",
-      "repo": "piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
-      "desc": "Node.js example for exporting BetExplorer football odds with Apify",
-      "url": "https://github.com/piotrv1001/how-to-scrape-betexplorer-football-odds-in-nodejs",
-      "when": "2026-09-24T12:33:16Z",
-      "note": "JavaScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Big-mangoo/agy-sub-agent",
-      "name": "agy-sub-agent",
-      "repo": "Big-mangoo/agy-sub-agent",
-      "desc": "把任务外派给 Antigravity CLI（agy headless）的子代理方法、技能与实测数据 | Delegate subtasks to the Antigravity CLI as an independent sub-agen",
-      "url": "https://github.com/Big-mangoo/agy-sub-agent",
-      "when": "2026-09-24T12:18:38Z",
-      "note": "— · ★2 · #automation"
-    },
-    {
-      "id": "app:laurinlibossek/setlog",
-      "name": "setlog",
-      "repo": "laurinlibossek/setlog",
-      "desc": "Private, offline-first workout tracker for iPhone. Progressive Web App with Strong import, charts and PR tracking. No ac",
-      "url": "https://github.com/laurinlibossek/setlog",
-      "when": "2026-09-24T11:01:55Z",
-      "note": "JavaScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:AppmanAI-com/AppmanAi-MCP",
-      "name": "AppmanAi-MCP",
-      "repo": "AppmanAI-com/AppmanAi-MCP",
-      "desc": "AppmanAi turns your AI assistant into an ASO analyst with real store data. Ask in chat — it pulls keyword ideas, rank hi",
-      "url": "https://github.com/AppmanAI-com/AppmanAi-MCP",
-      "when": "2026-09-24T07:36:19Z",
-      "note": "JavaScript · ★2 · #mcp-server"
-    },
-    {
-      "id": "app:sexylowrie/agent-hub",
-      "name": "agent-hub",
-      "repo": "sexylowrie/agent-hub",
-      "desc": "把 Claude Code、Codex、Cursor 的本机会话装进口袋：手机上看进度、接着聊、处理审批。本机单进程 + Tailscale，不经第三方中转。",
-      "url": "https://github.com/sexylowrie/agent-hub",
-      "when": "2026-09-24T07:11:29Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:NikichVP/letotalks",
-      "name": "letotalks",
-      "repo": "NikichVP/letotalks",
-      "desc": "Anonymous teacher ratings and reviews for Letovo School students. Node.js, Express, SQLite, LLM moderation.",
-      "url": "https://github.com/NikichVP/letotalks",
-      "when": "2026-09-24T06:29:23Z",
-      "note": "JavaScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:yhyy135/babello",
-      "name": "babello",
-      "repo": "yhyy135/babello",
-      "desc": "A language-learning platform that runs entirely in your browser — listening, writing, and reading on the way. 完全运行在浏览器里的",
-      "url": "https://github.com/yhyy135/babello",
-      "when": "2026-09-24T03:15:39Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:izynu/ZoneVaz",
-      "name": "ZoneVaz",
-      "repo": "izynu/ZoneVaz",
-      "desc": "🎧 A personal music space for discovering, listening, creating playlists and getting lost in the vibe.",
-      "url": "https://github.com/izynu/ZoneVaz",
-      "when": "2026-09-24T02:59:55Z",
-      "note": "HTML · ★2 · #pwa"
-    },
-    {
-      "id": "app:Noe1120/jev-advisor",
-      "name": "jev-advisor",
-      "repo": "Noe1120/jev-advisor",
-      "desc": "A private, local decision-advice Skill for Codex that ranks tool choices, estimates risks, guides recovery, and checks c",
-      "url": "https://github.com/Noe1120/jev-advisor",
-      "when": "2026-09-24T00:57:55Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:mohsen-niksirat/api-key-manager",
-      "name": "api-key-manager",
-      "repo": "mohsen-niksirat/api-key-manager",
-      "desc": "A privacy-first, offline-first web application for managing your API keys across multiple providers. Built as a PWA (Pro",
-      "url": "https://github.com/mohsen-niksirat/api-key-manager",
-      "when": "2026-09-23T23:38:23Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:PyModel/jev-judge-mcp",
-      "name": "jev-judge-mcp",
-      "repo": "PyModel/jev-judge-mcp",
-      "desc": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, ex",
-      "url": "https://github.com/PyModel/jev-judge-mcp",
-      "when": "2026-09-23T22:48:43Z",
-      "note": "Python · ★28 · #mcp-server"
-    },
-    {
-      "id": "app:keithadler/leanstudio",
-      "name": "leanstudio",
-      "repo": "keithadler/leanstudio",
-      "desc": "A native desktop IDE for Lean 4 on macOS, Windows and Linux. Every proof re-checked by Tenet, an independent Lean 4 kern",
-      "url": "https://github.com/keithadler/leanstudio",
-      "when": "2026-09-23T20:12:25Z",
-      "note": "C# · ★2 · #mcp-server"
     }
   ],
-  "updated": "2026-09-30T18:04:24.743Z"
+  "updated": "2026-10-01T18:31:57.945Z"
 }
