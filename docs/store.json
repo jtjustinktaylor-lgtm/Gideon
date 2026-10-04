@@ -1,6 +1,240 @@
 {
   "apps": [
     {
+      "id": "app:Sato2023/nutrilens",
+      "name": "nutrilens",
+      "repo": "Sato2023/nutrilens",
+      "desc": "AI food nutrition breakdown - attach a photo or describe a meal, get calories, macros, micros and a health score.",
+      "url": "https://github.com/Sato2023/nutrilens",
+      "when": "2026-10-04T16:28:38Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:MR-RAHAD/mobiledokan-phone-api",
+      "name": "mobiledokan-phone-api",
+      "repo": "MR-RAHAD/mobiledokan-phone-api",
+      "desc": "📱 Free Phone Search API for Bangladesh — model name dile full specs, price, rating & images JSON e | MobileDokan scrape",
+      "url": "https://github.com/MR-RAHAD/mobiledokan-phone-api",
+      "when": "2026-10-04T12:51:45Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:piotrv1001/how-to-scrape-cycletrader-in-nodejs",
+      "name": "how-to-scrape-cycletrader-in-nodejs",
+      "repo": "piotrv1001/how-to-scrape-cycletrader-in-nodejs",
+      "desc": "Node.js example for the Cycle Trader Listings Scraper on Apify",
+      "url": "https://github.com/piotrv1001/how-to-scrape-cycletrader-in-nodejs",
+      "when": "2026-10-04T11:46:26Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:cneuralnetwork/editdatvid",
+      "name": "editdatvid",
+      "repo": "cneuralnetwork/editdatvid",
+      "desc": "A private, browser-native video editor. Your media never leaves your machine.",
+      "url": "https://github.com/cneuralnetwork/editdatvid",
+      "when": "2026-10-04T10:11:28Z",
+      "note": "TypeScript · ★4 · #pwa"
+    },
+    {
+      "id": "app:SysikNagibator/AiPC",
+      "name": "AiPC",
+      "repo": "SysikNagibator/AiPC",
+      "desc": "Дайте агенту «это» — и у него появляется настоящий ПК.",
+      "url": "https://github.com/SysikNagibator/AiPC",
+      "when": "2026-10-04T09:59:11Z",
+      "note": "Python · ★5 · #ai-agent"
+    },
+    {
+      "id": "app:richig8-web/lyn0-academy",
+      "name": "lyn0-academy",
+      "repo": "richig8-web/lyn0-academy",
+      "desc": "Build your own personal AI agent, one mission at a time. Mission 01: your AI learns who it's working for.",
+      "url": "https://github.com/richig8-web/lyn0-academy",
+      "when": "2026-10-04T09:21:47Z",
+      "note": "Python · ★6 · #ai-agent"
+    },
+    {
+      "id": "app:0xgetz/rewind-bulk-creator",
+      "name": "rewind-bulk-creator",
+      "repo": "0xgetz/rewind-bulk-creator",
+      "desc": "Bulk-create Rewind.ai accounts, auto-verify them via mail.tm, and mint a randomly-named API key for each — one command, ",
+      "url": "https://github.com/0xgetz/rewind-bulk-creator",
+      "when": "2026-10-04T08:06:47Z",
+      "note": "Python · ★2 · #automation"
+    },
+    {
+      "id": "app:0xgetz/notegpt-harvester",
+      "name": "notegpt-harvester",
+      "repo": "0xgetz/notegpt-harvester",
+      "desc": "Bulk-create NoteGPT accounts, auto-harvest tokens & session cookies, and connect every account into 9Router — end to end",
+      "url": "https://github.com/0xgetz/notegpt-harvester",
+      "when": "2026-10-04T07:07:08Z",
+      "note": "Python · ★2 · #automation"
+    },
+    {
+      "id": "app:TannerMidd/pi-pocket",
+      "name": "pi-pocket",
+      "repo": "TannerMidd/pi-pocket",
+      "desc": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "when": "2026-10-04T02:29:57Z",
+      "note": "TypeScript · ★9 · #ai-agent"
+    },
+    {
+      "id": "app:mxreal64/StepLock",
+      "name": "StepLock",
+      "repo": "mxreal64/StepLock",
+      "desc": "A sub-millisecond, zero-allocation deterministic state proxy and Merkle DAG execution engine for multi-step AI agents. F",
+      "url": "https://github.com/mxreal64/StepLock",
+      "when": "2026-10-04T02:09:29Z",
+      "note": "C# · ★6 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-dynamic-persona-style-adapter-skill",
+      "name": "genpark-agent-dynamic-persona-style-adapter-skill",
+      "repo": "Alpha-Park/genpark-agent-dynamic-persona-style-adapter-skill",
+      "desc": "Dynamic Agent Persona & Contextual Communication Style Adapter (inspired by Personal AI Copilots). Adapts communication ",
+      "url": "https://github.com/Alpha-Park/genpark-agent-dynamic-persona-style-adapter-skill",
+      "when": "2026-10-03T23:51:38Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agent-dynamic-persona-style-adapter-skill",
+      "name": "genpark-agent-dynamic-persona-style-adapter-skill",
+      "repo": "alphaparkinc/genpark-agent-dynamic-persona-style-adapter-skill",
+      "desc": "Dynamic Agent Persona & Contextual Communication Style Adapter (inspired by Personal AI Copilots). Adapts communication ",
+      "url": "https://github.com/alphaparkinc/genpark-agent-dynamic-persona-style-adapter-skill",
+      "when": "2026-10-03T23:51:09Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-enterprise-merkle-audit-proof-anchor-skill",
+      "name": "genpark-enterprise-merkle-audit-proof-anchor-skill",
+      "repo": "alphaparkinc/genpark-enterprise-merkle-audit-proof-anchor-skill",
+      "desc": "Cryptographic Enterprise Audit Trail Merkle Tree Anchor (inspired by Enterprise Work Agent & Regulatory Governance). Has",
+      "url": "https://github.com/alphaparkinc/genpark-enterprise-merkle-audit-proof-anchor-skill",
+      "when": "2026-10-03T23:50:09Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "name": "genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "repo": "Alpha-Park/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "desc": "Autonomous Agentic Multi-Turn Negotiator & Counter-Offer Strategist (inspired by Consumer Commerce & Contract Negotiatio",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "when": "2026-10-03T23:49:39Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "name": "genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "repo": "alphaparkinc/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "desc": "Autonomous Agentic Multi-Turn Negotiator & Counter-Offer Strategist (inspired by Consumer Commerce & Contract Negotiatio",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-negotiation-counter-offer-strategist-skill",
+      "when": "2026-10-03T23:49:09Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-visual-diagram-architecture-synthesizer-skill",
+      "name": "genpark-visual-diagram-architecture-synthesizer-skill",
+      "repo": "Alpha-Park/genpark-visual-diagram-architecture-synthesizer-skill",
+      "desc": "Multi-Modal Visual Diagram-to-Code Architecture Synthesizer. Translates geometric bounding boxes, flowchart node connect",
+      "url": "https://github.com/Alpha-Park/genpark-visual-diagram-architecture-synthesizer-skill",
+      "when": "2026-10-03T23:48:40Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "name": "genpark-agent-runtime-self-healing-diagnostics-skill",
+      "repo": "Alpha-Park/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "desc": "Universal Autonomous Agent Runtime Self-Healing & Diagnostics Engine. Detects configuration drift, corrupted execution s",
+      "url": "https://github.com/Alpha-Park/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "when": "2026-10-03T23:47:42Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "name": "genpark-agent-runtime-self-healing-diagnostics-skill",
+      "repo": "alphaparkinc/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "desc": "Universal Autonomous Agent Runtime Self-Healing & Diagnostics Engine. Detects configuration drift, corrupted execution s",
+      "url": "https://github.com/alphaparkinc/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "when": "2026-10-03T23:47:13Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:digiformationltd-creator/DIGI-LEAD-HUNTER",
+      "name": "DIGI-LEAD-HUNTER",
+      "repo": "digiformationltd-creator/DIGI-LEAD-HUNTER",
+      "desc": "Autonomous AI Lead Intelligence, Local Business Website Opportunity Hunter & Evidence Packaging Platform by DIGIFORMATIO",
+      "url": "https://github.com/digiformationltd-creator/DIGI-LEAD-HUNTER",
+      "when": "2026-10-03T19:56:40Z",
+      "note": "Python · ★4 · #web-scraping"
+    },
+    {
+      "id": "app:maxRN/helpy",
+      "name": "helpy",
+      "repo": "maxRN/helpy",
+      "desc": "AI that watches experts work, learns their workflows, asks the right questions, and turns tacit knowledge into reusable ",
+      "url": "https://github.com/maxRN/helpy",
+      "when": "2026-10-03T18:56:05Z",
+      "note": "TypeScript · ★3 · #automation"
+    },
+    {
+      "id": "app:nikships/droid-codex-computer-use",
+      "name": "droid-codex-computer-use",
+      "repo": "nikships/droid-codex-computer-use",
+      "desc": "🖱️ Let Factory Droid control your Mac with the Codex app's Computer Use tool. One-command install, no approval forms, w",
+      "url": "https://github.com/nikships/droid-codex-computer-use",
+      "when": "2026-10-03T18:32:37Z",
+      "note": "JavaScript · ★3 · #automation"
+    },
+    {
+      "id": "app:cosmyo/ha-pi-durable",
+      "name": "ha-pi-durable",
+      "repo": "cosmyo/ha-pi-durable",
+      "desc": "Hearth Pi: experimental Home Assistant AI App with durable tasks, scoped reads and human-reviewed light/switch actions.",
+      "url": "https://github.com/cosmyo/ha-pi-durable",
+      "when": "2026-10-03T18:04:47Z",
+      "note": "TypeScript · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:chartmitereside/HyperClick-FreeAutoClicker-2026",
+      "name": "HyperClick-FreeAutoClicker-2026",
+      "repo": "chartmitereside/HyperClick-FreeAutoClicker-2026",
+      "desc": "⚡ HyperClick — the fastest free auto clicker for Windows 10/11. Blazing-fast mouse clicker with custom CPS up to 1000, h",
+      "url": "https://github.com/chartmitereside/HyperClick-FreeAutoClicker-2026",
+      "when": "2026-10-03T15:55:59Z",
+      "note": "— · ★51 · #automation"
+    },
+    {
+      "id": "app:GenesisAnime/GenesisAnime-site",
+      "name": "GenesisAnime-site",
+      "repo": "GenesisAnime/GenesisAnime-site",
+      "desc": "Türkçe anime arşivi — %100 açık kaynak, tamamen statik Next.js sitesi (GitHub Pages) + isteğe bağlı Cloudflare Workers/D",
+      "url": "https://github.com/GenesisAnime/GenesisAnime-site",
+      "when": "2026-10-03T14:23:28Z",
+      "note": "JavaScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:Shirenos/habit-tracker-bot",
+      "name": "habit-tracker-bot",
+      "repo": "Shirenos/habit-tracker-bot",
+      "desc": "Telegram bot for building habits and keeping streaks, built with Python, aiogram and SQLite (Russian-language UI)",
+      "url": "https://github.com/Shirenos/habit-tracker-bot",
+      "when": "2026-10-03T12:50:45Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:HackYeah-TuttiTripTeam/tuttitrip",
+      "name": "tuttitrip",
+      "repo": "HackYeah-TuttiTripTeam/tuttitrip",
+      "desc": "TuttiTrip (HackYeah 2026): planer wyjazdów grupowych – frontend, backend i worker",
+      "url": "https://github.com/HackYeah-TuttiTripTeam/tuttitrip",
+      "when": "2026-10-03T10:03:04Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
       "id": "app:TGlimmer/tg-emoji-hub",
       "name": "tg-emoji-hub",
       "repo": "TGlimmer/tg-emoji-hub",
@@ -19,6 +253,24 @@
       "note": "— · ★2 · #web-scraping"
     },
     {
+      "id": "app:tedyhabtamu5-hue/rodseo-l",
+      "name": "rodseo-l",
+      "repo": "tedyhabtamu5-hue/rodseo-l",
+      "desc": "Rodseo L - your AI texts you first rather than you texting it",
+      "url": "https://github.com/tedyhabtamu5-hue/rodseo-l",
+      "when": "2026-10-03T09:03:19Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
+      "id": "app:tuozhekongqi/photo-skills",
+      "name": "photo-skills",
+      "repo": "tuozhekongqi/photo-skills",
+      "desc": "Photo Skills R8 — A+B+C 合包：真实摄影后期 · Photo Zine 编辑设计 · 人像真实处理。面向 AI Agent 工作流的照片技能包。",
+      "url": "https://github.com/tuozhekongqi/photo-skills",
+      "when": "2026-10-03T08:48:15Z",
+      "note": "— · ★5 · #ai-agent"
+    },
+    {
       "id": "app:LenKiMo/tg-gatekeeper",
       "name": "tg-gatekeeper",
       "repo": "LenKiMo/tg-gatekeeper",
@@ -26,6 +278,15 @@
       "url": "https://github.com/LenKiMo/tg-gatekeeper",
       "when": "2026-10-03T05:37:21Z",
       "note": "Go · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:ilramdhan/dompetku",
+      "name": "dompetku",
+      "repo": "ilramdhan/dompetku",
+      "desc": "Dompetku — a private, self-hosted personal finance tracker: budgets, goals, recurring & split transactions, gold & net w",
+      "url": "https://github.com/ilramdhan/dompetku",
+      "when": "2026-10-03T04:31:00Z",
+      "note": "TypeScript · ★8 · #telegram-bot"
     },
     {
       "id": "app:Zhou-Yujing114514/deepseek-harness-linux",
@@ -37,12 +298,30 @@
       "note": "TypeScript · ★57 · #ai-agent"
     },
     {
+      "id": "app:0xgetz/paraloncloud-bulk-creator",
+      "name": "paraloncloud-bulk-creator",
+      "repo": "0xgetz/paraloncloud-bulk-creator",
+      "desc": "Bulk, end-to-end provisioning of ParalonCloud (paraloncloud.com/console) accounts and free API keys through zenvex.dev t",
+      "url": "https://github.com/0xgetz/paraloncloud-bulk-creator",
+      "when": "2026-10-03T01:15:29Z",
+      "note": "JavaScript · ★2 · #automation"
+    },
+    {
       "id": "app:Aztech-1729/telegram-skills",
       "name": "telegram-skills",
       "repo": "Aztech-1729/telegram-skills",
       "desc": "18 agent skills for Telegram bots and Mini Apps across seven languages, with tested starters and automated maintenance.",
       "url": "https://github.com/Aztech-1729/telegram-skills",
       "when": "2026-10-03T01:07:36Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:AmirrezaFarnamTaheri/Collegeum",
+      "name": "Collegeum",
+      "repo": "AmirrezaFarnamTaheri/Collegeum",
+      "desc": "Zero-budget pipeline & live web dashboard tracking predoctoral, pre-PhD, and quantitative research positions in economic",
+      "url": "https://github.com/AmirrezaFarnamTaheri/Collegeum",
+      "when": "2026-10-02T22:50:29Z",
       "note": "Python · ★1 · #telegram-bot"
     },
     {
@@ -64,6 +343,15 @@
       "note": "JavaScript · ★1 · #pwa"
     },
     {
+      "id": "app:yxq953/MuseLite",
+      "name": "MuseLite",
+      "repo": "yxq953/MuseLite",
+      "desc": "MuseLite is an open-source AI workspace combining chat, Agent tools, browser automation, and scheduled tasks for users w",
+      "url": "https://github.com/yxq953/MuseLite",
+      "when": "2026-10-02T20:10:49Z",
+      "note": "Java · ★12 · #ai-agent"
+    },
+    {
       "id": "app:oguzhankayan/etsy-engine",
       "name": "etsy-engine",
       "repo": "oguzhankayan/etsy-engine",
@@ -80,6 +368,15 @@
       "url": "https://github.com/Spizhy/market-radar-bot",
       "when": "2026-10-02T19:26:38Z",
       "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:dongnguyenvie/BashCut",
+      "name": "BashCut",
+      "repo": "dongnguyenvie/BashCut",
+      "desc": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the",
+      "url": "https://github.com/dongnguyenvie/BashCut",
+      "when": "2026-10-02T18:46:34Z",
+      "note": "Swift · ★9 · #mcp-server"
     },
     {
       "id": "app:tolimarchuk/screenstudio-mcp",
@@ -127,6 +424,15 @@
       "note": "Python · ★1 · #web-scraping"
     },
     {
+      "id": "app:kkhansameer94/decodelabs-cicd-github-actions",
+      "name": "decodelabs-cicd-github-actions",
+      "repo": "kkhansameer94/decodelabs-cicd-github-actions",
+      "desc": "Automated continuous integration pipeline using GitHub Actions to run automated testing, linting, and build validation f",
+      "url": "https://github.com/kkhansameer94/decodelabs-cicd-github-actions",
+      "when": "2026-10-02T13:13:50Z",
+      "note": "Python · ★2 · #automation"
+    },
+    {
       "id": "app:tueen/telegram",
       "name": "telegram",
       "repo": "tueen/telegram",
@@ -134,6 +440,15 @@
       "url": "https://github.com/tueen/telegram",
       "when": "2026-10-02T12:58:49Z",
       "note": "PHP · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:III85III/telegram_hunter",
+      "name": "telegram_hunter",
+      "repo": "III85III/telegram_hunter",
+      "desc": "⚡ High-Speed Real Dictionary (+40k Words) & Alphanumeric Telegram Username Scanner | Telethon & Multi-Session",
+      "url": "https://github.com/III85III/telegram_hunter",
+      "when": "2026-10-02T12:51:05Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
       "id": "app:xop01/ai_goodpractice",
@@ -197,6 +512,15 @@
       "url": "https://github.com/liulewis/agricalc",
       "when": "2026-10-02T07:36:03Z",
       "note": "HTML · ★1 · #pwa"
+    },
+    {
+      "id": "app:chenf888/TMT-game-generator",
+      "name": "TMT-game-generator",
+      "repo": "chenf888/TMT-game-generator",
+      "desc": "A SKILL.md-format agent skill that generates complete, playable, balanced The Modding Tree (TMT v2.7) incremental games ",
+      "url": "https://github.com/chenf888/TMT-game-generator",
+      "when": "2026-10-02T06:57:52Z",
+      "note": "JavaScript · ★3 · #automation"
     },
     {
       "id": "app:paulfxyz/timescreen",
@@ -1475,331 +1799,7 @@
       "url": "https://github.com/PierreEbele/cadenas",
       "when": "2026-09-27T19:11:45Z",
       "note": "JavaScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:YanxingShen/purine-query-web",
-      "name": "purine-query-web",
-      "repo": "YanxingShen/purine-query-web",
-      "desc": "QingTou KongSuan - Gout & Hyperuricemia Diet Assistant PWA. Glass UI + splash screen, 642 food database, 264 health arti",
-      "url": "https://github.com/YanxingShen/purine-query-web",
-      "when": "2026-09-27T18:01:20Z",
-      "note": "JavaScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:aghaabdullah/python-data-parser",
-      "name": "python-data-parser",
-      "repo": "aghaabdullah/python-data-parser",
-      "desc": "A lightweight, robust Python utility designed to parse proprietary text-based data formats into standard lists and dicti",
-      "url": "https://github.com/aghaabdullah/python-data-parser",
-      "when": "2026-09-27T17:50:50Z",
-      "note": "Python · ★8 · #automation"
-    },
-    {
-      "id": "app:aghaabdullah/railway-crossing-iot",
-      "name": "railway-crossing-iot",
-      "repo": "aghaabdullah/railway-crossing-iot",
-      "desc": "Embedded systems Arduino project simulating an automated, sensor-driven railway crossing gate mechanism.",
-      "url": "https://github.com/aghaabdullah/railway-crossing-iot",
-      "when": "2026-09-27T17:50:33Z",
-      "note": "C++ · ★7 · #automation"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-muse-episodic-memory-stream-skill",
-      "name": "genpark-muse-episodic-memory-stream-skill",
-      "repo": "Alpha-Park/genpark-muse-episodic-memory-stream-skill",
-      "desc": "GenPark AI Agent Skill - Continuous hierarchical episodic memory stream, preference decay, contextual memory anchor insp",
-      "url": "https://github.com/Alpha-Park/genpark-muse-episodic-memory-stream-skill",
-      "when": "2026-09-27T16:48:42Z",
-      "note": "— · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill",
-      "name": "genpark-personal-agent-dual-cognition-orchestrator-skill",
-      "repo": "Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill",
-      "desc": "Master dual-process cognitive orchestrator uniting Meta ambient perception, Muse episodic memory, Instinct proactive age",
-      "url": "https://github.com/Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill",
-      "when": "2026-09-27T16:46:54Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-ast-import-dependency-rewriter-skill",
-      "name": "genpark-ast-import-dependency-rewriter-skill",
-      "repo": "alphaparkinc/genpark-ast-import-dependency-rewriter-skill",
-      "desc": "Token-safe AST import re-aliasing and dependency migration engine safely replacing module paths and callsites without re",
-      "url": "https://github.com/alphaparkinc/genpark-ast-import-dependency-rewriter-skill",
-      "when": "2026-09-27T16:43:05Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
-      "name": "genpark-cyclomatic-complexity-refactoring-scout-skill",
-      "repo": "Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
-      "desc": "AST McCabe cyclomatic complexity and cognitive nesting depth evaluator identifying refactoring hotspots and decompositio",
-      "url": "https://github.com/Alpha-Park/genpark-cyclomatic-complexity-refactoring-scout-skill",
-      "when": "2026-09-27T16:42:23Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:Alpha-Park/awesome-ai-agent-skills",
-      "name": "awesome-ai-agent-skills",
-      "repo": "Alpha-Park/awesome-ai-agent-skills",
-      "desc": "Categorized index of 718 public GenPark AI agent skills, with tested Python packages and MCP integrations.",
-      "url": "https://github.com/Alpha-Park/awesome-ai-agent-skills",
-      "when": "2026-09-27T16:26:37Z",
-      "note": "Python · ★8 · #ai-agent"
-    },
-    {
-      "id": "app:kosio-labs/clicker4ai",
-      "name": "clicker4ai",
-      "repo": "kosio-labs/clicker4ai",
-      "desc": "Self-hosted web app to drive Claude Code sessions on your Linux server from a phone, tablet or laptop",
-      "url": "https://github.com/kosio-labs/clicker4ai",
-      "when": "2026-09-27T14:41:10Z",
-      "note": "Python · ★2 · #pwa"
-    },
-    {
-      "id": "app:figranium/figranium-swift",
-      "name": "figranium-swift",
-      "repo": "figranium/figranium-swift",
-      "desc": "The official Swift SDK for Figranium.",
-      "url": "https://github.com/figranium/figranium-swift",
-      "when": "2026-09-27T13:15:11Z",
-      "note": "Swift · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
-      "name": "genpark-personal-digital-hoarding-declutter-agent-skill",
-      "repo": "alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
-      "desc": "Personal digital asset decluttering agent classifying orphaned downloads, duplicate screenshots, and stale browser bookm",
-      "url": "https://github.com/alphaparkinc/genpark-personal-digital-hoarding-declutter-agent-skill",
-      "when": "2026-09-27T12:04:15Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-personal-spending-impulse-friction-guard-skill",
-      "name": "genpark-personal-spending-impulse-friction-guard-skill",
-      "repo": "Alpha-Park/genpark-personal-spending-impulse-friction-guard-skill",
-      "desc": "Behavioral personal spending impulse guard enforcing cooling-off friction timers and net work-hour wage conversions.",
-      "url": "https://github.com/Alpha-Park/genpark-personal-spending-impulse-friction-guard-skill",
-      "when": "2026-09-27T12:02:33Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-personal-inbox-cognitive-triage-skill",
-      "name": "genpark-personal-inbox-cognitive-triage-skill",
-      "repo": "Alpha-Park/genpark-personal-inbox-cognitive-triage-skill",
-      "desc": "Personal inbox cognitive triage engine classifying actionability, effort duration, and urgency to prevent attention frag",
-      "url": "https://github.com/Alpha-Park/genpark-personal-inbox-cognitive-triage-skill",
-      "when": "2026-09-27T12:00:05Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:mxmvshnvsk/impact-log",
-      "name": "impact-log",
-      "repo": "mxmvshnvsk/impact-log",
-      "desc": "Local-first, end-to-end encrypted work journal: log what you did and what it changed, and get a ready summary for your p",
-      "url": "https://github.com/mxmvshnvsk/impact-log",
-      "when": "2026-09-27T10:01:09Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:youagainchen/claude-codex-coop",
-      "name": "claude-codex-coop",
-      "repo": "youagainchen/claude-codex-coop",
-      "desc": "Let Claude and Codex call each other from their desktop apps to review, cross-check or implement, with a live side panel",
-      "url": "https://github.com/youagainchen/claude-codex-coop",
-      "when": "2026-09-27T09:12:35Z",
-      "note": "Python · ★16 · #mcp-server"
-    },
-    {
-      "id": "app:johndoecesko/uchet-objektov",
-      "name": "uchet-objektov",
-      "repo": "johndoecesko/uchet-objektov",
-      "desc": "Учёт затрат, зарплат и прибыли по объектам для монтажных организаций. Laravel 12 + Filament 4, PWA.",
-      "url": "https://github.com/johndoecesko/uchet-objektov",
-      "when": "2026-09-27T08:18:17Z",
-      "note": "PHP · ★2 · #pwa"
-    },
-    {
-      "id": "app:ufo-ai/ufo-core",
-      "name": "ufo-core",
-      "repo": "ufo-ai/ufo-core",
-      "desc": "Business agent operating system",
-      "url": "https://github.com/ufo-ai/ufo-core",
-      "when": "2026-09-27T07:25:44Z",
-      "note": "Python · ★78 · #ai-agent"
-    },
-    {
-      "id": "app:bugrauluyurt/needle",
-      "name": "needle",
-      "repo": "bugrauluyurt/needle",
-      "desc": "A self-hosted music player for your Navidrome library, in the browser and on your phone",
-      "url": "https://github.com/bugrauluyurt/needle",
-      "when": "2026-09-27T05:48:42Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-document-redaction-pii-scrubber-skill",
-      "name": "genpark-document-redaction-pii-scrubber-skill",
-      "repo": "Alpha-Park/genpark-document-redaction-pii-scrubber-skill",
-      "desc": "High-speed document PII redaction and credential sanitizer featuring Luhn credit-card verification, reversible salt hash",
-      "url": "https://github.com/Alpha-Park/genpark-document-redaction-pii-scrubber-skill",
-      "when": "2026-09-27T05:17:28Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:AmirulAndalib/iparr-issues",
-      "name": "iparr-issues",
-      "repo": "AmirulAndalib/iparr-issues",
-      "desc": "Report bugs and suggest features or sources for IPARR (website and Telegram bot). No code here.",
-      "url": "https://github.com/AmirulAndalib/iparr-issues",
-      "when": "2026-09-27T04:48:36Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:JowiAoun/beluga",
-      "name": "beluga",
-      "repo": "JowiAoun/beluga",
-      "desc": "Directional warning sounds for blind and low-vision pedestrians, and a fix-first hazard list for the city",
-      "url": "https://github.com/JowiAoun/beluga",
-      "when": "2026-09-27T02:21:23Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:JeanExtreme002/pymacos",
-      "name": "pymacos",
-      "repo": "JeanExtreme002/pymacos",
-      "desc": "A Pythonic interface to macOS.",
-      "url": "https://github.com/JeanExtreme002/pymacos",
-      "when": "2026-09-27T01:55:53Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:wxk66/private-diary",
-      "name": "private-diary",
-      "repo": "wxk66/private-diary",
-      "desc": "A fully offline, calendar-style private journal — PWA + Android APK. No account, no network, bilingual (中文 / English).",
-      "url": "https://github.com/wxk66/private-diary",
-      "when": "2026-09-27T01:32:03Z",
-      "note": "HTML · ★4 · #pwa"
-    },
-    {
-      "id": "app:Config7x/BotMaker-v2",
-      "name": "BotMaker-v2",
-      "repo": "Config7x/BotMaker-v2",
-      "desc": "BotMaker v2 — multi-tenant Telegram Bot Builder SaaS (Persian, Node.js 20 + SQLite). 11 bot templates, wallet, demo life",
-      "url": "https://github.com/Config7x/BotMaker-v2",
-      "when": "2026-09-26T20:50:27Z",
-      "note": "PHP · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:MarcoAbramo/spin-doctor",
-      "name": "spin-doctor",
-      "repo": "MarcoAbramo/spin-doctor",
-      "desc": "Satirical mobile-first idle game: spin every scandal as press secretary of the fictional Republic of Superbia. PixiJS + ",
-      "url": "https://github.com/MarcoAbramo/spin-doctor",
-      "when": "2026-09-26T20:00:01Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:thesyedammar/SahkarSetu",
-      "name": "SahkarSetu",
-      "repo": "thesyedammar/SahkarSetu",
-      "desc": "Cooperative gig-services platform for household work (SIH 2026 SIH26089) — verified workers, geo matching, flat 10% fee,",
-      "url": "https://github.com/thesyedammar/SahkarSetu",
-      "when": "2026-09-26T17:42:55Z",
-      "note": "Python · ★2 · #pwa"
-    },
-    {
-      "id": "app:phmatray/cartouche",
-      "name": "cartouche",
-      "repo": "phmatray/cartouche",
-      "desc": "A browser emulator for Game Boy and Game Boy Color games. Rust + WebAssembly core validated by the Blargg test suites. B",
-      "url": "https://github.com/phmatray/cartouche",
-      "when": "2026-09-26T17:32:22Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:benord-labs/frink",
-      "name": "frink",
-      "repo": "benord-labs/frink",
-      "desc": "A friendly AI development tool for everyone.",
-      "url": "https://github.com/benord-labs/frink",
-      "when": "2026-09-26T17:31:49Z",
-      "note": "TypeScript · ★7 · #automation"
-    },
-    {
-      "id": "app:grizlizora/reverse-cad",
-      "name": "reverse-cad",
-      "repo": "grizlizora/reverse-cad",
-      "desc": "⚙️ Industrial-grade deterministic STL ➔ STEP AP242 solid B-Rep converter & semantic CAD Features JSON engine with built-",
-      "url": "https://github.com/grizlizora/reverse-cad",
-      "when": "2026-09-26T17:28:48Z",
-      "note": "TypeScript · ★10 · #mcp-server"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill",
-      "name": "genpark-realtime-voice-agent-latency-telemetry-skill",
-      "repo": "alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill",
-      "desc": "End-to-end conversational voice agent latency telemetry profiler tracking VAD, STT, LLM-TTFT, TTS-TTFB, and playout bott",
-      "url": "https://github.com/alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill",
-      "when": "2026-09-26T17:15:56Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
-      "name": "genpark-conversational-barge-in-interruption-arbitrator-skill",
-      "repo": "alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
-      "desc": "Full-duplex conversational barge-in arbitrator classifying user interruptions, backchannels, and acoustic echo with cont",
-      "url": "https://github.com/alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill",
-      "when": "2026-09-26T17:13:45Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
-      "name": "genpark-continual-fewshot-exemplar-distiller-skill",
-      "repo": "alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
-      "desc": "Continual few-shot exemplar distiller mining high-scoring execution trajectories into prompt demonstrations",
-      "url": "https://github.com/alphaparkinc/genpark-continual-fewshot-exemplar-distiller-skill",
-      "when": "2026-09-26T17:08:29Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-contradiction-detection-belief-updater-skill",
-      "name": "genpark-contradiction-detection-belief-updater-skill",
-      "repo": "Alpha-Park/genpark-contradiction-detection-belief-updater-skill",
-      "desc": "Epistemic belief state updater and contradiction detector resolving knowledge graph assertion conflicts",
-      "url": "https://github.com/Alpha-Park/genpark-contradiction-detection-belief-updater-skill",
-      "when": "2026-09-26T17:06:47Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:TheAlgo7/dueline",
-      "name": "dueline",
-      "repo": "TheAlgo7/dueline",
-      "desc": "Everything you need to pay, on one line. An offline-first PWA for bills, cards, subscriptions and UPI payees, with a zer",
-      "url": "https://github.com/TheAlgo7/dueline",
-      "when": "2026-09-26T15:42:57Z",
-      "note": "JavaScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:omkarcloud/google-flights-scraper",
-      "name": "google-flights-scraper",
-      "repo": "omkarcloud/google-flights-scraper",
-      "desc": "Google Flights Scraper — free, open-source Google Flights scraper. Unlimited fares, booking options & price calendars as",
-      "url": "https://github.com/omkarcloud/google-flights-scraper",
-      "when": "2026-09-26T14:24:13Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
-      "name": "genpark-gui-screen-som-coordinate-mapper-skill",
-      "repo": "Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
-      "desc": "Set-of-Marks (SoM) bounding box resolution and relative viewport coordinate mapper for computer-use vision agents",
-      "url": "https://github.com/Alpha-Park/genpark-gui-screen-som-coordinate-mapper-skill",
-      "when": "2026-09-26T13:24:09Z",
-      "note": "Python · ★7 · #ai-agent"
     }
   ],
-  "updated": "2026-10-03T16:35:38.188Z"
+  "updated": "2026-10-04T16:56:14.956Z"
 }
