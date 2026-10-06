@@ -1,21 +1,21 @@
-# GitHub Radar — 2026-10-05
+# GitHub Radar — 2026-10-06
 
-_59 new item(s) since last run · generated 2026-10-05T20:39:54.353Z_
+_65 new item(s) since last run · generated 2026-10-06T18:32:30.105Z_
 
 ## 🚀 Releases
 
-- **[HPX Registry 87945ae90ce0](https://github.com/Sidiora-Labs/Paxeer-X-Network/releases/tag/hpx-registry-87945ae90ce045296d595537c140faabd028d724)** `Sidiora-Labs/Paxeer-X-Network` — Revision-bound HPX registry runtime for 87945ae90ce045296d595537c140faabd028d724. · 2026-10-04
+_Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[Destroy expired sandbox leases through one protocol-owned settlement that drops both storage heads, charges final occupa](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/1da7b54d65d65c6fccd5d05b07991190f7fa1781)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Close the parallel scheduler task on its landed scheduler coverage and record that low-conflict batch parallelism needs ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/87c8780ab9becb8bdccc6c93d76e79ba8b7c7d39)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Claim the last human runtime contract task in the spec](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/0a5c3b3389c16e10a90f65905f053eebf49f4748)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Mint a separate explorer evidence-read token on the kernel volume, install it for the receipt authority as a protected 4](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3ac5d6da8a2b39c69951c231b36f337bd4339cbe)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Pin the integrated CA identity roster as an independent exact set, refuse malformed or duplicate service table rows in c](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/c1ffed20aafc4a84dbcc65a46016d258c6311b27)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Classify unified plans under one executable shape contract and run deposit-forwarding and withdrawal plans as durable pa](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/5834e1e9a8ce51229870c815cada74ce9c69b29e)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Claim the final sandbox metering follow-up task in the spec](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/740b34b5833f1a12f34dba91dee76193250b2b4d)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
-- **[Prove each sandbox activity debits its lease escrow in its own settlement with an offline-verifiable receipt, failed wor](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2a690daa115be57e4a636bfa1f999e52e697093f)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-05
+- **[Merge the queue 109 lane 30 implementation into main](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/e9e8b0e06da53f42c6e8607242941f214c508b59)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Retire the single-app bridge relayer fly.toml so check-live reads the five relayer apps, and correct the example Solana ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/7d0254cfa2450de2e518bf89de3dd0eb1147aaa4)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Merge the queue 109 lane 11 implementation into main](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/e695891d693f599792aee25483fa7a8013a6f11c)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Read the sidecar health reply in the binary tests as JSON and require its status field to be ok, since the binary now se](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b2d9e77984e4cec18941cd3b6703156b4488d973)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Mark queue 109 lane 38 done](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b991adfad8677e4056ba7833908ceb4419666f44)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Merge the queue 109 lane 38 implementation into main](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/4a18f3e20d3bafeb9292579e3086c526d13dad2f)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Move the Go module path to github.com/Sidiora-Labs/Paxeer-X-Network across go.mod, the nested wallet and cosmovisor modu](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9b964cc3d8bfbbc8c6690f6aaad4631ac3444ca6)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
+- **[Mark queue 109 lane 41 implemented](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/d516cbc285c1acf29f9e0a02a66e747415a5c8b4)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-06
 
 ## 🆕 New repos on the radar
 
@@ -23,52 +23,48 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[🐍 Snape Panel (اسنیپ پنل) - پنل پیشرفته و گیت‌وی قدرتمند کلودفلر ورکرز با پشتیبانی از VLESS, Trojan, Sing-box, Clash و ](https://github.com/arianf3/snape-panel)** `arianf3/snape-panel` — JavaScript · ★1 · #telegram-bot · 2026-10-05
-- **[ISORA VPN — быстрый VPN для обхода блокировок: VLESS Reality, Hysteria2, проба 15 дней](https://github.com/ralmi-sys/isora-vpn)** `ralmi-sys/isora-vpn` — — · ★1 · #telegram-bot · 2026-10-05
-- **[Claude Code on your PC, started from your phone, with your full setup intact.](https://github.com/MrTig-afk/claude-remote)** `MrTig-afk/claude-remote` — JavaScript · ★4 · #pwa · 2026-10-05
-- **[MCP server that turns web pages into clean Markdown, keeping tables, code blocks, and images intact. Agents can fetch pa](https://github.com/pinkpixel-dev/pulpie-mcp)** `pinkpixel-dev/pulpie-mcp` — Python · ★1 · #web-scraping · 2026-10-05
-- **[MOA를 서버 없이 Vercel Hobby + Upstash Redis Free로 배포하는 개인용 영상 앱 (원클릭 배포)](https://github.com/sidetool/moa-lite)** `sidetool/moa-lite` — TypeScript · ★4 · #pwa · 2026-10-05
-- **[Bulk-provision TokenMix accounts with disposable temp-mail.io inboxes and auto-generate API keys with random names. Turn](https://github.com/0xgetz/tokenmix-bulk-creator)** `0xgetz/tokenmix-bulk-creator` — Python · ★26 · #automation · 2026-10-05
-- **[Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).](https://github.com/omarqaterge/hermes-mobile-app)** `omarqaterge/hermes-mobile-app` — TypeScript · ★42 · #ai-agent · 2026-10-04
-- **[Free chess game review powered by Stockfish 19: labels every move (Brilliant to Blunder), a playable analysis board with](https://github.com/SanjayMarathi/MoveLens)** `SanjayMarathi/MoveLens` — Python · ★2 · #pwa · 2026-10-04
-- **[Job-scanning data pipeline: ~30 Israeli job sources (REST/JSON APIs, ATS platforms, scrapers), a tested bilingual rule e](https://github.com/Ron-Salama/jobscan)** `Ron-Salama/jobscan` — Python · ★1 · #web-scraping · 2026-10-04
-- **[Steal ideas, not content: a Telegram link stash + Claude Code skill](https://github.com/elviisaeva/petty-thief)** `elviisaeva/petty-thief` — TypeScript · ★1 · #telegram-bot · 2026-10-04
-- **[The Arabic AI ecosystem as a map, a list, and a skill your agent can install.](https://github.com/h9-tec/arabic-ai-atlas)** `h9-tec/arabic-ai-atlas` — Python · ★18 · #mcp-server · 2026-10-04
-- **[Bulk ZeroTwo account creator + JWT session, cookie & CSRF harvester that auto-connects every account to 9Router as an Op](https://github.com/0xgetz/zt-harvester)** `0xgetz/zt-harvester` — Python · ★5 · #automation · 2026-10-04
-- **[curl that reads the page for you](https://github.com/rayoplateado/jurl)** `rayoplateado/jurl` — Rust · ★1 · #web-scraping · 2026-10-04
-- **[Free, open job search and job-market dataset: ~55k open jobs from employers' own career pages across healthcare, retail,](https://github.com/chandranshB/roleBase)** `chandranshB/roleBase` — HTML · ★2 · #web-scraping · 2026-10-04
-- **[🐾 Script en Python con GitHub Actions para monitorear ofertas laborales en empresas tech y enviar alertas por Telegram/](https://github.com/FlorBagnis/Neko-Jobs)** `FlorBagnis/Neko-Jobs` — Python · ★3 · #automation · 2026-10-04
+- **["Self-hosted Telegram bot that scores Indonesian (IDX) stock risk with 28 sourced indicators and explains it in plain Ba](https://github.com/iqbal-rahmatullah/idx-skor-risiko)** `iqbal-rahmatullah/idx-skor-risiko` — Python · ★2 · #telegram-bot · 2026-10-06
+- **[Bulk-create verified Liquid Console accounts and mint a randomly-named API key for each — stealth Playwright automation ](https://github.com/0xgetz/liquid-bulk-creator)** `0xgetz/liquid-bulk-creator` — JavaScript · ★5 · #automation · 2026-10-06
+- **[QQ 群通知实时摘要推送：NapCat/OneBot v11 + AI 过滤闲聊、提取通知与待办，推送微信，自带手机待办台 PWA (QQ group digest with AI notice extraction and mobile ](https://github.com/wc985732-lang/qq-live-digest)** `wc985732-lang/qq-live-digest` — Python · ★3 · #pwa · 2026-10-06
+- **[Bulk-create Flat AI accounts headlessly, auto-capture session cookies + Firebase tokens, and bridge the pool into 9Route](https://github.com/0xgetz/flatai-9router-bulk)** `0xgetz/flatai-9router-bulk` — JavaScript · ★10 · #automation · 2026-10-06
+- **[Phone Agent: iOS AI assistant with ESP32-S3 BLE mouse, keyboard and GPIO48 RGB firmware](https://github.com/boboabw/phone-agent)** `boboabw/phone-agent` — Swift · ★12 · #ai-agent · 2026-10-06
+- **[人生档案（Life Archive）：祖仁泽发起的免费开源生活记录与个人经验管理工具。整理日记、照片与文档，搜索人物和主题，回顾生活、复盘选择；支持自选日记提醒，数据保存在使用者设备。](https://github.com/zurenze1/life-archive)** `zurenze1/life-archive` — JavaScript · ★1 · #pwa · 2026-10-06
+- **[山海同行 · Travel Together-专为好友与团队打造的「轻量沉浸式旅行协作 × 文创手账」WebApp (PWA) · A lightweight, immersive travel-collaboration & cultur](https://github.com/WilliamHONG-WH/travel-together-open)** `WilliamHONG-WH/travel-together-open` — TypeScript · ★1 · #pwa · 2026-10-06
+- **[等你下课，去自习，好吗？河南大学空教室推荐：按时间、楼层偏好与收藏筛选，提供手绘便签网页版和内置课表安卓 App。](https://github.com/duanqianzhi-arch/wait-for-you)** `duanqianzhi-arch/wait-for-you` — Java · ★3 · #pwa · 2026-10-06
+- **[Model Context Protocol (MCP) server for Adobe After Effects. 全自动 AE 智能控制端：支持 3D 摄像机运镜、文字动画器、贝塞尔曲线调速、插件特效与画面截图。](https://github.com/tzdwindows/after-effects-mcp)** `tzdwindows/after-effects-mcp` — TypeScript · ★5 · #automation · 2026-10-06
+- **[Autonomous Multi-Channel Inventory Restock Predictive Balancer & PO Generator. Forecasts SKU sales velocity using expone](https://github.com/alphaparkinc/genpark-agentic-inventory-restock-predictive-balancer-skill)** `alphaparkinc/genpark-agentic-inventory-restock-predictive-balancer-skill` — Python · ★7 · #mcp-server · 2026-10-06
+- **[Enterprise Multi-Modal Contract Clause Risk Auditor & Redline Synthesizer. Scans enterprise MSAs, NDAs, and Vendor SOWs ](https://github.com/Alpha-Park/genpark-multimodal-pdf-contract-clause-risk-auditor-skill)** `Alpha-Park/genpark-multimodal-pdf-contract-clause-risk-auditor-skill` — Python · ★7 · #mcp-server · 2026-10-06
+- **[Enterprise Multi-Speaker Meeting Action Item Extractor & WeChat Work Task Dispatcher. Analyzes conversational meeting tr](https://github.com/alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill)** `alphaparkinc/genpark-enterprise-meeting-action-item-extractor-skill` — Python · ★7 · #mcp-server · 2026-10-06
+- **[Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable i](https://github.com/0xgetz/tokenharbor-bulk-creator)** `0xgetz/tokenharbor-bulk-creator` — JavaScript · ★30 · #automation · 2026-10-06
+- **[Autonomous Commerce Dynamic Bundling & Cross-Sell Recommender (inspired by Meta Muse, Shopify & Instacart Smart Carts). ](https://github.com/Alpha-Park/genpark-commerce-dynamic-bundling-recommender-skill)** `Alpha-Park/genpark-commerce-dynamic-bundling-recommender-skill` — Python · ★7 · #mcp-server · 2026-10-05
+- **[Dynamic Few-Shot Agentic Prompt Compression & Token Sieve. Compresses multi-turn conversation history, strips verbose bo](https://github.com/alphaparkinc/genpark-agentic-prompt-compression-token-sieve-skill)** `alphaparkinc/genpark-agentic-prompt-compression-token-sieve-skill` — Python · ★7 · #mcp-server · 2026-10-05
 
 ## 📣 Show HN launches
 
-- **[Show HN: CoIsland – A local Mac app that monitors your dev tools and alerts you](https://coisland.app/)** `Show HN #49970043` — 4 pts · 0 comments · 2026-10-05
-- **[Show HN: Reader Mode for Chrome](https://chromewebstore.google.com/detail/hush-a-beautiful-reader-m/ccpcpcolgkpbcljphckfcfigfbdjknpb)** `Show HN #49970023` — 2 pts · 0 comments · 2026-10-05
-- **[Show HN: An interactive electronic music graph](https://eweb.learningtodj.com/)** `Show HN #49970017` — 2 pts · 0 comments · 2026-10-05
-- **[Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054)** `Show HN #49969988` — 1 pts · 0 comments · 2026-10-05
-- **[Show HN: Meanwhile Map – what else was happening in the world at the same time](https://meanwhilemap.com/)** `Show HN #49969680` — 3 pts · 1 comments · 2026-10-05
-- **[Show HN: Smolvm – MicroVMs with CRIU Functionality](https://smolmachines.com/engineering/branching-and-checkpoint-lineage)** `Show HN #49969447` — 1 pts · 0 comments · 2026-10-05
-- **[Show HN: Live carbon intensity and power prices for 15 European grids](https://scienceshot.com/live-grid)** `Show HN #49969421` — 2 pts · 0 comments · 2026-10-05
-- **[Show HN: Spectra-FFT – Cutting AdamW VRAM Usage by 50% for LLMs](https://www.spectralabs.si/)** `Show HN #49969381` — 1 pts · 0 comments · 2026-10-05
-- **[Show HN: A simple script to stop all cold sales emails from reaching your inbox](https://github.com/christianmat/cold-email-killer)** `Show HN #49969349` — 1 pts · 0 comments · 2026-10-05
-- **[Show HN: OneTUI 0.2.x k9s for your databases and message queues](https://github.com/syndbg/onetui)** `Show HN #49969220` — 2 pts · 0 comments · 2026-10-05
-- **[Show HN: Flash-Agents – DSH as MCP for Claude](https://github.com/tomw1808/flash-agents)** `Show HN #49969020` — 4 pts · 0 comments · 2026-10-05
-- **[Show HN: Codex and Claude subscriptions pooled together with whoever you trust](https://github.com/jaynlabs/jaynshare)** `Show HN #49968951` — 3 pts · 1 comments · 2026-10-05
-- **[Show HN: I made a Linux history (35 yrs!) video using "video as code"](https://github.com/sujee/visual-stories/tree/main/projects/linux-history)** `Show HN #49968658` — 2 pts · 1 comments · 2026-10-05
-- **[Show HN: Use macOS shortcuts on Windows](https://shafqat.dev/mac-shortcuts-for-windows/)** `Show HN #49968553` — 2 pts · 0 comments · 2026-10-05
-- **[Show HN: Multi Agent Pack for Kiro](https://github.com/amergrgic/kodama)** `Show HN #49968441` — 1 pts · 0 comments · 2026-10-05
+- **[Show HN: Gitwal – know when people talk about your code](https://gitwal.com/alerts)** `Show HN #49982151` — 2 pts · 0 comments · 2026-10-06
+- **[Show HN: Open-bridge, how our four-person team works with coding agents](https://github.com/bks-lab/open-bridge)** `Show HN #49982128` — 2 pts · 0 comments · 2026-10-06
+- **[Show HN: Texpile – An open-source, Typora-style editor for LaTeX and Typst](https://texpile.com/)** `Show HN #49982087` — 1 pts · 1 comments · 2026-10-06
+- **[Show HN: Browser-Based F1 Game](https://lift-and-coast.vercel.app)** `Show HN #49981964` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Use Jev to delete fundraising emails](https://huggingface.co/blog/stephen-solka/use-jev-to-delete-fundraising-emails)** `Show HN #49981901` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Delegator – Stop juggling coding-agent sessions](https://alcubi.ai/delegator/)** `Show HN #49981900` — 1 pts · 1 comments · 2026-10-06
+- **[Show HN: We built a way to make dictation sound like you](https://willowvoice.com/)** `Show HN #49981790` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Jev schema builder from TypeScript Type with Typia](https://typia.io/blog/jev/)** `Show HN #49981716` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Free native macOS Photoshop Clone with integrated AI harness](https://news.ycombinator.com/item?id=49981700)** `Show HN #49981700` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Catenary – Claude Code, Codex and Antigravity Side by Side in One IDE](https://thecatenary.app)** `Show HN #49981497` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Vyasa – WordPress Alternative in Rust](https://vyasa.site/)** `Show HN #49981384` — 2 pts · 0 comments · 2026-10-06
+- **[Show HN: Deploylist – StumbleUpon feed for upvoted web projects on HN and Reddit](https://deploylist.com/)** `Show HN #49981383` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: I visualized 35 years of Linux history with code [video]](https://github.com/sujee/visual-stories/tree/main/projects/linux-history)** `Show HN #49981343` — 1 pts · 0 comments · 2026-10-06
+- **[Show HN: Kcc, a C compiler built solo with an LLM on $100/mo boot Linux kernel](https://github.com/LiterateDrivenDevelopment/kcc)** `Show HN #49981314` — 2 pts · 0 comments · 2026-10-06
+- **[Show HN: Web Scraper Toolkit](https://kitdecoder.com/)** `Show HN #49981302` — 1 pts · 0 comments · 2026-10-06
 
 ## 💌 GitHub Trending (daily)
 
-- **[boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)** `boykopovar/AnyPS5` — C++
-- **[sponsors/DuarteSantos8](https://github.com/sponsors/DuarteSantos8)** `sponsors/DuarteSantos8` — JavaScript
-- **[Stremio/stremio-web](https://github.com/Stremio/stremio-web)** `Stremio/stremio-web` — JavaScript
-- **[sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)** `sponsors/msitarzewski` — Shell
-- **[M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)** `M-Abozaid/esp32-c3-adblock` — C++
-- **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** `tashfeenahmed/freellmapi` — TypeScript
-- **[chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)** `chthollyphile/folia-major` — TypeScript
-- **[AdventDevInc/kudu](https://github.com/AdventDevInc/kudu)** `AdventDevInc/kudu` — TypeScript
-- **[sponsors/hieunc229](https://github.com/sponsors/hieunc229)** `sponsors/hieunc229` — TypeScript
-- **[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)** `linshenkx/prompt-optimizer` — TypeScript
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** `ayghri/i-have-adhd` — Python
+- **[morluto/rea](https://github.com/morluto/rea)** `morluto/rea` — TypeScript
+- **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** `deepseek-ai/DeepGEMM` — Cuda
+- **[sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)** `sponsors/cathrynlavery` — HTML
+- **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** `backnotprop/plannotator` — TypeScript
+- **[sponsors/wonderwhy-er](https://github.com/sponsors/wonderwhy-er)** `sponsors/wonderwhy-er` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
