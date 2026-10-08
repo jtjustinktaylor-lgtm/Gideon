@@ -1,6 +1,168 @@
 {
   "apps": [
     {
+      "id": "app:jameshaworthcs/verifiedhandles-mcp",
+      "name": "verifiedhandles-mcp",
+      "repo": "jameshaworthcs/verifiedhandles-mcp",
+      "desc": "Connect an AI agent to Verified Handles: setup for each client, the MCP Registry listing, a Claude Desktop extension.",
+      "url": "https://github.com/jameshaworthcs/verifiedhandles-mcp",
+      "when": "2026-10-08T08:50:15Z",
+      "note": "JavaScript · ★30 · #mcp-server"
+    },
+    {
+      "id": "app:lcy362/chrome-sidecar",
+      "name": "chrome-sidecar",
+      "repo": "lcy362/chrome-sidecar",
+      "desc": "A Chrome skill for AI agents: let your agent drive your own logged-in Chrome — background tabs, real mouse/keyboard even",
+      "url": "https://github.com/lcy362/chrome-sidecar",
+      "when": "2026-10-08T07:27:25Z",
+      "note": "JavaScript · ★3 · #ai-agent"
+    },
+    {
+      "id": "app:tiliondev/waystone",
+      "name": "waystone",
+      "repo": "tiliondev/waystone",
+      "desc": "Browser action recorder for automation: record a task once, replay it, or hand the folder to an agent",
+      "url": "https://github.com/tiliondev/waystone",
+      "when": "2026-10-08T06:31:39Z",
+      "note": "Python · ★4 · #web-scraping"
+    },
+    {
+      "id": "app:0xgetz/zcode-claim-9router",
+      "name": "zcode-claim-9router",
+      "repo": "0xgetz/zcode-claim-9router",
+      "desc": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a ",
+      "url": "https://github.com/0xgetz/zcode-claim-9router",
+      "when": "2026-10-08T03:43:27Z",
+      "note": "Python · ★26 · #automation"
+    },
+    {
+      "id": "app:cporter202/tiktok-instagram-scraping-apis",
+      "name": "tiktok-instagram-scraping-apis",
+      "repo": "cporter202/tiktok-instagram-scraping-apis",
+      "desc": "A mega collection of 839 TikTok & Instagram scraping APIs: viral videos, reels, hashtags, trends, profiles, comments. Re",
+      "url": "https://github.com/cporter202/tiktok-instagram-scraping-apis",
+      "when": "2026-10-08T01:59:11Z",
+      "note": "— · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:Leedonghyo/scrape-skill",
+      "name": "scrape-skill",
+      "repo": "Leedonghyo/scrape-skill",
+      "desc": "Claude Code skill: describe the data you want from any website and get a CSV — no selectors, no code. 스크래핑을 몰라도 'URL + 한",
+      "url": "https://github.com/Leedonghyo/scrape-skill",
+      "when": "2026-10-08T00:28:13Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:hypeblock26/tallybrew",
+      "name": "tallybrew",
+      "repo": "hypeblock26/tallybrew",
+      "desc": "Discord bot that shows your follower counts in channel names. Supports Whowatch, TikTok, Instagram, X and Kick.",
+      "url": "https://github.com/hypeblock26/tallybrew",
+      "when": "2026-10-07T23:49:13Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:ArchiveBox/archivebox-chat-bot",
+      "name": "archivebox-chat-bot",
+      "repo": "ArchiveBox/archivebox-chat-bot",
+      "desc": "💬 ArchiveBox chat bot for archiving URLs from Slack, Zulip, WhatsApp, Telegram, iMessage, Messenger, and more... Captur",
+      "url": "https://github.com/ArchiveBox/archivebox-chat-bot",
+      "when": "2026-10-07T22:57:21Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agentic-cart-abandonment-recovery-orchestrator-skill",
+      "name": "genpark-agentic-cart-abandonment-recovery-orchestrator-skill",
+      "repo": "Alpha-Park/genpark-agentic-cart-abandonment-recovery-orchestrator-skill",
+      "desc": "Autonomous Agentic Cart Abandonment Recovery Orchestrator. Monitors abandoned checkout sessions in Meta Muse, Shopify, a",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-cart-abandonment-recovery-orchestrator-skill",
+      "when": "2026-10-07T21:51:14Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "name": "genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "repo": "Alpha-Park/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "desc": "Enterprise Agentic RBAC/ABAC Least-Privilege Policy Synthesizer & Blast-Radius Auditor. Analyzes historical agent tool c",
+      "url": "https://github.com/Alpha-Park/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "when": "2026-10-07T21:49:47Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "name": "genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "repo": "alphaparkinc/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "desc": "Enterprise Agentic RBAC/ABAC Least-Privilege Policy Synthesizer & Blast-Radius Auditor. Analyzes historical agent tool c",
+      "url": "https://github.com/alphaparkinc/genpark-enterprise-rbac-least-privilege-policy-synthesizer-skill",
+      "when": "2026-10-07T21:49:09Z",
+      "note": "Python · ★8 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-contextual-memory-pruning-importance-attributor-skill",
+      "name": "genpark-contextual-memory-pruning-importance-attributor-skill",
+      "repo": "alphaparkinc/genpark-contextual-memory-pruning-importance-attributor-skill",
+      "desc": "Autonomous Long-Horizon Agentic Memory Pruning & Importance Attributor. Evaluates multi-turn episodic memory buffers, ca",
+      "url": "https://github.com/alphaparkinc/genpark-contextual-memory-pruning-importance-attributor-skill",
+      "when": "2026-10-07T21:48:03Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "name": "genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "repo": "Alpha-Park/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "desc": "Autonomous Multi-Modal Invoice & Receipt Reconciler. Parses structured financial receipts, invoices, and bank statements",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "when": "2026-10-07T21:47:32Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "name": "genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "repo": "alphaparkinc/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "desc": "Autonomous Multi-Modal Invoice & Receipt Reconciler. Parses structured financial receipts, invoices, and bank statements",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-multimodal-invoice-receipt-reconciler-skill",
+      "when": "2026-10-07T21:47:06Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Cubozzis/browser-undetected",
+      "name": "browser-undetected",
+      "repo": "Cubozzis/browser-undetected",
+      "desc": "Drive a real, undetected Chrome from the shell — an agent skill built on Patchright, with human-like mouse and typing, a",
+      "url": "https://github.com/Cubozzis/browser-undetected",
+      "when": "2026-10-07T19:54:24Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:clair-im/clair-api-examples",
+      "name": "clair-api-examples",
+      "repo": "clair-im/clair-api-examples",
+      "desc": "Runnable examples for the Clair API: Live Google Search, Maps, News, Amazon, jobs, reviews data and more.",
+      "url": "https://github.com/clair-im/clair-api-examples",
+      "when": "2026-10-07T18:58:35Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Ashish-dwi99/gutsy",
+      "name": "gutsy",
+      "repo": "Ashish-dwi99/gutsy",
+      "desc": "Give your Claude some guts. Instinct-ize your Claude Code or Codex: text it on Telegram and it runs errands on your own ",
+      "url": "https://github.com/Ashish-dwi99/gutsy",
+      "when": "2026-10-07T18:16:39Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:waq-b/pip-app",
+      "name": "pip-app",
+      "repo": "waq-b/pip-app",
+      "desc": "Read-only personal investing dashboard: a rules engine decides, the LLM only summarises, and it never places orders.",
+      "url": "https://github.com/waq-b/pip-app",
+      "when": "2026-10-07T17:21:23Z",
+      "note": "TypeScript · ★1 · #pwa"
+    },
+    {
       "id": "app:griffinsspike/ai-news-pipeline",
       "name": "ai-news-pipeline",
       "repo": "griffinsspike/ai-news-pipeline",
@@ -28,6 +190,15 @@
       "note": "Go · ★9 · #telegram-bot"
     },
     {
+      "id": "app:nettanvirdev/inertia",
+      "name": "inertia",
+      "repo": "nettanvirdev/inertia",
+      "desc": "inertia-ai: a desktop workspace for AI agents. Chat, built-in tools, MCP and OpenAPI integrations, Docker/Daytona sandbo",
+      "url": "https://github.com/nettanvirdev/inertia",
+      "when": "2026-10-07T14:32:04Z",
+      "note": "Rust · ★5 · #ai-agent"
+    },
+    {
       "id": "app:TypischSinan/bodyweight-mobility-app",
       "name": "bodyweight-mobility-app",
       "repo": "TypischSinan/bodyweight-mobility-app",
@@ -35,6 +206,33 @@
       "url": "https://github.com/TypischSinan/bodyweight-mobility-app",
       "when": "2026-10-07T13:27:13Z",
       "note": "JavaScript · ★4 · #pwa"
+    },
+    {
+      "id": "app:Nikhil-creat/aanu-jewellers",
+      "name": "aanu-jewellers",
+      "repo": "Nikhil-creat/aanu-jewellers",
+      "desc": "AANU Jewellers, Thorrur: gold, silver and combination jewellery store with live rate ticker, order-time rate lock, 3D vi",
+      "url": "https://github.com/Nikhil-creat/aanu-jewellers",
+      "when": "2026-10-07T12:09:53Z",
+      "note": "HTML · ★1 · #pwa"
+    },
+    {
+      "id": "app:alexandr352/hearthwork",
+      "name": "hearthwork",
+      "repo": "alexandr352/hearthwork",
+      "desc": "A plan → execute → judge loop for Claude Code: an operator plans each unit, a fenced executor does it, the judge checks ",
+      "url": "https://github.com/alexandr352/hearthwork",
+      "when": "2026-10-07T12:01:02Z",
+      "note": "Python · ★6 · #automation"
+    },
+    {
+      "id": "app:churnast/hermes-telegram-stickers",
+      "name": "hermes-telegram-stickers",
+      "repo": "churnast/hermes-telegram-stickers",
+      "desc": "Lets your Hermes agent answer with Telegram stickers: default packs out of the box or packs you choose, picked by emoji ",
+      "url": "https://github.com/churnast/hermes-telegram-stickers",
+      "when": "2026-10-07T11:33:08Z",
+      "note": "Python · ★3 · #telegram-bot"
     },
     {
       "id": "app:OpenSpawnAI/OpenSpawnAI",
@@ -53,6 +251,15 @@
       "url": "https://github.com/piotrv1001/brand-mention-monitor",
       "when": "2026-10-07T09:44:13Z",
       "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:wix-incubator/whenever",
+      "name": "whenever",
+      "repo": "wix-incubator/whenever",
+      "desc": "AI Workflow Automation for the agentic era",
+      "url": "https://github.com/wix-incubator/whenever",
+      "when": "2026-10-07T08:26:16Z",
+      "note": "TypeScript · ★18 · #automation"
     },
     {
       "id": "app:0xgetz/abliteration-bulk-creator",
@@ -91,6 +298,15 @@
       "note": "TypeScript · ★51 · #automation"
     },
     {
+      "id": "app:Canvixel-Eloweny/ai-bot-groupmate",
+      "name": "ai-bot-groupmate",
+      "repo": "Canvixel-Eloweny/ai-bot-groupmate",
+      "desc": "QQ 群 AI 仿真群友 · OneBot v11 bridge for any OpenAI-compatible LLM + zero-build browser console. 让 AI 像群友一样插话、接梗、潜水。Apache-2",
+      "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate",
+      "when": "2026-10-07T03:06:45Z",
+      "note": "JavaScript · ★4 · #ai-agent"
+    },
+    {
       "id": "app:palomo1632-prog/agente-dsh",
       "name": "agente-dsh",
       "repo": "palomo1632-prog/agente-dsh",
@@ -98,6 +314,24 @@
       "url": "https://github.com/palomo1632-prog/agente-dsh",
       "when": "2026-10-07T02:17:53Z",
       "note": "JavaScript · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:Nikhil-creat/aurahealth-ai",
+      "name": "aurahealth-ai",
+      "repo": "Nikhil-creat/aurahealth-ai",
+      "desc": "AI health and fitness ecosystem: BMI/TDEE calculators, CNN + RAG food scan, multi-agent AI coach, memory chatbot, offlin",
+      "url": "https://github.com/Nikhil-creat/aurahealth-ai",
+      "when": "2026-10-07T01:36:38Z",
+      "note": "Python · ★1 · #pwa"
+    },
+    {
+      "id": "app:kk8o/wuxian-workshop",
+      "name": "wuxian-workshop",
+      "repo": "kk8o/wuxian-workshop",
+      "desc": "无限工坊：用AI写魔兽插件",
+      "url": "https://github.com/kk8o/wuxian-workshop",
+      "when": "2026-10-07T01:18:07Z",
+      "note": "Python · ★6 · #ai-agent"
     },
     {
       "id": "app:AQaddora/gaza-geo-sync",
@@ -109,6 +343,15 @@
       "note": "TypeScript · ★4 · #pwa"
     },
     {
+      "id": "app:farhan-beg/talaria",
+      "name": "talaria",
+      "repo": "farhan-beg/talaria",
+      "desc": "An independent Android client for Hermes Agent servers",
+      "url": "https://github.com/farhan-beg/talaria",
+      "when": "2026-10-06T22:10:43Z",
+      "note": "Kotlin · ★5 · #ai-agent"
+    },
+    {
       "id": "app:iamlukethedev/Herald-OS",
       "name": "Herald-OS",
       "repo": "iamlukethedev/Herald-OS",
@@ -116,6 +359,33 @@
       "url": "https://github.com/iamlukethedev/Herald-OS",
       "when": "2026-10-06T20:37:44Z",
       "note": "TypeScript · ★90 · #ai-agent"
+    },
+    {
+      "id": "app:Anders0nlima/my-useful-scripts",
+      "name": "my-useful-scripts",
+      "repo": "Anders0nlima/my-useful-scripts",
+      "desc": "A curated collection of practical automation scripts and CLI utilities designed to streamline daily developer workflows,",
+      "url": "https://github.com/Anders0nlima/my-useful-scripts",
+      "when": "2026-10-06T20:08:09Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:Andz200zx/revery",
+      "name": "revery",
+      "repo": "Andz200zx/revery",
+      "desc": "a self-hosted photo shuffle for immich, with pinch to zoom and optional recoverable cleanup",
+      "url": "https://github.com/Andz200zx/revery",
+      "when": "2026-10-06T19:23:17Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:Mohammad-Hasan-Kaman/ai-counseling-bot",
+      "name": "ai-counseling-bot",
+      "repo": "Mohammad-Hasan-Kaman/ai-counseling-bot",
+      "desc": "AI counselor matching bot for Bale: guided intake, GHQ-28 screening, built-in AI matching engine with feedback learning,",
+      "url": "https://github.com/Mohammad-Hasan-Kaman/ai-counseling-bot",
+      "when": "2026-10-06T18:50:16Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
       "id": "app:Mazonia/product-expiry-bot",
@@ -163,6 +433,15 @@
       "note": "Python · ★3 · #pwa"
     },
     {
+      "id": "app:bInference-Lab/bInference",
+      "name": "bInference",
+      "repo": "bInference-Lab/bInference",
+      "desc": "Your own AI agent for BNB Smart Chain: trader, researcher, creator. Trades every launchpad and DEX with MEV-protected ex",
+      "url": "https://github.com/bInference-Lab/bInference",
+      "when": "2026-10-06T10:08:39Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
       "id": "app:0xgetz/flatai-9router-bulk",
       "name": "flatai-9router-bulk",
       "repo": "0xgetz/flatai-9router-bulk",
@@ -170,6 +449,15 @@
       "url": "https://github.com/0xgetz/flatai-9router-bulk",
       "when": "2026-10-06T08:38:28Z",
       "note": "JavaScript · ★10 · #automation"
+    },
+    {
+      "id": "app:drksci/netscraper",
+      "name": "netscraper",
+      "repo": "drksci/netscraper",
+      "desc": "Portable web scrapers shipped as one manifest: XState + A2UI, any browser driver, or WASM.",
+      "url": "https://github.com/drksci/netscraper",
+      "when": "2026-10-06T07:41:21Z",
+      "note": "TypeScript · ★2 · #web-scraping"
     },
     {
       "id": "app:boboabw/phone-agent",
@@ -1511,295 +1799,7 @@
       "url": "https://github.com/sjespersen/homelab-agent",
       "when": "2026-10-01T11:21:31Z",
       "note": "Shell · ★17 · #ai-agent"
-    },
-    {
-      "id": "app:mindlesself/job-hunter",
-      "name": "job-hunter",
-      "repo": "mindlesself/job-hunter",
-      "desc": "Remote Python jobs & freelance finder: 12 job boards, local LLM (Ollama) scoring against your resume, Telegram cards",
-      "url": "https://github.com/mindlesself/job-hunter",
-      "when": "2026-10-01T10:48:26Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:HuanMoovo/campus-agent",
-      "name": "campus-agent",
-      "repo": "HuanMoovo/campus-agent",
-      "desc": "Mens（拉丁语 mēns：心智/理性/思维，不是英文 men）校园助手 — 本地优先的校园问答工作台（Electron + Vue 3 + FastAPI）：知识库检索、校园服务、流式问答与可选联网搜索；Windows/macOS/Lin",
-      "url": "https://github.com/HuanMoovo/campus-agent",
-      "when": "2026-10-01T10:21:23Z",
-      "note": "Python · ★1 · #pwa"
-    },
-    {
-      "id": "app:ph1lb4/imagegen-mac",
-      "name": "imagegen-mac",
-      "repo": "ph1lb4/imagegen-mac",
-      "desc": "Local AI image generation for Mac. Run Qwen-Image 2.1 on Apple Silicon, offline and private, with a built-in MCP server ",
-      "url": "https://github.com/ph1lb4/imagegen-mac",
-      "when": "2026-10-01T10:18:38Z",
-      "note": "Swift · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:YousefE1bana/al-tayyibat",
-      "name": "al-tayyibat",
-      "repo": "YousefE1bana/al-tayyibat",
-      "desc": "دليل عربي تفاعلي لنظام الطيبات — 385 طعامًا، بحث وبدائل ووصفات وفاحص مكونات، مع PWA ودعم RTL.",
-      "url": "https://github.com/YousefE1bana/al-tayyibat",
-      "when": "2026-10-01T09:52:47Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:Omarhussien2/open-freelance-agent",
-      "name": "open-freelance-agent",
-      "repo": "Omarhussien2/open-freelance-agent",
-      "desc": "وكيل حر مجاني 100% محلي: يراقب مستقل/Upwork/LinkedIn، يفلتر ويكتب العرض من أرقامك الحقيقية — ولا إرسال بدون موافقتك من ت",
-      "url": "https://github.com/Omarhussien2/open-freelance-agent",
-      "when": "2026-10-01T05:45:20Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:lhfer/factory-switcher",
-      "name": "factory-switcher",
-      "repo": "lhfer/factory-switcher",
-      "desc": "🔁 Native macOS menu-bar app to switch between your own Factory (Droid) accounts — quota at a glance, backup-first switc",
-      "url": "https://github.com/lhfer/factory-switcher",
-      "when": "2026-10-01T05:24:35Z",
-      "note": "Swift · ★11 · #ai-agent"
-    },
-    {
-      "id": "app:pennant-dev/pennant",
-      "name": "pennant",
-      "repo": "pennant-dev/pennant",
-      "desc": "Pennant for macOS: one open-source AI agent that does the work on your Mac, on a schedule, with any model. It asks befor",
-      "url": "https://github.com/pennant-dev/pennant",
-      "when": "2026-10-01T03:39:59Z",
-      "note": "Swift · ★8 · #ai-agent"
-    },
-    {
-      "id": "app:Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "name": "genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "repo": "Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "desc": "GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discover",
-      "url": "https://github.com/Alpha-Park/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "when": "2026-10-01T02:33:05Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "name": "genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "repo": "alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "desc": "GenPark AI Agent Skill - SparkFly (Tec-Do 2.0) global creator intelligence, TikTok/Instagram/YouTube influencer discover",
-      "url": "https://github.com/alphaparkinc/genpark-sparkfly-influencer-marketing-creator-intelligence-skill",
-      "when": "2026-10-01T02:32:15Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:0xgetz/runbios-account-creator",
-      "name": "runbios-account-creator",
-      "repo": "0xgetz/runbios-account-creator",
-      "desc": "Automated end-to-end Run BiOS account + API key creator — random identity, disposable inbox (zenvex.dev), OTP verificati",
-      "url": "https://github.com/0xgetz/runbios-account-creator",
-      "when": "2026-10-01T01:25:00Z",
-      "note": "JavaScript · ★3 · #automation"
-    },
-    {
-      "id": "app:cmoraes10/loci",
-      "name": "loci",
-      "repo": "cmoraes10/loci",
-      "desc": "Typed long-term memory for AI agents. One core, an MCP server, and a Hermes plugin.",
-      "url": "https://github.com/cmoraes10/loci",
-      "when": "2026-10-01T01:09:03Z",
-      "note": "Python · ★23 · #mcp-server"
-    },
-    {
-      "id": "app:useburner/burner",
-      "name": "burner",
-      "repo": "useburner/burner",
-      "desc": "Give your AI assistant a physical side phone.",
-      "url": "https://github.com/useburner/burner",
-      "when": "2026-10-01T00:49:17Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:vrlda/rebound",
-      "name": "rebound",
-      "repo": "vrlda/rebound",
-      "desc": "Self-hosted, multi-account inbox for Resend — read, reply and send from every Resend account, with 2FA and push notifica",
-      "url": "https://github.com/vrlda/rebound",
-      "when": "2026-10-01T00:35:29Z",
-      "note": "Go · ★1 · #pwa"
-    },
-    {
-      "id": "app:aasobb-19/VisOMP",
-      "name": "VisOMP",
-      "repo": "aasobb-19/VisOMP",
-      "desc": "Kantor 3D real-time untuk sesi OMP — tonton AI agent bekerja sebagai karakter animasi di kantor virtual. Subagent = angg",
-      "url": "https://github.com/aasobb-19/VisOMP",
-      "when": "2026-09-30T23:54:35Z",
-      "note": "JavaScript · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:0xgetz/perplexity-auto-creator",
-      "name": "perplexity-auto-creator",
-      "repo": "0xgetz/perplexity-auto-creator",
-      "desc": "Automated, end-to-end Perplexity account creator — random identity, temp inbox, session cookies and access token. Cloudf",
-      "url": "https://github.com/0xgetz/perplexity-auto-creator",
-      "when": "2026-09-30T23:51:24Z",
-      "note": "JavaScript · ★7 · #automation"
-    },
-    {
-      "id": "app:exfador/cxh-fp",
-      "name": "cxh-fp",
-      "repo": "exfador/cxh-fp",
-      "desc": "🦊 CXH FP — управление магазином FunPay через Telegram: заказы, лоты, автовыдача, плагины и подписанные обновления.",
-      "url": "https://github.com/exfador/cxh-fp",
-      "when": "2026-09-30T23:01:29Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:SanyaSS111/jarvis",
-      "name": "jarvis",
-      "repo": "SanyaSS111/jarvis",
-      "desc": "J.A.R.V.I.S. — ИИ-агент для Windows: лаунчер, локальные модели, картинки, Telegram-бот",
-      "url": "https://github.com/SanyaSS111/jarvis",
-      "when": "2026-09-30T22:28:33Z",
-      "note": "JavaScript · ★3 · #telegram-bot"
-    },
-    {
-      "id": "app:oujame17-stack/jizhang-bot",
-      "name": "jizhang-bot",
-      "repo": "oujame17-stack/jizhang-bot",
-      "desc": "💳 零度记账机器人 · 老罗与景甜倾情力荐！毫秒级响应0延迟0卡顿，支持TG小程序可视化管理、一群一设置独立管理、多套模板自由切换，数据与银行卡查询不限次数（@Lingdu_Botbot 免费试用，暮色 aimuseba.top 推荐）",
-      "url": "https://github.com/oujame17-stack/jizhang-bot",
-      "when": "2026-09-30T21:59:43Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:oujame17-stack/aimuseba-nav",
-      "name": "aimuseba-nav",
-      "repo": "oujame17-stack/aimuseba-nav",
-      "desc": "🎬 暮色影视官方免翻主站导航与 Telegram 影音、记账机器人全能使用指南（含 aimuseba.top 永久发布页与 @Lingdu_Botbot 记账机器人推荐）",
-      "url": "https://github.com/oujame17-stack/aimuseba-nav",
-      "when": "2026-09-30T21:50:19Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:tomasgabrielh6658-create/knowledge-curator",
-      "name": "knowledge-curator",
-      "repo": "tomasgabrielh6658-create/knowledge-curator",
-      "desc": "Tu segundo cerebro en Telegram: le mandás links a un bot y después los encontrás buscando como le preguntarías a un amig",
-      "url": "https://github.com/tomasgabrielh6658-create/knowledge-curator",
-      "when": "2026-09-30T19:05:33Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:VoltEmperorChaos/ai-agent-for-pc",
-      "name": "ai-agent-for-pc",
-      "repo": "VoltEmperorChaos/ai-agent-for-pc",
-      "desc": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
-      "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
-      "when": "2026-09-30T18:42:11Z",
-      "note": "— · ★46 · #ai-agent"
-    },
-    {
-      "id": "app:Stxqq/aevori-app",
-      "name": "aevori-app",
-      "repo": "Stxqq/aevori-app",
-      "desc": "Local AI chat and personal agents for macOS. Ollama-powered conversations, customizable characters, controllable memory,",
-      "url": "https://github.com/Stxqq/aevori-app",
-      "when": "2026-09-30T18:13:48Z",
-      "note": "TypeScript · ★16 · #ai-agent"
-    },
-    {
-      "id": "app:AnshumanAtrey/ashby-jobs-search",
-      "name": "ashby-jobs-search",
-      "repo": "AnshumanAtrey/ashby-jobs-search",
-      "desc": "Ashby jobs scraper and API for every company on jobs.ashbyhq.com, searched live by job title, location, remote or onsite",
-      "url": "https://github.com/AnshumanAtrey/ashby-jobs-search",
-      "when": "2026-09-30T17:37:05Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:yemijun/ladder-progression",
-      "name": "ladder-progression",
-      "repo": "yemijun/ladder-progression",
-      "desc": "纯前端力量训练周期计划生成器｜输入卧推 / 深蹲 10RM，自动排出「递增金字塔 + 双重递进」计划，并按每次训练的实际结果自动进退阶｜卧推与深蹲各自独立｜离线可用，数据仅存本机浏览器",
-      "url": "https://github.com/yemijun/ladder-progression",
-      "when": "2026-09-30T17:26:16Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:produtoramaxvision/DeckTech",
-      "name": "DeckTech",
-      "repo": "produtoramaxvision/DeckTech",
-      "desc": "O DeckTech transforma um Mac ou PC Windows em host de um dock remoto para Android, iPhone e navegador na rede local. Est",
-      "url": "https://github.com/produtoramaxvision/DeckTech",
-      "when": "2026-09-30T15:44:04Z",
-      "note": "— · ★2 · #pwa"
-    },
-    {
-      "id": "app:HawkonS/slide-flow",
-      "name": "slide-flow",
-      "repo": "HawkonS/slide-flow",
-      "desc": "【页流幻灯片管理平台】单页 PPT 编目、授权、组合与放映",
-      "url": "https://github.com/HawkonS/slide-flow",
-      "when": "2026-09-30T15:39:08Z",
-      "note": "Python · ★1 · #pwa"
-    },
-    {
-      "id": "app:OMG-Guest/Halo-Mobile",
-      "name": "Halo-Mobile",
-      "repo": "OMG-Guest/Halo-Mobile",
-      "desc": "🔥 Halo CE in your browser: mobile touch controls, streamed maps, System Link, and WebAssembly absurdity.",
-      "url": "https://github.com/OMG-Guest/Halo-Mobile",
-      "when": "2026-09-30T15:27:58Z",
-      "note": "C · ★2 · #pwa"
-    },
-    {
-      "id": "app:SergeyGer/AlphaAgent",
-      "name": "AlphaAgent",
-      "repo": "SergeyGer/AlphaAgent",
-      "desc": "Autonomous multi-agent investment platform: Django 5 + DRF, Celery/Redis, PostgreSQL, and a CrewAI bull-vs-bear debate b",
-      "url": "https://github.com/SergeyGer/AlphaAgent",
-      "when": "2026-09-30T15:08:25Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:renfei421/ResearchPilot",
-      "name": "ResearchPilot",
-      "repo": "renfei421/ResearchPilot",
-      "desc": "Evidence-grounded academic research agent with claim verification, prior-work analysis, and persistent research workspac",
-      "url": "https://github.com/renfei421/ResearchPilot",
-      "when": "2026-09-30T12:54:09Z",
-      "note": "Python · ★10 · #ai-agent"
-    },
-    {
-      "id": "app:0xgetz/freeai-bulk",
-      "name": "freeai-bulk",
-      "repo": "0xgetz/freeai-bulk",
-      "desc": "Bulk-create verified Free.ai accounts with disposable emails and rotating proxies - each with its own API key. Single-fi",
-      "url": "https://github.com/0xgetz/freeai-bulk",
-      "when": "2026-09-30T12:13:29Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:0xgetz/elevenlabs-farm",
-      "name": "elevenlabs-farm",
-      "repo": "0xgetz/elevenlabs-farm",
-      "desc": "End-to-end Playwright automation: fresh Gmail signup, hCaptcha solving, email verification and API key creation for Elev",
-      "url": "https://github.com/0xgetz/elevenlabs-farm",
-      "when": "2026-09-30T12:06:13Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:0xgetz/minimax-agent-automation",
-      "name": "minimax-agent-automation",
-      "repo": "0xgetz/minimax-agent-automation",
-      "desc": "Automated MiniMax Agent account signup + daily check-in + JWT/cookie harvester. Uses Zenvex disposable email and Playwri",
-      "url": "https://github.com/0xgetz/minimax-agent-automation",
-      "when": "2026-09-30T10:08:50Z",
-      "note": "Python · ★5 · #automation"
     }
   ],
-  "updated": "2026-10-07T19:02:07.463Z"
+  "updated": "2026-10-08T18:57:45.695Z"
 }
