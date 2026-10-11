@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-10-10
+# GitHub Radar — 2026-10-11
 
-_61 new item(s) since last run · generated 2026-10-10T17:25:37.081Z_
+_65 new item(s) since last run · generated 2026-10-11T17:44:46.831Z_
 
 ## 🚀 Releases
 
@@ -8,7 +8,14 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-_Nothing new._
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bbb8524e330b56132560b7b74955d6a9f6b1cfc3)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/606dc7e96864d27b62f266f845c581c0ffdc9577)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/32c7dcafcf5276eb83b338009af034fe45bcffc5)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8969ad474a449fa69641daa1b9b1fa4f5ead5a44)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/93c0782b007da7fb2f0f829106094837ad428549)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/32a4ca25e3febe51857028021c59e2a294d3ecb7)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a5b8a4455435a4bf2c6aafc2e232e032027d986f)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
+- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/115791dcdd123ec8d53c4574fe141c3c6e99653c)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-11
 
 ## 🆕 New repos on the radar
 
@@ -16,51 +23,49 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Self-hosted Telegram todo bot with reminders (one-off, recurring, snooze, daily digest). Go + SQLite, single static bina](https://github.com/sadeq-n-yazdi/todo-bot)** `sadeq-n-yazdi/todo-bot` — Go · ★1 · #telegram-bot · 2026-10-10
-- **[Bulk-provision Teamly accounts and OpenAI-compatible API keys over pure HTTP — temp inbox, email verification, agent pub](https://github.com/0xgetz/teamly-account-factory)** `0xgetz/teamly-account-factory` — Go · ★5 · #automation · 2026-10-10
-- **[Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with](https://github.com/rociiu/talorys)** `rociiu/talorys` — TypeScript · ★184 · #ai-agent · 2026-10-10
-- **[An opinionated bootstrap kit for growing a long-lived, personal Hermes agent — memory, character, and a shared workspace](https://github.com/pju-hoge/a-letter-to-junior-agents)** `pju-hoge/a-letter-to-junior-agents` — — · ★14 · #ai-agent · 2026-10-10
-- **[Search Mercari Japan by image in Node.js with an Apify Actor](https://github.com/piotrv1001/how-to-search-mercari-by-image-in-nodejs)** `piotrv1001/how-to-search-mercari-by-image-in-nodejs` — JavaScript · ★1 · #web-scraping · 2026-10-10
-- **[🌸 Telegram's First Native C++20 Telegram Music Bot engine with native Go MTProto WebRTC voice bridge. Ultra-low RAM (~3](https://github.com/SUDEEPBOTS/TinaMusic)** `SUDEEPBOTS/TinaMusic` — C++ · ★3 · #telegram-bot · 2026-10-10
-- **[Measured Telegram Serverless limits: JavaScript heap, ArrayBuffer memory, CPU time, SQLite storage and concurrency. Repr](https://github.com/DaYzTm/telegram-serverless-limits)** `DaYzTm/telegram-serverless-limits` — JavaScript · ★2 · #telegram-bot · 2026-10-09
-- **[Hermes Agent plugin: web_extract fallback chain TinyFish -> Firecrawl -> Keenable](https://github.com/Pressimize/hermes-extract-chain)** `Pressimize/hermes-extract-chain` — Python · ★1 · #web-scraping · 2026-10-09
-- **[tiktok web signature reverse engineer generates valid tiktok signatures for API requets](https://github.com/n1tr00-10/tiktok-web-signature)** `n1tr00-10/tiktok-web-signature` — Python · ★706 · #web-scraping · 2026-10-09
-- **[Unity AssetBundle Modder, Inspector & Hex Padder Telegram Bot powered by ArisuFxPy. Supports Termux, VPS & Windows.](https://github.com/arisugpt/ArisuFxBot)** `arisugpt/ArisuFxBot` — Python · ★2 · #telegram-bot · 2026-10-09
-- **[Capture-first task manager: type tasks like a bullet list. Calendar with ICS feed, Kanban, projects, priorities, deadlin](https://github.com/MacKenzie779/tasker)** `MacKenzie779/tasker` — Svelte · ★1 · #pwa · 2026-10-09
-- **[حوّل: تحويل وضغط الملفات (PDF، صور، ZIP) داخل المتصفح، عربي وإنجليزي](https://github.com/l7v0l/hawwil)** `l7v0l/hawwil` — JavaScript · ★1 · #pwa · 2026-10-09
-- **[McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)](https://github.com/zhuxian518/mcd-1024-skill)** `zhuxian518/mcd-1024-skill` — — · ★14 · #ai-agent · 2026-10-09
-- **[Unofficial Codex plugin for AI 3D creation with your Tripo Studio account. Generate, texture, rig, animate and export as](https://github.com/GrinZero/tripo-studio-plugin)** `GrinZero/tripo-studio-plugin` — JavaScript · ★5 · #mcp-server · 2026-10-09
-- **[把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video tea](https://github.com/ymybxx/SoloMCN)** `ymybxx/SoloMCN` — JavaScript · ★45 · #ai-agent · 2026-10-09
+- **[Как пробить номер телефона через Telegram бот бесплатно. Проверка тегов GetContact, объявлений Авито, профилей VK и банк](https://github.com/LilyFerrari47/poisk-po-nomeru-bot-2026)** `LilyFerrari47/poisk-po-nomeru-bot-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Рабочее зеркало и прямая ссылка на Глаз Бога бот в Telegram. Проверка человека, авто по госномеру и VIN, телефона и откр](https://github.com/LilyFerrari47/glaz-boga-zerkalo-bot-2026)** `LilyFerrari47/glaz-boga-zerkalo-bot-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Актуальный каталог проверенных Telegram ботов для поиска информации по открытым источникам (OSINT), номеру телефона, авт](https://github.com/LilyFerrari47/telegram-bot-probiv-2026)** `LilyFerrari47/telegram-bot-probiv-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Как пробить номер телефона через Telegram бот бесплатно. Проверка тегов GetContact, объявлений Авито, профилей VK и банк](https://github.com/ValerieAlexiou887/poisk-po-nomeru-bot-2026)** `ValerieAlexiou887/poisk-po-nomeru-bot-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Рабочее зеркало и прямая ссылка на Глаз Бога бот в Telegram. Проверка человека, авто по госномеру и VIN, телефона и откр](https://github.com/ValerieAlexiou887/glaz-boga-zerkalo-bot-2026)** `ValerieAlexiou887/glaz-boga-zerkalo-bot-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Актуальный каталог проверенных Telegram ботов для поиска информации по открытым источникам (OSINT), номеру телефона, авт](https://github.com/irenep64122/telegram-bot-probiv-2026)** `irenep64122/telegram-bot-probiv-2026` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Боты в Telegram для полной проверки истории авто: ДТП, залоги, ограничения, история пробега, расчеты ремонтов и владельц](https://github.com/irenep64122/proverka-avto-vin-telegram)** `irenep64122/proverka-avto-vin-telegram` — HTML · ★3 · #telegram-bot · 2026-10-11
+- **[Let an AI agent drive a jailbroken PS5 by itself: a virtual DualSense and fast screen capture that close the loop for un](https://github.com/griches/PS5_DevLoop)** `griches/PS5_DevLoop` — C · ★5 · #automation · 2026-10-11
+- **[果安云平台(tea-garden)前端构建产物的字节级改造工具箱：活跃 chunk 定位 / 补丁断言 / ESM 校验 / md5 校验部署 / 三层验证](https://github.com/yzx13830696790-beep/nvidia-tea-garden-ops)** `yzx13830696790-beep/nvidia-tea-garden-ops` — Python · ★2 · #automation · 2026-10-11
+- **[中国税务稽查与处罚案例采集处理工具链：31省全覆盖实战验证，40+站点适配器/质量门禁/要素结构化/踩坑实录（附属法规库流水线）](https://github.com/Zhu-Guang-Scion/china-taxcase-obtain)** `Zhu-Guang-Scion/china-taxcase-obtain` — Python · ★3 · #web-scraping · 2026-10-11
+- **[Browser-based reader for manga and manhwas](https://github.com/meangrinch/MangaReader)** `meangrinch/MangaReader` — TypeScript · ★2 · #pwa · 2026-10-11
+- **[Busca empleos en LinkedIn, Indeed, Computrabajo y Multitrabajos (Ecuador), guarda solo lo nuevo y manda un reporte diari](https://github.com/eriecua/jobs-scraper-ecuador)** `eriecua/jobs-scraper-ecuador` — Python · ★1 · #web-scraping · 2026-10-11
+- **[Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in ](https://github.com/smixs/pi-durable-telegram)** `smixs/pi-durable-telegram` — TypeScript · ★4 · #telegram-bot · 2026-10-11
+- **[Turn pictures, GIFs and videos into text art (braille, ASCII, emoji…) — free, offline, in the browser or as a Windows/Li](https://github.com/ZeronTwoi/text-art-converter)** `ZeronTwoi/text-art-converter` — HTML · ★1 · #pwa · 2026-10-10
+- **[Browser-based real-time modding tool for jailbroken PS5 consoles: find values, make cheats, debug, and learn how it is d](https://github.com/TiagoVal97/cheatspecter)** `TiagoVal97/cheatspecter` — TypeScript · ★3 · #mcp-server · 2026-10-10
 
 ## 📣 Show HN launches
 
-- **[Show HN: Planar.jl is a trading bot written in Julia](https://github.com/BubbleParticles/Planar.jl)** `Show HN #50034722` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM](https://github.com/woct0rdho/transformers5-qwen3.5-recipe)** `Show HN #50034625` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: The Sentence, where you change one word and start a chain reaction](https://the-sentence.com/)** `Show HN #50034485` — 1 pts · 1 comments · 2026-10-10
-- **[Show HN: I asked 10k people to describe AI in 1 word](https://crowdle.gg/ai/)** `Show HN #50034454` — 2 pts · 0 comments · 2026-10-10
-- **[Show HN: Vigil – An agent harness for long-running pentests and code audits](https://github.com/VigilOSS/Vigil)** `Show HN #50034204` — 2 pts · 0 comments · 2026-10-10
-- **[Show HN: Claydash SDF Modeler](https://claydash.com/)** `Show HN #50034139` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: RoadRaven – a project plan your coding agents keep up to date](https://github.com/Shuffzord/RoadRaven)** `Show HN #50034135` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: Health Explorer – See how genes shape health, from DNA to treatment](https://health-explorer.askcyph.ai/)** `Show HN #50034052` — 1 pts · 1 comments · 2026-10-10
-- **[Show HN: A fullscreen Game of Life in which every board is a runnable program](https://bobbby.online/piet/tiles)** `Show HN #50033916` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: Sibuna an open source web application firewall with proof of work](https://github.com/insanai/sibuna)** `Show HN #50033878` — 3 pts · 0 comments · 2026-10-10
-- **[Show HN: Lunatic Fling – a cel-shaded 3D remake of After Dark's Lunatic Fringe](https://lunaticfling.com/)** `Show HN #50033602` — 2 pts · 1 comments · 2026-10-10
-- **[Show HN: Peer-to-peer instant messaging with proof-of-work spam protection](https://github.com/iljah/p2pIM)** `Show HN #50033558` — 3 pts · 0 comments · 2026-10-10
-- **[Show HN: Simple Security Checker](https://github.com/yuyalapis/security-checker)** `Show HN #50033391` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: Tessary – Find the AI agent failures your sampled evals miss](https://github.com/tessaryai/tessary)** `Show HN #50033189` — 1 pts · 0 comments · 2026-10-10
-- **[Show HN: GitFrame – Review Git diffs and explore repos and branches in a TUI](https://github.com/hiroaqii/gitframe)** `Show HN #50033005` — 1 pts · 1 comments · 2026-10-10
+- **[Show HN: Vocafy – Listen to Vocaloid songs by producer, from the original videos](https://vocafy.kkweb.io/en)** `Show HN #50045704` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: A Tailscale identity-aware gateway for Postgres and ClickHouse](https://github.com/dialohq/tailscale-database-gateway)** `Show HN #50045644` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: BeelineBench – How well do decision models solve multi-step problems?](https://github.com/kyle-pena-nlp/beelinebench)** `Show HN #50045575` — 1 pts · 1 comments · 2026-10-11
+- **[Show HN: Self Hosted System One Decision API for Images](https://deepanwadhwa.github.io/OpenDecision/image-examples/)** `Show HN #50045518` — 5 pts · 0 comments · 2026-10-11
+- **[Show HN: How good is your Rust? Free quiz, every code answer checked by rustc](https://rustcoach.dev/test)** `Show HN #50045507` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander)** `Show HN #50045340` — 13 pts · 3 comments · 2026-10-11
+- **[Show HN: Synonymizer – an experiment in non AI text adjustment](https://synonymizer.fyi/)** `Show HN #50045321` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: DuckOnWire – Share one DuckDB file over Postgres wire and Quack](https://github.com/misaelzapata/duckonwire)** `Show HN #50045216` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code](https://shapelessai.com/vizipedia)** `Show HN #50045166` — 1 pts · 2 comments · 2026-10-11
+- **[Show HN: Pull Request #5000](https://go-micro.dev/blog/2026/10/11/pull-request-5000.html)** `Show HN #50045039` — 2 pts · 0 comments · 2026-10-11
+- **[Show HN: PR-witness – run the base branch's tests against the PR's code](https://github.com/talhayme/pr-witness)** `Show HN #50045037` — 1 pts · 1 comments · 2026-10-11
+- **[Show HN: Notifications for Lit Web Components](https://github.com/brysonbw/lit-toaster)** `Show HN #50044910` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: OpenCode server and TUI in a browser tab (Chrome desktop)](https://kkrausse.github.io/browser-agent-toolkit/)** `Show HN #50044879` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: Atlas Runa – E2E AI-enhanced language learning](https://atlasruna.com/)** `Show HN #50044874` — 1 pts · 0 comments · 2026-10-11
+- **[Show HN: OpenClear – Self-hosted check and ACH fraud screening for small banks](https://github.com/chaffed/OpenClear)** `Show HN #50044824` — 3 pts · 0 comments · 2026-10-11
 
 ## 💌 GitHub Trending (daily)
 
-- **[flutter/flutter](https://github.com/flutter/flutter)** `flutter/flutter` — Dart
-- **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** `hugohe3/ppt-master` — Python
-- **[pytorch/pytorch](https://github.com/pytorch/pytorch)** `pytorch/pytorch` — Python
-- **[huggingface/transformers](https://github.com/huggingface/transformers)** `huggingface/transformers` — Python
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** `multica-ai/andrej-karpathy-skills` — overall
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `remotion-dev/remotion` — TypeScript
-- **[appwrite/appwrite](https://github.com/appwrite/appwrite)** `appwrite/appwrite` — TypeScript
-- **[sponsors/Yeachan-Heo](https://github.com/sponsors/Yeachan-Heo)** `sponsors/Yeachan-Heo` — TypeScript
-- **[immich-app/immich](https://github.com/immich-app/immich)** `immich-app/immich` — TypeScript
+- **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** `bilawalsidhu/gods-eye-view` — JavaScript
+- **[sponsors/lyogavin](https://github.com/sponsors/lyogavin)** `sponsors/lyogavin` — Jupyter Notebook
+- **[sponsors/chrislgarry](https://github.com/sponsors/chrislgarry)** `sponsors/chrislgarry` — Assembly
+- **[langgenius/dify](https://github.com/langgenius/dify)** `langgenius/dify` — TypeScript
+- **[CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)** `CopilotKit/OpenIntelligentUI` — TypeScript
+- **[agalwood/Motrix](https://github.com/agalwood/Motrix)** `agalwood/Motrix` — TypeScript
+- **[getnao/nao](https://github.com/getnao/nao)** `getnao/nao` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
