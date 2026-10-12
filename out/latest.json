@@ -1,419 +1,401 @@
 {
-  "date": "2026-10-11",
-  "generated": "2026-10-11T17:44:46.831Z",
-  "newCount": 65,
+  "date": "2026-10-12",
+  "generated": "2026-10-12T21:21:46.147Z",
+  "newCount": 64,
   "errors": [],
   "releases": [],
   "commits": [
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/bbb8524e330b56132560b7b74955d6a9f6b1cfc3",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/3c43bcf8b434796b0df3cd934445f69591093ef1",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bbb8524e330b56132560b7b74955d6a9f6b1cfc3",
-      "when": "2026-10-11T17:20:55Z",
+      "title": "px26-leader px26-fm00 2026-10-12 main 3298ba167a5f9fe01c512f10b573f637303eb2e9 \"Mark the unified history, runner drain, ",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3c43bcf8b434796b0df3cd934445f69591093ef1",
+      "when": "2026-10-12T06:07:51Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/606dc7e96864d27b62f266f845c581c0ffdc9577",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8ab1ccd4a0ea2ea8faa92eba83994409ce637cfd",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/606dc7e96864d27b62f266f845c581c0ffdc9577",
-      "when": "2026-10-11T17:00:45Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8ab1ccd4a0ea2ea8faa92eba83994409ce637cfd",
+      "when": "2026-10-12T06:04:49Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/32c7dcafcf5276eb83b338009af034fe45bcffc5",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8fa2e96cf66485ac6e1bdbd8c74081d25b94a703",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/32c7dcafcf5276eb83b338009af034fe45bcffc5",
-      "when": "2026-10-11T16:54:32Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8fa2e96cf66485ac6e1bdbd8c74081d25b94a703",
+      "when": "2026-10-12T06:00:37Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8969ad474a449fa69641daa1b9b1fa4f5ead5a44",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/54872218e2cd0b389e7b546e343d28d889e4c840",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8969ad474a449fa69641daa1b9b1fa4f5ead5a44",
-      "when": "2026-10-11T16:41:19Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/54872218e2cd0b389e7b546e343d28d889e4c840",
+      "when": "2026-10-12T05:56:58Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/93c0782b007da7fb2f0f829106094837ad428549",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/9902bbf7eccc55ed67e2bba583f3bf0957687918",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/93c0782b007da7fb2f0f829106094837ad428549",
-      "when": "2026-10-11T16:22:26Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9902bbf7eccc55ed67e2bba583f3bf0957687918",
+      "when": "2026-10-12T05:55:33Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/32a4ca25e3febe51857028021c59e2a294d3ecb7",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/a6853f62e0c9f6c180047ed6738391e7db37f295",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/32a4ca25e3febe51857028021c59e2a294d3ecb7",
-      "when": "2026-10-11T16:08:55Z",
+      "title": "px26-leader px26-fm00 2026-10-12 main 1dffee016aeb377e43b55b6edecfcb56561a81f3 \"Mark the gas station budget key and AI m",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a6853f62e0c9f6c180047ed6738391e7db37f295",
+      "when": "2026-10-12T05:54:11Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/a5b8a4455435a4bf2c6aafc2e232e032027d986f",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/c01da0ff959a1962d8158e62cfe098a8bb2c1f72",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a5b8a4455435a4bf2c6aafc2e232e032027d986f",
-      "when": "2026-10-11T16:00:09Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/c01da0ff959a1962d8158e62cfe098a8bb2c1f72",
+      "when": "2026-10-12T05:53:06Z",
       "note": "Sidiora Development Team"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/115791dcdd123ec8d53c4574fe141c3c6e99653c",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/b005bfacfdb1d798d6ab04b4277b7fa25f2b5e73",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
       "title": "px26-leader",
-      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/115791dcdd123ec8d53c4574fe141c3c6e99653c",
-      "when": "2026-10-11T15:50:08Z",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b005bfacfdb1d798d6ab04b4277b7fa25f2b5e73",
+      "when": "2026-10-12T05:50:30Z",
       "note": "Sidiora Development Team"
     }
   ],
   "new-repos": [],
   "apps": [
     {
-      "id": "app:LilyFerrari47/poisk-po-nomeru-bot-2026",
+      "id": "app:SerfDiscriminate/Seo-Guard",
       "section": "apps",
-      "repo": "LilyFerrari47/poisk-po-nomeru-bot-2026",
-      "title": "Как пробить номер телефона через Telegram бот бесплатно. Проверка тегов GetContact, объявлений Авито, профилей VK и банк",
-      "url": "https://github.com/LilyFerrari47/poisk-po-nomeru-bot-2026",
-      "when": "2026-10-11T13:01:35Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "SerfDiscriminate/Seo-Guard",
+      "title": "Automated technical SEO auditing tool to detect website issues and prevent SEO regressions.",
+      "url": "https://github.com/SerfDiscriminate/Seo-Guard",
+      "when": "2026-10-12T15:50:15Z",
+      "note": "Python · ★12 · #web-scraping"
     },
     {
-      "id": "app:LilyFerrari47/glaz-boga-zerkalo-bot-2026",
+      "id": "app:alphaparkinc/genpark-agentic-prompt-injection-jailbreak-firewall-sentinel-skill",
       "section": "apps",
-      "repo": "LilyFerrari47/glaz-boga-zerkalo-bot-2026",
-      "title": "Рабочее зеркало и прямая ссылка на Глаз Бога бот в Telegram. Проверка человека, авто по госномеру и VIN, телефона и откр",
-      "url": "https://github.com/LilyFerrari47/glaz-boga-zerkalo-bot-2026",
-      "when": "2026-10-11T13:00:23Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "alphaparkinc/genpark-agentic-prompt-injection-jailbreak-firewall-sentinel-skill",
+      "title": "Zero-Trust Agentic Indirect Prompt Injection & Jailbreak Firewall Sentinel. Inspects untrusted external documents, email",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-prompt-injection-jailbreak-firewall-sentinel-skill",
+      "when": "2026-10-12T13:22:48Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:LilyFerrari47/telegram-bot-probiv-2026",
+      "id": "app:Alpha-Park/genpark-enterprise-cloud-finops-inference-cost-governor-skill",
       "section": "apps",
-      "repo": "LilyFerrari47/telegram-bot-probiv-2026",
-      "title": "Актуальный каталог проверенных Telegram ботов для поиска информации по открытым источникам (OSINT), номеру телефона, авт",
-      "url": "https://github.com/LilyFerrari47/telegram-bot-probiv-2026",
-      "when": "2026-10-11T13:00:07Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "Alpha-Park/genpark-enterprise-cloud-finops-inference-cost-governor-skill",
+      "title": "Enterprise Cloud FinOps & Multi-Model LLM Inference Cost Governor. Monitors tenant token burn rates across Tencent Cloud",
+      "url": "https://github.com/Alpha-Park/genpark-enterprise-cloud-finops-inference-cost-governor-skill",
+      "when": "2026-10-12T13:15:40Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:ValerieAlexiou887/poisk-po-nomeru-bot-2026",
+      "id": "app:Alpha-Park/genpark-agentic-loyalty-points-miles-redemption-optimizer-skill",
       "section": "apps",
-      "repo": "ValerieAlexiou887/poisk-po-nomeru-bot-2026",
-      "title": "Как пробить номер телефона через Telegram бот бесплатно. Проверка тегов GetContact, объявлений Авито, профилей VK и банк",
-      "url": "https://github.com/ValerieAlexiou887/poisk-po-nomeru-bot-2026",
-      "when": "2026-10-11T12:58:46Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "Alpha-Park/genpark-agentic-loyalty-points-miles-redemption-optimizer-skill",
+      "title": "Autonomous Loyalty Points & Airline Miles Redemption Arbitrage Optimizer. Evaluates Cents-Per-Point (CPP) valuations acr",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-loyalty-points-miles-redemption-optimizer-skill",
+      "when": "2026-10-12T13:12:20Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:ValerieAlexiou887/glaz-boga-zerkalo-bot-2026",
+      "id": "app:ssekyanzijackson/laravel-agent-web-search",
       "section": "apps",
-      "repo": "ValerieAlexiou887/glaz-boga-zerkalo-bot-2026",
-      "title": "Рабочее зеркало и прямая ссылка на Глаз Бога бот в Telegram. Проверка человека, авто по госномеру и VIN, телефона и откр",
-      "url": "https://github.com/ValerieAlexiou887/glaz-boga-zerkalo-bot-2026",
-      "when": "2026-10-11T12:57:44Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "ssekyanzijackson/laravel-agent-web-search",
+      "title": "Keyless web search and page-reading tools for Laravel AI agents. Works on any provider, no API key, no per-query cost.",
+      "url": "https://github.com/ssekyanzijackson/laravel-agent-web-search",
+      "when": "2026-10-12T10:25:36Z",
+      "note": "PHP · ★1 · #web-scraping"
     },
     {
-      "id": "app:irenep64122/telegram-bot-probiv-2026",
+      "id": "app:Alpha-Park/genpark-multi-agent-byzantine-fault-tolerant-voting-arbiter-skill",
       "section": "apps",
-      "repo": "irenep64122/telegram-bot-probiv-2026",
-      "title": "Актуальный каталог проверенных Telegram ботов для поиска информации по открытым источникам (OSINT), номеру телефона, авт",
-      "url": "https://github.com/irenep64122/telegram-bot-probiv-2026",
-      "when": "2026-10-11T12:38:25Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "Alpha-Park/genpark-multi-agent-byzantine-fault-tolerant-voting-arbiter-skill",
+      "title": "Multi-Agent Byzantine Fault Tolerant (BFT) Quorum Voting Arbiter. Enforces 3f+1 Byzantine resilience across heterogeneou",
+      "url": "https://github.com/Alpha-Park/genpark-multi-agent-byzantine-fault-tolerant-voting-arbiter-skill",
+      "when": "2026-10-12T09:55:44Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:irenep64122/proverka-avto-vin-telegram",
+      "id": "app:Alpha-Park/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
       "section": "apps",
-      "repo": "irenep64122/proverka-avto-vin-telegram",
-      "title": "Боты в Telegram для полной проверки истории авто: ДТП, залоги, ограничения, история пробега, расчеты ремонтов и владельц",
-      "url": "https://github.com/irenep64122/proverka-avto-vin-telegram",
-      "when": "2026-10-11T12:38:10Z",
-      "note": "HTML · ★3 · #telegram-bot"
+      "repo": "Alpha-Park/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
+      "title": "Enterprise Data Lineage & Schema Change Blast-Radius Impact Analyzer. Constructs column- and table-level Directed Acycli",
+      "url": "https://github.com/Alpha-Park/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
+      "when": "2026-10-12T09:52:20Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:griches/PS5_DevLoop",
+      "id": "app:alphaparkinc/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
       "section": "apps",
-      "repo": "griches/PS5_DevLoop",
-      "title": "Let an AI agent drive a jailbroken PS5 by itself: a virtual DualSense and fast screen capture that close the loop for un",
-      "url": "https://github.com/griches/PS5_DevLoop",
-      "when": "2026-10-11T08:55:36Z",
-      "note": "C · ★5 · #automation"
+      "repo": "alphaparkinc/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
+      "title": "Enterprise Data Lineage & Schema Change Blast-Radius Impact Analyzer. Constructs column- and table-level Directed Acycli",
+      "url": "https://github.com/alphaparkinc/genpark-enterprise-data-lineage-impact-graph-analyzer-skill",
+      "when": "2026-10-12T09:51:44Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:yzx13830696790-beep/nvidia-tea-garden-ops",
+      "id": "app:Alpha-Park/genpark-agentic-cross-border-customs-tariff-calculator-skill",
       "section": "apps",
-      "repo": "yzx13830696790-beep/nvidia-tea-garden-ops",
-      "title": "果安云平台(tea-garden)前端构建产物的字节级改造工具箱：活跃 chunk 定位 / 补丁断言 / ESM 校验 / md5 校验部署 / 三层验证",
-      "url": "https://github.com/yzx13830696790-beep/nvidia-tea-garden-ops",
-      "when": "2026-10-11T06:56:00Z",
-      "note": "Python · ★2 · #automation"
+      "repo": "Alpha-Park/genpark-agentic-cross-border-customs-tariff-calculator-skill",
+      "title": "Autonomous Cross-Border E-Commerce Customs Tariff & Landed Cost Calculator. Classifies Harmonized System (HS) codes, eva",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-cross-border-customs-tariff-calculator-skill",
+      "when": "2026-10-12T09:51:11Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:Zhu-Guang-Scion/china-taxcase-obtain",
+      "id": "app:alphaparkinc/genpark-agentic-cross-border-customs-tariff-calculator-skill",
       "section": "apps",
-      "repo": "Zhu-Guang-Scion/china-taxcase-obtain",
-      "title": "中国税务稽查与处罚案例采集处理工具链：31省全覆盖实战验证，40+站点适配器/质量门禁/要素结构化/踩坑实录（附属法规库流水线）",
-      "url": "https://github.com/Zhu-Guang-Scion/china-taxcase-obtain",
-      "when": "2026-10-11T05:56:49Z",
-      "note": "Python · ★3 · #web-scraping"
+      "repo": "alphaparkinc/genpark-agentic-cross-border-customs-tariff-calculator-skill",
+      "title": "Autonomous Cross-Border E-Commerce Customs Tariff & Landed Cost Calculator. Classifies Harmonized System (HS) codes, eva",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-cross-border-customs-tariff-calculator-skill",
+      "when": "2026-10-12T09:50:35Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:meangrinch/MangaReader",
+      "id": "app:zengzengbin/workbuddy-team-mode",
       "section": "apps",
-      "repo": "meangrinch/MangaReader",
-      "title": "Browser-based reader for manga and manhwas",
-      "url": "https://github.com/meangrinch/MangaReader",
-      "when": "2026-10-11T03:59:31Z",
+      "repo": "zengzengbin/workbuddy-team-mode",
+      "title": "WorkBuddy 小队模式分享包：一条口令让 WorkBuddy 化身四人专业团队（探索/执行/评审/专家顾问），含一次性角色模型选型与 32 项结构自检",
+      "url": "https://github.com/zengzengbin/workbuddy-team-mode",
+      "when": "2026-10-12T08:11:57Z",
+      "note": "JavaScript · ★2 · #automation"
+    },
+    {
+      "id": "app:crunaldo/codex-autopilot-kit",
+      "section": "apps",
+      "repo": "crunaldo/codex-autopilot-kit",
+      "title": "Project-scoped multi-agent workflows for Codex: reusable Goals, safe setup, a visual configurator, and local run receipt",
+      "url": "https://github.com/crunaldo/codex-autopilot-kit",
+      "when": "2026-10-12T07:11:53Z",
+      "note": "JavaScript · ★5 · #automation"
+    },
+    {
+      "id": "app:FKudosC/JobCourier",
+      "section": "apps",
+      "repo": "FKudosC/JobCourier",
+      "title": "小投（JobCourier）· 跑在本机的 BOSS 直聘智能投递助手：按求职方向自动筛选岗位，用 AI 对比简历判断匹配度，只把简历投给合适的公司；岗位、简历与 API Key 全部留在本地。",
+      "url": "https://github.com/FKudosC/JobCourier",
+      "when": "2026-10-12T06:04:16Z",
+      "note": "Python · ★3 · #automation"
+    },
+    {
+      "id": "app:mjpredator403-ship-it/spindle-dj",
+      "section": "apps",
+      "repo": "mjpredator403-ship-it/spindle-dj",
+      "title": "Free, open-source two-deck DJ mixer for Chrome, ChromeOS, Windows and Linux",
+      "url": "https://github.com/mjpredator403-ship-it/spindle-dj",
+      "when": "2026-10-12T02:37:31Z",
       "note": "TypeScript · ★2 · #pwa"
     },
     {
-      "id": "app:eriecua/jobs-scraper-ecuador",
+      "id": "app:MikiMikulas/scrapeflow",
       "section": "apps",
-      "repo": "eriecua/jobs-scraper-ecuador",
-      "title": "Busca empleos en LinkedIn, Indeed, Computrabajo y Multitrabajos (Ecuador), guarda solo lo nuevo y manda un reporte diari",
-      "url": "https://github.com/eriecua/jobs-scraper-ecuador",
-      "when": "2026-10-11T01:31:37Z",
+      "repo": "MikiMikulas/scrapeflow",
+      "title": "Self-hosted crawler that copies every file from a website into your own storage, prepares it with visual flows (Markdown",
+      "url": "https://github.com/MikiMikulas/scrapeflow",
+      "when": "2026-10-11T23:44:32Z",
       "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:smixs/pi-durable-telegram",
-      "section": "apps",
-      "repo": "smixs/pi-durable-telegram",
-      "title": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in ",
-      "url": "https://github.com/smixs/pi-durable-telegram",
-      "when": "2026-10-11T00:35:37Z",
-      "note": "TypeScript · ★4 · #telegram-bot"
-    },
-    {
-      "id": "app:ZeronTwoi/text-art-converter",
-      "section": "apps",
-      "repo": "ZeronTwoi/text-art-converter",
-      "title": "Turn pictures, GIFs and videos into text art (braille, ASCII, emoji…) — free, offline, in the browser or as a Windows/Li",
-      "url": "https://github.com/ZeronTwoi/text-art-converter",
-      "when": "2026-10-10T18:15:05Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:TiagoVal97/cheatspecter",
-      "section": "apps",
-      "repo": "TiagoVal97/cheatspecter",
-      "title": "Browser-based real-time modding tool for jailbroken PS5 consoles: find values, make cheats, debug, and learn how it is d",
-      "url": "https://github.com/TiagoVal97/cheatspecter",
-      "when": "2026-10-10T17:16:22Z",
-      "note": "TypeScript · ★3 · #mcp-server"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50045704",
+      "id": "hn:50063154",
       "section": "showhn",
-      "repo": "Show HN #50045704",
-      "title": "Show HN: Vocafy – Listen to Vocaloid songs by producer, from the original videos",
-      "url": "https://vocafy.kkweb.io/en",
-      "when": "2026-10-11T17:38:00Z",
+      "repo": "Show HN #50063154",
+      "title": "Show HN: Vibecheck – merge gate that checks you understand your AI-written code",
+      "url": "https://github.com/bhurghundii/vibecheck.dev",
+      "when": "2026-10-12T21:13:44Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50045644",
+      "id": "hn:50063042",
       "section": "showhn",
-      "repo": "Show HN #50045644",
-      "title": "Show HN: A Tailscale identity-aware gateway for Postgres and ClickHouse",
-      "url": "https://github.com/dialohq/tailscale-database-gateway",
-      "when": "2026-10-11T17:33:03Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50045575",
-      "section": "showhn",
-      "repo": "Show HN #50045575",
-      "title": "Show HN: BeelineBench – How well do decision models solve multi-step problems?",
-      "url": "https://github.com/kyle-pena-nlp/beelinebench",
-      "when": "2026-10-11T17:26:40Z",
-      "note": "1 pts · 1 comments"
-    },
-    {
-      "id": "hn:50045518",
-      "section": "showhn",
-      "repo": "Show HN #50045518",
-      "title": "Show HN: Self Hosted System One Decision API for Images",
-      "url": "https://deepanwadhwa.github.io/OpenDecision/image-examples/",
-      "when": "2026-10-11T17:22:46Z",
-      "note": "5 pts · 0 comments"
-    },
-    {
-      "id": "hn:50045507",
-      "section": "showhn",
-      "repo": "Show HN #50045507",
-      "title": "Show HN: How good is your Rust? Free quiz, every code answer checked by rustc",
-      "url": "https://rustcoach.dev/test",
-      "when": "2026-10-11T17:20:53Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50045340",
-      "section": "showhn",
-      "repo": "Show HN #50045340",
-      "title": "Show HN: Mira, AI Walking Tours",
-      "url": "https://www.mira.tours/wander",
-      "when": "2026-10-11T17:04:21Z",
-      "note": "13 pts · 3 comments"
-    },
-    {
-      "id": "hn:50045321",
-      "section": "showhn",
-      "repo": "Show HN #50045321",
-      "title": "Show HN: Synonymizer – an experiment in non AI text adjustment",
-      "url": "https://synonymizer.fyi/",
-      "when": "2026-10-11T17:02:10Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50045216",
-      "section": "showhn",
-      "repo": "Show HN #50045216",
-      "title": "Show HN: DuckOnWire – Share one DuckDB file over Postgres wire and Quack",
-      "url": "https://github.com/misaelzapata/duckonwire",
-      "when": "2026-10-11T16:53:05Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50045166",
-      "section": "showhn",
-      "repo": "Show HN #50045166",
-      "title": "Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code",
-      "url": "https://shapelessai.com/vizipedia",
-      "when": "2026-10-11T16:48:05Z",
-      "note": "1 pts · 2 comments"
-    },
-    {
-      "id": "hn:50045039",
-      "section": "showhn",
-      "repo": "Show HN #50045039",
-      "title": "Show HN: Pull Request #5000",
-      "url": "https://go-micro.dev/blog/2026/10/11/pull-request-5000.html",
-      "when": "2026-10-11T16:37:15Z",
+      "repo": "Show HN #50063042",
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "url": "https://brickbrag.com/",
+      "when": "2026-10-12T21:03:36Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50045037",
+      "id": "hn:50063003",
       "section": "showhn",
-      "repo": "Show HN #50045037",
-      "title": "Show HN: PR-witness – run the base branch's tests against the PR's code",
-      "url": "https://github.com/talhayme/pr-witness",
-      "when": "2026-10-11T16:37:04Z",
-      "note": "1 pts · 1 comments"
-    },
-    {
-      "id": "hn:50044910",
-      "section": "showhn",
-      "repo": "Show HN #50044910",
-      "title": "Show HN: Notifications for Lit Web Components",
-      "url": "https://github.com/brysonbw/lit-toaster",
-      "when": "2026-10-11T16:24:47Z",
+      "repo": "Show HN #50063003",
+      "title": "Show HN: Ever – A High-Level Language for Low-Level Purposes",
+      "url": "https://github.com/evrlang/ever",
+      "when": "2026-10-12T21:00:28Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50044879",
+      "id": "hn:50062979",
       "section": "showhn",
-      "repo": "Show HN #50044879",
-      "title": "Show HN: OpenCode server and TUI in a browser tab (Chrome desktop)",
-      "url": "https://kkrausse.github.io/browser-agent-toolkit/",
-      "when": "2026-10-11T16:21:02Z",
+      "repo": "Show HN #50062979",
+      "title": "Show HN: E-reader app for iPhone, quote reels generator",
+      "url": "https://bookidoro.app/",
+      "when": "2026-10-12T20:57:48Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50044874",
+      "id": "hn:50062608",
       "section": "showhn",
-      "repo": "Show HN #50044874",
-      "title": "Show HN: Atlas Runa – E2E AI-enhanced language learning",
-      "url": "https://atlasruna.com/",
-      "when": "2026-10-11T16:20:34Z",
+      "repo": "Show HN #50062608",
+      "title": "Show HN: Popcorn: a security workbench of disposable microVMs",
+      "url": "https://github.com/KunalSin9h/popcorn",
+      "when": "2026-10-12T20:31:21Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50044824",
+      "id": "hn:50062580",
       "section": "showhn",
-      "repo": "Show HN #50044824",
-      "title": "Show HN: OpenClear – Self-hosted check and ACH fraud screening for small banks",
-      "url": "https://github.com/chaffed/OpenClear",
-      "when": "2026-10-11T16:14:21Z",
-      "note": "3 pts · 0 comments"
+      "repo": "Show HN #50062580",
+      "title": "Show HN: Runway.sh – one place to access all your machines, from anywhere",
+      "url": "https://runway.sh",
+      "when": "2026-10-12T20:29:35Z",
+      "note": "1 pts · 4 comments"
+    },
+    {
+      "id": "hn:50062461",
+      "section": "showhn",
+      "repo": "Show HN #50062461",
+      "title": "Show HN: Yagi, Rust DSP Library",
+      "url": "https://github.com/brian-armstrong/yagi",
+      "when": "2026-10-12T20:22:05Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50062217",
+      "section": "showhn",
+      "repo": "Show HN #50062217",
+      "title": "Show HN: Wordless – a social network where AI bots can only post in symbols",
+      "url": "https://wordless.one/",
+      "when": "2026-10-12T20:05:40Z",
+      "note": "2 pts · 1 comments"
+    },
+    {
+      "id": "hn:50061801",
+      "section": "showhn",
+      "repo": "Show HN #50061801",
+      "title": "Show HN: You can improve your mobile conversion rate",
+      "url": "https://responsivetool.com",
+      "when": "2026-10-12T19:36:37Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50061655",
+      "section": "showhn",
+      "repo": "Show HN #50061655",
+      "title": "Show HN: Ramet – Persistent, forkable workspaces for AI agents",
+      "url": "https://github.com/shenli/ramet",
+      "when": "2026-10-12T19:28:33Z",
+      "note": "4 pts · 1 comments"
+    },
+    {
+      "id": "hn:50061264",
+      "section": "showhn",
+      "repo": "Show HN #50061264",
+      "title": "Show HN: BellRun",
+      "url": "https://bellrun.com",
+      "when": "2026-10-12T19:07:20Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50060954",
+      "section": "showhn",
+      "repo": "Show HN #50060954",
+      "title": "Show HN: Use your phone as a Windows mouse and keyboard, without a phone app",
+      "url": "https://github.com/creationsofm7/localtv-remote",
+      "when": "2026-10-12T18:46:45Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50060715",
+      "section": "showhn",
+      "repo": "Show HN #50060715",
+      "title": "Show HN: writui – An encrypted Markdown-based writing app for the terminal",
+      "url": "https://writui.com/",
+      "when": "2026-10-12T18:30:07Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50060696",
+      "section": "showhn",
+      "repo": "Show HN #50060696",
+      "title": "Show HN: BellRun: An Agentic Day Trading Game",
+      "url": "https://bellrun.com/menu/how-to-play",
+      "when": "2026-10-12T18:29:13Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50060644",
+      "section": "showhn",
+      "repo": "Show HN #50060644",
+      "title": "Show HN: Portable Guided Reviews you can send as HTML",
+      "url": "https://guides.show/",
+      "when": "2026-10-12T18:25:12Z",
+      "note": "2 pts · 0 comments"
     }
   ],
   "trending": [
     {
-      "id": "trend:bilawalsidhu/gods-eye-view",
+      "id": "trend:sponsors/open-webui",
       "section": "trending",
-      "repo": "bilawalsidhu/gods-eye-view",
-      "title": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "repo": "sponsors/open-webui",
+      "title": "sponsors/open-webui",
+      "url": "https://github.com/sponsors/open-webui",
       "when": null,
-      "note": "JavaScript"
+      "note": "Python"
     },
     {
-      "id": "trend:sponsors/lyogavin",
+      "id": "trend:microsoft/BitNet",
       "section": "trending",
-      "repo": "sponsors/lyogavin",
-      "title": "sponsors/lyogavin",
-      "url": "https://github.com/sponsors/lyogavin",
+      "repo": "microsoft/BitNet",
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
       "when": null,
-      "note": "Jupyter Notebook"
+      "note": "C++"
     },
     {
-      "id": "trend:sponsors/chrislgarry",
+      "id": "trend:Alishahryar1/free-claude-code",
       "section": "trending",
-      "repo": "sponsors/chrislgarry",
-      "title": "sponsors/chrislgarry",
-      "url": "https://github.com/sponsors/chrislgarry",
+      "repo": "Alishahryar1/free-claude-code",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
       "when": null,
-      "note": "Assembly"
+      "note": "Python"
     },
     {
-      "id": "trend:langgenius/dify",
+      "id": "trend:Crosstalk-Solutions/project-nomad",
       "section": "trending",
-      "repo": "langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "when": null,
-      "note": "TypeScript"
-    },
-    {
-      "id": "trend:CopilotKit/OpenIntelligentUI",
-      "section": "trending",
-      "repo": "CopilotKit/OpenIntelligentUI",
-      "title": "CopilotKit/OpenIntelligentUI",
-      "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:agalwood/Motrix",
+      "id": "trend:ranxianglei/billion-context",
       "section": "trending",
-      "repo": "agalwood/Motrix",
-      "title": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "when": null,
-      "note": "TypeScript"
-    },
-    {
-      "id": "trend:getnao/nao",
-      "section": "trending",
-      "repo": "getnao/nao",
-      "title": "getnao/nao",
-      "url": "https://github.com/getnao/nao",
+      "repo": "ranxianglei/billion-context",
+      "title": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
       "when": null,
       "note": "TypeScript"
     }
