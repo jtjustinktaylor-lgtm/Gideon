@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-10-12
+# GitHub Radar — 2026-10-13
 
-_64 new item(s) since last run · generated 2026-10-12T21:21:46.147Z_
+_47 new item(s) since last run · generated 2026-10-13T19:26:56.056Z_
 
 ## 🚀 Releases
 
@@ -8,14 +8,7 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[px26-leader px26-fm00 2026-10-12 main 3298ba167a5f9fe01c512f10b573f637303eb2e9 "Mark the unified history, runner drain, ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/3c43bcf8b434796b0df3cd934445f69591093ef1)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8ab1ccd4a0ea2ea8faa92eba83994409ce637cfd)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/8fa2e96cf66485ac6e1bdbd8c74081d25b94a703)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/54872218e2cd0b389e7b546e343d28d889e4c840)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9902bbf7eccc55ed67e2bba583f3bf0957687918)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader px26-fm00 2026-10-12 main 1dffee016aeb377e43b55b6edecfcb56561a81f3 "Mark the gas station budget key and AI m](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/a6853f62e0c9f6c180047ed6738391e7db37f295)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/c01da0ff959a1962d8158e62cfe098a8bb2c1f72)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b005bfacfdb1d798d6ab04b4277b7fa25f2b5e73)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-12
+_Nothing new._
 
 ## 🆕 New repos on the radar
 
@@ -23,47 +16,50 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Automated technical SEO auditing tool to detect website issues and prevent SEO regressions.](https://github.com/SerfDiscriminate/Seo-Guard)** `SerfDiscriminate/Seo-Guard` — Python · ★12 · #web-scraping · 2026-10-12
-- **[Zero-Trust Agentic Indirect Prompt Injection & Jailbreak Firewall Sentinel. Inspects untrusted external documents, email](https://github.com/alphaparkinc/genpark-agentic-prompt-injection-jailbreak-firewall-sentinel-skill)** `alphaparkinc/genpark-agentic-prompt-injection-jailbreak-firewall-sentinel-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Enterprise Cloud FinOps & Multi-Model LLM Inference Cost Governor. Monitors tenant token burn rates across Tencent Cloud](https://github.com/Alpha-Park/genpark-enterprise-cloud-finops-inference-cost-governor-skill)** `Alpha-Park/genpark-enterprise-cloud-finops-inference-cost-governor-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Autonomous Loyalty Points & Airline Miles Redemption Arbitrage Optimizer. Evaluates Cents-Per-Point (CPP) valuations acr](https://github.com/Alpha-Park/genpark-agentic-loyalty-points-miles-redemption-optimizer-skill)** `Alpha-Park/genpark-agentic-loyalty-points-miles-redemption-optimizer-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Keyless web search and page-reading tools for Laravel AI agents. Works on any provider, no API key, no per-query cost.](https://github.com/ssekyanzijackson/laravel-agent-web-search)** `ssekyanzijackson/laravel-agent-web-search` — PHP · ★1 · #web-scraping · 2026-10-12
-- **[Multi-Agent Byzantine Fault Tolerant (BFT) Quorum Voting Arbiter. Enforces 3f+1 Byzantine resilience across heterogeneou](https://github.com/Alpha-Park/genpark-multi-agent-byzantine-fault-tolerant-voting-arbiter-skill)** `Alpha-Park/genpark-multi-agent-byzantine-fault-tolerant-voting-arbiter-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Enterprise Data Lineage & Schema Change Blast-Radius Impact Analyzer. Constructs column- and table-level Directed Acycli](https://github.com/Alpha-Park/genpark-enterprise-data-lineage-impact-graph-analyzer-skill)** `Alpha-Park/genpark-enterprise-data-lineage-impact-graph-analyzer-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Enterprise Data Lineage & Schema Change Blast-Radius Impact Analyzer. Constructs column- and table-level Directed Acycli](https://github.com/alphaparkinc/genpark-enterprise-data-lineage-impact-graph-analyzer-skill)** `alphaparkinc/genpark-enterprise-data-lineage-impact-graph-analyzer-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Autonomous Cross-Border E-Commerce Customs Tariff & Landed Cost Calculator. Classifies Harmonized System (HS) codes, eva](https://github.com/Alpha-Park/genpark-agentic-cross-border-customs-tariff-calculator-skill)** `Alpha-Park/genpark-agentic-cross-border-customs-tariff-calculator-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[Autonomous Cross-Border E-Commerce Customs Tariff & Landed Cost Calculator. Classifies Harmonized System (HS) codes, eva](https://github.com/alphaparkinc/genpark-agentic-cross-border-customs-tariff-calculator-skill)** `alphaparkinc/genpark-agentic-cross-border-customs-tariff-calculator-skill` — Python · ★7 · #mcp-server · 2026-10-12
-- **[WorkBuddy 小队模式分享包：一条口令让 WorkBuddy 化身四人专业团队（探索/执行/评审/专家顾问），含一次性角色模型选型与 32 项结构自检](https://github.com/zengzengbin/workbuddy-team-mode)** `zengzengbin/workbuddy-team-mode` — JavaScript · ★2 · #automation · 2026-10-12
-- **[Project-scoped multi-agent workflows for Codex: reusable Goals, safe setup, a visual configurator, and local run receipt](https://github.com/crunaldo/codex-autopilot-kit)** `crunaldo/codex-autopilot-kit` — JavaScript · ★5 · #automation · 2026-10-12
-- **[小投（JobCourier）· 跑在本机的 BOSS 直聘智能投递助手：按求职方向自动筛选岗位，用 AI 对比简历判断匹配度，只把简历投给合适的公司；岗位、简历与 API Key 全部留在本地。](https://github.com/FKudosC/JobCourier)** `FKudosC/JobCourier` — Python · ★3 · #automation · 2026-10-12
-- **[Free, open-source two-deck DJ mixer for Chrome, ChromeOS, Windows and Linux](https://github.com/mjpredator403-ship-it/spindle-dj)** `mjpredator403-ship-it/spindle-dj` — TypeScript · ★2 · #pwa · 2026-10-12
-- **[Self-hosted crawler that copies every file from a website into your own storage, prepares it with visual flows (Markdown](https://github.com/MikiMikulas/scrapeflow)** `MikiMikulas/scrapeflow` — Python · ★1 · #web-scraping · 2026-10-11
+- **[词达人（vocabgo）自动答题工具：图形界面 + DeepSeek 兜底 + 本地题库 + 读图，附完整说明书与 106 项测试](https://github.com/xuhaoranbb-boop/vocabgo-auto)** `xuhaoranbb-boop/vocabgo-auto` — Python · ★4 · #automation · 2026-10-13
+- **[Visual element picker + auto-generated standalone PHP snippet. Get data from any website — no API needed.](https://github.com/norinsoft/no-api-needed)** `norinsoft/no-api-needed` — PHP · ★1 · #web-scraping · 2026-10-13
+- **[Infraestrutura distribuída de Web Scraping, conversão HTML-para-Markdown e monitoramento de preços com FastAPI, HTTPX, C](https://github.com/Glawther/CrawlMesh)** `Glawther/CrawlMesh` — Python · ★1 · #web-scraping · 2026-10-13
+- **[API REST del clima de Argentina: datos públicos del SMN, pronósticos, observaciones y estaciones. Python, FastAPI, Scrap](https://github.com/fedeclavero/smn-apis)** `fedeclavero/smn-apis` — Python · ★1 · #web-scraping · 2026-10-13
+- **[Run, Claude, Run!](https://github.com/psa-systems/claude-run)** `psa-systems/claude-run` — Rust · ★4 · #automation · 2026-10-12
+- **[UiTM uFuture course forum updates, files and replies in Telegram (self-hosted, Docker)](https://github.com/YazidYaakub/ufuture-telegram-notifier)** `YazidYaakub/ufuture-telegram-notifier` — Python · ★1 · #web-scraping · 2026-10-12
+- **[Ayat is an intelligent Quranic web platform designed for modern digital life, offering access to Quranic verses, supplic](https://github.com/Mhadi-1382/ayat)** `Mhadi-1382/ayat` — Tcl · ★1 · #pwa · 2026-10-12
+- **[夸克/百度网盘资源整理 Agent Skill + 本地文案助手 | Agent skill to save & organize your own Quark/Baidu Pan shares, with offline copywrit](https://github.com/hen9xin/pan-transfer-bot)** `hen9xin/pan-transfer-bot` — Python · ★3 · #automation · 2026-10-12
+- **[麦当劳积分资产管家：剔假上架 · 性价比排序 · 抽奖参谋](https://github.com/yurenpai/mc-points-steward)** `yurenpai/mc-points-steward` — Python · ★7 · #mcp-server · 2026-10-12
+- **[Xưởng video dọc 9:16 mini: viết kịch bản, chạy một lệnh, ra mp4 có giọng đọc tiếng Việt. HTML/CSS/JS + edge-tts + Playwr](https://github.com/fx-studio/mini-video-workspace)** `fx-studio/mini-video-workspace` — Python · ★4 · #ai-agent · 2026-10-12
+- **[Proactive Personal Agent Social Relationship CRM & Dunbar Cadence Nudger. Models concentric Dunbar social circles (Inner](https://github.com/alphaparkinc/genpark-personal-agent-social-relationship-crm-cadence-nudger-skill)** `alphaparkinc/genpark-personal-agent-social-relationship-crm-cadence-nudger-skill` — Python · ★7 · #mcp-server · 2026-10-12
+- **[Multi-Agent Resource Lock & Wait-For Graph (WFG) Deadlock Resolver. Tracks exclusive resource locks held and requested b](https://github.com/Alpha-Park/genpark-multi-agent-resource-deadlock-wait-for-graph-resolver-skill)** `Alpha-Park/genpark-multi-agent-resource-deadlock-wait-for-graph-resolver-skill` — Python · ★7 · #mcp-server · 2026-10-12
+- **[Semantic job search API built with FastAPI, PostgreSQL, Qdrant and Docker. Collects and indexes vacancies for vector sea](https://github.com/luts26/semantic-job-search-api)** `luts26/semantic-job-search-api` — Python · ★1 · #web-scraping · 2026-10-12
+- **[Unofficial DSH plugin: drive AI web UIs (DeepSeek/Qwen/...) in a REAL browser via DSH's own Chromium webview guest — rea](https://github.com/cv-superding/dsh-webin)** `cv-superding/dsh-webin` — JavaScript · ★6 · #ai-agent · 2026-10-12
+- **[麦门抽签 - 麦当劳运势抽签式点餐 Skill | McDonalds Fortune-Telling Ordering](https://github.com/zouweivivian723-stack/mcd-fortune-ordering)** `zouweivivian723-stack/mcd-fortune-ordering` — HTML · ★4 · #ai-agent · 2026-10-12
 
 ## 📣 Show HN launches
 
-- **[Show HN: Vibecheck – merge gate that checks you understand your AI-written code](https://github.com/bhurghundii/vibecheck.dev)** `Show HN #50063154` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: Brickbrag – A multiplayer brick-building world in the browser](https://brickbrag.com/)** `Show HN #50063042` — 2 pts · 0 comments · 2026-10-12
-- **[Show HN: Ever – A High-Level Language for Low-Level Purposes](https://github.com/evrlang/ever)** `Show HN #50063003` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: E-reader app for iPhone, quote reels generator](https://bookidoro.app/)** `Show HN #50062979` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: Popcorn: a security workbench of disposable microVMs](https://github.com/KunalSin9h/popcorn)** `Show HN #50062608` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: Runway.sh – one place to access all your machines, from anywhere](https://runway.sh)** `Show HN #50062580` — 1 pts · 4 comments · 2026-10-12
-- **[Show HN: Yagi, Rust DSP Library](https://github.com/brian-armstrong/yagi)** `Show HN #50062461` — 2 pts · 0 comments · 2026-10-12
-- **[Show HN: Wordless – a social network where AI bots can only post in symbols](https://wordless.one/)** `Show HN #50062217` — 2 pts · 1 comments · 2026-10-12
-- **[Show HN: You can improve your mobile conversion rate](https://responsivetool.com)** `Show HN #50061801` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: Ramet – Persistent, forkable workspaces for AI agents](https://github.com/shenli/ramet)** `Show HN #50061655` — 4 pts · 1 comments · 2026-10-12
-- **[Show HN: BellRun](https://bellrun.com)** `Show HN #50061264` — 2 pts · 0 comments · 2026-10-12
-- **[Show HN: Use your phone as a Windows mouse and keyboard, without a phone app](https://github.com/creationsofm7/localtv-remote)** `Show HN #50060954` — 2 pts · 0 comments · 2026-10-12
-- **[Show HN: writui – An encrypted Markdown-based writing app for the terminal](https://writui.com/)** `Show HN #50060715` — 1 pts · 0 comments · 2026-10-12
-- **[Show HN: BellRun: An Agentic Day Trading Game](https://bellrun.com/menu/how-to-play)** `Show HN #50060696` — 2 pts · 0 comments · 2026-10-12
-- **[Show HN: Portable Guided Reviews you can send as HTML](https://guides.show/)** `Show HN #50060644` — 2 pts · 0 comments · 2026-10-12
+- **[Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal](https://corextrader.com)** `Show HN #50077221` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)** `Show HN #50077020` — 2 pts · 0 comments · 2026-10-13
+- **[Show HN: PanamaKVM – direct-booting Linux from Java 25 via FFM/KVM](https://github.com/rusanoph/panama-kvm)** `Show HN #50076802` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Cut the tokens your coding agent spends reading tool output](https://github.com/cauebraz/squeeze)** `Show HN #50076734` — 2 pts · 0 comments · 2026-10-13
+- **[Show HN: Interactive NYC food inspection map with a deduction game](https://prizz.io/nyc)** `Show HN #50076622` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Factory DS, A Factorio-Like Game for the Nintendo DS](https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/)** `Show HN #50076586` — 2 pts · 0 comments · 2026-10-13
+- **[Show HN: DevShelf – 500 free developer tools with a CLI and validation bot](https://github.com/RitualDev-Lab/DevShelf)** `Show HN #50076544` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Multi-modal Muse assistant on an ESP32](https://github.com/raullenchai/esp32-thinks)** `Show HN #50076473` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments](https://github.com/tejaspruthi/CommitAwareRouter)** `Show HN #50076439` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba)** `Show HN #50076388` — 2 pts · 0 comments · 2026-10-13
+- **[Show HN: Popcorn Tracker](https://popcorn-tracker.wasmer.app/)** `Show HN #50076373` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Can a solo founder compete in the crowded Chrome extension market?](https://chromewebstore.google.com/detail/thrivez-go-â-earn-rewards/fodndcoojiniehbochnniejfdfnclgfg)** `Show HN #50076361` — 2 pts · 1 comments · 2026-10-13
+- **[Show HN: Give Your Agents GPUs](https://supercomputer.sh)** `Show HN #50076343` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: Form to Email](https://form2email.terragohan.com/)** `Show HN #50076226` — 1 pts · 0 comments · 2026-10-13
+- **[Show HN: AllCheck keeps movies, TV series, games and books in one library](https://allcheck.app)** `Show HN #50075932` — 1 pts · 1 comments · 2026-10-13
 
 ## 💌 GitHub Trending (daily)
 
-- **[sponsors/open-webui](https://github.com/sponsors/open-webui)** `sponsors/open-webui` — Python
-- **[microsoft/BitNet](https://github.com/microsoft/BitNet)** `microsoft/BitNet` — C++
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** `Alishahryar1/free-claude-code` — Python
-- **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** `Crosstalk-Solutions/project-nomad` — TypeScript
-- **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** `ranxianglei/billion-context` — TypeScript
+- **[xtool-org/xtool](https://github.com/xtool-org/xtool)** `xtool-org/xtool` — Swift
+- **[every-app/open-seo](https://github.com/every-app/open-seo)** `every-app/open-seo` — TypeScript
+- **[krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)** `krillinai/OpenCreator` — TypeScript
+- **[sponsors/nab138](https://github.com/sponsors/nab138)** `sponsors/nab138` — TypeScript
+- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `apify/apify-mcp-server` — TypeScript
+- **[Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)** `Tencent/teamai-cli` — TypeScript
+- **[sponsors/supabase](https://github.com/sponsors/supabase)** `sponsors/supabase` — TypeScript
+- **[Twigpine/openclaude](https://github.com/Twigpine/openclaude)** `Twigpine/openclaude` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
