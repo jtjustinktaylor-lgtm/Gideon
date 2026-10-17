@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-10-16
+# GitHub Radar — 2026-10-17
 
-_63 new item(s) since last run · generated 2026-10-16T16:51:51.066Z_
+_46 new item(s) since last run · generated 2026-10-17T15:49:01.245Z_
 
 ## 🚀 Releases
 
@@ -8,14 +8,7 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/1bc428561403918317f597982b59367132a78477)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/179c98b79b57b84f268f53e7ed756680aa539bf9)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ae73a42779c4b52e0fe016ff02be0dcd1dc6000c)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/6ef63a8577aaf4fd4f2d228382e492a89b33a84a)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/824dd1c2117e9b8fa3568cb59f857d68304db620)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/1e3a1d54246682704b05e252c2fb71393a833398)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/d61ce844ec1da7ea9e5599a5ffcf530cfbb9bcb4)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
-- **[px26-leader](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9600e2473fbdf1660630d39d8c70e8cf9c589356)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-16
+_Nothing new._
 
 ## 🆕 New repos on the radar
 
@@ -23,53 +16,54 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Constructor.io-inspired AI Search & Discovery Optimizer. Dynamically incorporates real-time user clickstream behavior, h](https://github.com/alphaparkinc/genpark-constructor-predictive-clickstream-revenue-search-optimizer-skill)** `alphaparkinc/genpark-constructor-predictive-clickstream-revenue-search-optimizer-skill` — Python · ★7 · #mcp-server · 2026-10-16
-- **[Bloomreach-inspired AI Semantic E-Commerce Search & Merchandising Reranker. Parses customer shopping intent, expands syn](https://github.com/alphaparkinc/genpark-bloomreach-ai-semantic-merchandising-search-reranker-skill)** `alphaparkinc/genpark-bloomreach-ai-semantic-merchandising-search-reranker-skill` — Python · ★7 · #mcp-server · 2026-10-16
-- **[Free real-time ETHUSDT crypto trend signals on Telegram — multi-timeframe regime detection, adaptive indicator weighting](https://github.com/Travisun/EtherSignals)** `Travisun/EtherSignals` — TypeScript · ★3 · #telegram-bot · 2026-10-16
-- **[Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.](https://github.com/MG1937/rust_ASC)** `MG1937/rust_ASC` — Rust · ★27 · #ai-agent · 2026-10-16
-- **[Local multi-frame canvas for exploring UI designs: comment on elements, click through flows, and let your AI coding agen](https://github.com/karlarso/easy-ui-canvas)** `karlarso/easy-ui-canvas` — Python · ★11 · #ai-agent · 2026-10-16
-- **[Cheerio-compatible HTML/XML processing powered by Rust, with configurable parallel extraction. Built by context.dev.](https://github.com/context-dot-dev/rusteerio)** `context-dot-dev/rusteerio` — TypeScript · ★2 · #web-scraping · 2026-10-16
-- **[AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with Op](https://github.com/anujasid/mcp-for-blender-pro)** `anujasid/mcp-for-blender-pro` — Python · ★121 · #mcp-server · 2026-10-15
-- **[Telegram-native customer support with forum topics, language selection and newsletters. Built for Telegram Serverless.](https://github.com/gramless/support)** `gramless/support` — JavaScript · ★2 · #telegram-bot · 2026-10-15
-- **[An application to manage your Hermes agents. Available on Windows, macOS and iOS (soon).](https://github.com/Hermes-Deck/hermes-deck)** `Hermes-Deck/hermes-deck` — JavaScript · ★20 · #ai-agent · 2026-10-15
-- **[Open-source VLESS VPN shop with Telegram bot, web dashboard, admin panel, Remnawave integration, payments and subscripti](https://github.com/shipap/vless-vpn-shop-telegram-bot)** `shipap/vless-vpn-shop-telegram-bot` — Python · ★2 · #telegram-bot · 2026-10-15
-- **[Your servers in your pocket: a Telegram bot + Mini App that watches your VPS without AI, opens a terminal from your phon](https://github.com/mikhailsemenovykh18-rgb/vps-director)** `mikhailsemenovykh18-rgb/vps-director` — Python · ★5 · #telegram-bot · 2026-10-15
-- **[Unofficial MCP server for Continente.pt: search products, check sale rules, read favorites and orders, and make verified](https://github.com/andredelgado/continente-mcp)** `andredelgado/continente-mcp` — TypeScript · ★16 · #mcp-server · 2026-10-15
-- **[Runnable Python + Node.js starters: pull product, review & bestseller data via API. Free to test, no card.](https://github.com/Pangolin-spg/amazon-scraper)** `Pangolin-spg/amazon-scraper` — — · ★2 · #web-scraping · 2026-10-15
-- **[Self-hosted AI trading research analyst for VN equities, gold and crypto. Suggests, debates and sizes ideas - never plac](https://github.com/alex2loop/openalpha)** `alex2loop/openalpha` — TypeScript · ★1 · #telegram-bot · 2026-10-15
-- **[DESIGN:OS Studio — Native GPU-accelerated interface design & Figma engine built in Rust](https://github.com/jangtrinh/design-os-studio)** `jangtrinh/design-os-studio` — Rust · ★13 · #mcp-server · 2026-10-15
+- **[Marko is a simple and easy-to-use app for opening, reading, and editing Markdown (.md) files. It keeps things clean and ](https://github.com/UXxArunjay/Marko---Markdown-.md-file-Viewer-and-editor)** `UXxArunjay/Marko---Markdown-.md-file-Viewer-and-editor` — JavaScript · ★1 · #pwa · 2026-10-17
+- **[A thoughtful daily planner with priorities, a focus timer, and space to finish what matters.](https://github.com/Vertex-blip/daymark)** `Vertex-blip/daymark` — JavaScript · ★1 · #pwa · 2026-10-17
+- **[Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search](https://github.com/stkoecn/im-mcp)** `stkoecn/im-mcp` — Python · ★9 · #ai-agent · 2026-10-17
+- **[fats: web pages and PDFs → small cached Markdown outlines for AI agents. CLI + local MCP. Bring your own Oxylabs / Brigh](https://github.com/fatsearch/fatsearch)** `fatsearch/fatsearch` — Rust · ★3 · #web-scraping · 2026-10-17
+- **[Self-hosted pentest engagement management.](https://github.com/pirrandi/flowdit)** `pirrandi/flowdit` — JavaScript · ★15 · #ai-agent · 2026-10-17
+- **[Open directory of 21,000+ devices whose protocols or firmware are already open (OpenWrt, LineageOS, coreboot, Zigbee, Z-](https://github.com/opendevicedb/opendevicedb)** `opendevicedb/opendevicedb` — TypeScript · ★17 · #mcp-server · 2026-10-17
+- **[مدیریت کامل ربات‌های تلگرام | Full Telegram Bot Manager for Android - Create, manage and send messages via your bots](https://github.com/parkerhell07-eng/TelegramBotManager)** `parkerhell07-eng/TelegramBotManager` — Kotlin · ★1 · #telegram-bot · 2026-10-16
+- **[Telegram bot for selling VPN subscriptions via Remnawave: Telegram Stars & crypto payments, multi-bot](https://github.com/DroBov1Tya/xbot)** `DroBov1Tya/xbot` — Rust · ★1 · #telegram-bot · 2026-10-16
+- **[Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec](https://github.com/morethanrealio/brambit)** `morethanrealio/brambit` — JavaScript · ★5 · #telegram-bot · 2026-10-16
+- **[Unofficial mobile port of Folia: an Android WebView shell that bundles the web build inside the APK (structural offline)](https://github.com/zonglvye/folia-mobile)** `zonglvye/folia-mobile` — TypeScript · ★2 · #pwa · 2026-10-16
+- **[Universal 1-click lecture slides & PDF document downloader for Parul University eLearning Portal. Support for Chrome, Fi](https://github.com/meel-ayush/parul-elearning-pdf-download)** `meel-ayush/parul-elearning-pdf-download` — JavaScript · ★1 · #web-scraping · 2026-10-16
+- **[Self-hosted text and file sharing across your devices. Rust server, Web/PWA and CLI over HTTP. Works from your terminal.](https://github.com/ctxinf/PocketShare)** `ctxinf/PocketShare` — Rust · ★1 · #pwa · 2026-10-16
+- **[Ecossistema de Machine Learning do FrequenciApp: treino offline, inferência local no navegador e governança de modelos.](https://github.com/eemtijca/frequencia)** `eemtijca/frequencia` — Python · ★1 · #pwa · 2026-10-16
+- **[Native Telegram bridge for Paean Harness (DeepSeek Harness distribution): chat with your agent and drive sessions, model](https://github.com/SMMURDA/dsh-paean-telegram)** `SMMURDA/dsh-paean-telegram` — TypeScript · ★1 · #telegram-bot · 2026-10-16
+- **[你今天还能吃多少卡，取决于你愿意走多远 —— 用步行距离换卡路里额度的吃饭决策。麦当劳官方营养值 × 周边餐厅，算你这顿还吃得下什么。](https://github.com/adexbn/walk-kcal)** `adexbn/walk-kcal` — Python · ★27 · #mcp-server · 2026-10-16
 
 ## 📣 Show HN launches
 
-- **[Show HN: Brian2 Atlas, a Rust engine for distributed neural simulation](https://next-brain.ai/brian2-atlas/)** `Show HN #50120752` — 2 pts · 0 comments · 2026-10-16
-- **[Show HN: Downcheck, a free "is it down" page for 45 dev tools, no signup](https://downcheck.dev/)** `Show HN #50120705` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: Ossia Score 3.9.0](https://github.com/ossia/score/releases/tag/v3.9.0)** `Show HN #50120628` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: Jumpy Car – jump the Roadster over semis, race your friend's ghost](https://www.jumpycar.com/)** `Show HN #50120616` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: Aegis – Network Firewall for AI Security](https://aegisfw.com/)** `Show HN #50120286` — 1 pts · 1 comments · 2026-10-16
-- **[Show HN: Autonomous community research lab powered by agents](https://lemmapark.com)** `Show HN #50120217` — 1 pts · 1 comments · 2026-10-16
-- **[Show HN: PocketConsole – Run Claude Code on your own server from your iPhone](https://apps.apple.com/us/app/pocketconsole-code-from-phone/id6818196856)** `Show HN #50120118` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: Agent Chat in Your Markdown Notes – Chat with Context and Save Response](https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes)** `Show HN #50119958` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: I made the Tesla Roadster's kickflip playable in the browser](https://roadster.rocks/)** `Show HN #50119905` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: An HTTPS-secured WAF in SWI-Prolog. I deployed it on a free-tier GCP](https://prologwaf.site/)** `Show HN #50119822` — 2 pts · 0 comments · 2026-10-16
-- **[Show HN: Termexo – one AI operating your other coding agents, on Windows](https://github.com/gemron/Termexo)** `Show HN #50119778` — 2 pts · 0 comments · 2026-10-16
-- **[Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)** `Show HN #50119752` — 13 pts · 7 comments · 2026-10-16
-- **[Show HN: We built an open source, agent-first, alternative to Profound](https://github.com/Canonry/canonry)** `Show HN #50119748` — 2 pts · 0 comments · 2026-10-16
-- **[Show HN: Ndop UI – Copy-in Angular components that still receive updates](https://github.com/ndop-ui/ui)** `Show HN #50119538` — 1 pts · 0 comments · 2026-10-16
-- **[Show HN: Tennis, a local/offline context store](https://tennis.jlachance1.workers.dev/)** `Show HN #50119473` — 2 pts · 0 comments · 2026-10-16
+- **[Show HN: I built an AI cycling coach](https://cuore.fit/)** `Show HN #50131950` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Scalable source control in Rust, inspired by Anthropic's Scion](https://github.com/adrianchifor/scn)** `Show HN #50131906` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Plinth – free open-source desktop video downloader](https://plinth.fabwaseem.com)** `Show HN #50131842` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/)** `Show HN #50131583` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: UAC-Less Sudo for Windows](https://github.com/parkovski/wsudo)** `Show HN #50131539` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Open Scrantic – Johnny Castaway in Rust, from Disassembly via REA](https://github.com/glauberlima/open-scrantic)** `Show HN #50131351` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Theseus the Mouse by Claude S. (and Claude O.)](https://github.com/rupello/theseus/)** `Show HN #50131314` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Roadster AI – Turn a photo of your car into a kickflip video](https://flyingcar-ai.net)** `Show HN #50131300` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)** `Show HN #50131189` — 16 pts · 2 comments · 2026-10-17
+- **[Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook](https://github.com/SRKRZ23/vramkit)** `Show HN #50131035` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)** `Show HN #50131006` — 2 pts · 0 comments · 2026-10-17
+- **[Show HN: Solo business must have tool, Tamo](https://heytamo.com/)** `Show HN #50130901` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Organ – Run your company with autonomous agents](https://organ.app/en)** `Show HN #50130814` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: A daily deduction puzzle where one hex on a nautical chart is a lie](https://cartographerslie.com)** `Show HN #50130613` — 1 pts · 0 comments · 2026-10-17
+- **[Show HN: Animated step-by-step hints for any cryptic crossword clue](https://crypticinkling.co.uk)** `Show HN #50130491` — 1 pts · 0 comments · 2026-10-17
 
 ## 💌 GitHub Trending (daily)
 
-- **[android/skills](https://github.com/android/skills)** `android/skills` — Kotlin
-- **[sponsors/debpalash](https://github.com/sponsors/debpalash)** `sponsors/debpalash` — Python
-- **[sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen)** `sponsors/MadsLorentzen` — Python
-- **[hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)** `hmjz100/LinkSwift` — JavaScript
-- **[LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)** `LibreSpark/LibreTV` — TypeScript
-- **[desktop/desktop](https://github.com/desktop/desktop)** `desktop/desktop` — TypeScript
-- **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** `google-labs-code/stitch-skills` — TypeScript
-- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** `Fission-AI/OpenSpec` — TypeScript
-- **[apache/maka](https://github.com/apache/maka)** `apache/maka` — TypeScript
-- **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** `BuilderIO/agent-native` — TypeScript
-- **[superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)** `superdesigndev/superdesign` — TypeScript
+- **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** `akitaonrails/ai-memory` — Rust
+- **[elie222/rakazo](https://github.com/elie222/rakazo)** `elie222/rakazo` — TypeScript
+- **[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)** `OpenBMB/PilotDeck` — TypeScript
+- **[payloadcms/payload](https://github.com/payloadcms/payload)** `payloadcms/payload` — TypeScript
+- **[expo/expo](https://github.com/expo/expo)** `expo/expo` — TypeScript
+- **[awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)** `awslabs/aidlc-workflows` — TypeScript
+- **[cline/cline](https://github.com/cline/cline)** `cline/cline` — TypeScript
+- **[calcom/cal.diy](https://github.com/calcom/cal.diy)** `calcom/cal.diy` — TypeScript
+
+## ⚠️ Sources that failed
+
+- apps · topic:automation: rate limited, resets 2026-10-17T15:49:52.000Z
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
