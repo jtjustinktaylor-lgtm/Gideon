@@ -1,357 +1,429 @@
 {
-  "date": "2026-10-17",
-  "generated": "2026-10-17T15:49:01.245Z",
-  "newCount": 46,
-  "errors": [
-    "apps · topic:automation: rate limited, resets 2026-10-17T15:49:52.000Z"
-  ],
+  "date": "2026-10-18",
+  "generated": "2026-10-18T16:03:56.965Z",
+  "newCount": 70,
+  "errors": [],
   "releases": [],
-  "commits": [],
-  "new-repos": [],
+  "commits": [
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/bd973943d6f90699e0a3e02bba6e24e7a6d0a4b5",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1154 2026-10-18 feature/release-v6-12-0 6288ab6fc9df4d5d1ebc7f3f24bb3e15c41ec6e3 \"Record that the hal",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bd973943d6f90699e0a3e02bba6e24e7a6d0a4b5",
+      "when": "2026-10-18T11:51:07Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/f5af31109c59035914d2759aa82ea4f792763d38",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 c26516bba662f1395518ed3d918f5053aeecf67e \"Keeper tests: corre",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/f5af31109c59035914d2759aa82ea4f792763d38",
+      "when": "2026-10-18T10:30:44Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/5a26fb3ecf4cadb9ff1f342d88ce3a8cff0cdec7",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 4dfc5649b75eff2aa3271d5387fe71dca790d8ef \"history_test.go env",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/5a26fb3ecf4cadb9ff1f342d88ce3a8cff0cdec7",
+      "when": "2026-10-18T10:30:31Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/23e867c2c9f7dde1ccf5e469bf088426ecccb89e",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 16a429f8eee079a52aa883427b1e435bb8c3c38b \"GitHub issue #634: ",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/23e867c2c9f7dde1ccf5e469bf088426ecccb89e",
+      "when": "2026-10-18T10:29:36Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/2d2d70243ea87a5cd7b1e126d346d1e28ed7f6b4",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 966aca794aaad6001fcc0c0a388d3a8965429d33 \"GitHub issue #633: ",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2d2d70243ea87a5cd7b1e126d346d1e28ed7f6b4",
+      "when": "2026-10-18T10:29:23Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/ad78ba1646c93065ebf9856e7cba10b13d1f7418",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 9610d8cdd16eafbb7875ff2badde614352af2546 \"GitHub issue #622 f",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ad78ba1646c93065ebf9856e7cba10b13d1f7418",
+      "when": "2026-10-18T09:58:56Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/9d974bc5ad203b6359caa6f5add99a898453cac8",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 9e620a2fba863504cab832a0d60be51208c491fd \"GitHub issues #630-",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9d974bc5ad203b6359caa6f5add99a898453cac8",
+      "when": "2026-10-18T09:56:47Z",
+      "note": "Sidiora Development Team"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/bbdf025255ab749b32a288741ebd4fd0aa43f145",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 764ca0613856e5f1d40dacdc25fe67a51b3588ce \"GitHub issue #620 f",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bbdf025255ab749b32a288741ebd4fd0aa43f145",
+      "when": "2026-10-18T09:56:37Z",
+      "note": "Sidiora Development Team"
+    }
+  ],
+  "new-repos": [
+    {
+      "id": "repo:layerx-labs/trellis",
+      "section": "new-repos",
+      "repo": "layerx-labs/trellis",
+      "title": "A calm, native macOS terminal by LayerX. Sidebar windows, renameable tabs, nested splits, saved SSH hosts, JSON themes and a scriptable CLI. Built in Swift.",
+      "url": "https://github.com/layerx-labs/trellis",
+      "when": "2026-10-16T16:16:11Z",
+      "note": "Swift · ★1 · via \"layerx\""
+    }
+  ],
   "apps": [
     {
-      "id": "app:UXxArunjay/Marko---Markdown-.md-file-Viewer-and-editor",
+      "id": "app:zoe1nan/dsh-cockpit",
       "section": "apps",
-      "repo": "UXxArunjay/Marko---Markdown-.md-file-Viewer-and-editor",
-      "title": "Marko is a simple and easy-to-use app for opening, reading, and editing Markdown (.md) files. It keeps things clean and ",
-      "url": "https://github.com/UXxArunjay/Marko---Markdown-.md-file-Viewer-and-editor",
-      "when": "2026-10-17T13:19:25Z",
-      "note": "JavaScript · ★1 · #pwa"
+      "repo": "zoe1nan/dsh-cockpit",
+      "title": "Live command deck for DeepSeek Harness agent teams: roster telemetry, task board, approvals, write actions, built-in Win",
+      "url": "https://github.com/zoe1nan/dsh-cockpit",
+      "when": "2026-10-18T14:26:58Z",
+      "note": "JavaScript · ★2 · #pwa"
     },
     {
-      "id": "app:Vertex-blip/daymark",
+      "id": "app:arulebin/pocket-dev",
       "section": "apps",
-      "repo": "Vertex-blip/daymark",
-      "title": "A thoughtful daily planner with priorities, a focus timer, and space to finish what matters.",
-      "url": "https://github.com/Vertex-blip/daymark",
-      "when": "2026-10-17T09:11:54Z",
-      "note": "JavaScript · ★1 · #pwa"
+      "repo": "arulebin/pocket-dev",
+      "title": "Claude Code on any phone: one Telegram chat for all your repos. Parallel tasks on their own git branches, phone approval",
+      "url": "https://github.com/arulebin/pocket-dev",
+      "when": "2026-10-18T14:25:19Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
-      "id": "app:stkoecn/im-mcp",
+      "id": "app:kanaworksai-hue/audio-studio-mcp",
       "section": "apps",
-      "repo": "stkoecn/im-mcp",
-      "title": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
-      "url": "https://github.com/stkoecn/im-mcp",
-      "when": "2026-10-17T07:41:51Z",
-      "note": "Python · ★9 · #ai-agent"
+      "repo": "kanaworksai-hue/audio-studio-mcp",
+      "title": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX), no cloud, no A",
+      "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+      "when": "2026-10-18T11:13:56Z",
+      "note": "Python · ★30 · #mcp-server"
     },
     {
-      "id": "app:fatsearch/fatsearch",
+      "id": "app:Alpha-Park/genpark-agentic-commerce-price-drop-retroactive-refund-claimer-skill",
       "section": "apps",
-      "repo": "fatsearch/fatsearch",
-      "title": "fats: web pages and PDFs → small cached Markdown outlines for AI agents. CLI + local MCP. Bring your own Oxylabs / Brigh",
-      "url": "https://github.com/fatsearch/fatsearch",
-      "when": "2026-10-17T06:28:10Z",
-      "note": "Rust · ★3 · #web-scraping"
+      "repo": "Alpha-Park/genpark-agentic-commerce-price-drop-retroactive-refund-claimer-skill",
+      "title": "AI Agentic Commerce Retroactive Price Drop Refund Claimer. Scans past order receipts against retailer price-protection p",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-commerce-price-drop-retroactive-refund-claimer-skill",
+      "when": "2026-10-18T10:39:19Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:pirrandi/flowdit",
+      "id": "app:CycloneJaguarRemedy/Steal-An-Egg-Respocket-Free-Script",
       "section": "apps",
-      "repo": "pirrandi/flowdit",
-      "title": "Self-hosted pentest engagement management.",
-      "url": "https://github.com/pirrandi/flowdit",
-      "when": "2026-10-17T04:55:10Z",
-      "note": "JavaScript · ★15 · #ai-agent"
+      "repo": "CycloneJaguarRemedy/Steal-An-Egg-Respocket-Free-Script",
+      "title": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
+      "url": "https://github.com/CycloneJaguarRemedy/Steal-An-Egg-Respocket-Free-Script",
+      "when": "2026-10-18T09:32:47Z",
+      "note": "HTML · ★31 · #automation"
     },
     {
-      "id": "app:opendevicedb/opendevicedb",
+      "id": "app:heyedisonwong/iphone-esp32",
       "section": "apps",
-      "repo": "opendevicedb/opendevicedb",
-      "title": "Open directory of 21,000+ devices whose protocols or firmware are already open (OpenWrt, LineageOS, coreboot, Zigbee, Z-",
-      "url": "https://github.com/opendevicedb/opendevicedb",
-      "when": "2026-10-17T04:31:19Z",
-      "note": "TypeScript · ★17 · #mcp-server"
+      "repo": "heyedisonwong/iphone-esp32",
+      "title": "iPhone automation with nothing but WiFi and a tiny board(ESP32-S3) — no pc, cable, jailbreak, App.",
+      "url": "https://github.com/heyedisonwong/iphone-esp32",
+      "when": "2026-10-18T08:57:03Z",
+      "note": "C · ★4 · #automation"
     },
     {
-      "id": "app:parkerhell07-eng/TelegramBotManager",
+      "id": "app:Riper21/hh-sniper",
       "section": "apps",
-      "repo": "parkerhell07-eng/TelegramBotManager",
-      "title": "مدیریت کامل ربات‌های تلگرام | Full Telegram Bot Manager for Android - Create, manage and send messages via your bots",
-      "url": "https://github.com/parkerhell07-eng/TelegramBotManager",
-      "when": "2026-10-16T21:03:12Z",
-      "note": "Kotlin · ★1 · #telegram-bot"
+      "repo": "Riper21/hh-sniper",
+      "title": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем бот",
+      "url": "https://github.com/Riper21/hh-sniper",
+      "when": "2026-10-18T08:19:41Z",
+      "note": "Python · ★8 · #automation"
     },
     {
-      "id": "app:DroBov1Tya/xbot",
+      "id": "app:alphaparkinc/genpark-agentic-multimodal-pdf-contract-redline-diff-skill",
       "section": "apps",
-      "repo": "DroBov1Tya/xbot",
-      "title": "Telegram bot for selling VPN subscriptions via Remnawave: Telegram Stars & crypto payments, multi-bot",
-      "url": "https://github.com/DroBov1Tya/xbot",
-      "when": "2026-10-16T20:39:56Z",
-      "note": "Rust · ★1 · #telegram-bot"
+      "repo": "alphaparkinc/genpark-agentic-multimodal-pdf-contract-redline-diff-skill",
+      "title": "AI Multimodal Legal Contract Redline Diff & Liability Escalation Sentinel. Compares baseline and counter-party draft rev",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-multimodal-pdf-contract-redline-diff-skill",
+      "when": "2026-10-18T07:45:51Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:morethanrealio/brambit",
+      "id": "app:Alpha-Park/genpark-agentic-supply-chain-bullwhip-dampener-skill",
       "section": "apps",
-      "repo": "morethanrealio/brambit",
-      "title": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-      "url": "https://github.com/morethanrealio/brambit",
-      "when": "2026-10-16T20:36:08Z",
-      "note": "JavaScript · ★5 · #telegram-bot"
+      "repo": "Alpha-Park/genpark-agentic-supply-chain-bullwhip-dampener-skill",
+      "title": "AI Supply Chain & Commerce Bullwhip Effect Dampener. Applies safety stock PID dampening, order surge smoothing, and lead",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-supply-chain-bullwhip-dampener-skill",
+      "when": "2026-10-18T07:34:32Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:zonglvye/folia-mobile",
+      "id": "app:Alpha-Park/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
       "section": "apps",
-      "repo": "zonglvye/folia-mobile",
-      "title": "Unofficial mobile port of Folia: an Android WebView shell that bundles the web build inside the APK (structural offline)",
-      "url": "https://github.com/zonglvye/folia-mobile",
-      "when": "2026-10-16T16:51:02Z",
-      "note": "TypeScript · ★2 · #pwa"
+      "repo": "Alpha-Park/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
+      "title": "Personal Agent Adaptive Deep Work & Focus Guardian. Schedules cognitive 90-minute ultradian focus blocks, triages incomi",
+      "url": "https://github.com/Alpha-Park/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
+      "when": "2026-10-18T07:25:58Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:meel-ayush/parul-elearning-pdf-download",
+      "id": "app:alphaparkinc/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
       "section": "apps",
-      "repo": "meel-ayush/parul-elearning-pdf-download",
-      "title": "Universal 1-click lecture slides & PDF document downloader for Parul University eLearning Portal. Support for Chrome, Fi",
-      "url": "https://github.com/meel-ayush/parul-elearning-pdf-download",
-      "when": "2026-10-16T16:11:40Z",
-      "note": "JavaScript · ★1 · #web-scraping"
+      "repo": "alphaparkinc/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
+      "title": "Personal Agent Adaptive Deep Work & Focus Guardian. Schedules cognitive 90-minute ultradian focus blocks, triages incomi",
+      "url": "https://github.com/alphaparkinc/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill",
+      "when": "2026-10-18T07:25:33Z",
+      "note": "Python · ★7 · #mcp-server"
     },
     {
-      "id": "app:ctxinf/PocketShare",
+      "id": "app:rhythmmouseretake/Steal-An-Egg-Respocket-Free-Script",
       "section": "apps",
-      "repo": "ctxinf/PocketShare",
-      "title": "Self-hosted text and file sharing across your devices. Rust server, Web/PWA and CLI over HTTP. Works from your terminal.",
-      "url": "https://github.com/ctxinf/PocketShare",
-      "when": "2026-10-16T14:16:56Z",
-      "note": "Rust · ★1 · #pwa"
+      "repo": "rhythmmouseretake/Steal-An-Egg-Respocket-Free-Script",
+      "title": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
+      "url": "https://github.com/rhythmmouseretake/Steal-An-Egg-Respocket-Free-Script",
+      "when": "2026-10-18T05:13:51Z",
+      "note": "HTML · ★31 · #automation"
     },
     {
-      "id": "app:eemtijca/frequencia",
+      "id": "app:YlkersonDias/kliny",
       "section": "apps",
-      "repo": "eemtijca/frequencia",
-      "title": "Ecossistema de Machine Learning do FrequenciApp: treino offline, inferência local no navegador e governança de modelos.",
-      "url": "https://github.com/eemtijca/frequencia",
-      "when": "2026-10-16T12:52:09Z",
-      "note": "Python · ★1 · #pwa"
+      "repo": "YlkersonDias/kliny",
+      "title": "Controle financeiro pessoal: receitas e gastos, cofres com meta, orçamento, recorrentes, importação de extrato e relatór",
+      "url": "https://github.com/YlkersonDias/kliny",
+      "when": "2026-10-17T23:40:28Z",
+      "note": "C# · ★1 · #pwa"
     },
     {
-      "id": "app:SMMURDA/dsh-paean-telegram",
+      "id": "app:tongchaihansson432/web-re-toolkit",
       "section": "apps",
-      "repo": "SMMURDA/dsh-paean-telegram",
-      "title": "Native Telegram bridge for Paean Harness (DeepSeek Harness distribution): chat with your agent and drive sessions, model",
-      "url": "https://github.com/SMMURDA/dsh-paean-telegram",
-      "when": "2026-10-16T10:54:43Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
+      "repo": "tongchaihansson432/web-re-toolkit",
+      "title": "Headless Akamai & Kasada solver that runs without a browser, and the reversing toolkit it was built with",
+      "url": "https://github.com/tongchaihansson432/web-re-toolkit",
+      "when": "2026-10-17T22:12:04Z",
+      "note": "Rust · ★1 · #web-scraping"
     },
     {
-      "id": "app:adexbn/walk-kcal",
+      "id": "app:VISHAL108-Mech/Data-Entry-Automation",
       "section": "apps",
-      "repo": "adexbn/walk-kcal",
-      "title": "你今天还能吃多少卡，取决于你愿意走多远 —— 用步行距离换卡路里额度的吃饭决策。麦当劳官方营养值 × 周边餐厅，算你这顿还吃得下什么。",
-      "url": "https://github.com/adexbn/walk-kcal",
-      "when": "2026-10-16T10:42:31Z",
-      "note": "Python · ★27 · #mcp-server"
+      "repo": "VISHAL108-Mech/Data-Entry-Automation",
+      "title": "A small Python project I built to practice scraping and browser automation. It pulls rental prices, addresses and links ",
+      "url": "https://github.com/VISHAL108-Mech/Data-Entry-Automation",
+      "when": "2026-10-17T19:17:07Z",
+      "note": "Python · ★1 · #web-scraping"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50131950",
+      "id": "hn:50142248",
       "section": "showhn",
-      "repo": "Show HN #50131950",
-      "title": "Show HN: I built an AI cycling coach",
-      "url": "https://cuore.fit/",
-      "when": "2026-10-17T15:27:31Z",
+      "repo": "Show HN #50142248",
+      "title": "Show HN: Kramena – Classic books, 20 minutes a day, with spoiler-safe recaps",
+      "url": "https://read.kramena.app",
+      "when": "2026-10-18T16:02:27Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50131906",
+      "id": "hn:50141889",
       "section": "showhn",
-      "repo": "Show HN #50131906",
-      "title": "Show HN: Scalable source control in Rust, inspired by Anthropic's Scion",
-      "url": "https://github.com/adrianchifor/scn",
-      "when": "2026-10-17T15:21:59Z",
+      "repo": "Show HN #50141889",
+      "title": "Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos",
+      "url": "https://aizombietrend.online/",
+      "when": "2026-10-18T15:25:01Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50131842",
+      "id": "hn:50141886",
       "section": "showhn",
-      "repo": "Show HN #50131842",
-      "title": "Show HN: Plinth – free open-source desktop video downloader",
-      "url": "https://plinth.fabwaseem.com",
-      "when": "2026-10-17T15:12:43Z",
+      "repo": "Show HN #50141886",
+      "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+      "url": "https://github.com/luochen1990/secret-guard",
+      "when": "2026-10-18T15:24:48Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50131583",
+      "id": "hn:50141859",
       "section": "showhn",
-      "repo": "Show HN #50131583",
-      "title": "Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux",
-      "url": "https://www.speakoflow.com/",
-      "when": "2026-10-17T14:38:51Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131539",
-      "section": "showhn",
-      "repo": "Show HN #50131539",
-      "title": "Show HN: UAC-Less Sudo for Windows",
-      "url": "https://github.com/parkovski/wsudo",
-      "when": "2026-10-17T14:32:38Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131351",
-      "section": "showhn",
-      "repo": "Show HN #50131351",
-      "title": "Show HN: Open Scrantic – Johnny Castaway in Rust, from Disassembly via REA",
-      "url": "https://github.com/glauberlima/open-scrantic",
-      "when": "2026-10-17T14:11:55Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131314",
-      "section": "showhn",
-      "repo": "Show HN #50131314",
-      "title": "Show HN: Theseus the Mouse by Claude S. (and Claude O.)",
-      "url": "https://github.com/rupello/theseus/",
-      "when": "2026-10-17T14:07:18Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131300",
-      "section": "showhn",
-      "repo": "Show HN #50131300",
-      "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
-      "url": "https://flyingcar-ai.net",
-      "when": "2026-10-17T14:05:52Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131189",
-      "section": "showhn",
-      "repo": "Show HN #50131189",
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "when": "2026-10-17T13:51:08Z",
-      "note": "16 pts · 2 comments"
-    },
-    {
-      "id": "hn:50131035",
-      "section": "showhn",
-      "repo": "Show HN #50131035",
-      "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
-      "url": "https://github.com/SRKRZ23/vramkit",
-      "when": "2026-10-17T13:32:41Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50131006",
-      "section": "showhn",
-      "repo": "Show HN #50131006",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "when": "2026-10-17T13:28:46Z",
+      "repo": "Show HN #50141859",
+      "title": "Show HN: Gecit, share a Windows PC's keyboard and mouse with a Mac over QUIC",
+      "url": "https://kasparovabi.github.io/gecit/",
+      "when": "2026-10-18T15:21:43Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50130901",
+      "id": "hn:50141830",
       "section": "showhn",
-      "repo": "Show HN #50130901",
-      "title": "Show HN: Solo business must have tool, Tamo",
-      "url": "https://heytamo.com/",
-      "when": "2026-10-17T13:15:55Z",
+      "repo": "Show HN #50141830",
+      "title": "Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser",
+      "url": "https://wispplayer.com/?tab=ai",
+      "when": "2026-10-18T15:18:00Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50130814",
+      "id": "hn:50141798",
       "section": "showhn",
-      "repo": "Show HN #50130814",
-      "title": "Show HN: Organ – Run your company with autonomous agents",
-      "url": "https://organ.app/en",
-      "when": "2026-10-17T13:04:39Z",
+      "repo": "Show HN #50141798",
+      "title": "Show HN: BricksChat – Generate Lego builds from images, including Technic",
+      "url": "https://brickschat.com/",
+      "when": "2026-10-18T15:13:54Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50141597",
+      "section": "showhn",
+      "repo": "Show HN #50141597",
+      "title": "Show HN: ElNeo, a E2E enabled matrix client for Emacs, inspired by telega",
+      "url": "https://github.com/aard-fi/elneo",
+      "when": "2026-10-18T14:51:23Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50130613",
+      "id": "hn:50141513",
       "section": "showhn",
-      "repo": "Show HN #50130613",
-      "title": "Show HN: A daily deduction puzzle where one hex on a nautical chart is a lie",
-      "url": "https://cartographerslie.com",
-      "when": "2026-10-17T12:43:05Z",
+      "repo": "Show HN #50141513",
+      "title": "Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI",
+      "url": "https://taskpocket.io/",
+      "when": "2026-10-18T14:39:55Z",
+      "note": "1 pts · 2 comments"
+    },
+    {
+      "id": "hn:50141423",
+      "section": "showhn",
+      "repo": "Show HN #50141423",
+      "title": "Show HN: Distance Fields Visualization",
+      "url": "https://visualrambling.space/distance-fields/",
+      "when": "2026-10-18T14:30:04Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50130491",
+      "id": "hn:50141365",
       "section": "showhn",
-      "repo": "Show HN #50130491",
-      "title": "Show HN: Animated step-by-step hints for any cryptic crossword clue",
-      "url": "https://crypticinkling.co.uk",
-      "when": "2026-10-17T12:21:49Z",
+      "repo": "Show HN #50141365",
+      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
+      "url": "https://www.documemory.dev/",
+      "when": "2026-10-18T14:22:54Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50141332",
+      "section": "showhn",
+      "repo": "Show HN #50141332",
+      "title": "Show HN: An open-source curation of most useful ChatGPT Plugins",
+      "url": "https://github.com/Asdivyansh/Awesome-ChatGPT-Plugins",
+      "when": "2026-10-18T14:19:48Z",
+      "note": "4 pts · 2 comments"
+    },
+    {
+      "id": "hn:50141081",
+      "section": "showhn",
+      "repo": "Show HN #50141081",
+      "title": "Show HN:MockForge – Lightweight, zero-dependency Python API and Webhook",
+      "url": "https://github.com/alessio1999xx-debug/pyforge-task-Mockforge",
+      "when": "2026-10-18T13:49:14Z",
+      "note": "4 pts · 0 comments"
+    },
+    {
+      "id": "hn:50140880",
+      "section": "showhn",
+      "repo": "Show HN #50140880",
+      "title": "Show HN: Spomory – graph-based MCP memory with an RL-trained forgetting policy",
+      "url": "https://spomory.yliuai.com/",
+      "when": "2026-10-18T13:22:05Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50140812",
+      "section": "showhn",
+      "repo": "Show HN #50140812",
+      "title": "Show HN: I kept abandoning task systems, so I built one that picks three a day",
+      "url": "https://3anddoneapp.com/try",
+      "when": "2026-10-18T13:12:19Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50140781",
+      "section": "showhn",
+      "repo": "Show HN #50140781",
+      "title": "Show HN: Typed data pipeline – in TypeScript and DuckDB",
+      "url": "https://croft.zabaca.com/",
+      "when": "2026-10-18T13:08:22Z",
       "note": "1 pts · 0 comments"
     }
   ],
   "trending": [
     {
-      "id": "trend:akitaonrails/ai-memory",
+      "id": "trend:mlabonne/llm-course",
       "section": "trending",
-      "repo": "akitaonrails/ai-memory",
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "repo": "mlabonne/llm-course",
+      "title": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
       "when": null,
-      "note": "Rust"
+      "note": "overall"
     },
     {
-      "id": "trend:elie222/rakazo",
+      "id": "trend:Kruk2/jasna",
       "section": "trending",
-      "repo": "elie222/rakazo",
-      "title": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
+      "repo": "Kruk2/jasna",
+      "title": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
       "when": null,
-      "note": "TypeScript"
+      "note": "Python"
     },
     {
-      "id": "trend:OpenBMB/PilotDeck",
+      "id": "trend:Comfy-Org/ComfyUI",
       "section": "trending",
-      "repo": "OpenBMB/PilotDeck",
-      "title": "OpenBMB/PilotDeck",
-      "url": "https://github.com/OpenBMB/PilotDeck",
+      "repo": "Comfy-Org/ComfyUI",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
       "when": null,
-      "note": "TypeScript"
+      "note": "Python"
     },
     {
-      "id": "trend:payloadcms/payload",
+      "id": "trend:LibreChat-AI/LibreChat",
       "section": "trending",
-      "repo": "payloadcms/payload",
-      "title": "payloadcms/payload",
-      "url": "https://github.com/payloadcms/payload",
-      "when": null,
-      "note": "TypeScript"
-    },
-    {
-      "id": "trend:expo/expo",
-      "section": "trending",
-      "repo": "expo/expo",
-      "title": "expo/expo",
-      "url": "https://github.com/expo/expo",
+      "repo": "LibreChat-AI/LibreChat",
+      "title": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:awslabs/aidlc-workflows",
+      "id": "trend:anthropics/claude-quickstarts",
       "section": "trending",
-      "repo": "awslabs/aidlc-workflows",
-      "title": "awslabs/aidlc-workflows",
-      "url": "https://github.com/awslabs/aidlc-workflows",
+      "repo": "anthropics/claude-quickstarts",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:cline/cline",
+      "id": "trend:sponsors/diegosouzapw",
       "section": "trending",
-      "repo": "cline/cline",
-      "title": "cline/cline",
-      "url": "https://github.com/cline/cline",
+      "repo": "sponsors/diegosouzapw",
+      "title": "sponsors/diegosouzapw",
+      "url": "https://github.com/sponsors/diegosouzapw",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:calcom/cal.diy",
+      "id": "trend:vercel-labs/scriptc",
       "section": "trending",
-      "repo": "calcom/cal.diy",
-      "title": "calcom/cal.diy",
-      "url": "https://github.com/calcom/cal.diy",
+      "repo": "vercel-labs/scriptc",
+      "title": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
       "when": null,
       "note": "TypeScript"
     }
