@@ -1,6 +1,51 @@
 {
   "apps": [
     {
+      "id": "app:Dayc-l/claude-codex-session-link",
+      "name": "claude-codex-session-link",
+      "repo": "Dayc-l/claude-codex-session-link",
+      "desc": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follo",
+      "url": "https://github.com/Dayc-l/claude-codex-session-link",
+      "when": "2026-10-19T06:34:58Z",
+      "note": "JavaScript · ★8 · #mcp-server"
+    },
+    {
+      "id": "app:zigansh1n/imnotarobot",
+      "name": "imnotarobot",
+      "repo": "zigansh1n/imnotarobot",
+      "desc": "I am not a robot — a captcha solver for macOS: local model, Gemini vision, a stealth browser for checkbox captchas, RuCa",
+      "url": "https://github.com/zigansh1n/imnotarobot",
+      "when": "2026-10-19T00:56:29Z",
+      "note": "Python · ★43 · #mcp-server"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "name": "genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "repo": "Alpha-Park/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "desc": "AI Agentic Commerce Review Hijacking & Authenticity Sentinel. Audits product review streams across review-velocity clust",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "when": "2026-10-18T15:56:49Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "name": "genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "repo": "alphaparkinc/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "desc": "AI Agentic Commerce Review Hijacking & Authenticity Sentinel. Audits product review streams across review-velocity clust",
+      "url": "https://github.com/alphaparkinc/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill",
+      "when": "2026-10-18T15:56:13Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:dansugc/reverse-engineer-marketing",
+      "name": "reverse-engineer-marketing",
+      "repo": "dansugc/reverse-engineer-marketing",
+      "desc": "Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evide",
+      "url": "https://github.com/dansugc/reverse-engineer-marketing",
+      "when": "2026-10-18T14:30:57Z",
+      "note": "TypeScript · ★29 · #mcp-server"
+    },
+    {
       "id": "app:zoe1nan/dsh-cockpit",
       "name": "dsh-cockpit",
       "repo": "zoe1nan/dsh-cockpit",
@@ -118,6 +163,15 @@
       "note": "C# · ★1 · #pwa"
     },
     {
+      "id": "app:shreyassaw5394/debuganything",
+      "name": "debuganything",
+      "repo": "shreyassaw5394/debuganything",
+      "desc": "Debug Anything: observe any running process, container or pod from your AI agent. strace, py-spy, perf, lsof, tcpdump, g",
+      "url": "https://github.com/shreyassaw5394/debuganything",
+      "when": "2026-10-17T22:40:49Z",
+      "note": "TypeScript · ★11 · #mcp-server"
+    },
+    {
       "id": "app:tongchaihansson432/web-re-toolkit",
       "name": "web-re-toolkit",
       "repo": "tongchaihansson432/web-re-toolkit",
@@ -125,6 +179,15 @@
       "url": "https://github.com/tongchaihansson432/web-re-toolkit",
       "when": "2026-10-17T22:12:04Z",
       "note": "Rust · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:RaptorTwentyOne/Anabolic",
+      "name": "Anabolic",
+      "repo": "RaptorTwentyOne/Anabolic",
+      "desc": "Task Manager on steroids: a Windows task manager that stays responsive under load and shows who is doing what, and why. ",
+      "url": "https://github.com/RaptorTwentyOne/Anabolic",
+      "when": "2026-10-17T21:02:17Z",
+      "note": "Rust · ★9 · #mcp-server"
     },
     {
       "id": "app:VISHAL108-Mech/Data-Entry-Automation",
@@ -1736,70 +1799,7 @@
       "url": "https://github.com/Torgh/tripdeck",
       "when": "2026-10-11T19:36:03Z",
       "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:onehumanbeing/esp32-iphone-agent",
-      "name": "esp32-iphone-agent",
-      "repo": "onehumanbeing/esp32-iphone-agent",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No M",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "when": "2026-10-11T19:10:25Z",
-      "note": "Python · ★486 · #ai-agent"
-    },
-    {
-      "id": "app:ahtalbi/Jira-Workshop",
-      "name": "Jira-Workshop",
-      "repo": "ahtalbi/Jira-Workshop",
-      "desc": "Automation workflow where GitHub activity moves Jira tickets by itself. Nobody drags cards. Nobody forgets to update a s",
-      "url": "https://github.com/ahtalbi/Jira-Workshop",
-      "when": "2026-10-11T18:57:30Z",
-      "note": "HTML · ★2 · #automation"
-    },
-    {
-      "id": "app:chan-mai/Mecalo",
-      "name": "Mecalo",
-      "repo": "chan-mai/Mecalo",
-      "desc": "Self-hosted meal and nutrition tracker / セルフホスト型の食事記録・栄養管理アプリ",
-      "url": "https://github.com/chan-mai/Mecalo",
-      "when": "2026-10-11T15:59:10Z",
-      "note": "Go · ★3 · #pwa"
-    },
-    {
-      "id": "app:graphersal/graphersal",
-      "name": "graphersal",
-      "repo": "graphersal/graphersal",
-      "desc": "In-memory graph database and Gremlin traversal engine in Rust: browser playground, CLI, MCP server for AI agents, durabl",
-      "url": "https://github.com/graphersal/graphersal",
-      "when": "2026-10-11T14:33:39Z",
-      "note": "Rust · ★12 · #mcp-server"
-    },
-    {
-      "id": "app:SouravBeraAkaSpeed/xiryn",
-      "name": "xiryn",
-      "repo": "SouravBeraAkaSpeed/xiryn",
-      "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent get",
-      "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
-      "when": "2026-10-11T13:12:31Z",
-      "note": "TypeScript · ★15 · #telegram-bot"
-    },
-    {
-      "id": "app:LilyFerrari47/poisk-po-nomeru-bot-2026",
-      "name": "poisk-po-nomeru-bot-2026",
-      "repo": "LilyFerrari47/poisk-po-nomeru-bot-2026",
-      "desc": "Как пробить номер телефона через Telegram бот бесплатно. Проверка тегов GetContact, объявлений Авито, профилей VK и банк",
-      "url": "https://github.com/LilyFerrari47/poisk-po-nomeru-bot-2026",
-      "when": "2026-10-11T13:01:35Z",
-      "note": "HTML · ★3 · #telegram-bot"
-    },
-    {
-      "id": "app:LilyFerrari47/glaz-boga-zerkalo-bot-2026",
-      "name": "glaz-boga-zerkalo-bot-2026",
-      "repo": "LilyFerrari47/glaz-boga-zerkalo-bot-2026",
-      "desc": "Рабочее зеркало и прямая ссылка на Глаз Бога бот в Telegram. Проверка человека, авто по госномеру и VIN, телефона и откр",
-      "url": "https://github.com/LilyFerrari47/glaz-boga-zerkalo-bot-2026",
-      "when": "2026-10-11T13:00:23Z",
-      "note": "HTML · ★3 · #telegram-bot"
     }
   ],
-  "updated": "2026-10-18T16:03:56.965Z"
+  "updated": "2026-10-19T18:47:57.472Z"
 }

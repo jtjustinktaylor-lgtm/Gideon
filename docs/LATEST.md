@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-10-18
+# GitHub Radar — 2026-10-19
 
-_70 new item(s) since last run · generated 2026-10-18T16:03:56.965Z_
+_37 new item(s) since last run · generated 2026-10-19T18:47:57.472Z_
 
 ## 🚀 Releases
 
@@ -8,64 +8,68 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[px26-leader px26-fm1154 2026-10-18 feature/release-v6-12-0 6288ab6fc9df4d5d1ebc7f3f24bb3e15c41ec6e3 "Record that the hal](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bd973943d6f90699e0a3e02bba6e24e7a6d0a4b5)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 c26516bba662f1395518ed3d918f5053aeecf67e "Keeper tests: corre](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/f5af31109c59035914d2759aa82ea4f792763d38)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 4dfc5649b75eff2aa3271d5387fe71dca790d8ef "history_test.go env](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/5a26fb3ecf4cadb9ff1f342d88ce3a8cff0cdec7)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 16a429f8eee079a52aa883427b1e435bb8c3c38b "GitHub issue #634: ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/23e867c2c9f7dde1ccf5e469bf088426ecccb89e)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 966aca794aaad6001fcc0c0a388d3a8965429d33 "GitHub issue #633: ](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/2d2d70243ea87a5cd7b1e126d346d1e28ed7f6b4)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 9610d8cdd16eafbb7875ff2badde614352af2546 "GitHub issue #622 f](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/ad78ba1646c93065ebf9856e7cba10b13d1f7418)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 9e620a2fba863504cab832a0d60be51208c491fd "GitHub issues #630-](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9d974bc5ad203b6359caa6f5add99a898453cac8)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
-- **[px26-leader px26-fm1152 2026-10-18 feature/release-v6-12-0 764ca0613856e5f1d40dacdc25fe67a51b3588ce "GitHub issue #620 f](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/bbdf025255ab749b32a288741ebd4fd0aa43f145)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-18
+- **[px26-leader px26-fm1221 2026-10-19 main 81795074338af4987c41a9b5cddf8aa9bb4276cb "Test MigrateV6120 against the golden f](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/634aa3c826fb8daa2559cc30f44f0130bd1a539a)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1227 2026-10-19 main a6b23b0f80b7de4f00c95cab5f9050e97f71c2c9 "Mark the v6.12.0 store upgrades and th](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/fb8d15a809c95a91c44ab24924425a4608b39aa7)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1226 2026-10-19 main e48a432019126c1c2d399349295ea607b3671ad1 "Assert at compile time that the node's](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b5e463c65bcea5b443e98ae5c905fbb37ab5aad5)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1224 2026-10-19 main 1791992b98b756fb1d4f93b7e5d555f28db099a1 "Extend the halt export generator so it](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/4720458b83f609426d78ba3e9e4ff50f8e7b1707)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1220 2026-10-19 main e66edb20a02b682c005a6e64885a911adbdc0388 "Add TestPerpsDomainWiring to the perps](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9c8b9ee74618251e1d3128572c7808322b03e9f5)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1223 2026-10-19 main 0436ff76ea39be1475ccf2c81873c6f7c0d77dd2 "Drive the application flow from the ha](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/9ec8e58d64a86300dafcfd6f5896d1027e1bddba)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1225 2026-10-19 main 1ca42415534abacb3c12f29f2038c9fdc5205e16 "Record the gotchas from the release re](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/565bbc8676775c084fb9116086879bfd08f0313a)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
+- **[px26-leader px26-fm1218 2026-10-19 main 661b02f8890f93c4223ad2fe301c028176f4a4bf "Move the rest of platform to services/](https://github.com/Sidiora-Labs/Paxeer-X-Network/commit/b161eb763d0fccf3c558b784e12ea7a55e9aed44)** `Sidiora-Labs/Paxeer-X-Network` — Sidiora Development Team · 2026-10-19
 
 ## 🆕 New repos on the radar
 
-- **[A calm, native macOS terminal by LayerX. Sidebar windows, renameable tabs, nested splits, saved SSH hosts, JSON themes and a scriptable CLI. Built in Swift.](https://github.com/layerx-labs/trellis)** `layerx-labs/trellis` — Swift · ★1 · via "layerx" · 2026-10-16
+_Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Live command deck for DeepSeek Harness agent teams: roster telemetry, task board, approvals, write actions, built-in Win](https://github.com/zoe1nan/dsh-cockpit)** `zoe1nan/dsh-cockpit` — JavaScript · ★2 · #pwa · 2026-10-18
-- **[Claude Code on any phone: one Telegram chat for all your repos. Parallel tasks on their own git branches, phone approval](https://github.com/arulebin/pocket-dev)** `arulebin/pocket-dev` — Python · ★1 · #telegram-bot · 2026-10-18
-- **[Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX), no cloud, no A](https://github.com/kanaworksai-hue/audio-studio-mcp)** `kanaworksai-hue/audio-studio-mcp` — Python · ★30 · #mcp-server · 2026-10-18
-- **[AI Agentic Commerce Retroactive Price Drop Refund Claimer. Scans past order receipts against retailer price-protection p](https://github.com/Alpha-Park/genpark-agentic-commerce-price-drop-retroactive-refund-claimer-skill)** `Alpha-Park/genpark-agentic-commerce-price-drop-retroactive-refund-claimer-skill` — Python · ★7 · #mcp-server · 2026-10-18
-- **[Free keyless Steal An Egg script for PC Fly & Noclip and More](https://github.com/CycloneJaguarRemedy/Steal-An-Egg-Respocket-Free-Script)** `CycloneJaguarRemedy/Steal-An-Egg-Respocket-Free-Script` — HTML · ★31 · #automation · 2026-10-18
-- **[iPhone automation with nothing but WiFi and a tiny board(ESP32-S3) — no pc, cable, jailbreak, App.](https://github.com/heyedisonwong/iphone-esp32)** `heyedisonwong/iphone-esp32` — C · ★4 · #automation · 2026-10-18
-- **[Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем бот](https://github.com/Riper21/hh-sniper)** `Riper21/hh-sniper` — Python · ★8 · #automation · 2026-10-18
-- **[AI Multimodal Legal Contract Redline Diff & Liability Escalation Sentinel. Compares baseline and counter-party draft rev](https://github.com/alphaparkinc/genpark-agentic-multimodal-pdf-contract-redline-diff-skill)** `alphaparkinc/genpark-agentic-multimodal-pdf-contract-redline-diff-skill` — Python · ★7 · #mcp-server · 2026-10-18
-- **[AI Supply Chain & Commerce Bullwhip Effect Dampener. Applies safety stock PID dampening, order surge smoothing, and lead](https://github.com/Alpha-Park/genpark-agentic-supply-chain-bullwhip-dampener-skill)** `Alpha-Park/genpark-agentic-supply-chain-bullwhip-dampener-skill` — Python · ★7 · #mcp-server · 2026-10-18
-- **[Personal Agent Adaptive Deep Work & Focus Guardian. Schedules cognitive 90-minute ultradian focus blocks, triages incomi](https://github.com/Alpha-Park/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill)** `Alpha-Park/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill` — Python · ★7 · #mcp-server · 2026-10-18
-- **[Personal Agent Adaptive Deep Work & Focus Guardian. Schedules cognitive 90-minute ultradian focus blocks, triages incomi](https://github.com/alphaparkinc/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill)** `alphaparkinc/genpark-personal-agent-adaptive-deep-work-focus-guardian-skill` — Python · ★7 · #mcp-server · 2026-10-18
-- **[Free keyless Steal An Egg script for PC Fly & Noclip and More](https://github.com/rhythmmouseretake/Steal-An-Egg-Respocket-Free-Script)** `rhythmmouseretake/Steal-An-Egg-Respocket-Free-Script` — HTML · ★31 · #automation · 2026-10-18
-- **[Controle financeiro pessoal: receitas e gastos, cofres com meta, orçamento, recorrentes, importação de extrato e relatór](https://github.com/YlkersonDias/kliny)** `YlkersonDias/kliny` — C# · ★1 · #pwa · 2026-10-17
-- **[Headless Akamai & Kasada solver that runs without a browser, and the reversing toolkit it was built with](https://github.com/tongchaihansson432/web-re-toolkit)** `tongchaihansson432/web-re-toolkit` — Rust · ★1 · #web-scraping · 2026-10-17
-- **[A small Python project I built to practice scraping and browser automation. It pulls rental prices, addresses and links ](https://github.com/VISHAL108-Mech/Data-Entry-Automation)** `VISHAL108-Mech/Data-Entry-Automation` — Python · ★1 · #web-scraping · 2026-10-17
+- **[MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follo](https://github.com/Dayc-l/claude-codex-session-link)** `Dayc-l/claude-codex-session-link` — JavaScript · ★8 · #mcp-server · 2026-10-19
+- **[I am not a robot — a captcha solver for macOS: local model, Gemini vision, a stealth browser for checkbox captchas, RuCa](https://github.com/zigansh1n/imnotarobot)** `zigansh1n/imnotarobot` — Python · ★43 · #mcp-server · 2026-10-19
+- **[AI Agentic Commerce Review Hijacking & Authenticity Sentinel. Audits product review streams across review-velocity clust](https://github.com/Alpha-Park/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill)** `Alpha-Park/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill` — Python · ★7 · #mcp-server · 2026-10-18
+- **[AI Agentic Commerce Review Hijacking & Authenticity Sentinel. Audits product review streams across review-velocity clust](https://github.com/alphaparkinc/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill)** `alphaparkinc/genpark-agentic-commerce-counterfeit-product-review-synthesizer-skill` — Python · ★7 · #mcp-server · 2026-10-18
+- **[Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evide](https://github.com/dansugc/reverse-engineer-marketing)** `dansugc/reverse-engineer-marketing` — TypeScript · ★29 · #mcp-server · 2026-10-18
+- **[Debug Anything: observe any running process, container or pod from your AI agent. strace, py-spy, perf, lsof, tcpdump, g](https://github.com/shreyassaw5394/debuganything)** `shreyassaw5394/debuganything` — TypeScript · ★11 · #mcp-server · 2026-10-17
+- **[Task Manager on steroids: a Windows task manager that stays responsive under load and shows who is doing what, and why. ](https://github.com/RaptorTwentyOne/Anabolic)** `RaptorTwentyOne/Anabolic` — Rust · ★9 · #mcp-server · 2026-10-17
 
 ## 📣 Show HN launches
 
-- **[Show HN: Kramena – Classic books, 20 minutes a day, with spoiler-safe recaps](https://read.kramena.app)** `Show HN #50142248` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos](https://aizombietrend.online/)** `Show HN #50141889` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: Secret Guard – a local LLM gateway; keys never leave your machine](https://github.com/luochen1990/secret-guard)** `Show HN #50141886` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: Gecit, share a Windows PC's keyboard and mouse with a Mac over QUIC](https://kasparovabi.github.io/gecit/)** `Show HN #50141859` — 2 pts · 0 comments · 2026-10-18
-- **[Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser](https://wispplayer.com/?tab=ai)** `Show HN #50141830` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: BricksChat – Generate Lego builds from images, including Technic](https://brickschat.com/)** `Show HN #50141798` — 2 pts · 0 comments · 2026-10-18
-- **[Show HN: ElNeo, a E2E enabled matrix client for Emacs, inspired by telega](https://github.com/aard-fi/elneo)** `Show HN #50141597` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI](https://taskpocket.io/)** `Show HN #50141513` — 1 pts · 2 comments · 2026-10-18
-- **[Show HN: Distance Fields Visualization](https://visualrambling.space/distance-fields/)** `Show HN #50141423` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: DocuMemory – Persistent memory and context for AI coding tools](https://www.documemory.dev/)** `Show HN #50141365` — 2 pts · 0 comments · 2026-10-18
-- **[Show HN: An open-source curation of most useful ChatGPT Plugins](https://github.com/Asdivyansh/Awesome-ChatGPT-Plugins)** `Show HN #50141332` — 4 pts · 2 comments · 2026-10-18
-- **[Show HN:MockForge – Lightweight, zero-dependency Python API and Webhook](https://github.com/alessio1999xx-debug/pyforge-task-Mockforge)** `Show HN #50141081` — 4 pts · 0 comments · 2026-10-18
-- **[Show HN: Spomory – graph-based MCP memory with an RL-trained forgetting policy](https://spomory.yliuai.com/)** `Show HN #50140880` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: I kept abandoning task systems, so I built one that picks three a day](https://3anddoneapp.com/try)** `Show HN #50140812` — 1 pts · 0 comments · 2026-10-18
-- **[Show HN: Typed data pipeline – in TypeScript and DuckDB](https://croft.zabaca.com/)** `Show HN #50140781` — 1 pts · 0 comments · 2026-10-18
+- **[Show HN: Krites, Claude Code Plugin that forces your tests to run](https://github.com/krites-dev/krites)** `Show HN #50156263` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: A better way to use DNS-AID to publish your I agent](https://me360.hanhanwu.com/projects/agent-discovery-comparison)** `Show HN #50155956` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus)** `Show HN #50155692` — 2 pts · 0 comments · 2026-10-19
+- **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)** `Show HN #50155647` — 7 pts · 1 comments · 2026-10-19
+- **[Show HN: PENTONIQ  Tube Synth for macOS](https://github.com/johnrpenner/Pentoniq)** `Show HN #50155636` — 1 pts · 1 comments · 2026-10-19
+- **[Show HN: MCP for Ordering Assembled PCBs](https://provenmetal.com/mcp)** `Show HN #50155440` — 4 pts · 4 comments · 2026-10-19
+- **[Show HN: Stillplay – The Windows XP games, rebuilt in C and WASM for the browser](https://github.com/btahir/stillplay)** `Show HN #50155392` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: Remakecraft – Claude Code plugin that rewrites apps from behaviour](https://github.com/remakecraft/remakecraft)** `Show HN #50155320` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: Vlmhub – Simple Unified Python interface for vision-language models](https://github.com/dbiswas55/vlmhub)** `Show HN #50155314` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras](https://github.com/senseplane-ai/senseplane)** `Show HN #50155220` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: CueCut Teleprompter for videos, podcasts and Zoom calls](https://getcuecut.com/)** `Show HN #50155073` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: ProvLedger – stops coding agents repeating mistakes](https://github.com/yizhao95/prov_ledger)** `Show HN #50154969` — 2 pts · 1 comments · 2026-10-19
+- **[Show HN: Earshot – talk to Claude Code with AirPods, nod to send](https://github.com/epavanello/earshot)** `Show HN #50154750` — 2 pts · 0 comments · 2026-10-19
+- **[Show HN: Daymark – private iPhone habit tracker ($14.99 once)](https://daymark.one/)** `Show HN #50154722` — 1 pts · 0 comments · 2026-10-19
+- **[Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist)** `Show HN #50154682` — 1 pts · 0 comments · 2026-10-19
 
 ## 💌 GitHub Trending (daily)
 
-- **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** `mlabonne/llm-course` — overall
-- **[Kruk2/jasna](https://github.com/Kruk2/jasna)** `Kruk2/jasna` — Python
-- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Comfy-Org/ComfyUI` — Python
-- **[LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)** `LibreChat-AI/LibreChat` — TypeScript
-- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** `anthropics/claude-quickstarts` — TypeScript
-- **[sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw)** `sponsors/diegosouzapw` — TypeScript
-- **[vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)** `vercel-labs/scriptc` — TypeScript
+- **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** `headroomlabs-ai/headroom` — Python
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** `withmarbleapp/os-taxonomy` — JavaScript
+- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** `shiyu-coder/Kronos` — Python
+- **[antonio-orionus/Arroxy](https://github.com/antonio-orionus/Arroxy)** `antonio-orionus/Arroxy` — TypeScript
+- **[anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)** `anthropics/claude-code-action` — TypeScript
+- **[trycompai/crm](https://github.com/trycompai/crm)** `trycompai/crm` — TypeScript
+- **[croffasia/itsaplan](https://github.com/croffasia/itsaplan)** `croffasia/itsaplan` — TypeScript
+
+## ⚠️ Sources that failed
+
+- apps · topic:ai-agent: rate limited, resets 2026-10-19T18:48:05.000Z
+- keyword "paxeer": rate limited, resets 2026-10-19T18:48:05.000Z
+- keyword "layerx": rate limited, resets 2026-10-19T18:48:05.000Z
+- keyword "402lxp": rate limited, resets 2026-10-19T18:48:05.000Z
+- keyword "sidiora": rate limited, resets 2026-10-19T18:48:05.000Z
+- apps · topic:telegram-bot: rate limited, resets 2026-10-19T18:48:05.000Z
+- apps · topic:pwa: rate limited, resets 2026-10-19T18:48:05.000Z
+- apps · topic:web-scraping: rate limited, resets 2026-10-19T18:48:05.000Z
+- apps · topic:automation: rate limited, resets 2026-10-19T18:48:05.000Z
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
