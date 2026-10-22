@@ -1,6 +1,132 @@
 {
   "apps": [
     {
+      "id": "app:calista-concept/omp-telegram-extension",
+      "name": "omp-telegram-extension",
+      "repo": "calista-concept/omp-telegram-extension",
+      "desc": "Control omp from Telegram — prompts, live status, plan tracking, multi-instance failover",
+      "url": "https://github.com/calista-concept/omp-telegram-extension",
+      "when": "2026-10-22T14:15:12Z",
+      "note": "TypeScript · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:Mason-Levyy/garmin-personal-mcp",
+      "name": "garmin-personal-mcp",
+      "repo": "Mason-Levyy/garmin-personal-mcp",
+      "desc": "MCP server for Garmin Connect on Garmin's official Personal API: sleep, HRV, body battery, activities, and more from Cla",
+      "url": "https://github.com/Mason-Levyy/garmin-personal-mcp",
+      "when": "2026-10-22T07:03:04Z",
+      "note": "Python · ★13 · #mcp-server"
+    },
+    {
+      "id": "app:dogakocak/boss-katana-mcp",
+      "name": "boss-katana-mcp",
+      "repo": "dogakocak/boss-katana-mcp",
+      "desc": "Say the tone, the knobs turn themselves: an MCP server + agent skill that sets BOSS KATANA Gen 3 tones from Claude Code,",
+      "url": "https://github.com/dogakocak/boss-katana-mcp",
+      "when": "2026-10-22T06:55:24Z",
+      "note": "TypeScript · ★6 · #mcp-server"
+    },
+    {
+      "id": "app:Sayandeep1013/stealthstack",
+      "name": "stealthstack",
+      "repo": "Sayandeep1013/stealthstack",
+      "desc": "Free, self-hosted alternative to Browserbase-style hosted browsers: escalates curl_cffi → Patchright → nodriver (→ optio",
+      "url": "https://github.com/Sayandeep1013/stealthstack",
+      "when": "2026-10-22T06:26:50Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Sorakis/save-my-disk",
+      "name": "save-my-disk",
+      "repo": "Sorakis/save-my-disk",
+      "desc": "Universal AI Agent skill & runbook for intelligent, non-invasive disk audit and safe optimization. Supports Antigravity,",
+      "url": "https://github.com/Sorakis/save-my-disk",
+      "when": "2026-10-22T06:15:49Z",
+      "note": "PowerShell · ★4 · #ai-agent"
+    },
+    {
+      "id": "app:Aetherdz/opencode-mobile",
+      "name": "opencode-mobile",
+      "repo": "Aetherdz/opencode-mobile",
+      "desc": "Unofficial mobile and web client for OpenCode, with a local authenticated bridge.",
+      "url": "https://github.com/Aetherdz/opencode-mobile",
+      "when": "2026-10-22T01:49:42Z",
+      "note": "TypeScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:lawerth/discord-streamer",
+      "name": "discord-streamer",
+      "repo": "lawerth/discord-streamer",
+      "desc": "📺 Level up your Discord Streaming Badge",
+      "url": "https://github.com/lawerth/discord-streamer",
+      "when": "2026-10-21T21:36:47Z",
+      "note": "JavaScript · ★4 · #automation"
+    },
+    {
+      "id": "app:dolev31/lasagna",
+      "name": "lasagna",
+      "repo": "dolev31/lasagna",
+      "desc": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
+      "url": "https://github.com/dolev31/lasagna",
+      "when": "2026-10-21T18:58:43Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:kushvinth/crowbar",
+      "name": "crowbar",
+      "repo": "kushvinth/crowbar",
+      "desc": "Retrieve CVEs and index them inside your codebase. Offline CVE + exploit intelligence: one SQLite index, one CLI, one MC",
+      "url": "https://github.com/kushvinth/crowbar",
+      "when": "2026-10-21T18:26:19Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:host1mc/free-discord-bot-hosting",
+      "name": "free-discord-bot-hosting",
+      "repo": "host1mc/free-discord-bot-hosting",
+      "desc": "Free bot hosting for Discord & Telegram (2026) by ENDHOST. Run Python, Node.js, Go, Ruby, PHP or Bun bots 24/7 from a we",
+      "url": "https://github.com/host1mc/free-discord-bot-hosting",
+      "when": "2026-10-21T17:12:32Z",
+      "note": "— · ★7 · #telegram-bot"
+    },
+    {
+      "id": "app:mxchristian17/cota",
+      "name": "cota",
+      "repo": "mxchristian17/cota",
+      "desc": "Free, open-source 2D + 3D CAD that runs in your browser. Draw it, model it, dimension it.",
+      "url": "https://github.com/mxchristian17/cota",
+      "when": "2026-10-21T16:45:50Z",
+      "note": "TypeScript · ★4 · #pwa"
+    },
+    {
+      "id": "app:NELKIO/influence-web",
+      "name": "influence-web",
+      "repo": "NELKIO/influence-web",
+      "desc": "Пошаговая стратегия о захвате территории в браузере — фанатский ремейк «Влияния»",
+      "url": "https://github.com/NELKIO/influence-web",
+      "when": "2026-10-21T16:41:16Z",
+      "note": "TypeScript · ★7 · #pwa"
+    },
+    {
+      "id": "app:BEN020406/maimen-order-manager",
+      "name": "maimen-order-manager",
+      "repo": "BEN020406/maimen-order-manager",
+      "desc": "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。",
+      "url": "https://github.com/BEN020406/maimen-order-manager",
+      "when": "2026-10-21T16:06:41Z",
+      "note": "Python · ★40 · #ai-agent"
+    },
+    {
+      "id": "app:aut0testing/tradecryptobot",
+      "name": "tradecryptobot",
+      "repo": "aut0testing/tradecryptobot",
+      "desc": "Торговые боты для USDT-фьючерсов MEXC: пробой уровня + ретест, симуляция как на бирже (стакан, комиссии, фандинг), управ",
+      "url": "https://github.com/aut0testing/tradecryptobot",
+      "when": "2026-10-21T15:41:41Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
       "id": "app:diginno-net/grokbot-dsh-orchestrator-vn",
       "name": "grokbot-dsh-orchestrator-vn",
       "repo": "diginno-net/grokbot-dsh-orchestrator-vn",
@@ -10,6 +136,15 @@
       "note": "Shell · ★7 · #ai-agent"
     },
     {
+      "id": "app:jagubuilds/offline-arcade",
+      "name": "offline-arcade",
+      "repo": "jagubuilds/offline-arcade",
+      "desc": "Give your website its own Chrome dinosaur: offline mini games, packaged as an AI agent skill.",
+      "url": "https://github.com/jagubuilds/offline-arcade",
+      "when": "2026-10-21T14:26:47Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
       "id": "app:devanshranjan10/landmines",
       "name": "landmines",
       "repo": "devanshranjan10/landmines",
@@ -17,6 +152,33 @@
       "url": "https://github.com/devanshranjan10/landmines",
       "when": "2026-10-21T13:53:00Z",
       "note": "TypeScript · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:wonderandyou/dsh-admin-mode",
+      "name": "dsh-admin-mode",
+      "repo": "wonderandyou/dsh-admin-mode",
+      "desc": "DSH 插件：在权限菜单里新增「管理员」档（完全访问 + 永不询问），内置官方 computer use、操控提示与自主迭代按钮。",
+      "url": "https://github.com/wonderandyou/dsh-admin-mode",
+      "when": "2026-10-21T13:02:46Z",
+      "note": "JavaScript · ★9 · #automation"
+    },
+    {
+      "id": "app:AIPMAndy/muse-guide",
+      "name": "muse-guide",
+      "repo": "AIPMAndy/muse-guide",
+      "desc": "Meta Muse 个人 AI Agent 保姆级中文攻略：28 章实战、80 条任务指令、12 套 SOP 与安全检查，非官方｜Unofficial Chinese guide to the Meta Muse agent",
+      "url": "https://github.com/AIPMAndy/muse-guide",
+      "when": "2026-10-21T12:09:29Z",
+      "note": "HTML · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:mileslynn03/amazon-product-toolkit",
+      "name": "amazon-product-toolkit",
+      "repo": "mileslynn03/amazon-product-toolkit",
+      "desc": "Amazon Review Scraper GUI: a local web UI for authenticated review pagination, batch ASINs, market/rating filters, regio",
+      "url": "https://github.com/mileslynn03/amazon-product-toolkit",
+      "when": "2026-10-21T10:40:13Z",
+      "note": "Python · ★3 · #web-scraping"
     },
     {
       "id": "app:aaronparton2-sketch/deal-radar",
@@ -91,6 +253,15 @@
       "note": "JavaScript · ★1 · #pwa"
     },
     {
+      "id": "app:artosku/video-3d-kit",
+      "name": "video-3d-kit",
+      "repo": "artosku/video-3d-kit",
+      "desc": "Paste this link to your AI agent and say 'setup': it installs the /video-3d command for short voiced 3D character videos",
+      "url": "https://github.com/artosku/video-3d-kit",
+      "when": "2026-10-21T03:01:12Z",
+      "note": "JavaScript · ★4 · #ai-agent"
+    },
+    {
       "id": "app:alexdlaird/amazon-auth",
       "name": "amazon-auth",
       "repo": "alexdlaird/amazon-auth",
@@ -107,6 +278,24 @@
       "url": "https://github.com/DragonCuds/nosignal",
       "when": "2026-10-20T23:11:23Z",
       "note": "TypeScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:nxtsound/nxtsound-server",
+      "name": "nxtsound-server",
+      "repo": "nxtsound/nxtsound-server",
+      "desc": "A self-hosted music server with a fast web app, smart recommendations and a plugin system. Point it at a folder of music",
+      "url": "https://github.com/nxtsound/nxtsound-server",
+      "when": "2026-10-20T22:55:33Z",
+      "note": "Python · ★2 · #pwa"
+    },
+    {
+      "id": "app:wudidianzishu/dsh-purge-preset",
+      "name": "dsh-purge-preset",
+      "repo": "wudidianzishu/dsh-purge-preset",
+      "desc": "DeepSeek Harness 官方通道破甲预设 · complete:true 整段替换 · 自带工具说明书 · 不改宿主 · 升级不丢",
+      "url": "https://github.com/wudidianzishu/dsh-purge-preset",
+      "when": "2026-10-20T21:30:42Z",
+      "note": "JavaScript · ★6 · #ai-agent"
     },
     {
       "id": "app:arjun11goel/multi-agent-research-pipeline",
@@ -352,6 +541,15 @@
       "note": "Swift · ★1 · #telegram-bot"
     },
     {
+      "id": "app:golaso024/headless-duckapi",
+      "name": "headless-duckapi",
+      "repo": "golaso024/headless-duckapi",
+      "desc": "Free duck.ai models in Telegram - serverless-first (zero VPS), powered by a pure-JS headless browser that walks through ",
+      "url": "https://github.com/golaso024/headless-duckapi",
+      "when": "2026-10-20T06:03:06Z",
+      "note": "JavaScript · ★12 · #telegram-bot"
+    },
+    {
       "id": "app:cporter202/api-mesa",
       "name": "api-mesa",
       "repo": "cporter202/api-mesa",
@@ -377,6 +575,24 @@
       "url": "https://github.com/boyuea96-creator/mcd-afterparty",
       "when": "2026-10-20T03:14:03Z",
       "note": "HTML · ★6 · #ai-agent"
+    },
+    {
+      "id": "app:gavinchen-520/agent-user-interaction",
+      "name": "agent-user-interaction",
+      "repo": "gavinchen-520/agent-user-interaction",
+      "desc": "skill + plugins that let AI agents render HTML interaction pages and collect structured user input from the browser.",
+      "url": "https://github.com/gavinchen-520/agent-user-interaction",
+      "when": "2026-10-20T02:29:29Z",
+      "note": "TypeScript · ★5 · #ai-agent"
+    },
+    {
+      "id": "app:joseph-kang777/browse-trendshift",
+      "name": "browse-trendshift",
+      "repo": "joseph-kang777/browse-trendshift",
+      "desc": "Find GitHub projects by describing them: semantic search over every daily trending repo on trendshift.io since 2024 (REA",
+      "url": "https://github.com/joseph-kang777/browse-trendshift",
+      "when": "2026-10-20T00:24:17Z",
+      "note": "TypeScript · ★1 · #web-scraping"
     },
     {
       "id": "app:pnnnx/local-code-tutor",
@@ -1583,223 +1799,7 @@
       "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion",
       "when": "2026-10-15T06:11:46Z",
       "note": "JavaScript · ★61 · #ai-agent"
-    },
-    {
-      "id": "app:elimorals/Skills_MX",
-      "name": "Skills_MX",
-      "repo": "elimorals/Skills_MX",
-      "desc": "Repositorio oficial de skills para el entorno Mexicano caótico.",
-      "url": "https://github.com/elimorals/Skills_MX",
-      "when": "2026-10-15T05:35:00Z",
-      "note": "Python · ★20 · #mcp-server"
-    },
-    {
-      "id": "app:Jdrg4/vesper",
-      "name": "vesper",
-      "repo": "Jdrg4/vesper",
-      "desc": "AI agent that watches your GitHub repos and opens pull requests for security, quality, deps, performance and docs. Bring",
-      "url": "https://github.com/Jdrg4/vesper",
-      "when": "2026-10-15T03:46:02Z",
-      "note": "Python · ★3 · #automation"
-    },
-    {
-      "id": "app:zhouqise/wechat-agent-bridge",
-      "name": "wechat-agent-bridge",
-      "repo": "zhouqise/wechat-agent-bridge",
-      "desc": "一台电脑，多个微信用户，AI 任务同时运行。分别扫码使用本机 Codex / Claude Code，独立会话、工作区与审批；支持截图、音视频、PDF/Office 和网页分析。Multi-user, parallel coding age",
-      "url": "https://github.com/zhouqise/wechat-agent-bridge",
-      "when": "2026-10-15T03:38:41Z",
-      "note": "JavaScript · ★4 · #automation"
-    },
-    {
-      "id": "app:tripolskiydigital/claude-telegram",
-      "name": "claude-telegram",
-      "repo": "tripolskiydigital/claude-telegram",
-      "desc": "Your project's Telegram group in Claude Desktop's Code tab: messages, pictures and files into the prompt, Claude's repli",
-      "url": "https://github.com/tripolskiydigital/claude-telegram",
-      "when": "2026-10-15T03:24:56Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:firecrawl/fireround",
-      "name": "fireround",
-      "repo": "firecrawl/fireround",
-      "desc": "Who raised today, in one place. Open-source funding feed built on Firecrawl: verified rounds with a dashboard, Slack, fe",
-      "url": "https://github.com/firecrawl/fireround",
-      "when": "2026-10-15T03:17:40Z",
-      "note": "TypeScript · ★8 · #mcp-server"
-    },
-    {
-      "id": "app:Padilha-BR/hermes-agent-android-phone-only",
-      "name": "hermes-agent-android-phone-only",
-      "repo": "Padilha-BR/hermes-agent-android-phone-only",
-      "desc": "Works and it's fully usable — but some features still don't work 100%, and it's not a real APK: it's a well-made workaro",
-      "url": "https://github.com/Padilha-BR/hermes-agent-android-phone-only",
-      "when": "2026-10-15T02:03:55Z",
-      "note": "Python · ★2 · #pwa"
-    },
-    {
-      "id": "app:SebastianAsprino/jobfilter",
-      "name": "jobfilter",
-      "repo": "SebastianAsprino/jobfilter",
-      "desc": "Tu búsqueda diaria de empleo en un botón: busca en portales de LatAm, filtra empresas que reciclan vacantes y pinta cada",
-      "url": "https://github.com/SebastianAsprino/jobfilter",
-      "when": "2026-10-15T01:34:33Z",
-      "note": "TypeScript · ★3 · #web-scraping"
-    },
-    {
-      "id": "app:MorrisMorrison/dailies",
-      "name": "dailies",
-      "repo": "MorrisMorrison/dailies",
-      "desc": "Do your dailies: a tiny, on-device daily wellbeing tracker. Vanilla HTML/CSS/JS.",
-      "url": "https://github.com/MorrisMorrison/dailies",
-      "when": "2026-10-14T21:55:57Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:dpontejs/flamengo-news",
-      "name": "flamengo-news",
-      "repo": "dpontejs/flamengo-news",
-      "desc": "Automated news curation pipeline for Flamengo with LLM summarization and a scheduled email newsletter",
-      "url": "https://github.com/dpontejs/flamengo-news",
-      "when": "2026-10-14T21:25:11Z",
-      "note": "Python · ★5 · #web-scraping"
-    },
-    {
-      "id": "app:monexo-stack/reefox-3x-ui-vpn-bot",
-      "name": "reefox-3x-ui-vpn-bot",
-      "repo": "monexo-stack/reefox-3x-ui-vpn-bot",
-      "desc": "Reefox Panel — Telegram-бот для продажи VPN на 3x-ui: Mini App, сайт с кабинетом, оплата СБП, ЮKassa, Platega, Stars. VP",
-      "url": "https://github.com/monexo-stack/reefox-3x-ui-vpn-bot",
-      "when": "2026-10-14T20:19:28Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:MBratkowski/deweloperuch-mcp",
-      "name": "deweloperuch-mcp",
-      "repo": "MBratkowski/deweloperuch-mcp",
-      "desc": "Unofficial MCP server and CLI for Polish new-build apartment prices: developers' asking prices with history, RCN transac",
-      "url": "https://github.com/MBratkowski/deweloperuch-mcp",
-      "when": "2026-10-14T17:55:07Z",
-      "note": "Python · ★16 · #mcp-server"
-    },
-    {
-      "id": "app:Kyin-code/KDock",
-      "name": "KDock",
-      "repo": "Kyin-code/KDock",
-      "desc": "KDock: embedded debug workbench — serial/network debug, firmware OTA, flashing, device files, live charts, and an AI age",
-      "url": "https://github.com/Kyin-code/KDock",
-      "when": "2026-10-14T17:52:38Z",
-      "note": "JavaScript · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:iAbdurahmon/essential-bot",
-      "name": "essential-bot",
-      "repo": "iAbdurahmon/essential-bot",
-      "desc": "Telegram bot for learning English vocabulary — aiogram 3, PostgreSQL, MongoDB, Redis",
-      "url": "https://github.com/iAbdurahmon/essential-bot",
-      "when": "2026-10-14T16:54:12Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:dylan-murray/agent-desk",
-      "name": "agent-desk",
-      "repo": "dylan-murray/agent-desk",
-      "desc": "Local agent workspace with coordinators, terminals, task automation, and annotation feedback",
-      "url": "https://github.com/dylan-murray/agent-desk",
-      "when": "2026-10-14T16:33:25Z",
-      "note": "Python · ★4 · #automation"
-    },
-    {
-      "id": "app:Kabeer099/kabeer-arcade",
-      "name": "kabeer-arcade",
-      "repo": "Kabeer099/kabeer-arcade",
-      "desc": "🏎️ Asphalt Overdrive 3D — Realistic 3D Highway Traffic Racer with Dynamic Weather & Garage Tuning (100% Offline PWA) by",
-      "url": "https://github.com/Kabeer099/kabeer-arcade",
-      "when": "2026-10-14T14:04:00Z",
-      "note": "JavaScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:n-e-r-u/cortege",
-      "name": "cortege",
-      "repo": "n-e-r-u/cortege",
-      "desc": "Carte collaborative en temps réel pour les manifs : signalements, alertes, droits et SOS. Sans compte, sans pistage, pos",
-      "url": "https://github.com/n-e-r-u/cortege",
-      "when": "2026-10-14T13:42:42Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:eduardo-qts/sigaa-client",
-      "name": "sigaa-client",
-      "repo": "eduardo-qts/sigaa-client",
-      "desc": "Cliente TypeScript não oficial para o SIGAA da UFSJ",
-      "url": "https://github.com/eduardo-qts/sigaa-client",
-      "when": "2026-10-14T13:11:20Z",
-      "note": "TypeScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:arcnessai/arcdr",
-      "name": "arcdr",
-      "repo": "arcnessai/arcdr",
-      "desc": "herdr mobile & web client that shows what your Claude Code mods report — answer your agents from your phone, over your o",
-      "url": "https://github.com/arcnessai/arcdr",
-      "when": "2026-10-14T13:08:05Z",
-      "note": "TypeScript · ★3 · #pwa"
-    },
-    {
-      "id": "app:omkarcloud/lever-scraper",
-      "name": "lever-scraper",
-      "repo": "omkarcloud/lever-scraper",
-      "desc": "Lever Scraper — free, open-source Lever scraper. Unlimited jobs, salaries & company hiring data as clean JSON, no API ke",
-      "url": "https://github.com/omkarcloud/lever-scraper",
-      "when": "2026-10-14T12:37:01Z",
-      "note": "HTML · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Graphicle-AI/graphicle",
-      "name": "graphicle",
-      "repo": "Graphicle-AI/graphicle",
-      "desc": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "url": "https://github.com/Graphicle-AI/graphicle",
-      "when": "2026-10-14T12:25:36Z",
-      "note": "Rust · ★157 · #mcp-server"
-    },
-    {
-      "id": "app:LSPosed/dexsql-release",
-      "name": "dexsql-release",
-      "repo": "LSPosed/dexsql-release",
-      "desc": "SQL for Android apk and dex files",
-      "url": "https://github.com/LSPosed/dexsql-release",
-      "when": "2026-10-14T11:50:40Z",
-      "note": "Python · ★132 · #mcp-server"
-    },
-    {
-      "id": "app:BryleXia/legisradar",
-      "name": "legisradar",
-      "repo": "BryleXia/legisradar",
-      "desc": "立法雷达 — 自动追踪全国人大、国务院各部委、两高的法规草案公开征求意见，一条不漏",
-      "url": "https://github.com/BryleXia/legisradar",
-      "when": "2026-10-14T11:26:34Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:omkarcloud/greenhouse-scraper",
-      "name": "greenhouse-scraper",
-      "repo": "omkarcloud/greenhouse-scraper",
-      "desc": "Greenhouse Scraper — free, open-source Greenhouse scraper. Unlimited jobs and salaries from 7,500+ companies as clean JS",
-      "url": "https://github.com/omkarcloud/greenhouse-scraper",
-      "when": "2026-10-14T10:54:19Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:yfw17562-cyber/mcd-what-to-eat",
-      "name": "mcd-what-to-eat",
-      "repo": "yfw17562-cyber/mcd-what-to-eat",
-      "desc": "🍔 麦门运势抽签点餐 Skill——先摇今日运势（大吉到平六级签等+签诗+宜忌），再随机搭配一整套麦当劳套餐；门店/价格/热量全部来自官方 MCP 实时数据。2026 麦当劳程序员创意开发大赛参赛作品 · 使用 WorkBuddy 开发",
-      "url": "https://github.com/yfw17562-cyber/mcd-what-to-eat",
-      "when": "2026-10-14T10:35:36Z",
-      "note": "Python · ★15 · #ai-agent"
     }
   ],
-  "updated": "2026-10-21T17:32:29.303Z"
+  "updated": "2026-10-22T17:29:04.791Z"
 }
