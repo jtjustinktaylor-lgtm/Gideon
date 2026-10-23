@@ -1,6 +1,204 @@
 {
   "apps": [
     {
+      "id": "app:BadmonLano/meme-sniper",
+      "name": "meme-sniper",
+      "repo": "BadmonLano/meme-sniper",
+      "desc": "Solana meme sniper run by your SI agent: scans, rug-checks, buys and sells, plus a gated launch rail with GitHub repo at",
+      "url": "https://github.com/BadmonLano/meme-sniper",
+      "when": "2026-10-23T16:40:37Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:omkarcloud/tofler-scraper",
+      "name": "tofler-scraper",
+      "repo": "omkarcloud/tofler-scraper",
+      "desc": "Tofler Scraper — free, open-source Tofler scraper. Unlimited Indian company profiles, financials & directors as clean JS",
+      "url": "https://github.com/omkarcloud/tofler-scraper",
+      "when": "2026-10-23T14:12:12Z",
+      "note": "HTML · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:future-people34/aibeici",
+      "name": "aibeici",
+      "repo": "future-people34/aibeici",
+      "desc": "本地优先的六级背单词应用：看英文写中文、AI 判语义、FSRS 排复习、每天自动生成阅读理解。PWA + Android APK。",
+      "url": "https://github.com/future-people34/aibeici",
+      "when": "2026-10-23T14:07:14Z",
+      "note": "TypeScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:KareemmSayed/Threshold",
+      "name": "Threshold",
+      "repo": "KareemmSayed/Threshold",
+      "desc": "Garmin MCP server: connect Garmin Connect to Claude, ChatGPT and any AI. Readiness, HRV, training load, FIT analysis. Fr",
+      "url": "https://github.com/KareemmSayed/Threshold",
+      "when": "2026-10-23T11:12:12Z",
+      "note": "TypeScript · ★6 · #mcp-server"
+    },
+    {
+      "id": "app:abaaba360/Mcd",
+      "name": "Mcd",
+      "repo": "abaaba360/Mcd",
+      "desc": "帮被派去买全组午饭的那个人，30 秒完成一次不会有人不满意的点单。基于麦当劳 MCP 的多人点单 Skill。",
+      "url": "https://github.com/abaaba360/Mcd",
+      "when": "2026-10-23T10:01:44Z",
+      "note": "Python · ★5 · #ai-agent"
+    },
+    {
+      "id": "app:hix-pro/opencode-telegram",
+      "name": "opencode-telegram",
+      "repo": "hix-pro/opencode-telegram",
+      "desc": "Full remote control of a local OpenCode server from Telegram - streaming replies, permission approvals, reactions, sched",
+      "url": "https://github.com/hix-pro/opencode-telegram",
+      "when": "2026-10-23T09:00:27Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Wildange85773l/windows-fine-tuner-resp",
+      "name": "windows-fine-tuner-resp",
+      "repo": "Wildange85773l/windows-fine-tuner-resp",
+      "desc": "Top 20 Windows 11 Junk & Startup Optimizer Tools 2026",
+      "url": "https://github.com/Wildange85773l/windows-fine-tuner-resp",
+      "when": "2026-10-23T07:08:58Z",
+      "note": "HTML · ★29 · #mcp-server"
+    },
+    {
+      "id": "app:NoobUnderTreant/Tower-Events-resp-At-Sunrise",
+      "name": "Tower-Events-resp-At-Sunrise",
+      "repo": "NoobUnderTreant/Tower-Events-resp-At-Sunrise",
+      "desc": "Rediscover seasonal Tower and Farm events in Destiny 2. Built on Sunrise 0.3.2.0.",
+      "url": "https://github.com/NoobUnderTreant/Tower-Events-resp-At-Sunrise",
+      "when": "2026-10-23T07:08:05Z",
+      "note": "HTML · ★29 · #mcp-server"
+    },
+    {
+      "id": "app:ValUnderNymph/rpocket-FxDeck",
+      "name": "rpocket-FxDeck",
+      "repo": "ValUnderNymph/rpocket-FxDeck",
+      "desc": "Stream Deck-style command deck for FiveM / RedM — a single Windows exe that serves a button grid to your phone's browser",
+      "url": "https://github.com/ValUnderNymph/rpocket-FxDeck",
+      "when": "2026-10-23T07:07:47Z",
+      "note": "— · ★29 · #pwa"
+    },
+    {
+      "id": "app:aeyjeyaryan/IssuePilot",
+      "name": "IssuePilot",
+      "repo": "aeyjeyaryan/IssuePilot",
+      "desc": "Turn a GitHub issue into a verified pull request: reproduces the bug with a test that must fail first, proves the fix in",
+      "url": "https://github.com/aeyjeyaryan/IssuePilot",
+      "when": "2026-10-23T05:32:22Z",
+      "note": "Python · ★8 · #ai-agent"
+    },
+    {
+      "id": "app:liyupi/dafeiyu-cleaner",
+      "name": "dafeiyu-cleaner",
+      "repo": "liyupi/dafeiyu-cleaner",
+      "desc": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + De",
+      "url": "https://github.com/liyupi/dafeiyu-cleaner",
+      "when": "2026-10-23T03:39:33Z",
+      "note": "JavaScript · ★36 · #ai-agent"
+    },
+    {
+      "id": "app:wahaha-potato/mcd-coupon-xray",
+      "name": "mcd-coupon-xray",
+      "repo": "wahaha-potato/mcd-coupon-xray",
+      "desc": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。",
+      "url": "https://github.com/wahaha-potato/mcd-coupon-xray",
+      "when": "2026-10-23T02:38:59Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:CaiqueDourado/scrapladder",
+      "name": "scrapladder",
+      "repo": "CaiqueDourado/scrapladder",
+      "desc": "Fetch web pages by climbing a ladder of methods (HTTP, browser TLS, headless browsers, scraping APIs), learning per doma",
+      "url": "https://github.com/CaiqueDourado/scrapladder",
+      "when": "2026-10-22T23:52:51Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:devladpopov/personal-coach-kit",
+      "name": "personal-coach-kit",
+      "repo": "devladpopov/personal-coach-kit",
+      "desc": "Your own AI personal trainer and nutritionist in 5 minutes: questionnaire -> program, meal plan from your store, tracker",
+      "url": "https://github.com/devladpopov/personal-coach-kit",
+      "when": "2026-10-22T23:47:37Z",
+      "note": "JavaScript · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:minkaworks/mcptocodemode",
+      "name": "mcptocodemode",
+      "repo": "minkaworks/mcptocodemode",
+      "desc": "Stop flooding your agent's prompt with MCP tools: MCPtoCodeMode puts every MCP server behind 3 tools and a sandbox, for ",
+      "url": "https://github.com/minkaworks/mcptocodemode",
+      "when": "2026-10-22T22:55:43Z",
+      "note": "TypeScript · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Loping151/dsh-nekowhale-stickers",
+      "name": "dsh-nekowhale-stickers",
+      "repo": "Loping151/dsh-nekowhale-stickers",
+      "desc": "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库",
+      "url": "https://github.com/Loping151/dsh-nekowhale-stickers",
+      "when": "2026-10-22T21:08:41Z",
+      "note": "TypeScript · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:Loyaltystone/factorio-admin-command-center",
+      "name": "factorio-admin-command-center",
+      "repo": "Loyaltystone/factorio-admin-command-center",
+      "desc": "Factorio Admin Command Center for Windows with cheat mode, editor tools, instant building, indestructible structures, ma",
+      "url": "https://github.com/Loyaltystone/factorio-admin-command-center",
+      "when": "2026-10-22T20:16:23Z",
+      "note": "Rust · ★9 · #automation"
+    },
+    {
+      "id": "app:Pneutronic/ptc-xae-mcp",
+      "name": "ptc-xae-mcp",
+      "repo": "Pneutronic/ptc-xae-mcp",
+      "desc": "Let Claude drive Beckhoff TwinCAT 3. MCP server on the XAE Automation Interface: write and build PLC code, wire EtherCAT",
+      "url": "https://github.com/Pneutronic/ptc-xae-mcp",
+      "when": "2026-10-22T18:42:57Z",
+      "note": "C# · ★8 · #automation"
+    },
+    {
+      "id": "app:aleksozolins/orgwarrior-web",
+      "name": "orgwarrior-web",
+      "repo": "aleksozolins/orgwarrior-web",
+      "desc": "Org mode's agenda in your browser, phone first: an installable web page over orgwarrior's engine and your running Emacs.",
+      "url": "https://github.com/aleksozolins/orgwarrior-web",
+      "when": "2026-10-22T18:13:49Z",
+      "note": "JavaScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:KritishX/leeds-scraper-web-scraper",
+      "name": "leeds-scraper-web-scraper",
+      "repo": "KritishX/leeds-scraper-web-scraper",
+      "desc": "Self-hosted, open-source web scraper: 13 scrapers for page text, Markdown, contacts, local business leads, products, tab",
+      "url": "https://github.com/KritishX/leeds-scraper-web-scraper",
+      "when": "2026-10-22T17:46:41Z",
+      "note": "JavaScript · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:proger-exe/navidrome-bot",
+      "name": "navidrome-bot",
+      "repo": "proger-exe/navidrome-bot",
+      "desc": "Пополнение собственной музыки через Telegram: аудиофайл или разрешённая ссылка проходят загрузку и импорт в библиотеку N",
+      "url": "https://github.com/proger-exe/navidrome-bot",
+      "when": "2026-10-22T15:25:37Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:thenumber3/midway-weather",
+      "name": "midway-weather",
+      "repo": "thenumber3/midway-weather",
+      "desc": "A customizable, self-hosted weather application for Ambient Weather stations, with forecasts, radar, responsive dashboar",
+      "url": "https://github.com/thenumber3/midway-weather",
+      "when": "2026-10-22T14:51:08Z",
+      "note": "PHP · ★3 · #pwa"
+    },
+    {
       "id": "app:calista-concept/omp-telegram-extension",
       "name": "omp-telegram-extension",
       "repo": "calista-concept/omp-telegram-extension",
@@ -8,6 +206,42 @@
       "url": "https://github.com/calista-concept/omp-telegram-extension",
       "when": "2026-10-22T14:15:12Z",
       "note": "TypeScript · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:hua695/MathModeling-Skills-Arsenal",
+      "name": "MathModeling-Skills-Arsenal",
+      "repo": "hua695/MathModeling-Skills-Arsenal",
+      "desc": "面向数学建模竞赛的 AI Agent 技能集：读题建模、求解、可视化、论文写作与终稿评审。35 skills for CUMCM / MCM / ICM.",
+      "url": "https://github.com/hua695/MathModeling-Skills-Arsenal",
+      "when": "2026-10-22T14:01:22Z",
+      "note": "Python · ★9 · #ai-agent"
+    },
+    {
+      "id": "app:xiguazhu1998/orbit-emby-suite",
+      "name": "orbit-emby-suite",
+      "repo": "xiguazhu1998/orbit-emby-suite",
+      "desc": "Orbit · Emby 一体化运营与观影门户（用户端 + 管理端双端口，React + Express + SQLite + Docker）",
+      "url": "https://github.com/xiguazhu1998/orbit-emby-suite",
+      "when": "2026-10-22T13:27:21Z",
+      "note": "TypeScript · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:mh9rashadi/aut-courses-telegram-bot",
+      "name": "aut-courses-telegram-bot",
+      "repo": "mh9rashadi/aut-courses-telegram-bot",
+      "desc": "ربات تلگرام شخصی برای کورسز امیرکبیر (courses.aut.ac.ir) — رایگان روی Cloudflare Workers",
+      "url": "https://github.com/mh9rashadi/aut-courses-telegram-bot",
+      "when": "2026-10-22T12:35:28Z",
+      "note": "TypeScript · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:Zolohacker/EasyRun",
+      "name": "EasyRun",
+      "repo": "Zolohacker/EasyRun",
+      "desc": "EasyRun：基于 Go、React 与 PostgreSQL 的智能闪动校园代跑平台 可个人/商业使用",
+      "url": "https://github.com/Zolohacker/EasyRun",
+      "when": "2026-10-22T09:43:53Z",
+      "note": "Go · ★5 · #automation"
     },
     {
       "id": "app:Mason-Levyy/garmin-personal-mcp",
@@ -26,6 +260,15 @@
       "url": "https://github.com/dogakocak/boss-katana-mcp",
       "when": "2026-10-22T06:55:24Z",
       "note": "TypeScript · ★6 · #mcp-server"
+    },
+    {
+      "id": "app:makushingu/harness-maxxing",
+      "name": "harness-maxxing",
+      "repo": "makushingu/harness-maxxing",
+      "desc": "Self-hosted web control room for Claude Code: persistent sessions, memory, scheduled jobs, Telegram and voice on your ow",
+      "url": "https://github.com/makushingu/harness-maxxing",
+      "when": "2026-10-22T06:29:49Z",
+      "note": "Python · ★5 · #ai-agent"
     },
     {
       "id": "app:Sayandeep1013/stealthstack",
@@ -55,6 +298,15 @@
       "note": "TypeScript · ★3 · #pwa"
     },
     {
+      "id": "app:walid-zd213/walid-zd213",
+      "name": "walid-zd213",
+      "repo": "walid-zd213/walid-zd213",
+      "desc": "👋 Hi, I'm Walid (walid-zd213) — Software Developer | AI & Telegram Bots Automation Specialist",
+      "url": "https://github.com/walid-zd213/walid-zd213",
+      "when": "2026-10-22T01:00:58Z",
+      "note": "— · ★1 · #telegram-bot"
+    },
+    {
       "id": "app:lawerth/discord-streamer",
       "name": "discord-streamer",
       "repo": "lawerth/discord-streamer",
@@ -62,6 +314,15 @@
       "url": "https://github.com/lawerth/discord-streamer",
       "when": "2026-10-21T21:36:47Z",
       "note": "JavaScript · ★4 · #automation"
+    },
+    {
+      "id": "app:mrozkan-78/akdeniz-lms-indirici",
+      "name": "akdeniz-lms-indirici",
+      "repo": "mrozkan-78/akdeniz-lms-indirici",
+      "desc": "Akdeniz Üniversitesi Moodle LMS için otomatik ders dosyası indirici + Telegram bildirimleri (Python, Playwright, Oracle ",
+      "url": "https://github.com/mrozkan-78/akdeniz-lms-indirici",
+      "when": "2026-10-21T19:20:13Z",
+      "note": "Python · ★1 · #web-scraping"
     },
     {
       "id": "app:dolev31/lasagna",
@@ -226,6 +487,15 @@
       "note": "Python · ★7 · #automation"
     },
     {
+      "id": "app:shu-jie951/zsearch",
+      "name": "zsearch",
+      "repo": "shu-jie951/zsearch",
+      "desc": "ZSEARCH · 网盘资源搜索引擎 —— 三源聚合 + 两阶段渐进搜索 + 纸感高级前端（Node/Express）",
+      "url": "https://github.com/shu-jie951/zsearch",
+      "when": "2026-10-21T07:05:31Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
       "id": "app:Alpha-Park/genpark-semver-dependency-resolver-agent-skill",
       "name": "genpark-semver-dependency-resolver-agent-skill",
       "repo": "Alpha-Park/genpark-semver-dependency-resolver-agent-skill",
@@ -251,6 +521,24 @@
       "url": "https://github.com/serendipity0526/Kaoyan-English-Upgrader",
       "when": "2026-10-21T04:27:47Z",
       "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:BlueFans26/Kaoyan-English-Upgrader",
+      "name": "Kaoyan-English-Upgrader",
+      "repo": "BlueFans26/Kaoyan-English-Upgrader",
+      "desc": "离线优先的考研英语综合备考站：英语一/英语二客观题真题、英语二主观题 AI 批改与背单词",
+      "url": "https://github.com/BlueFans26/Kaoyan-English-Upgrader",
+      "when": "2026-10-21T04:27:47Z",
+      "note": "JavaScript · ★3 · #pwa"
+    },
+    {
+      "id": "app:chowtao123-design/shopfloor-cmms",
+      "name": "shopfloor-cmms",
+      "repo": "chowtao123-design/shopfloor-cmms",
+      "desc": "Self-hosted, offline-first CMMS for factories and garment shops: service orders (list/board/calendar), preventive mainte",
+      "url": "https://github.com/chowtao123-design/shopfloor-cmms",
+      "when": "2026-10-21T04:11:55Z",
+      "note": "JavaScript · ★2 · #pwa"
     },
     {
       "id": "app:artosku/video-3d-kit",
@@ -1511,295 +1799,7 @@
       "url": "https://github.com/rayaantasnim/Web-Scrapping",
       "when": "2026-10-16T03:24:30Z",
       "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:context-dot-dev/rusteerio",
-      "name": "rusteerio",
-      "repo": "context-dot-dev/rusteerio",
-      "desc": "Cheerio-compatible HTML/XML processing powered by Rust, with configurable parallel extraction. Built by context.dev.",
-      "url": "https://github.com/context-dot-dev/rusteerio",
-      "when": "2026-10-16T02:30:38Z",
-      "note": "TypeScript · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:SuChenjia/firstdrop",
-      "name": "firstdrop",
-      "repo": "SuChenjia/firstdrop",
-      "desc": "Real-time cross-platform trend aggregation & first-source tracing for the Chinese internet",
-      "url": "https://github.com/SuChenjia/firstdrop",
-      "when": "2026-10-16T02:22:46Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:ydflow/Trail",
-      "name": "Trail",
-      "repo": "ydflow/Trail",
-      "desc": "研迹 Trail｜本地优先的 AI 投资研究工作台。连接行情、K 线与深度研究，让判断可追溯、风险可复核。Local-first AI investment research desktop with an evidence-grounde",
-      "url": "https://github.com/ydflow/Trail",
-      "when": "2026-10-16T01:51:24Z",
-      "note": "TypeScript · ★55 · #ai-agent"
-    },
-    {
-      "id": "app:ronjemuel/ManhwaHub",
-      "name": "ManhwaHub",
-      "repo": "ronjemuel/ManhwaHub",
-      "desc": "Next.js manga/manhwa reader PWA with local reading data, original demo chapters, and Kitsu metadata browsing.",
-      "url": "https://github.com/ronjemuel/ManhwaHub",
-      "when": "2026-10-16T00:21:26Z",
-      "note": "TypeScript · ★1 · #pwa"
-    },
-    {
-      "id": "app:0xDevDav/zoe",
-      "name": "zoe",
-      "repo": "0xDevDav/zoe",
-      "desc": "A personal assistant on Telegram with a brain of neurons and synapses, who improves herself. Runs on Claude Code.",
-      "url": "https://github.com/0xDevDav/zoe",
-      "when": "2026-10-15T22:56:31Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:anujasid/mcp-for-blender-pro",
-      "name": "mcp-for-blender-pro",
-      "repo": "anujasid/mcp-for-blender-pro",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with Op",
-      "url": "https://github.com/anujasid/mcp-for-blender-pro",
-      "when": "2026-10-15T22:30:47Z",
-      "note": "Python · ★121 · #mcp-server"
-    },
-    {
-      "id": "app:anujasid/blender-ai-mcp-addon",
-      "name": "blender-ai-mcp-addon",
-      "repo": "anujasid/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Cl",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-      "when": "2026-10-15T22:30:47Z",
-      "note": "Python · ★501 · #mcp-server"
-    },
-    {
-      "id": "app:gramless/support",
-      "name": "support",
-      "repo": "gramless/support",
-      "desc": "Telegram-native customer support with forum topics, language selection and newsletters. Built for Telegram Serverless.",
-      "url": "https://github.com/gramless/support",
-      "when": "2026-10-15T21:55:59Z",
-      "note": "JavaScript · ★2 · #telegram-bot"
-    },
-    {
-      "id": "app:Hermes-Deck/hermes-deck",
-      "name": "hermes-deck",
-      "repo": "Hermes-Deck/hermes-deck",
-      "desc": "An application to manage your Hermes agents. Available on Windows, macOS and iOS (soon).",
-      "url": "https://github.com/Hermes-Deck/hermes-deck",
-      "when": "2026-10-15T19:46:13Z",
-      "note": "JavaScript · ★20 · #ai-agent"
-    },
-    {
-      "id": "app:shipap/vless-vpn-shop-telegram-bot",
-      "name": "vless-vpn-shop-telegram-bot",
-      "repo": "shipap/vless-vpn-shop-telegram-bot",
-      "desc": "Open-source VLESS VPN shop with Telegram bot, web dashboard, admin panel, Remnawave integration, payments and subscripti",
-      "url": "https://github.com/shipap/vless-vpn-shop-telegram-bot",
-      "when": "2026-10-15T19:03:24Z",
-      "note": "Python · ★2 · #telegram-bot"
-    },
-    {
-      "id": "app:orylite/lindyson-ai",
-      "name": "lindyson-ai",
-      "repo": "orylite/lindyson-ai",
-      "desc": "AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGP",
-      "url": "https://github.com/orylite/lindyson-ai",
-      "when": "2026-10-15T18:23:28Z",
-      "note": "TypeScript · ★29 · #mcp-server"
-    },
-    {
-      "id": "app:emersonjds/santi",
-      "name": "santi",
-      "repo": "emersonjds/santi",
-      "desc": "santi — free, open-source, self-hosted project management and issue tracker for agile teams. Scrum and Kanban boards, ba",
-      "url": "https://github.com/emersonjds/santi",
-      "when": "2026-10-15T17:12:46Z",
-      "note": "TypeScript · ★9 · #mcp-server"
-    },
-    {
-      "id": "app:mikhailsemenovykh18-rgb/vps-director",
-      "name": "vps-director",
-      "repo": "mikhailsemenovykh18-rgb/vps-director",
-      "desc": "Your servers in your pocket: a Telegram bot + Mini App that watches your VPS without AI, opens a terminal from your phon",
-      "url": "https://github.com/mikhailsemenovykh18-rgb/vps-director",
-      "when": "2026-10-15T16:39:47Z",
-      "note": "Python · ★5 · #telegram-bot"
-    },
-    {
-      "id": "app:0xgetz/dume-bulk-9router",
-      "name": "dume-bulk-9router",
-      "repo": "0xgetz/dume-bulk-9router",
-      "desc": "Bulk-create Dume.ai accounts, auto-harvest auth tokens + session cookies, and serve them to 9Router as an OpenAI-compati",
-      "url": "https://github.com/0xgetz/dume-bulk-9router",
-      "when": "2026-10-15T14:05:11Z",
-      "note": "JavaScript · ★4 · #automation"
-    },
-    {
-      "id": "app:raojiamin85-netizen/miaohui",
-      "name": "miaohui",
-      "repo": "raojiamin85-netizen/miaohui",
-      "desc": "把任何一条消息，回得漂亮 · 贴聊天记录 → 选意图 → 得 3 条像你自己说出来的回复",
-      "url": "https://github.com/raojiamin85-netizen/miaohui",
-      "when": "2026-10-15T10:54:13Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:andredelgado/continente-mcp",
-      "name": "continente-mcp",
-      "repo": "andredelgado/continente-mcp",
-      "desc": "Unofficial MCP server for Continente.pt: search products, check sale rules, read favorites and orders, and make verified",
-      "url": "https://github.com/andredelgado/continente-mcp",
-      "when": "2026-10-15T10:48:48Z",
-      "note": "TypeScript · ★16 · #mcp-server"
-    },
-    {
-      "id": "app:piotrv1001/how-to-check-google-keyword-volume-in-nodejs",
-      "name": "how-to-check-google-keyword-volume-in-nodejs",
-      "repo": "piotrv1001/how-to-check-google-keyword-volume-in-nodejs",
-      "desc": "Node.js example for checking Google keyword search volume with an Apify Actor",
-      "url": "https://github.com/piotrv1001/how-to-check-google-keyword-volume-in-nodejs",
-      "when": "2026-10-15T10:41:02Z",
-      "note": "JavaScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:piotrv1001/how-to-check-ahrefs-domain-rating-in-nodejs",
-      "name": "how-to-check-ahrefs-domain-rating-in-nodejs",
-      "repo": "piotrv1001/how-to-check-ahrefs-domain-rating-in-nodejs",
-      "desc": "Node.js example for checking Ahrefs Domain Rating in bulk with an Apify Actor",
-      "url": "https://github.com/piotrv1001/how-to-check-ahrefs-domain-rating-in-nodejs",
-      "when": "2026-10-15T10:41:01Z",
-      "note": "JavaScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:dodoflix/dodobox",
-      "name": "dodobox",
-      "repo": "dodoflix/dodobox",
-      "desc": "Self-hosted streaming app for movies, series and anime: torrent playback, subtitles, profiles, any screen on your networ",
-      "url": "https://github.com/dodoflix/dodobox",
-      "when": "2026-10-15T10:10:41Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:Pangolin-spg/amazon-scraper",
-      "name": "amazon-scraper",
-      "repo": "Pangolin-spg/amazon-scraper",
-      "desc": "Runnable Python + Node.js starters: pull product, review & bestseller data via API. Free to test, no card.",
-      "url": "https://github.com/Pangolin-spg/amazon-scraper",
-      "when": "2026-10-15T10:02:33Z",
-      "note": "— · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:alex2loop/openalpha",
-      "name": "openalpha",
-      "repo": "alex2loop/openalpha",
-      "desc": "Self-hosted AI trading research analyst for VN equities, gold and crypto. Suggests, debates and sizes ideas - never plac",
-      "url": "https://github.com/alex2loop/openalpha",
-      "when": "2026-10-15T09:37:40Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:jangtrinh/design-os-studio",
-      "name": "design-os-studio",
-      "repo": "jangtrinh/design-os-studio",
-      "desc": "DESIGN:OS Studio — Native GPU-accelerated interface design & Figma engine built in Rust",
-      "url": "https://github.com/jangtrinh/design-os-studio",
-      "when": "2026-10-15T08:27:10Z",
-      "note": "Rust · ★13 · #mcp-server"
-    },
-    {
-      "id": "app:duyongan/dots-agent",
-      "name": "dots-agent",
-      "repo": "duyongan/dots-agent",
-      "desc": "一个会主动发现任务的智能体",
-      "url": "https://github.com/duyongan/dots-agent",
-      "when": "2026-10-15T08:19:45Z",
-      "note": "Python · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:TTStick/meowtopia",
-      "name": "meowtopia",
-      "repo": "TTStick/meowtopia",
-      "desc": "猫窝 · 不催你的养猫游戏。一只只属于你的小猫，一个只属于它的小窝，窝外面是热闹又温柔的猫猫小镇。网页 / iPhone / Android / Mac 菜单栏 / Apple Watch 同一只猫陪着你。",
-      "url": "https://github.com/TTStick/meowtopia",
-      "when": "2026-10-15T08:00:04Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent",
-      "name": "qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent",
-      "repo": "CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent",
-      "desc": "RTX 5070 Ti Laptop 12GB 跑 Qwen3.8-27B：NInfer + KVMem、256K 逻辑上下文、RAM KV、MTP、快速缓存续接与 dsh 本地 Agent / 搜索 / 浏览器。含源码、Windows 部",
-      "url": "https://github.com/CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent",
-      "when": "2026-10-15T07:46:20Z",
-      "note": "C++ · ★8 · #ai-agent"
-    },
-    {
-      "id": "app:lectorkoba-git/tiktok-video-hashtag-scraper",
-      "name": "tiktok-video-hashtag-scraper",
-      "repo": "lectorkoba-git/tiktok-video-hashtag-scraper",
-      "desc": "Extract trending TikTok videos, creator statistics, hashtag feeds, sounds, engagement rates & TikTok Shop affiliate indi",
-      "url": "https://github.com/lectorkoba-git/tiktok-video-hashtag-scraper",
-      "when": "2026-10-15T07:44:21Z",
-      "note": "Python · ★4 · #web-scraping"
-    },
-    {
-      "id": "app:lectorkoba-git/tiktok-shop-product-scraper",
-      "name": "tiktok-shop-product-scraper",
-      "repo": "lectorkoba-git/tiktok-shop-product-scraper",
-      "desc": "Extract full TikTok Shop product pages, complete SKU variant matrix, real-time stock levels, prices, specs & reviews. Fa",
-      "url": "https://github.com/lectorkoba-git/tiktok-shop-product-scraper",
-      "when": "2026-10-15T07:44:05Z",
-      "note": "Python · ★4 · #web-scraping"
-    },
-    {
-      "id": "app:lectorkoba-git/tiktok-shop-search-scraper",
-      "name": "tiktok-shop-search-scraper",
-      "repo": "lectorkoba-git/tiktok-shop-search-scraper",
-      "desc": "Extract products, sales volume, prices, discounts & revenue from TikTok Shop by keyword. Fast SSR (~5s/page). Free $5 mo",
-      "url": "https://github.com/lectorkoba-git/tiktok-shop-search-scraper",
-      "when": "2026-10-15T07:43:47Z",
-      "note": "Python · ★4 · #web-scraping"
-    },
-    {
-      "id": "app:lectorkoba-git/ebay-seller-contact-scraper",
-      "name": "ebay-seller-contact-scraper",
-      "repo": "lectorkoba-git/ebay-seller-contact-scraper",
-      "desc": "Extract verified eBay seller B2B emails, phone numbers & company info by Item ID. Fast SSR (~0.3s/item). Free $5 monthly",
-      "url": "https://github.com/lectorkoba-git/ebay-seller-contact-scraper",
-      "when": "2026-10-15T07:43:21Z",
-      "note": "Python · ★4 · #web-scraping"
-    },
-    {
-      "id": "app:PoltergeistPotter/Steal-An-Egg-Respocket-Free-Script",
-      "name": "Steal-An-Egg-Respocket-Free-Script",
-      "repo": "PoltergeistPotter/Steal-An-Egg-Respocket-Free-Script",
-      "desc": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
-      "url": "https://github.com/PoltergeistPotter/Steal-An-Egg-Respocket-Free-Script",
-      "when": "2026-10-15T07:15:36Z",
-      "note": "HTML · ★42 · #automation"
-    },
-    {
-      "id": "app:0xgetz/wajo-bulk-9router",
-      "name": "wajo-bulk-9router",
-      "repo": "0xgetz/wajo-bulk-9router",
-      "desc": "Bulk-create Wajo AI accounts and serve them as one OpenAI-compatible endpoint on 9Router. Round-robin + failover, zero d",
-      "url": "https://github.com/0xgetz/wajo-bulk-9router",
-      "when": "2026-10-15T07:13:44Z",
-      "note": "JavaScript · ★6 · #ai-agent"
-    },
-    {
-      "id": "app:ShadowSwaps/REA-Reconstruction-Companion",
-      "name": "REA-Reconstruction-Companion",
-      "repo": "ShadowSwaps/REA-Reconstruction-Companion",
-      "desc": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
-      "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion",
-      "when": "2026-10-15T06:11:46Z",
-      "note": "JavaScript · ★61 · #ai-agent"
     }
   ],
-  "updated": "2026-10-22T17:29:04.791Z"
+  "updated": "2026-10-23T17:21:34.352Z"
 }
