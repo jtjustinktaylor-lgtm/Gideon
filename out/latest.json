@@ -1,483 +1,418 @@
 {
-  "date": "2026-10-23",
-  "generated": "2026-10-23T17:21:34.352Z",
-  "newCount": 69,
+  "date": "2026-10-24",
+  "generated": "2026-10-24T16:09:49.116Z",
+  "newCount": 61,
   "errors": [],
   "releases": [],
-  "commits": [
-    {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/2a1033aa26a3f669f2fc23098926cc8dd5940000",
-      "section": "commits",
-      "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "bridge app scaffold",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/2a1033aa26a3f669f2fc23098926cc8dd5940000",
-      "when": "2026-10-23T14:40:52Z",
-      "note": "paxeer-dev"
-    },
-    {
-      "id": "cmt:decolua/9router/f39d8f07481ae8518e93175f0ecaaafa61573c6c",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "# v0.5.109 (2026-10-23)",
-      "url": "https://github.com/decolua/9router/commit/f39d8f07481ae8518e93175f0ecaaafa61573c6c",
-      "when": "2026-10-23T08:24:06Z",
-      "note": "decolua"
-    },
-    {
-      "id": "cmt:decolua/9router/f3f86fdd52f9e9e9538847dddf233293224733d2",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "feat(combos): add Smart Router (System One) with adaptive session stickiness (#4975)",
-      "url": "https://github.com/decolua/9router/commit/f3f86fdd52f9e9e9538847dddf233293224733d2",
-      "when": "2026-10-23T07:43:09Z",
-      "note": "Михаил Голощанов"
-    },
-    {
-      "id": "cmt:decolua/9router/161e34939ab878cb79dfdf241a696ec292508af4",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "feat(image, mitm): support reference image inputs for Gemini and ensure MITM directory (#4981)",
-      "url": "https://github.com/decolua/9router/commit/161e34939ab878cb79dfdf241a696ec292508af4",
-      "when": "2026-10-23T07:37:35Z",
-      "note": "dangphuc2470"
-    },
-    {
-      "id": "cmt:decolua/9router/82aeb907941baf9806689a46fe2248b2b865a76d",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "fix(antigravity): resolve tiered models from client reasoning effort",
-      "url": "https://github.com/decolua/9router/commit/82aeb907941baf9806689a46fe2248b2b865a76d",
-      "when": "2026-10-23T07:37:13Z",
-      "note": "MarcusHO929"
-    },
-    {
-      "id": "cmt:decolua/9router/31b8439bdf51858598aa4fd838e08e396a457cba",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "fix(usage): support /api/balance for ollama cloud quota tracking (#5026)",
-      "url": "https://github.com/decolua/9router/commit/31b8439bdf51858598aa4fd838e08e396a457cba",
-      "when": "2026-10-23T07:34:48Z",
-      "note": "AMD-it"
-    },
-    {
-      "id": "cmt:decolua/9router/9b4ea9eb697a267babd96ae33c814e86c80a9c64",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "feat(combos): search box for the combo list",
-      "url": "https://github.com/decolua/9router/commit/9b4ea9eb697a267babd96ae33c814e86c80a9c64",
-      "when": "2026-10-23T07:30:30Z",
-      "note": "F0Rextasy"
-    },
-    {
-      "id": "cmt:decolua/9router/32c5f30a0a2074269d7d4cb269d93e7db59d9877",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "fix(capabilities): send reasoning_effort for OpenCode's glm-5.3-flash-free",
-      "url": "https://github.com/decolua/9router/commit/32c5f30a0a2074269d7d4cb269d93e7db59d9877",
-      "when": "2026-10-23T07:30:04Z",
-      "note": "anojndr"
-    },
-    {
-      "id": "cmt:decolua/9router/f172c3c4a622dc531b4ce47a24f7a61ed0f530da",
-      "section": "commits",
-      "repo": "decolua/9router",
-      "title": "fix(antigravity): use hub/2.24.0 User-Agent and add Gemini 4 Argon medium/low tiers (#4816)",
-      "url": "https://github.com/decolua/9router/commit/f172c3c4a622dc531b4ce47a24f7a61ed0f530da",
-      "when": "2026-10-23T07:26:36Z",
-      "note": "Ulder Carrilho Júnior"
-    }
-  ],
-  "new-repos": [
-    {
-      "id": "repo:Sidiora-Labs/bb",
-      "section": "new-repos",
-      "repo": "Sidiora-Labs/bb",
-      "title": "The agent IDE that builds itself",
-      "url": "https://github.com/Sidiora-Labs/bb",
-      "when": "2026-10-23T07:57:22Z",
-      "note": "— · ★0 · via @Sidiora-Labs"
-    },
-    {
-      "id": "repo:elon00/layerx",
-      "section": "new-repos",
-      "repo": "elon00/layerx",
-      "title": "(no description)",
-      "url": "https://github.com/elon00/layerx",
-      "when": "2026-10-23T00:35:33Z",
-      "note": "Python · ★0 · via \"layerx\""
-    }
-  ],
+  "commits": [],
+  "new-repos": [],
   "apps": [
     {
-      "id": "app:BadmonLano/meme-sniper",
+      "id": "app:alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
       "section": "apps",
-      "repo": "BadmonLano/meme-sniper",
-      "title": "Solana meme sniper run by your SI agent: scans, rug-checks, buys and sells, plus a gated launch rail with GitHub repo at",
-      "url": "https://github.com/BadmonLano/meme-sniper",
-      "when": "2026-10-23T16:40:37Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:omkarcloud/tofler-scraper",
-      "section": "apps",
-      "repo": "omkarcloud/tofler-scraper",
-      "title": "Tofler Scraper — free, open-source Tofler scraper. Unlimited Indian company profiles, financials & directors as clean JS",
-      "url": "https://github.com/omkarcloud/tofler-scraper",
-      "when": "2026-10-23T14:12:12Z",
-      "note": "HTML · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:future-people34/aibeici",
-      "section": "apps",
-      "repo": "future-people34/aibeici",
-      "title": "本地优先的六级背单词应用：看英文写中文、AI 判语义、FSRS 排复习、每天自动生成阅读理解。PWA + Android APK。",
-      "url": "https://github.com/future-people34/aibeici",
-      "when": "2026-10-23T14:07:14Z",
-      "note": "TypeScript · ★3 · #pwa"
-    },
-    {
-      "id": "app:KareemmSayed/Threshold",
-      "section": "apps",
-      "repo": "KareemmSayed/Threshold",
-      "title": "Garmin MCP server: connect Garmin Connect to Claude, ChatGPT and any AI. Readiness, HRV, training load, FIT analysis. Fr",
-      "url": "https://github.com/KareemmSayed/Threshold",
-      "when": "2026-10-23T11:12:12Z",
-      "note": "TypeScript · ★6 · #mcp-server"
-    },
-    {
-      "id": "app:abaaba360/Mcd",
-      "section": "apps",
-      "repo": "abaaba360/Mcd",
-      "title": "帮被派去买全组午饭的那个人，30 秒完成一次不会有人不满意的点单。基于麦当劳 MCP 的多人点单 Skill。",
-      "url": "https://github.com/abaaba360/Mcd",
-      "when": "2026-10-23T10:01:44Z",
-      "note": "Python · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:hix-pro/opencode-telegram",
-      "section": "apps",
-      "repo": "hix-pro/opencode-telegram",
-      "title": "Full remote control of a local OpenCode server from Telegram - streaming replies, permission approvals, reactions, sched",
-      "url": "https://github.com/hix-pro/opencode-telegram",
-      "when": "2026-10-23T09:00:27Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:Wildange85773l/windows-fine-tuner-resp",
-      "section": "apps",
-      "repo": "Wildange85773l/windows-fine-tuner-resp",
-      "title": "Top 20 Windows 11 Junk & Startup Optimizer Tools 2026",
-      "url": "https://github.com/Wildange85773l/windows-fine-tuner-resp",
-      "when": "2026-10-23T07:08:58Z",
-      "note": "HTML · ★29 · #mcp-server"
-    },
-    {
-      "id": "app:NoobUnderTreant/Tower-Events-resp-At-Sunrise",
-      "section": "apps",
-      "repo": "NoobUnderTreant/Tower-Events-resp-At-Sunrise",
-      "title": "Rediscover seasonal Tower and Farm events in Destiny 2. Built on Sunrise 0.3.2.0.",
-      "url": "https://github.com/NoobUnderTreant/Tower-Events-resp-At-Sunrise",
-      "when": "2026-10-23T07:08:05Z",
-      "note": "HTML · ★29 · #mcp-server"
-    },
-    {
-      "id": "app:ValUnderNymph/rpocket-FxDeck",
-      "section": "apps",
-      "repo": "ValUnderNymph/rpocket-FxDeck",
-      "title": "Stream Deck-style command deck for FiveM / RedM — a single Windows exe that serves a button grid to your phone's browser",
-      "url": "https://github.com/ValUnderNymph/rpocket-FxDeck",
-      "when": "2026-10-23T07:07:47Z",
-      "note": "— · ★29 · #pwa"
-    },
-    {
-      "id": "app:aeyjeyaryan/IssuePilot",
-      "section": "apps",
-      "repo": "aeyjeyaryan/IssuePilot",
-      "title": "Turn a GitHub issue into a verified pull request: reproduces the bug with a test that must fail first, proves the fix in",
-      "url": "https://github.com/aeyjeyaryan/IssuePilot",
-      "when": "2026-10-23T05:32:22Z",
-      "note": "Python · ★8 · #ai-agent"
-    },
-    {
-      "id": "app:liyupi/dafeiyu-cleaner",
-      "section": "apps",
-      "repo": "liyupi/dafeiyu-cleaner",
-      "title": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + De",
-      "url": "https://github.com/liyupi/dafeiyu-cleaner",
-      "when": "2026-10-23T03:39:33Z",
-      "note": "JavaScript · ★36 · #ai-agent"
-    },
-    {
-      "id": "app:wahaha-potato/mcd-coupon-xray",
-      "section": "apps",
-      "repo": "wahaha-potato/mcd-coupon-xray",
-      "title": "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。",
-      "url": "https://github.com/wahaha-potato/mcd-coupon-xray",
-      "when": "2026-10-23T02:38:59Z",
+      "repo": "alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
+      "title": "Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers",
+      "url": "https://github.com/alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
+      "when": "2026-10-24T13:33:55Z",
       "note": "Python · ★7 · #ai-agent"
     },
     {
-      "id": "app:CaiqueDourado/scrapladder",
+      "id": "app:xiaozhangup/Oh-My-McDonald",
       "section": "apps",
-      "repo": "CaiqueDourado/scrapladder",
-      "title": "Fetch web pages by climbing a ladder of methods (HTTP, browser TLS, headless browsers, scraping APIs), learning per doma",
-      "url": "https://github.com/CaiqueDourado/scrapladder",
-      "when": "2026-10-22T23:52:51Z",
+      "repo": "xiaozhangup/Oh-My-McDonald",
+      "title": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
+      "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
+      "when": "2026-10-24T08:38:16Z",
+      "note": "Python · ★33 · #ai-agent"
+    },
+    {
+      "id": "app:rddmwmddr/android-ad-cleaner",
+      "section": "apps",
+      "repo": "rddmwmddr/android-ad-cleaner",
+      "title": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "when": "2026-10-24T05:35:47Z",
+      "note": "Python · ★129 · #ai-agent"
+    },
+    {
+      "id": "app:Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
+      "section": "apps",
+      "repo": "Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
+      "title": "Conversational slot filling and intent requirement state machine generating targeted questions",
+      "url": "https://github.com/Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
+      "when": "2026-10-24T04:30:55Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
+      "section": "apps",
+      "repo": "alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
+      "title": "Global e-commerce customs duty, HS code classification, and de minimis tariff calculator",
+      "url": "https://github.com/alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
+      "when": "2026-10-24T04:27:42Z",
+      "note": "Python · ★7 · #ai-agent"
+    },
+    {
+      "id": "app:alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
+      "section": "apps",
+      "repo": "alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
+      "title": "Multi-agent round-robin debate coordinator driving thesis-antithesis cross-examination",
+      "url": "https://github.com/alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
+      "when": "2026-10-24T04:26:29Z",
+      "note": "Python · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:xhxmn/harvest",
+      "section": "apps",
+      "repo": "xhxmn/harvest",
+      "title": "A declarative web scraper in Python and C++: same CLI, same recipes, byte-identical output.",
+      "url": "https://github.com/xhxmn/harvest",
+      "when": "2026-10-24T03:53:47Z",
+      "note": "C++ · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:gurkanucar/autosdlc-crewai",
+      "section": "apps",
+      "repo": "gurkanucar/autosdlc-crewai",
+      "title": "Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, wit",
+      "url": "https://github.com/gurkanucar/autosdlc-crewai",
+      "when": "2026-10-23T21:11:19Z",
+      "note": "Python · ★5 · #automation"
+    },
+    {
+      "id": "app:aaravrai2006-svg/deep-research-autonomous-agent",
+      "section": "apps",
+      "repo": "aaravrai2006-svg/deep-research-autonomous-agent",
+      "title": "🔍 Autonomous recursive research agent that navigates the web, evaluates citations, and drafts executive synthesis repor",
+      "url": "https://github.com/aaravrai2006-svg/deep-research-autonomous-agent",
+      "when": "2026-10-23T18:36:55Z",
       "note": "Python · ★1 · #web-scraping"
     },
     {
-      "id": "app:devladpopov/personal-coach-kit",
+      "id": "app:Klark61/ComfyUI-Mobile-Pocket",
       "section": "apps",
-      "repo": "devladpopov/personal-coach-kit",
-      "title": "Your own AI personal trainer and nutritionist in 5 minutes: questionnaire -> program, meal plan from your store, tracker",
-      "url": "https://github.com/devladpopov/personal-coach-kit",
-      "when": "2026-10-22T23:47:37Z",
-      "note": "JavaScript · ★2 · #telegram-bot"
+      "repo": "Klark61/ComfyUI-Mobile-Pocket",
+      "title": "ComfyUI mobile UI: use ComfyUI from your phone (Android/iOS). Fast mobile app plus the full node editor, tuned for touch",
+      "url": "https://github.com/Klark61/ComfyUI-Mobile-Pocket",
+      "when": "2026-10-23T18:33:38Z",
+      "note": "JavaScript · ★4 · #pwa"
     },
     {
-      "id": "app:minkaworks/mcptocodemode",
+      "id": "app:Aman-20/telegram-file-deliver-bot",
       "section": "apps",
-      "repo": "minkaworks/mcptocodemode",
-      "title": "Stop flooding your agent's prompt with MCP tools: MCPtoCodeMode puts every MCP server behind 3 tools and a sandbox, for ",
-      "url": "https://github.com/minkaworks/mcptocodemode",
-      "when": "2026-10-22T22:55:43Z",
-      "note": "TypeScript · ★7 · #mcp-server"
+      "repo": "Aman-20/telegram-file-deliver-bot",
+      "title": "Telegram bot for indexing, searching, and delivering files securely.",
+      "url": "https://github.com/Aman-20/telegram-file-deliver-bot",
+      "when": "2026-10-23T17:38:51Z",
+      "note": "JavaScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:nyxandro/telegram-bot-development-skill",
+      "section": "apps",
+      "repo": "nyxandro/telegram-bot-development-skill",
+      "title": "Telegram bot development skill for Claude Code and OpenCode: checks the live Bot API docs and the installed library (aio",
+      "url": "https://github.com/nyxandro/telegram-bot-development-skill",
+      "when": "2026-10-23T16:52:55Z",
+      "note": "Python · ★6 · #telegram-bot"
+    },
+    {
+      "id": "app:euron-sde-team/euron-browser-agent",
+      "section": "apps",
+      "repo": "euron-sde-team/euron-browser-agent",
+      "title": "Self-hosted browser automation with Playwright: deterministic recorded steps, an optional LLM planner, screenshots per s",
+      "url": "https://github.com/euron-sde-team/euron-browser-agent",
+      "when": "2026-10-23T14:12:27Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:grandexecuti/ghpublish",
+      "section": "apps",
+      "repo": "grandexecuti/ghpublish",
+      "title": "一键把本地项目整理并开源到 GitHub：密钥体检、README/LICENSE 生成、建仓库推送，配套 AI skill",
+      "url": "https://github.com/grandexecuti/ghpublish",
+      "when": "2026-10-23T13:36:27Z",
+      "note": "Python · ★14 · #automation"
+    },
+    {
+      "id": "app:TopDeckhandBlock/linkforge",
+      "section": "apps",
+      "repo": "TopDeckhandBlock/linkforge",
+      "title": "Google AI Pro redemption link farm on Jio selfcare: rent a number, log in by OTP, mine one link, deliver to Telegram",
+      "url": "https://github.com/TopDeckhandBlock/linkforge",
+      "when": "2026-10-23T13:01:44Z",
+      "note": "Python · ★2 · #telegram-bot"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50212292",
+      "id": "hn:50222559",
       "section": "showhn",
-      "repo": "Show HN #50212292",
-      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
-      "url": "https://drop7.dev",
-      "when": "2026-10-23T17:13:27Z",
+      "repo": "Show HN #50222559",
+      "title": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
+      "url": "https://app.enclave.ai/threat-feed",
+      "when": "2026-10-24T16:00:05Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50212189",
+      "id": "hn:50222321",
       "section": "showhn",
-      "repo": "Show HN #50212189",
-      "title": "Show HN: I made a jobs-near-you map",
-      "url": "https://offpeak.fyi/search",
-      "when": "2026-10-23T17:06:58Z",
+      "repo": "Show HN #50222321",
+      "title": "Show HN: A set of test-cases for CP/M emulators",
+      "url": "https://github.com/skx/cpm-test",
+      "when": "2026-10-24T15:38:43Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50212134",
+      "id": "hn:50222113",
       "section": "showhn",
-      "repo": "Show HN #50212134",
-      "title": "Show HN: Spam Therapy",
-      "url": "https://spamtherapy.com/",
-      "when": "2026-10-23T17:03:24Z",
-      "note": "1 pts · 0 comments"
+      "repo": "Show HN #50222113",
+      "title": "Show HN: Python script to evaluate your RAG pipeline against a golden set",
+      "url": "https://github.com/infrixo-systems/rag-evaluation-starter",
+      "when": "2026-10-24T15:17:44Z",
+      "note": "4 pts · 0 comments"
     },
     {
-      "id": "hn:50211429",
+      "id": "hn:50222103",
       "section": "showhn",
-      "repo": "Show HN #50211429",
-      "title": "Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS",
-      "url": "https://kunalkushwaha.github.io/homebrew-koala/",
-      "when": "2026-10-23T16:18:31Z",
+      "repo": "Show HN #50222103",
+      "title": "Show HN: Term Crunch, timed terminal challenges",
+      "url": "https://jordanbarker.github.io/termverse/term-crunch/",
+      "when": "2026-10-24T15:16:50Z",
       "note": "3 pts · 0 comments"
     },
     {
-      "id": "hn:50211282",
+      "id": "hn:50221873",
       "section": "showhn",
-      "repo": "Show HN #50211282",
-      "title": "Show HN: The Only Weather App You'll Ever Need",
-      "url": "https://weatherhubapp.com/",
-      "when": "2026-10-23T16:09:17Z",
+      "repo": "Show HN #50221873",
+      "title": "Show HN: Jam – a platform where beginners can collaborate in music",
+      "url": "https://github.com/hellojunchobo/Jam-music",
+      "when": "2026-10-24T14:55:36Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50221670",
+      "section": "showhn",
+      "repo": "Show HN #50221670",
+      "title": "Show HN: TenseMem – deterministic memory for AI agents",
+      "url": "https://github.com/tensemem/tensemem",
+      "when": "2026-10-24T14:38:03Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50221604",
+      "section": "showhn",
+      "repo": "Show HN #50221604",
+      "title": "Show HN: Firefighter.sh – an insane solution to the current CVE apocalypse",
+      "url": "https://firefighter.sh/",
+      "when": "2026-10-24T14:31:03Z",
+      "note": "1 pts · 3 comments"
+    },
+    {
+      "id": "hn:50221588",
+      "section": "showhn",
+      "repo": "Show HN #50221588",
+      "title": "Show HN: Visual Studio extension that shows decimal and hex in the debugger",
+      "url": "https://github.com/JochenBaier/AlwaysHex",
+      "when": "2026-10-24T14:29:46Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50221513",
+      "section": "showhn",
+      "repo": "Show HN #50221513",
+      "title": "Show HN: Bellman – rooms where agents from different providers work together",
+      "url": "https://github.com/bellman-sh/bellman",
+      "when": "2026-10-24T14:23:13Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50221506",
+      "section": "showhn",
+      "repo": "Show HN #50221506",
+      "title": "Show HN: A phone lock I can't undo on impulse because I never learn the code",
+      "url": "https://tryscreenfasting.com/",
+      "when": "2026-10-24T14:22:39Z",
       "note": "1 pts · 1 comments"
     },
     {
-      "id": "hn:50211151",
+      "id": "hn:50221499",
       "section": "showhn",
-      "repo": "Show HN #50211151",
-      "title": "Show HN: Ts-polyglot – Call C/C++ or Rust functions directly from TypeScript",
-      "url": "https://ts-polyglot.dev",
-      "when": "2026-10-23T16:00:19Z",
+      "repo": "Show HN #50221499",
+      "title": "Show HN: Free Online Image Tools",
+      "url": "https://imgimage.com/",
+      "when": "2026-10-24T14:21:28Z",
+      "note": "1 pts · 1 comments"
+    },
+    {
+      "id": "hn:50221460",
+      "section": "showhn",
+      "repo": "Show HN #50221460",
+      "title": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+      "url": "https://github.com/Aldyernesto/shotstash",
+      "when": "2026-10-24T14:17:40Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50221386",
+      "section": "showhn",
+      "repo": "Show HN #50221386",
+      "title": "Show HN: Tempis the Canvas Timeline Component",
+      "url": "https://tempis.dev/",
+      "when": "2026-10-24T14:08:43Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50211029",
+      "id": "hn:50221066",
       "section": "showhn",
-      "repo": "Show HN #50211029",
-      "title": "Show HN: Tagwall, a 1M-pixel canvas on 6 blockchains with no owner",
-      "url": "https://tagwall.io",
-      "when": "2026-10-23T15:53:08Z",
-      "note": "1 pts · 0 comments"
+      "repo": "Show HN #50221066",
+      "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
+      "url": "https://github.com/byenzyme/enzyme",
+      "when": "2026-10-24T13:30:18Z",
+      "note": "15 pts · 8 comments"
     },
     {
-      "id": "hn:50211015",
+      "id": "hn:50221021",
       "section": "showhn",
-      "repo": "Show HN #50211015",
-      "title": "Show HN: Anyone else frustrated with mermaid diagrams?",
-      "url": "https://github.com/uberblick-ai/ablauf",
-      "when": "2026-10-23T15:52:27Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210997",
-      "section": "showhn",
-      "repo": "Show HN #50210997",
-      "title": "Show HN: A small audit script and config notes for the new PHP CVEs",
-      "url": "https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619",
-      "when": "2026-10-23T15:51:16Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210931",
-      "section": "showhn",
-      "repo": "Show HN #50210931",
-      "title": "Show HN: Aurora Agentic Terminal",
-      "url": "https://aurora.shitworks.co/",
-      "when": "2026-10-23T15:46:44Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210879",
-      "section": "showhn",
-      "repo": "Show HN #50210879",
-      "title": "Show HN: Still Mornings, slow mornings written down",
-      "url": "https://stillmornings.thecompound.tech",
-      "when": "2026-10-23T15:42:31Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210822",
-      "section": "showhn",
-      "repo": "Show HN #50210822",
-      "title": "Show HN: Heads Up – a Mac menu bar app for meetings",
-      "url": "https://headsup.benvenutisoftware.com/",
-      "when": "2026-10-23T15:38:44Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210576",
-      "section": "showhn",
-      "repo": "Show HN #50210576",
-      "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
-      "url": "https://github.com/RayenMlayeh/gsearch",
-      "when": "2026-10-23T15:21:49Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210375",
-      "section": "showhn",
-      "repo": "Show HN #50210375",
-      "title": "Show HN: SimpleWM builds on top of macOS Spaces for a i3-like experience",
-      "url": "https://github.com/pedr0v/SimpleWM",
-      "when": "2026-10-23T15:09:39Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50210254",
-      "section": "showhn",
-      "repo": "Show HN #50210254",
-      "title": "Show HN: One REST endpoint to filter 80+ financial datasets",
-      "url": "https://financialdata.net/universal-query",
-      "when": "2026-10-23T15:03:33Z",
-      "note": "1 pts · 0 comments"
+      "repo": "Show HN #50221021",
+      "title": "Show HN: BakeVideos – Turn ideas into videos with editable scenes",
+      "url": "https://bakevideos.com/",
+      "when": "2026-10-24T13:24:06Z",
+      "note": "2 pts · 0 comments"
     }
   ],
   "trending": [
     {
-      "id": "trend:NVIDIA/OpenShell",
+      "id": "trend:aws/agent-toolkit-for-aws",
       "section": "trending",
-      "repo": "NVIDIA/OpenShell",
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "repo": "aws/agent-toolkit-for-aws",
+      "title": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "when": null,
+      "note": "Python"
+    },
+    {
+      "id": "trend:Nutlope/hallmark",
+      "section": "trending",
+      "repo": "Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "when": null,
+      "note": "CSS"
+    },
+    {
+      "id": "trend:pbakaus/impeccable",
+      "section": "trending",
+      "repo": "pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
       "when": null,
       "note": "Rust"
     },
     {
-      "id": "trend:Renhuai123/ziwei-doushu",
+      "id": "trend:pollen-robotics/microduck",
       "section": "trending",
-      "repo": "Renhuai123/ziwei-doushu",
-      "title": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "repo": "pollen-robotics/microduck",
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "when": null,
+      "note": "Rust"
+    },
+    {
+      "id": "trend:google-gemini/gemini-cli",
+      "section": "trending",
+      "repo": "google-gemini/gemini-cli",
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:SnailSploit/Claude-Red",
+      "id": "trend:jbiaojerry/ebook-treasure-chest",
       "section": "trending",
-      "repo": "SnailSploit/Claude-Red",
-      "title": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "title": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "when": null,
       "note": "Python"
     },
     {
-      "id": "trend:OpenBMB/VoxCPM",
+      "id": "trend:bendlang/bend",
       "section": "trending",
-      "repo": "OpenBMB/VoxCPM",
-      "title": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "when": null,
-      "note": "Python"
-    },
-    {
-      "id": "trend:sponsors/nodejs",
-      "section": "trending",
-      "repo": "sponsors/nodejs",
-      "title": "sponsors/nodejs",
-      "url": "https://github.com/sponsors/nodejs",
-      "when": null,
-      "note": "JavaScript"
-    },
-    {
-      "id": "trend:SehajveerSingh2005/bloom",
-      "section": "trending",
-      "repo": "SehajveerSingh2005/bloom",
-      "title": "SehajveerSingh2005/bloom",
-      "url": "https://github.com/SehajveerSingh2005/bloom",
+      "repo": "bendlang/bend",
+      "title": "bendlang/bend",
+      "url": "https://github.com/bendlang/bend",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:sponsors/logto-io",
+      "id": "trend:google/brotli",
       "section": "trending",
-      "repo": "sponsors/logto-io",
-      "title": "sponsors/logto-io",
-      "url": "https://github.com/sponsors/logto-io",
+      "repo": "google/brotli",
+      "title": "google/brotli",
+      "url": "https://github.com/google/brotli",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:promptfoo/promptfoo",
+      "id": "trend:vercel/ai",
       "section": "trending",
-      "repo": "promptfoo/promptfoo",
-      "title": "promptfoo/promptfoo",
-      "url": "https://github.com/promptfoo/promptfoo",
+      "repo": "vercel/ai",
+      "title": "vercel/ai",
+      "url": "https://github.com/vercel/ai",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:liguobao/ds-harness-remote",
+      "id": "trend:firebase/firebase-tools",
       "section": "trending",
-      "repo": "liguobao/ds-harness-remote",
-      "title": "liguobao/ds-harness-remote",
-      "url": "https://github.com/liguobao/ds-harness-remote",
+      "repo": "firebase/firebase-tools",
+      "title": "firebase/firebase-tools",
+      "url": "https://github.com/firebase/firebase-tools",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:OpenHands/OpenHands",
+      "id": "trend:sponsors/medusajs",
       "section": "trending",
-      "repo": "OpenHands/OpenHands",
-      "title": "OpenHands/OpenHands",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "repo": "sponsors/medusajs",
+      "title": "sponsors/medusajs",
+      "url": "https://github.com/sponsors/medusajs",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:genlayerlabs/genlayer-project-boilerplate",
+      "id": "trend:anthropics/sandbox-runtime",
       "section": "trending",
-      "repo": "genlayerlabs/genlayer-project-boilerplate",
-      "title": "genlayerlabs/genlayer-project-boilerplate",
-      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "repo": "anthropics/sandbox-runtime",
+      "title": "anthropics/sandbox-runtime",
+      "url": "https://github.com/anthropics/sandbox-runtime",
+      "when": null,
+      "note": "TypeScript"
+    },
+    {
+      "id": "trend:backnotprop/plannotator",
+      "section": "trending",
+      "repo": "backnotprop/plannotator",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "when": null,
+      "note": "TypeScript"
+    },
+    {
+      "id": "trend:umami-software/umami",
+      "section": "trending",
+      "repo": "umami-software/umami",
+      "title": "umami-software/umami",
+      "url": "https://github.com/umami-software/umami",
+      "when": null,
+      "note": "TypeScript"
+    },
+    {
+      "id": "trend:langfuse/langfuse",
+      "section": "trending",
+      "repo": "langfuse/langfuse",
+      "title": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
       "when": null,
       "note": "TypeScript"
     }

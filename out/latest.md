@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-10-23
+# GitHub Radar — 2026-10-24
 
-_69 new item(s) since last run · generated 2026-10-23T17:21:34.352Z_
+_61 new item(s) since last run · generated 2026-10-24T16:09:49.116Z_
 
 ## 🚀 Releases
 
@@ -8,70 +8,65 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[bridge app scaffold](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/2a1033aa26a3f669f2fc23098926cc8dd5940000)** `Sidiora-Labs/Paxeer-X-Network` — paxeer-dev · 2026-10-23
-- **[# v0.5.109 (2026-10-23)](https://github.com/decolua/9router/commit/f39d8f07481ae8518e93175f0ecaaafa61573c6c)** `decolua/9router` — decolua · 2026-10-23
-- **[feat(combos): add Smart Router (System One) with adaptive session stickiness (#4975)](https://github.com/decolua/9router/commit/f3f86fdd52f9e9e9538847dddf233293224733d2)** `decolua/9router` — Михаил Голощанов · 2026-10-23
-- **[feat(image, mitm): support reference image inputs for Gemini and ensure MITM directory (#4981)](https://github.com/decolua/9router/commit/161e34939ab878cb79dfdf241a696ec292508af4)** `decolua/9router` — dangphuc2470 · 2026-10-23
-- **[fix(antigravity): resolve tiered models from client reasoning effort](https://github.com/decolua/9router/commit/82aeb907941baf9806689a46fe2248b2b865a76d)** `decolua/9router` — MarcusHO929 · 2026-10-23
-- **[fix(usage): support /api/balance for ollama cloud quota tracking (#5026)](https://github.com/decolua/9router/commit/31b8439bdf51858598aa4fd838e08e396a457cba)** `decolua/9router` — AMD-it · 2026-10-23
-- **[feat(combos): search box for the combo list](https://github.com/decolua/9router/commit/9b4ea9eb697a267babd96ae33c814e86c80a9c64)** `decolua/9router` — F0Rextasy · 2026-10-23
-- **[fix(capabilities): send reasoning_effort for OpenCode's glm-5.3-flash-free](https://github.com/decolua/9router/commit/32c5f30a0a2074269d7d4cb269d93e7db59d9877)** `decolua/9router` — anojndr · 2026-10-23
-- **[fix(antigravity): use hub/2.24.0 User-Agent and add Gemini 4 Argon medium/low tiers (#4816)](https://github.com/decolua/9router/commit/f172c3c4a622dc531b4ce47a24f7a61ed0f530da)** `decolua/9router` — Ulder Carrilho Júnior · 2026-10-23
+_Nothing new._
 
 ## 🆕 New repos on the radar
 
-- **[The agent IDE that builds itself](https://github.com/Sidiora-Labs/bb)** `Sidiora-Labs/bb` — — · ★0 · via @Sidiora-Labs · 2026-10-23
-- **[(no description)](https://github.com/elon00/layerx)** `elon00/layerx` — Python · ★0 · via "layerx" · 2026-10-23
+_Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Solana meme sniper run by your SI agent: scans, rug-checks, buys and sells, plus a gated launch rail with GitHub repo at](https://github.com/BadmonLano/meme-sniper)** `BadmonLano/meme-sniper` — Python · ★1 · #telegram-bot · 2026-10-23
-- **[Tofler Scraper — free, open-source Tofler scraper. Unlimited Indian company profiles, financials & directors as clean JS](https://github.com/omkarcloud/tofler-scraper)** `omkarcloud/tofler-scraper` — HTML · ★1 · #web-scraping · 2026-10-23
-- **[本地优先的六级背单词应用：看英文写中文、AI 判语义、FSRS 排复习、每天自动生成阅读理解。PWA + Android APK。](https://github.com/future-people34/aibeici)** `future-people34/aibeici` — TypeScript · ★3 · #pwa · 2026-10-23
-- **[Garmin MCP server: connect Garmin Connect to Claude, ChatGPT and any AI. Readiness, HRV, training load, FIT analysis. Fr](https://github.com/KareemmSayed/Threshold)** `KareemmSayed/Threshold` — TypeScript · ★6 · #mcp-server · 2026-10-23
-- **[帮被派去买全组午饭的那个人，30 秒完成一次不会有人不满意的点单。基于麦当劳 MCP 的多人点单 Skill。](https://github.com/abaaba360/Mcd)** `abaaba360/Mcd` — Python · ★5 · #ai-agent · 2026-10-23
-- **[Full remote control of a local OpenCode server from Telegram - streaming replies, permission approvals, reactions, sched](https://github.com/hix-pro/opencode-telegram)** `hix-pro/opencode-telegram` — Python · ★1 · #telegram-bot · 2026-10-23
-- **[Top 20 Windows 11 Junk & Startup Optimizer Tools 2026](https://github.com/Wildange85773l/windows-fine-tuner-resp)** `Wildange85773l/windows-fine-tuner-resp` — HTML · ★29 · #mcp-server · 2026-10-23
-- **[Rediscover seasonal Tower and Farm events in Destiny 2. Built on Sunrise 0.3.2.0.](https://github.com/NoobUnderTreant/Tower-Events-resp-At-Sunrise)** `NoobUnderTreant/Tower-Events-resp-At-Sunrise` — HTML · ★29 · #mcp-server · 2026-10-23
-- **[Stream Deck-style command deck for FiveM / RedM — a single Windows exe that serves a button grid to your phone's browser](https://github.com/ValUnderNymph/rpocket-FxDeck)** `ValUnderNymph/rpocket-FxDeck` — — · ★29 · #pwa · 2026-10-23
-- **[Turn a GitHub issue into a verified pull request: reproduces the bug with a test that must fail first, proves the fix in](https://github.com/aeyjeyaryan/IssuePilot)** `aeyjeyaryan/IssuePilot` — Python · ★8 · #ai-agent · 2026-10-23
-- **[DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + De](https://github.com/liyupi/dafeiyu-cleaner)** `liyupi/dafeiyu-cleaner` — JavaScript · ★36 · #ai-agent · 2026-10-23
-- **[麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。](https://github.com/wahaha-potato/mcd-coupon-xray)** `wahaha-potato/mcd-coupon-xray` — Python · ★7 · #ai-agent · 2026-10-23
-- **[Fetch web pages by climbing a ladder of methods (HTTP, browser TLS, headless browsers, scraping APIs), learning per doma](https://github.com/CaiqueDourado/scrapladder)** `CaiqueDourado/scrapladder` — Python · ★1 · #web-scraping · 2026-10-22
-- **[Your own AI personal trainer and nutritionist in 5 minutes: questionnaire -> program, meal plan from your store, tracker](https://github.com/devladpopov/personal-coach-kit)** `devladpopov/personal-coach-kit` — JavaScript · ★2 · #telegram-bot · 2026-10-22
-- **[Stop flooding your agent's prompt with MCP tools: MCPtoCodeMode puts every MCP server behind 3 tools and a sandbox, for ](https://github.com/minkaworks/mcptocodemode)** `minkaworks/mcptocodemode` — TypeScript · ★7 · #mcp-server · 2026-10-22
+- **[Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers](https://github.com/alphaparkinc/genpark-cart-upsell-bundle-recommender-skill)** `alphaparkinc/genpark-cart-upsell-bundle-recommender-skill` — Python · ★7 · #ai-agent · 2026-10-24
+- **[基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。](https://github.com/xiaozhangup/Oh-My-McDonald)** `xiaozhangup/Oh-My-McDonald` — Python · ★33 · #ai-agent · 2026-10-24
+- **[关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。](https://github.com/rddmwmddr/android-ad-cleaner)** `rddmwmddr/android-ad-cleaner` — Python · ★129 · #ai-agent · 2026-10-24
+- **[Conversational slot filling and intent requirement state machine generating targeted questions](https://github.com/Alpha-Park/genpark-agentic-contextual-slot-filler-skill)** `Alpha-Park/genpark-agentic-contextual-slot-filler-skill` — Python · ★7 · #ai-agent · 2026-10-24
+- **[Global e-commerce customs duty, HS code classification, and de minimis tariff calculator](https://github.com/alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill)** `alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill` — Python · ★7 · #ai-agent · 2026-10-24
+- **[Multi-agent round-robin debate coordinator driving thesis-antithesis cross-examination](https://github.com/alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill)** `alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill` — Python · ★7 · #mcp-server · 2026-10-24
+- **[A declarative web scraper in Python and C++: same CLI, same recipes, byte-identical output.](https://github.com/xhxmn/harvest)** `xhxmn/harvest` — C++ · ★2 · #web-scraping · 2026-10-24
+- **[Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, wit](https://github.com/gurkanucar/autosdlc-crewai)** `gurkanucar/autosdlc-crewai` — Python · ★5 · #automation · 2026-10-23
+- **[🔍 Autonomous recursive research agent that navigates the web, evaluates citations, and drafts executive synthesis repor](https://github.com/aaravrai2006-svg/deep-research-autonomous-agent)** `aaravrai2006-svg/deep-research-autonomous-agent` — Python · ★1 · #web-scraping · 2026-10-23
+- **[ComfyUI mobile UI: use ComfyUI from your phone (Android/iOS). Fast mobile app plus the full node editor, tuned for touch](https://github.com/Klark61/ComfyUI-Mobile-Pocket)** `Klark61/ComfyUI-Mobile-Pocket` — JavaScript · ★4 · #pwa · 2026-10-23
+- **[Telegram bot for indexing, searching, and delivering files securely.](https://github.com/Aman-20/telegram-file-deliver-bot)** `Aman-20/telegram-file-deliver-bot` — JavaScript · ★1 · #telegram-bot · 2026-10-23
+- **[Telegram bot development skill for Claude Code and OpenCode: checks the live Bot API docs and the installed library (aio](https://github.com/nyxandro/telegram-bot-development-skill)** `nyxandro/telegram-bot-development-skill` — Python · ★6 · #telegram-bot · 2026-10-23
+- **[Self-hosted browser automation with Playwright: deterministic recorded steps, an optional LLM planner, screenshots per s](https://github.com/euron-sde-team/euron-browser-agent)** `euron-sde-team/euron-browser-agent` — Python · ★1 · #web-scraping · 2026-10-23
+- **[一键把本地项目整理并开源到 GitHub：密钥体检、README/LICENSE 生成、建仓库推送，配套 AI skill](https://github.com/grandexecuti/ghpublish)** `grandexecuti/ghpublish` — Python · ★14 · #automation · 2026-10-23
+- **[Google AI Pro redemption link farm on Jio selfcare: rent a number, log in by OTP, mine one link, deliver to Telegram](https://github.com/TopDeckhandBlock/linkforge)** `TopDeckhandBlock/linkforge` — Python · ★2 · #telegram-bot · 2026-10-23
 
 ## 📣 Show HN launches
 
-- **[Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)](https://drop7.dev)** `Show HN #50212292` — 2 pts · 0 comments · 2026-10-23
-- **[Show HN: I made a jobs-near-you map](https://offpeak.fyi/search)** `Show HN #50212189` — 2 pts · 0 comments · 2026-10-23
-- **[Show HN: Spam Therapy](https://spamtherapy.com/)** `Show HN #50212134` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS](https://kunalkushwaha.github.io/homebrew-koala/)** `Show HN #50211429` — 3 pts · 0 comments · 2026-10-23
-- **[Show HN: The Only Weather App You'll Ever Need](https://weatherhubapp.com/)** `Show HN #50211282` — 1 pts · 1 comments · 2026-10-23
-- **[Show HN: Ts-polyglot – Call C/C++ or Rust functions directly from TypeScript](https://ts-polyglot.dev)** `Show HN #50211151` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Tagwall, a 1M-pixel canvas on 6 blockchains with no owner](https://tagwall.io)** `Show HN #50211029` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Anyone else frustrated with mermaid diagrams?](https://github.com/uberblick-ai/ablauf)** `Show HN #50211015` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: A small audit script and config notes for the new PHP CVEs](https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619)** `Show HN #50210997` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Aurora Agentic Terminal](https://aurora.shitworks.co/)** `Show HN #50210931` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Still Mornings, slow mornings written down](https://stillmornings.thecompound.tech)** `Show HN #50210879` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Heads Up – a Mac menu bar app for meetings](https://headsup.benvenutisoftware.com/)** `Show HN #50210822` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: Gsearch – Real Google Search for AI Agents(MCP)](https://github.com/RayenMlayeh/gsearch)** `Show HN #50210576` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: SimpleWM builds on top of macOS Spaces for a i3-like experience](https://github.com/pedr0v/SimpleWM)** `Show HN #50210375` — 1 pts · 0 comments · 2026-10-23
-- **[Show HN: One REST endpoint to filter 80+ financial datasets](https://financialdata.net/universal-query)** `Show HN #50210254` — 1 pts · 0 comments · 2026-10-23
+- **[Show HN: AI agent swarms test if new CVEs are exploitable in your env](https://app.enclave.ai/threat-feed)** `Show HN #50222559` — 2 pts · 0 comments · 2026-10-24
+- **[Show HN: A set of test-cases for CP/M emulators](https://github.com/skx/cpm-test)** `Show HN #50222321` — 2 pts · 0 comments · 2026-10-24
+- **[Show HN: Python script to evaluate your RAG pipeline against a golden set](https://github.com/infrixo-systems/rag-evaluation-starter)** `Show HN #50222113` — 4 pts · 0 comments · 2026-10-24
+- **[Show HN: Term Crunch, timed terminal challenges](https://jordanbarker.github.io/termverse/term-crunch/)** `Show HN #50222103` — 3 pts · 0 comments · 2026-10-24
+- **[Show HN: Jam – a platform where beginners can collaborate in music](https://github.com/hellojunchobo/Jam-music)** `Show HN #50221873` — 2 pts · 0 comments · 2026-10-24
+- **[Show HN: TenseMem – deterministic memory for AI agents](https://github.com/tensemem/tensemem)** `Show HN #50221670` — 1 pts · 0 comments · 2026-10-24
+- **[Show HN: Firefighter.sh – an insane solution to the current CVE apocalypse](https://firefighter.sh/)** `Show HN #50221604` — 1 pts · 3 comments · 2026-10-24
+- **[Show HN: Visual Studio extension that shows decimal and hex in the debugger](https://github.com/JochenBaier/AlwaysHex)** `Show HN #50221588` — 1 pts · 0 comments · 2026-10-24
+- **[Show HN: Bellman – rooms where agents from different providers work together](https://github.com/bellman-sh/bellman)** `Show HN #50221513` — 1 pts · 0 comments · 2026-10-24
+- **[Show HN: A phone lock I can't undo on impulse because I never learn the code](https://tryscreenfasting.com/)** `Show HN #50221506` — 1 pts · 1 comments · 2026-10-24
+- **[Show HN: Free Online Image Tools](https://imgimage.com/)** `Show HN #50221499` — 1 pts · 1 comments · 2026-10-24
+- **[Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)](https://github.com/Aldyernesto/shotstash)** `Show HN #50221460` — 2 pts · 0 comments · 2026-10-24
+- **[Show HN: Tempis the Canvas Timeline Component](https://tempis.dev/)** `Show HN #50221386` — 1 pts · 0 comments · 2026-10-24
+- **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** `Show HN #50221066` — 15 pts · 8 comments · 2026-10-24
+- **[Show HN: BakeVideos – Turn ideas into videos with editable scenes](https://bakevideos.com/)** `Show HN #50221021` — 2 pts · 0 comments · 2026-10-24
 
 ## 💌 GitHub Trending (daily)
 
-- **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** `NVIDIA/OpenShell` — Rust
-- **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** `Renhuai123/ziwei-doushu` — TypeScript
-- **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** `SnailSploit/Claude-Red` — Python
-- **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** `OpenBMB/VoxCPM` — Python
-- **[sponsors/nodejs](https://github.com/sponsors/nodejs)** `sponsors/nodejs` — JavaScript
-- **[SehajveerSingh2005/bloom](https://github.com/SehajveerSingh2005/bloom)** `SehajveerSingh2005/bloom` — TypeScript
-- **[sponsors/logto-io](https://github.com/sponsors/logto-io)** `sponsors/logto-io` — TypeScript
-- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** `promptfoo/promptfoo` — TypeScript
-- **[liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)** `liguobao/ds-harness-remote` — TypeScript
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `OpenHands/OpenHands` — TypeScript
-- **[genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)** `genlayerlabs/genlayer-project-boilerplate` — TypeScript
+- **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** `aws/agent-toolkit-for-aws` — Python
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** `Nutlope/hallmark` — CSS
+- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** `pbakaus/impeccable` — Rust
+- **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** `pollen-robotics/microduck` — Rust
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** `google-gemini/gemini-cli` — TypeScript
+- **[jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)** `jbiaojerry/ebook-treasure-chest` — Python
+- **[bendlang/bend](https://github.com/bendlang/bend)** `bendlang/bend` — TypeScript
+- **[google/brotli](https://github.com/google/brotli)** `google/brotli` — TypeScript
+- **[vercel/ai](https://github.com/vercel/ai)** `vercel/ai` — TypeScript
+- **[firebase/firebase-tools](https://github.com/firebase/firebase-tools)** `firebase/firebase-tools` — TypeScript
+- **[sponsors/medusajs](https://github.com/sponsors/medusajs)** `sponsors/medusajs` — TypeScript
+- **[anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)** `anthropics/sandbox-runtime` — TypeScript
+- **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** `backnotprop/plannotator` — TypeScript
+- **[umami-software/umami](https://github.com/umami-software/umami)** `umami-software/umami` — TypeScript
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)** `langfuse/langfuse` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
