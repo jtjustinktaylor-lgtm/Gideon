@@ -1,418 +1,382 @@
 {
-  "date": "2026-10-24",
-  "generated": "2026-10-24T16:09:49.116Z",
-  "newCount": 61,
+  "date": "2026-10-25",
+  "generated": "2026-10-25T16:41:33.972Z",
+  "newCount": 59,
   "errors": [],
   "releases": [],
   "commits": [],
   "new-repos": [],
   "apps": [
     {
-      "id": "app:alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
+      "id": "app:gabrieltieche-hue/vitrail",
       "section": "apps",
-      "repo": "alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
-      "title": "Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers",
-      "url": "https://github.com/alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
-      "when": "2026-10-24T13:33:55Z",
-      "note": "Python · ★7 · #ai-agent"
+      "repo": "gabrieltieche-hue/vitrail",
+      "title": "Lecteur de musique familial : paroles synchronisees, capsules d ecoute, file partagee. UI verre et lumiere.",
+      "url": "https://github.com/gabrieltieche-hue/vitrail",
+      "when": "2026-10-25T16:19:38Z",
+      "note": "TypeScript · ★1 · #pwa"
     },
     {
-      "id": "app:xiaozhangup/Oh-My-McDonald",
+      "id": "app:prinzeval/valendata",
       "section": "apps",
-      "repo": "xiaozhangup/Oh-My-McDonald",
-      "title": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
-      "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
-      "when": "2026-10-24T08:38:16Z",
-      "note": "Python · ★33 · #ai-agent"
+      "repo": "prinzeval/valendata",
+      "title": "Give your AI agent the web as an API. MCP server + skill for Claude Code, Codex & Cursor: self-healing scrapers for Goog",
+      "url": "https://github.com/prinzeval/valendata",
+      "when": "2026-10-25T12:36:03Z",
+      "note": "JavaScript · ★4 · #web-scraping"
     },
     {
-      "id": "app:rddmwmddr/android-ad-cleaner",
+      "id": "app:jadezane6634-ops/dsh-purge-flash",
       "section": "apps",
-      "repo": "rddmwmddr/android-ad-cleaner",
-      "title": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "when": "2026-10-24T05:35:47Z",
-      "note": "Python · ★129 · #ai-agent"
+      "repo": "jadezane6634-ops/dsh-purge-flash",
+      "title": "DSH 破甲插件：1,597 tok 薄内核 + 请求体级 prefill/many-shot + 拒答修补与换线 + 反撤回镜像 + 回滚。零宿主补丁，宿主升级不失效。151 项测试 / 56 条探针 / 12 类。",
+      "url": "https://github.com/jadezane6634-ops/dsh-purge-flash",
+      "when": "2026-10-25T08:59:56Z",
+      "note": "JavaScript · ★15 · #ai-agent"
     },
     {
-      "id": "app:Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
+      "id": "app:designfuchen/word-atlas",
       "section": "apps",
-      "repo": "Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
-      "title": "Conversational slot filling and intent requirement state machine generating targeted questions",
-      "url": "https://github.com/Alpha-Park/genpark-agentic-contextual-slot-filler-skill",
-      "when": "2026-10-24T04:30:55Z",
-      "note": "Python · ★7 · #ai-agent"
+      "repo": "designfuchen/word-atlas",
+      "title": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS r",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "when": "2026-10-25T08:27:22Z",
+      "note": "TypeScript · ★202 · #pwa"
     },
     {
-      "id": "app:alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
+      "id": "app:ashwinsingh2007/J.A.R.V.I.S",
       "section": "apps",
-      "repo": "alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
-      "title": "Global e-commerce customs duty, HS code classification, and de minimis tariff calculator",
-      "url": "https://github.com/alphaparkinc/genpark-cross-border-duty-customs-tariff-calculator-skill",
-      "when": "2026-10-24T04:27:42Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
-      "section": "apps",
-      "repo": "alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
-      "title": "Multi-agent round-robin debate coordinator driving thesis-antithesis cross-examination",
-      "url": "https://github.com/alphaparkinc/genpark-multi-agent-debate-round-robin-orchestrator-skill",
-      "when": "2026-10-24T04:26:29Z",
-      "note": "Python · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:xhxmn/harvest",
-      "section": "apps",
-      "repo": "xhxmn/harvest",
-      "title": "A declarative web scraper in Python and C++: same CLI, same recipes, byte-identical output.",
-      "url": "https://github.com/xhxmn/harvest",
-      "when": "2026-10-24T03:53:47Z",
-      "note": "C++ · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:gurkanucar/autosdlc-crewai",
-      "section": "apps",
-      "repo": "gurkanucar/autosdlc-crewai",
-      "title": "Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, wit",
-      "url": "https://github.com/gurkanucar/autosdlc-crewai",
-      "when": "2026-10-23T21:11:19Z",
-      "note": "Python · ★5 · #automation"
-    },
-    {
-      "id": "app:aaravrai2006-svg/deep-research-autonomous-agent",
-      "section": "apps",
-      "repo": "aaravrai2006-svg/deep-research-autonomous-agent",
-      "title": "🔍 Autonomous recursive research agent that navigates the web, evaluates citations, and drafts executive synthesis repor",
-      "url": "https://github.com/aaravrai2006-svg/deep-research-autonomous-agent",
-      "when": "2026-10-23T18:36:55Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Klark61/ComfyUI-Mobile-Pocket",
-      "section": "apps",
-      "repo": "Klark61/ComfyUI-Mobile-Pocket",
-      "title": "ComfyUI mobile UI: use ComfyUI from your phone (Android/iOS). Fast mobile app plus the full node editor, tuned for touch",
-      "url": "https://github.com/Klark61/ComfyUI-Mobile-Pocket",
-      "when": "2026-10-23T18:33:38Z",
-      "note": "JavaScript · ★4 · #pwa"
-    },
-    {
-      "id": "app:Aman-20/telegram-file-deliver-bot",
-      "section": "apps",
-      "repo": "Aman-20/telegram-file-deliver-bot",
-      "title": "Telegram bot for indexing, searching, and delivering files securely.",
-      "url": "https://github.com/Aman-20/telegram-file-deliver-bot",
-      "when": "2026-10-23T17:38:51Z",
+      "repo": "ashwinsingh2007/J.A.R.V.I.S",
+      "title": "JARVIS: open-source AI voice assistant for macOS, like Iron Man's. Wake word, local speech, Kokoro TTS, memory, reminder",
+      "url": "https://github.com/ashwinsingh2007/J.A.R.V.I.S",
+      "when": "2026-10-25T08:25:45Z",
       "note": "JavaScript · ★1 · #telegram-bot"
     },
     {
-      "id": "app:nyxandro/telegram-bot-development-skill",
+      "id": "app:ccch1mneyyy/dsh-go",
       "section": "apps",
-      "repo": "nyxandro/telegram-bot-development-skill",
-      "title": "Telegram bot development skill for Claude Code and OpenCode: checks the live Bot API docs and the installed library (aio",
-      "url": "https://github.com/nyxandro/telegram-bot-development-skill",
-      "when": "2026-10-23T16:52:55Z",
-      "note": "Python · ★6 · #telegram-bot"
+      "repo": "ccch1mneyyy/dsh-go",
+      "title": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+      "url": "https://github.com/ccch1mneyyy/dsh-go",
+      "when": "2026-10-25T08:09:52Z",
+      "note": "— · ★44 · #ai-agent"
     },
     {
-      "id": "app:euron-sde-team/euron-browser-agent",
+      "id": "app:yinnho/diting",
       "section": "apps",
-      "repo": "euron-sde-team/euron-browser-agent",
-      "title": "Self-hosted browser automation with Playwright: deterministic recorded steps, an optional LLM planner, screenshots per s",
-      "url": "https://github.com/euron-sde-team/euron-browser-agent",
-      "when": "2026-10-23T14:12:27Z",
-      "note": "Python · ★1 · #web-scraping"
+      "repo": "yinnho/diting",
+      "title": "Engine-first browser for AI agents. One Rust binary, built-in V8, no Chromium — HTTP is the only protocol face.",
+      "url": "https://github.com/yinnho/diting",
+      "when": "2026-10-25T06:26:30Z",
+      "note": "Rust · ★1 · #web-scraping"
     },
     {
-      "id": "app:grandexecuti/ghpublish",
+      "id": "app:YodHeVauHe/issues-to-pr",
       "section": "apps",
-      "repo": "grandexecuti/ghpublish",
-      "title": "一键把本地项目整理并开源到 GitHub：密钥体检、README/LICENSE 生成、建仓库推送，配套 AI skill",
-      "url": "https://github.com/grandexecuti/ghpublish",
-      "when": "2026-10-23T13:36:27Z",
-      "note": "Python · ★14 · #automation"
+      "repo": "YodHeVauHe/issues-to-pr",
+      "title": "Agent skill: turn GitHub issues into PRs the superpowers way — bootstraps superpowers if missing, runs the full interact",
+      "url": "https://github.com/YodHeVauHe/issues-to-pr",
+      "when": "2026-10-25T03:36:16Z",
+      "note": "— · ★2 · #automation"
     },
     {
-      "id": "app:TopDeckhandBlock/linkforge",
+      "id": "app:aiandcivilization/webtrawl",
       "section": "apps",
-      "repo": "TopDeckhandBlock/linkforge",
-      "title": "Google AI Pro redemption link farm on Jio selfcare: rent a number, log in by OTP, mine one link, deliver to Telegram",
-      "url": "https://github.com/TopDeckhandBlock/linkforge",
-      "when": "2026-10-23T13:01:44Z",
-      "note": "Python · ★2 · #telegram-bot"
+      "repo": "aiandcivilization/webtrawl",
+      "title": "Agent-native web search and page extraction CLI: multi-provider discovery, a four-tier extraction cascade that reports p",
+      "url": "https://github.com/aiandcivilization/webtrawl",
+      "when": "2026-10-24T20:32:50Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:doomsday-network/doom-pay",
+      "section": "apps",
+      "repo": "doomsday-network/doom-pay",
+      "title": "⚡ DoomPay — Stripe-style 3-Line Self-Custodial Crypto Checkout & Payment Verification SDK for DOOM (Layer-1) and wDOOM (",
+      "url": "https://github.com/doomsday-network/doom-pay",
+      "when": "2026-10-24T20:10:51Z",
+      "note": "JavaScript · ★10 · #mcp-server"
+    },
+    {
+      "id": "app:ChinaOpenClaw/mcd-nutrition-expert",
+      "section": "apps",
+      "repo": "ChinaOpenClaw/mcd-nutrition-expert",
+      "title": "身材管控期也想吃麦当劳？这个专家会帮你根据每日消耗搭配麦麦套餐。基于 SP 矩阵理论，打通麦当劳官方 MCP Server 的营养选型与点餐闭环（35 个官方工具 · 14 个 REST 接口 · 零第三方前端依赖）。",
+      "url": "https://github.com/ChinaOpenClaw/mcd-nutrition-expert",
+      "when": "2026-10-24T18:06:01Z",
+      "note": "Python · ★105 · #mcp-server"
+    },
+    {
+      "id": "app:campbellarchiezh-debug/b2b-mcp-agent-tools",
+      "section": "apps",
+      "repo": "campbellarchiezh-debug/b2b-mcp-agent-tools",
+      "title": "High-performance B2B lead intelligence suite for Autonomous AI Agents, MCP clients (Cursor/Claude), Clay & n8n. Pay-per-",
+      "url": "https://github.com/campbellarchiezh-debug/b2b-mcp-agent-tools",
+      "when": "2026-10-24T17:45:59Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:doomsday-network/web3-agent-skills",
+      "section": "apps",
+      "repo": "doomsday-network/web3-agent-skills",
+      "title": "⚡ Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
+      "url": "https://github.com/doomsday-network/web3-agent-skills",
+      "when": "2026-10-24T16:42:36Z",
+      "note": "Python · ★10 · #mcp-server"
+    },
+    {
+      "id": "app:kbwzy/wechat-group-daily-report",
+      "section": "apps",
+      "repo": "kbwzy/wechat-group-daily-report",
+      "title": "Turn a WeChat group's day into a verifiable illustrated report (PNG/HTML/Markdown) — evidence-bound editorial, read-only",
+      "url": "https://github.com/kbwzy/wechat-group-daily-report",
+      "when": "2026-10-24T16:04:37Z",
+      "note": "Python · ★11 · #ai-agent"
+    },
+    {
+      "id": "app:doomsday-network/github-bounty-scanner",
+      "section": "apps",
+      "repo": "doomsday-network/github-bounty-scanner",
+      "title": "🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scr",
+      "url": "https://github.com/doomsday-network/github-bounty-scanner",
+      "when": "2026-10-24T15:37:39Z",
+      "note": "Python · ★11 · #mcp-server"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50222559",
+      "id": "hn:50233315",
       "section": "showhn",
-      "repo": "Show HN #50222559",
-      "title": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
-      "url": "https://app.enclave.ai/threat-feed",
-      "when": "2026-10-24T16:00:05Z",
-      "note": "2 pts · 0 comments"
-    },
-    {
-      "id": "hn:50222321",
-      "section": "showhn",
-      "repo": "Show HN #50222321",
-      "title": "Show HN: A set of test-cases for CP/M emulators",
-      "url": "https://github.com/skx/cpm-test",
-      "when": "2026-10-24T15:38:43Z",
-      "note": "2 pts · 0 comments"
-    },
-    {
-      "id": "hn:50222113",
-      "section": "showhn",
-      "repo": "Show HN #50222113",
-      "title": "Show HN: Python script to evaluate your RAG pipeline against a golden set",
-      "url": "https://github.com/infrixo-systems/rag-evaluation-starter",
-      "when": "2026-10-24T15:17:44Z",
-      "note": "4 pts · 0 comments"
-    },
-    {
-      "id": "hn:50222103",
-      "section": "showhn",
-      "repo": "Show HN #50222103",
-      "title": "Show HN: Term Crunch, timed terminal challenges",
-      "url": "https://jordanbarker.github.io/termverse/term-crunch/",
-      "when": "2026-10-24T15:16:50Z",
-      "note": "3 pts · 0 comments"
-    },
-    {
-      "id": "hn:50221873",
-      "section": "showhn",
-      "repo": "Show HN #50221873",
-      "title": "Show HN: Jam – a platform where beginners can collaborate in music",
-      "url": "https://github.com/hellojunchobo/Jam-music",
-      "when": "2026-10-24T14:55:36Z",
-      "note": "2 pts · 0 comments"
-    },
-    {
-      "id": "hn:50221670",
-      "section": "showhn",
-      "repo": "Show HN #50221670",
-      "title": "Show HN: TenseMem – deterministic memory for AI agents",
-      "url": "https://github.com/tensemem/tensemem",
-      "when": "2026-10-24T14:38:03Z",
+      "repo": "Show HN #50233315",
+      "title": "Show HN: Repotruck – Mirror and organize GitHub repos with a TUI and MCP server",
+      "url": "https://sametcn99.github.io/repotruck/",
+      "when": "2026-10-25T16:29:05Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50221604",
+      "id": "hn:50233097",
       "section": "showhn",
-      "repo": "Show HN #50221604",
-      "title": "Show HN: Firefighter.sh – an insane solution to the current CVE apocalypse",
-      "url": "https://firefighter.sh/",
-      "when": "2026-10-24T14:31:03Z",
-      "note": "1 pts · 3 comments"
-    },
-    {
-      "id": "hn:50221588",
-      "section": "showhn",
-      "repo": "Show HN #50221588",
-      "title": "Show HN: Visual Studio extension that shows decimal and hex in the debugger",
-      "url": "https://github.com/JochenBaier/AlwaysHex",
-      "when": "2026-10-24T14:29:46Z",
+      "repo": "Show HN #50233097",
+      "title": "Show HN: QualityLayer, put the engineer back in the loop of your coding agent",
+      "url": "https://qualitylayer.dev/",
+      "when": "2026-10-25T16:08:39Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50221513",
+      "id": "hn:50233076",
       "section": "showhn",
-      "repo": "Show HN #50221513",
-      "title": "Show HN: Bellman – rooms where agents from different providers work together",
-      "url": "https://github.com/bellman-sh/bellman",
-      "when": "2026-10-24T14:23:13Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50221506",
-      "section": "showhn",
-      "repo": "Show HN #50221506",
-      "title": "Show HN: A phone lock I can't undo on impulse because I never learn the code",
-      "url": "https://tryscreenfasting.com/",
-      "when": "2026-10-24T14:22:39Z",
+      "repo": "Show HN #50233076",
+      "title": "Show HN: I replaced tmux with sway workspaces",
+      "url": "https://github.com/artemave/hop",
+      "when": "2026-10-25T16:07:03Z",
       "note": "1 pts · 1 comments"
     },
     {
-      "id": "hn:50221499",
+      "id": "hn:50233050",
       "section": "showhn",
-      "repo": "Show HN #50221499",
-      "title": "Show HN: Free Online Image Tools",
-      "url": "https://imgimage.com/",
-      "when": "2026-10-24T14:21:28Z",
-      "note": "1 pts · 1 comments"
-    },
-    {
-      "id": "hn:50221460",
-      "section": "showhn",
-      "repo": "Show HN #50221460",
-      "title": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
-      "url": "https://github.com/Aldyernesto/shotstash",
-      "when": "2026-10-24T14:17:40Z",
-      "note": "2 pts · 0 comments"
-    },
-    {
-      "id": "hn:50221386",
-      "section": "showhn",
-      "repo": "Show HN #50221386",
-      "title": "Show HN: Tempis the Canvas Timeline Component",
-      "url": "https://tempis.dev/",
-      "when": "2026-10-24T14:08:43Z",
+      "repo": "Show HN #50233050",
+      "title": "Show HN: Music as a TypeScript program",
+      "url": "https://twitter.com/dotproductX/status/2114386390595068154",
+      "when": "2026-10-25T16:05:07Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50221066",
+      "id": "hn:50232818",
       "section": "showhn",
-      "repo": "Show HN #50221066",
-      "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-      "url": "https://github.com/byenzyme/enzyme",
-      "when": "2026-10-24T13:30:18Z",
-      "note": "15 pts · 8 comments"
+      "repo": "Show HN #50232818",
+      "title": "Show HN: My Kids TV – Calm, ad-free replacement home screen for Google TV",
+      "url": "https://github.com/suboss87/my-kids-tv",
+      "when": "2026-10-25T15:46:54Z",
+      "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50221021",
+      "id": "hn:50232722",
       "section": "showhn",
-      "repo": "Show HN #50221021",
-      "title": "Show HN: BakeVideos – Turn ideas into videos with editable scenes",
-      "url": "https://bakevideos.com/",
-      "when": "2026-10-24T13:24:06Z",
+      "repo": "Show HN #50232722",
+      "title": "Show HN: I found out a way to make openF1 data easy to analyse for normies",
+      "url": "https://pitwall.plusminushalf.com/session/11392?t=4144&drivers=12,3",
+      "when": "2026-10-25T15:38:48Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50232583",
+      "section": "showhn",
+      "repo": "Show HN #50232583",
+      "title": "Show HN: Swingback, get feedback from your user for free",
+      "url": "https://swingback.dev",
+      "when": "2026-10-25T15:26:07Z",
       "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50232466",
+      "section": "showhn",
+      "repo": "Show HN #50232466",
+      "title": "Show HN: What had they done by your age?",
+      "url": "https://by-your-age.com/",
+      "when": "2026-10-25T15:16:41Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50232442",
+      "section": "showhn",
+      "repo": "Show HN #50232442",
+      "title": "Show HN: I built an endless gaming web page, need some honest review",
+      "url": "https://roadster-racing.vercel.app/",
+      "when": "2026-10-25T15:14:42Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50232415",
+      "section": "showhn",
+      "repo": "Show HN #50232415",
+      "title": "Show HN: Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
+      "url": "https://www.worldofbuilders.com/",
+      "when": "2026-10-25T15:12:26Z",
+      "note": "1 pts · 1 comments"
+    },
+    {
+      "id": "hn:50232312",
+      "section": "showhn",
+      "repo": "Show HN #50232312",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "when": "2026-10-25T15:05:39Z",
+      "note": "80 pts · 24 comments"
+    },
+    {
+      "id": "hn:50232171",
+      "section": "showhn",
+      "repo": "Show HN #50232171",
+      "title": "Show HN: Markdown Quick Look for macOS with a Rust core and no web engine",
+      "url": "https://github.com/armamut/md-quicklook",
+      "when": "2026-10-25T14:52:42Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50232121",
+      "section": "showhn",
+      "repo": "Show HN #50232121",
+      "title": "Show HN: See how much revenue declined cards cost your SaaS",
+      "url": "https://declinekit.com/audit",
+      "when": "2026-10-25T14:47:25Z",
+      "note": "1 pts · 1 comments"
+    },
+    {
+      "id": "hn:50232108",
+      "section": "showhn",
+      "repo": "Show HN #50232108",
+      "title": "Show HN: HissingKitty – what teams pay for software and what replaced it",
+      "url": "https://hissingkitty.com/",
+      "when": "2026-10-25T14:46:10Z",
+      "note": "4 pts · 2 comments"
+    },
+    {
+      "id": "hn:50232061",
+      "section": "showhn",
+      "repo": "Show HN #50232061",
+      "title": "Show HN: Snaparser – a tool to browse your Snapchat exports",
+      "url": "https://github.com/vanillaiice/snaparser",
+      "when": "2026-10-25T14:41:15Z",
+      "note": "1 pts · 0 comments"
     }
   ],
   "trending": [
     {
-      "id": "trend:aws/agent-toolkit-for-aws",
+      "id": "trend:TauricResearch/TradingAgents",
       "section": "trending",
-      "repo": "aws/agent-toolkit-for-aws",
-      "title": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "repo": "TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "when": null,
       "note": "Python"
     },
     {
-      "id": "trend:Nutlope/hallmark",
+      "id": "trend:JetBrains/thinkrail",
       "section": "trending",
-      "repo": "Nutlope/hallmark",
-      "title": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "when": null,
-      "note": "CSS"
-    },
-    {
-      "id": "trend:pbakaus/impeccable",
-      "section": "trending",
-      "repo": "pbakaus/impeccable",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "when": null,
-      "note": "Rust"
-    },
-    {
-      "id": "trend:pollen-robotics/microduck",
-      "section": "trending",
-      "repo": "pollen-robotics/microduck",
-      "title": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "when": null,
-      "note": "Rust"
-    },
-    {
-      "id": "trend:google-gemini/gemini-cli",
-      "section": "trending",
-      "repo": "google-gemini/gemini-cli",
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
+      "repo": "JetBrains/thinkrail",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:jbiaojerry/ebook-treasure-chest",
+      "id": "trend:sponsors/coollabsio",
       "section": "trending",
-      "repo": "jbiaojerry/ebook-treasure-chest",
-      "title": "jbiaojerry/ebook-treasure-chest",
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "repo": "sponsors/coollabsio",
+      "title": "sponsors/coollabsio",
+      "url": "https://github.com/sponsors/coollabsio",
+      "when": null,
+      "note": "PHP"
+    },
+    {
+      "id": "trend:AgriciDaniel/claude-seo",
+      "section": "trending",
+      "repo": "AgriciDaniel/claude-seo",
+      "title": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
       "when": null,
       "note": "Python"
     },
     {
-      "id": "trend:bendlang/bend",
+      "id": "trend:mantrakp04/ardia",
       "section": "trending",
-      "repo": "bendlang/bend",
-      "title": "bendlang/bend",
-      "url": "https://github.com/bendlang/bend",
+      "repo": "mantrakp04/ardia",
+      "title": "mantrakp04/ardia",
+      "url": "https://github.com/mantrakp04/ardia",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:google/brotli",
+      "id": "trend:MoonshotAI/kimi-code",
       "section": "trending",
-      "repo": "google/brotli",
-      "title": "google/brotli",
-      "url": "https://github.com/google/brotli",
+      "repo": "MoonshotAI/kimi-code",
+      "title": "MoonshotAI/kimi-code",
+      "url": "https://github.com/MoonshotAI/kimi-code",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:vercel/ai",
+      "id": "trend:nightly-labs/openbot",
       "section": "trending",
-      "repo": "vercel/ai",
-      "title": "vercel/ai",
-      "url": "https://github.com/vercel/ai",
+      "repo": "nightly-labs/openbot",
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:firebase/firebase-tools",
+      "id": "trend:moeru-ai/airi",
       "section": "trending",
-      "repo": "firebase/firebase-tools",
-      "title": "firebase/firebase-tools",
-      "url": "https://github.com/firebase/firebase-tools",
+      "repo": "moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:sponsors/medusajs",
+      "id": "trend:garrytan/gstack",
       "section": "trending",
-      "repo": "sponsors/medusajs",
-      "title": "sponsors/medusajs",
-      "url": "https://github.com/sponsors/medusajs",
+      "repo": "garrytan/gstack",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:anthropics/sandbox-runtime",
+      "id": "trend:sponsors/ever-co",
       "section": "trending",
-      "repo": "anthropics/sandbox-runtime",
-      "title": "anthropics/sandbox-runtime",
-      "url": "https://github.com/anthropics/sandbox-runtime",
+      "repo": "sponsors/ever-co",
+      "title": "sponsors/ever-co",
+      "url": "https://github.com/sponsors/ever-co",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:backnotprop/plannotator",
+      "id": "trend:garrytan/gbrain",
       "section": "trending",
-      "repo": "backnotprop/plannotator",
-      "title": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "when": null,
-      "note": "TypeScript"
-    },
-    {
-      "id": "trend:umami-software/umami",
-      "section": "trending",
-      "repo": "umami-software/umami",
-      "title": "umami-software/umami",
-      "url": "https://github.com/umami-software/umami",
-      "when": null,
-      "note": "TypeScript"
-    },
-    {
-      "id": "trend:langfuse/langfuse",
-      "section": "trending",
-      "repo": "langfuse/langfuse",
-      "title": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
+      "repo": "garrytan/gbrain",
+      "title": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
       "when": null,
       "note": "TypeScript"
     }
