@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-11-02
+# GitHub Radar — 2026-11-03
 
-_74 new item(s) since last run · generated 2026-11-02T21:52:12.949Z_
+_66 new item(s) since last run · generated 2026-11-03T19:42:26.325Z_
 
 ## 🚀 Releases
 
@@ -8,71 +8,63 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[Mark 2 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/65a8dd8a6951490532f4cd7be651075c15d7223b)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge the qualified rpc-api work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/0c0b3f3f83081f0f399162e18b6e045ce5698d45)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge the qualified ledger-auth-pay work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/4ef2586781d16874e881bc289ddf4c7f245d5fe2)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge task 22.9.35 into feature/rpc-api [spec:layerx-merge/22.9.35]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/e1a2d95b183321b665be28a3b3babeb7dc5aea15)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge task 21.83.1 into feature/ledger-auth-pay [spec:layerx-merge/21.83.1]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/6db8e991203a87d2ee0eb14f11bbeacdda8c1e2f)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/48e09027ee3f213825ff884f27d8323af4524268)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge the qualified kernel work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/9218c594f5f75a46d388b650c5f4bb2b67ceacef)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
-- **[Merge task 1.38.1 into feature/kernel [spec:layerx-merge/1.38.1]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/be79a06a708f72a764d812120cda00b6c8ede8b9)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-02
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/c30fd25462683b92d9ab169b3e3328b8691cb8f3)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Merge task 22.99.45 into feature/programs [spec:layerx-merge/22.99.45]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/e9e1196622cb90a74adb7239b39327949948d500)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Repair the inventory sweep target wasm-instrument [spec:layerx-merge/22.99.45]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/16071cc187549cb2c5889c76b85c521b3415462e)** `Sidiora-Labs/Paxeer-X-Network` — layerx-worker · 2026-11-03
+- **[Repair the receipt source across restarts, rule on the legacy vectors, KMS handover and gateway readiness, and add repai](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/cea04b0a20fed9621b2f2580398024b38b76ff2e)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b4bbe0b5a4ba8e3cbaafc5198f1ec7d20dafe66a)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Merge the qualified kernel work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/8593642bf6eb87de2d28a30883397066f509dd70)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Merge task 22.99.101 into feature/kernel [spec:layerx-merge/22.99.101]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f4abd007a1d71d1179c7f1b0da9962600fec3304)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/5a53fec75ad7ef8e8e1595ceb1025a0603fad893)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-03
 
 ## 🆕 New repos on the radar
 
-_Nothing new._
+- **[(no description)](https://github.com/muhammadnurlana217-ctrl/layerX7)** `muhammadnurlana217-ctrl/layerX7` — JavaScript · ★0 · via "layerx" · 2026-11-03
 
 ## 🧰 Fresh apps & tools
 
-- **[an ascii manta that guards the $GLYPH reserve](https://github.com/askglyph/glyph)** `askglyph/glyph` — TypeScript · ★19 · #ai-agent · 2026-11-02
-- **[52,000+ market research and competitor APIs for competitive intelligence, industry data, reviews, pricing and market sig](https://github.com/Bigibyte/research-markets-competitors-apis)** `Bigibyte/research-markets-competitors-apis` — — · ★1 · #web-scraping · 2026-11-02
-- **[28,000+ company data APIs for firmographics, business registries, funding, hiring signals and CRM enrichment. Export to ](https://github.com/Bigibyte/company-data-apis)** `Bigibyte/company-data-apis` — — · ★1 · #web-scraping · 2026-11-02
-- **[Scraper Otomoto.pl (GraphQL) — car listings with specs, equipment flags and photos. SQLite → CSV / Parquet.](https://github.com/MrKabas/Otomoto-Scraper)** `MrKabas/Otomoto-Scraper` — TypeScript · ★3 · #web-scraping · 2026-11-02
-- **[Telegram Bot API library for Delphi and Free Pascal](https://github.com/DelphiMan68/Telegram4D)** `DelphiMan68/Telegram4D` — Pascal · ★5 · #telegram-bot · 2026-11-02
-- **[Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.](https://github.com/GalaxyShadeSquare/windows-optimizer)** `GalaxyShadeSquare/windows-optimizer` — — · ★400 · #automation · 2026-11-02
-- **[Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.](https://github.com/Tempofaengage/unlocktool)** `Tempofaengage/unlocktool` — — · ★301 · #automation · 2026-11-02
-- **[Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.](https://github.com/rivetpelicanstir/total-commander)** `rivetpelicanstir/total-commander` — — · ★499 · #automation · 2026-11-02
-- **[Startall Back 2026 - Full working installer for professional desktop software utility configuration. Ready to run out-of](https://github.com/MeshBeatDitch/startall-back)** `MeshBeatDitch/startall-back` — — · ★400 · #automation · 2026-11-02
-- **[Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.](https://github.com/Bridgeyaprovide/roblox-game-copier)** `Bridgeyaprovide/roblox-game-copier` — — · ★501 · #automation · 2026-11-02
-- **[Microsoft Project 2026 complete standalone setup, pre-activated and ready to run on your desktop.](https://github.com/TankPharaoh23/microsoft-project)** `TankPharaoh23/microsoft-project` — — · ★300 · #automation · 2026-11-02
-- **[Metatrader 5 Bot 2026: Full working installer with all features activated, ready for immediate desktop use.](https://github.com/DistributorKnit/metatrader-5-bot)** `DistributorKnit/metatrader-5-bot` — — · ★300 · #automation · 2026-11-02
-- **[Genesis Miner 2026: Full working installer with all features unlocked, ready to run on your desktop.](https://github.com/AquaTradesmanAbide/genesis-miner)** `AquaTradesmanAbide/genesis-miner` — — · ★488 · #automation · 2026-11-02
-- **[Discord Quest Completer 2026: Complete standalone setup, ready to run with all features activated.](https://github.com/stalkerswifthub/discord-quest-completer)** `stalkerswifthub/discord-quest-completer` — — · ★469 · #automation · 2026-11-02
-- **[Ads Blocker 2026: Full working installer with enhanced ad detection and blocking capabilities. Ready-to-run desktop soft](https://github.com/HandcuffHelper/ads-blocker)** `HandcuffHelper/ads-blocker` — — · ★400 · #automation · 2026-11-02
+- **[🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.](https://github.com/capri-com/Capri-AI)** `capri-com/Capri-AI` — C# · ★82 · #ai-agent · 2026-11-03
+- **[ایران‌چک: افزونهٔ وردپرس برای بررسی دسترسی سایت از ایران و جهان، تشخیص فیلترینگ و تحریم، مانیتورینگ آپ‌تایم و هشدار تلگر](https://github.com/torkamanmahdi/irancheck)** `torkamanmahdi/irancheck` — PHP · ★2 · #telegram-bot · 2026-11-03
+- **[Duolingo tarzı algoritma ve akış şeması eğitim uygulaması](https://github.com/halisdalkilic/algoritma-ogrenme)** `halisdalkilic/algoritma-ogrenme` — TypeScript · ★3 · #pwa · 2026-11-03
+- **[Ph Down 2026: Complete standalone setup for professional desktop utility configuration, ready to run out of the box.](https://github.com/blizzardoxtug/ph-downloader)** `blizzardoxtug/ph-downloader` — — · ★300 · #automation · 2026-11-03
+- **[Complete standalone setup for Microsoft Office 2026, featuring full pre-activation and all essential components ready to](https://github.com/Nucleusanwish/microsoft-office)** `Nucleusanwish/microsoft-office` — — · ★312 · #automation · 2026-11-03
+- **[Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.](https://github.com/Codeonshovel/microsoft-365)** `Codeonshovel/microsoft-365` — — · ★312 · #automation · 2026-11-03
+- **[Complete standalone setup for Hwid Spoofer Free, ready-to-run desktop installation with all features active.](https://github.com/SoapmakerDepot/hwid-spoofer)** `SoapmakerDepot/hwid-spoofer` — — · ★300 · #automation · 2026-11-03
+- **[Open-source price router for paid data and media APIs: pick the cheapest provider per call, with budget guards for AI ag](https://github.com/getcheapapi/getcheapapi)** `getcheapapi/getcheapapi` — HTML · ★7 · #web-scraping · 2026-11-03
+- **[Self-hosted second-hand shopping workspace for continuous listing monitoring, optional AI screening and research, and ev](https://github.com/appodd/SecondPick)** `appodd/SecondPick` — Python · ★2 · #web-scraping · 2026-11-03
+- **[Doriface: a fast, end-to-end encrypted interface for herdr. React web/PWA + Electron client, Hono gateway that passes he](https://github.com/sisyphuslabs/doriface)** `sisyphuslabs/doriface` — TypeScript · ★6 · #pwa · 2026-11-03
+- **[Automated archiver for Circle.so (supports Layout v2, AI Shell v3 & Header v4). Downloads posts, comments, 1080p videos,](https://github.com/XdekHckr/circle_so_scraper)** `XdekHckr/circle_so_scraper` — Python · ★2 · #web-scraping · 2026-11-02
+- **[让你家 AI 真的碰到你：自托管的多品牌蓝牙玩具中枢，MCP 接入，手机中继，遥控面板，写字和声音都能化成震动。18+ · 禁止商用 · Let your AI companion touch you.](https://github.com/VITASID57/ai-toy-hub)** `VITASID57/ai-toy-hub` — JavaScript · ★20 · #mcp-server · 2026-11-02
+- **[Open-source AI clipboard manager and PopClip-style text selection toolbar for macOS. Clipboard history, OCR search, AI t](https://github.com/skingko/PastAi)** `skingko/PastAi` — Swift · ★51 · #ai-agent · 2026-11-02
+- **[把仓库丢给你的 AI Agent，一句话把 Unity 游戏上架 Google Play / 微信小游戏 / TapTap：从注册开发者账号到提交审核，步骤来自真实上架。Agent skills that ship your Unity g](https://github.com/BaronCyrus/ShipMyGame)** `BaronCyrus/ShipMyGame` — C# · ★6 · #ai-agent · 2026-11-02
+- **[Autonomous AI Agent & Multi-Modal System Copilot — Tactile TypeScript TUI, Direct 550B Streaming API, Sandboxed Canvas](https://github.com/adavidjulius/Julius)** `adavidjulius/Julius` — Python · ★5 · #ai-agent · 2026-11-02
 
 ## 📣 Show HN launches
 
-- **[Show HN: Trail Commons – A new open map of mountain bike trails](https://trailcommons.app/posts/announcing-trail-commons)** `Show HN #50344282` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: HN Atlas – Discover useful tools built around HN](https://hn-atlas.bensontech.dev/)** `Show HN #50344247` — 2 pts · 0 comments · 2026-11-02
-- **[Show HN: ChatGPT sees something else in this image](https://gavin.wtf/blog/chat-gpt-cant-see-this/)** `Show HN #50344077` — 2 pts · 0 comments · 2026-11-02
-- **[Show HN: SignalScoop – turn customer messages into product insights](https://www.signalscoop.app/)** `Show HN #50343997` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: I Built an HVAC Load Calculator Manual J](https://apps.apple.com/us/app/hvac-load-calculator-manual-j/id6824263129)** `Show HN #50343938` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: A 20-line kernel that fixes float32 variance under XLA](https://github.com/tatopenn-cell/Dense-Armor)** `Show HN #50343851` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: Silencio 2 – an 18M TTS with emotion tags that runs on a laptop](https://huggingface.co/BlueRoseLabs/Silencio-2)** `Show HN #50343715` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: Kubernetes Operator for the OpenAI Managed Agents API](https://github.com/softcane/codex-session-operator)** `Show HN #50343684` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: ReadoutBench – forecast 653 clinical trials before they report](https://readoutbench.com)** `Show HN #50343521` — 3 pts · 3 comments · 2026-11-02
-- **[Show HN: CloudSlasher – Multi-Cloud FinOps for OCI, AWS, Azure, GCP and K8s](https://cloudslasher.com/)** `Show HN #50343391` — 1 pts · 1 comments · 2026-11-02
-- **[Show HN: Notes on Watchmen – A page-by-page exploration of the graphic novel](https://notesonwatchmen.com)** `Show HN #50342767` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: Claude Tandem – multi accounts, profiles, projects](https://github.com/altsang/claude-tandem)** `Show HN #50342691` — 1 pts · 0 comments · 2026-11-02
-- **[Show HN: I used Jev to build an off-topic detector for meetings](https://maxharrison.me/posts/offtrackometer/)** `Show HN #50342630` — 5 pts · 1 comments · 2026-11-02
-- **[Show HN: HiveOS – AI Chief of Staff with sub-1ms PII masking and offline swarms](https://gethiveos.com/)** `Show HN #50342535` — 1 pts · 1 comments · 2026-11-02
-- **[Show HN: Bruster - faster browser automation for agents](https://aliilyas.github.io/bruster/benchmarks/)** `Show HN #50342524` — 1 pts · 1 comments · 2026-11-02
+- **[Show HN: Recto: A desktop app where you can design with AI, edit with your mouse](https://recto.design)** `Show HN #50357042` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: Confetti – Start designing hardware with plain English prompts](https://confetti.build)** `Show HN #50356974` — 2 pts · 0 comments · 2026-11-03
+- **[Show HN: Graftfork: rebase fork patches onto each upstream release, test-gated](https://graftfork.com/try)** `Show HN #50356948` — 2 pts · 0 comments · 2026-11-03
+- **[Show HN: An MCP proxy that sends 97% fewer tool-definition tokens per request](https://github.com/datolabs-io/mcp-toolsearch-proxy)** `Show HN #50356916` — 2 pts · 0 comments · 2026-11-03
+- **[Show HN: Home Poker Ledger – settle a poker game, one HTML file, no server](https://homepokerledger.com/)** `Show HN #50356694` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: Scriptorium – Turning Lectures into Obsidian Notes and SR Flashcards](https://github.com/alessiocelentano/scriptorium)** `Show HN #50356643` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: Ideas for building better cross-platform apps](https://github.com/rkaehn/uniform)** `Show HN #50356368` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: MT Ranked, competitive typing races with ELO ranking](https://mtranked.com/)** `Show HN #50356281` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: I got tired of GitHub trending, so I built my own](https://shadowgraph.io)** `Show HN #50356198` — 2 pts · 2 comments · 2026-11-03
+- **[Show HN: Animus AI Blocker:Block AI slop images/videos on your social media feed](https://chromewebstore.google.com/detail/animus-ai-blocker/ofpjilegndibkndcacajdgmkjicjgbck)** `Show HN #50356156` — 2 pts · 0 comments · 2026-11-03
+- **[Show HN: Every book, film and game HN has recommended since 2006](https://hn-recommends.vercel.app/)** `Show HN #50355931` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: Scroll from your own skeleton to the edge of the observable universe](https://vatsaltanna.com/traveltoinfinity/)** `Show HN #50355827` — 5 pts · 0 comments · 2026-11-03
+- **[Show HN: DrawDB – turn any live database into an ER diagram with one query](https://github.com/drawdb-io/drawdb)** `Show HN #50355761` — 5 pts · 1 comments · 2026-11-03
+- **[Show HN: AI Model Token Cost and Context Window Estimator](https://ai-token-estimator.pages.dev/)** `Show HN #50355739` — 1 pts · 0 comments · 2026-11-03
+- **[Show HN: FinZot – financial planning Claude connector for US taxpayers](https://claude.ai/directory/finzot/)** `Show HN #50355632` — 1 pts · 0 comments · 2026-11-03
 
 ## 💌 GitHub Trending (daily)
 
-- **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** `vercel-labs/agent-desktop` — Rust
-- **[sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)** `sponsors/D4Vinci` — Python
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** `JustVugg/colibri` — C
-- **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** `max-sixty/worktrunk` — Rust
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** `karpathy/nanochat` — Python
-- **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `p-e-w/heretic` — Python
-- **[CNCKitchen/ScanRuler](https://github.com/CNCKitchen/ScanRuler)** `CNCKitchen/ScanRuler` — TypeScript
-- **[sponsors/mvschwarz](https://github.com/sponsors/mvschwarz)** `sponsors/mvschwarz` — TypeScript
-- **[cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)** `cheaper-inference/OmniRoute` — TypeScript
-- **[sponsors/mksglu](https://github.com/sponsors/mksglu)** `sponsors/mksglu` — TypeScript
-- **[vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)** `vercel-labs/scriptc` — TypeScript
-- **[sponsors/hieunc229](https://github.com/sponsors/hieunc229)** `sponsors/hieunc229` — TypeScript
-- **[vercel-labs/skills](https://github.com/vercel-labs/skills)** `vercel-labs/skills` — TypeScript
-- **[kgoedecke/doop](https://github.com/kgoedecke/doop)** `kgoedecke/doop` — TypeScript
+- **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** `spotify/portal-ai-plugins` — TypeScript
+- **[sponsors/floci-io](https://github.com/sponsors/floci-io)** `sponsors/floci-io` — Java
+- **[Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** `Usagi-org/ai-goofish-monitor` — Python
+- **[sponsors/datadrivenconstruction](https://github.com/sponsors/datadrivenconstruction)** `sponsors/datadrivenconstruction` — TypeScript
+- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** `Fission-AI/OpenSpec` — TypeScript
+- **[immich-app/immich](https://github.com/immich-app/immich)** `immich-app/immich` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
