@@ -1,482 +1,455 @@
 {
-  "date": "2026-11-04",
-  "generated": "2026-11-04T19:57:49.034Z",
-  "newCount": 60,
+  "date": "2026-11-05",
+  "generated": "2026-11-05T20:11:41.988Z",
+  "newCount": 71,
   "errors": [],
   "releases": [],
   "commits": [
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/954eca99e046a823408bf113af781e3140ef3097",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/606adc9dcfa0c272b2969e78d9ab6c5002e16fc5",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Mark 2 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/954eca99e046a823408bf113af781e3140ef3097",
-      "when": "2026-11-04T19:52:52Z",
+      "title": "Report the kernel result code from the native harness, answer NotYetProduced for an empty market feature section, and se",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/606adc9dcfa0c272b2969e78d9ab6c5002e16fc5",
+      "when": "2026-11-05T19:19:53Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/673b5feb4a126ee2319abfceefdede6ec9fdf734",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/7b15e65e92f644d953dff3e2ff50ae83d5aad7db",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge the qualified tools-ops work into main",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/673b5feb4a126ee2319abfceefdede6ec9fdf734",
-      "when": "2026-11-04T19:50:08Z",
+      "title": "Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/7b15e65e92f644d953dff3e2ff50ae83d5aad7db",
+      "when": "2026-11-05T19:03:39Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/414c17d5741653478eac5f10edbbbe0247b41fb8",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/9022a34b8a86968c81fd1b315c388d150c65e7ea",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge the qualified platform work into main",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/414c17d5741653478eac5f10edbbbe0247b41fb8",
-      "when": "2026-11-04T19:50:07Z",
+      "title": "Merge the qualified programs work into main",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/9022a34b8a86968c81fd1b315c388d150c65e7ea",
+      "when": "2026-11-05T19:00:59Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/ccd2a7e4ce3d4966e215cfe1dd3f9fc9b4fe2822",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/0484fd9035adaba4d3a7614644c05484e2d0a6d5",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge task 22.33.890 into feature/tools-ops [spec:layerx-merge/22.33.890]",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/ccd2a7e4ce3d4966e215cfe1dd3f9fc9b4fe2822",
-      "when": "2026-11-04T19:49:01Z",
+      "title": "Merge task 22.33.233 into feature/programs [spec:layerx-merge/22.33.233]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/0484fd9035adaba4d3a7614644c05484e2d0a6d5",
+      "when": "2026-11-05T18:57:46Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8b821eb60939deb689d0af93a4ada55c55af041e",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/7681220a12683c858ea649f4c933f9f154ebf993",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge task 22.33.1438 into feature/platform [spec:layerx-merge/22.33.1438]",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/8b821eb60939deb689d0af93a4ada55c55af041e",
-      "when": "2026-11-04T19:48:50Z",
+      "title": "Key the native send preparation under the digest its signed purpose carries, provision node commit coverage per committe",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/7681220a12683c858ea649f4c933f9f154ebf993",
+      "when": "2026-11-05T18:48:31Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/b83cb0600cb857d6977a61f808d6ac0651ff361d",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8510976ba57895ae6df45c220ca73d4d9732c1d7",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Mark 3 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b83cb0600cb857d6977a61f808d6ac0651ff361d",
-      "when": "2026-11-04T19:47:40Z",
+      "title": "Repair audit record 22.30.128 medium findings in programs/crates/layerx-programs-ai-market/tests (part 1 of 1): test-gap",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/8510976ba57895ae6df45c220ca73d4d9732c1d7",
+      "when": "2026-11-05T18:44:56Z",
+      "note": "layerx-worker"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/42c99481b599c73f32b44a56f978a582d5911aa6",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/42c99481b599c73f32b44a56f978a582d5911aa6",
+      "when": "2026-11-05T18:44:30Z",
       "note": "paxlabs-inc"
     },
     {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/966b0b3e4e111808e76c1b25b3369a8204d7317a",
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/3857c8eed7d8d212af8ea53bc1b6027253aac973",
       "section": "commits",
       "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge the qualified tools-ops work into main",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/966b0b3e4e111808e76c1b25b3369a8204d7317a",
-      "when": "2026-11-04T19:45:01Z",
-      "note": "paxlabs-inc"
-    },
-    {
-      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/8b1ba72cd69703397aaf31a10b40c3fa02f0a8d5",
-      "section": "commits",
-      "repo": "Sidiora-Labs/Paxeer-X-Network",
-      "title": "Merge the qualified rpc-api work into main",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/8b1ba72cd69703397aaf31a10b40c3fa02f0a8d5",
-      "when": "2026-11-04T19:45:01Z",
+      "title": "Merge the qualified agent work into main",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/3857c8eed7d8d212af8ea53bc1b6027253aac973",
+      "when": "2026-11-05T18:41:45Z",
       "note": "paxlabs-inc"
     }
   ],
   "new-repos": [],
   "apps": [
     {
-      "id": "app:Larryzpl123/Skybreak--Protocol",
+      "id": "app:AkaDaka1/ResumeMaker",
       "section": "apps",
-      "repo": "Larryzpl123/Skybreak--Protocol",
-      "title": "Build a plane from parts, then fly it: a 3D dogfighting game in the browser (three.js). Waves and bosses, an AI ladder, ",
-      "url": "https://github.com/Larryzpl123/Skybreak--Protocol",
-      "when": "2026-11-04T15:41:11Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:kawsarlog/awesome-hermes-agent",
-      "section": "apps",
-      "repo": "kawsarlog/awesome-hermes-agent",
-      "title": "Beginner-friendly awesome list and guides for Hermes Agent by Nous Research. Install, skills, memory, MCP, cron, workflo",
-      "url": "https://github.com/kawsarlog/awesome-hermes-agent",
-      "when": "2026-11-04T12:37:08Z",
-      "note": "— · ★16 · #telegram-bot"
-    },
-    {
-      "id": "app:purehazecottage/metatrader-5-bot",
-      "section": "apps",
-      "repo": "purehazecottage/metatrader-5-bot",
-      "title": "Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop.",
-      "url": "https://github.com/purehazecottage/metatrader-5-bot",
-      "when": "2026-11-04T08:43:59Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:DenColonelWrinkle/ios-unlocker",
-      "section": "apps",
-      "repo": "DenColonelWrinkle/ios-unlocker",
-      "title": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
-      "url": "https://github.com/DenColonelWrinkle/ios-unlocker",
-      "when": "2026-11-04T08:43:35Z",
-      "note": "— · ★301 · #automation"
-    },
-    {
-      "id": "app:driftcoralemporium/instagram-liker-bot",
-      "section": "apps",
-      "repo": "driftcoralemporium/instagram-liker-bot",
-      "title": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your d",
-      "url": "https://github.com/driftcoralemporium/instagram-liker-bot",
-      "when": "2026-11-04T08:43:33Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:nestjs/mcp",
-      "section": "apps",
-      "repo": "nestjs/mcp",
-      "title": "An MCP module for NestJS (Node.js) 🤖",
-      "url": "https://github.com/nestjs/mcp",
-      "when": "2026-11-04T08:37:03Z",
-      "note": "TypeScript · ★9 · #mcp-server"
-    },
-    {
-      "id": "app:echoD886/dramacanvas-ai-filmmaking-mcp",
-      "section": "apps",
-      "repo": "echoD886/dramacanvas-ai-filmmaking-mcp",
-      "title": "DramaCanvas AI filmmaking MCP server: an AI film maker for short dramas, storyboards and AI video generation from Claude",
-      "url": "https://github.com/echoD886/dramacanvas-ai-filmmaking-mcp",
-      "when": "2026-11-04T08:06:42Z",
-      "note": "Shell · ★4 · #mcp-server"
-    },
-    {
-      "id": "app:Ahaduzzamankhan/aicrawl",
-      "section": "apps",
-      "repo": "Ahaduzzamankhan/aicrawl",
-      "title": "AI-native web crawler and structured data extraction engine - one Rust binary with CLI, embedded dashboard, REST API and",
-      "url": "https://github.com/Ahaduzzamankhan/aicrawl",
-      "when": "2026-11-04T04:48:00Z",
-      "note": "Rust · ★4 · #web-scraping"
-    },
-    {
-      "id": "app:kohryan/unrealmotion-skill",
-      "section": "apps",
-      "repo": "kohryan/unrealmotion-skill",
-      "title": "Prompt-to-video Three.js skill: 3D scenes, ImageGen-assisted reassembly, lightweight HF/SimReady retrieval and determini",
-      "url": "https://github.com/kohryan/unrealmotion-skill",
-      "when": "2026-11-04T04:46:42Z",
-      "note": "JavaScript · ★12 · #ai-agent"
-    },
-    {
-      "id": "app:eshaangulati123/perfectclone-website-cloner",
-      "section": "apps",
-      "repo": "eshaangulati123/perfectclone-website-cloner",
-      "title": "clone any website/frontend 1:1 with Playwright. Real HTML/JS/CSS, not AI-regenerated. Rebrand it, strip trackers, keep N",
-      "url": "https://github.com/eshaangulati123/perfectclone-website-cloner",
-      "when": "2026-11-04T03:13:53Z",
-      "note": "Python · ★28 · #web-scraping"
-    },
-    {
-      "id": "app:Hikari-Tsai/ktv-charts",
-      "section": "apps",
-      "repo": "Hikari-Tsai/ktv-charts",
-      "title": "Daily KTV song rankings from Holiday, Cashbox, JOYSOUND and DAM (zh/en/ja)",
-      "url": "https://github.com/Hikari-Tsai/ktv-charts",
-      "when": "2026-11-04T02:05:37Z",
-      "note": "Python · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:rizalahmaddd/open-house",
-      "section": "apps",
-      "repo": "rizalahmaddd/open-house",
-      "title": "Aplikasi manajemen kos & properti sewa modern berbasis Cloudflare Workers, D1 SQLite, R2, dan React 19.",
-      "url": "https://github.com/rizalahmaddd/open-house",
-      "when": "2026-11-03T22:09:11Z",
-      "note": "TypeScript · ★10 · #pwa"
-    },
-    {
-      "id": "app:theappfoundryco/personal-homelab-server",
-      "section": "apps",
-      "repo": "theappfoundryco/personal-homelab-server",
-      "title": "A private, self-hosted assistant for your day: a dashboard, a Telegram bot and optional apps for monitoring and local AI",
-      "url": "https://github.com/theappfoundryco/personal-homelab-server",
-      "when": "2026-11-03T19:52:35Z",
+      "repo": "AkaDaka1/ResumeMaker",
+      "title": "Interview-driven Telegram bot that produces Human and ATS resume PDFs. FastAPI, PostgreSQL, idempotent credit ledger.",
+      "url": "https://github.com/AkaDaka1/ResumeMaker",
+      "when": "2026-11-05T18:58:12Z",
       "note": "Python · ★2 · #telegram-bot"
     },
     {
-      "id": "app:sksarvesh007/antiglaude",
+      "id": "app:PChiovatto/seo-spider",
       "section": "apps",
-      "repo": "sksarvesh007/antiglaude",
-      "title": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Ge",
-      "url": "https://github.com/sksarvesh007/antiglaude",
-      "when": "2026-11-03T19:49:06Z",
-      "note": "Python · ★7 · #ai-agent"
+      "repo": "PChiovatto/seo-spider",
+      "title": "Crawler de SEO tecnico 100% local (alternativa gratuita ao Screaming Frog): links, redirects, duplicados, schema.org, ac",
+      "url": "https://github.com/PChiovatto/seo-spider",
+      "when": "2026-11-05T12:43:14Z",
+      "note": "Python · ★1 · #web-scraping"
     },
     {
-      "id": "app:Aryan-mor/jellyfin-telegram",
+      "id": "app:PrincessWonder5879/Tower-Events-resp-At-Sunrise",
       "section": "apps",
-      "repo": "Aryan-mor/jellyfin-telegram",
-      "title": "Stream your Jellyfin library from a private Telegram channel: stock Jellyfin, bot pool, seeking and subtitles in one Go ",
-      "url": "https://github.com/Aryan-mor/jellyfin-telegram",
-      "when": "2026-11-03T18:56:30Z",
-      "note": "Go · ★4 · #telegram-bot"
+      "repo": "PrincessWonder5879/Tower-Events-resp-At-Sunrise",
+      "title": "Rediscover seasonal Tower and Farm events in Destiny 2. Built on Sunrise 0.3.2.0.",
+      "url": "https://github.com/PrincessWonder5879/Tower-Events-resp-At-Sunrise",
+      "when": "2026-11-05T12:01:02Z",
+      "note": "HTML · ★35 · #mcp-server"
+    },
+    {
+      "id": "app:JourneyElf86648/medical-risk-screening-telegram-rpocket-team-bot",
+      "section": "apps",
+      "repo": "JourneyElf86648/medical-risk-screening-telegram-rpocket-team-bot",
+      "title": "Multi-model Telegram bot for early diabetes and heart disease risk screening, powered by XGBoost — not a diagnostic tool",
+      "url": "https://github.com/JourneyElf86648/medical-risk-screening-telegram-rpocket-team-bot",
+      "when": "2026-11-05T11:57:29Z",
+      "note": "HTML · ★38 · #web-scraping"
+    },
+    {
+      "id": "app:WrenthGreen/grand-tour-rpocket",
+      "section": "apps",
+      "repo": "WrenthGreen/grand-tour-rpocket",
+      "title": "Agent skill that conducts an interactive architectural walkthrough and verification quiz over a codebase.",
+      "url": "https://github.com/WrenthGreen/grand-tour-rpocket",
+      "when": "2026-11-05T11:56:35Z",
+      "note": "HTML · ★39 · #ai-agent"
+    },
+    {
+      "id": "app:TagPhaseArcade/tiktok-uploader",
+      "section": "apps",
+      "repo": "TagPhaseArcade/tiktok-uploader",
+      "title": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Ope",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+      "when": "2026-11-05T06:48:59Z",
+      "note": "Python · ★426 · #automation"
+    },
+    {
+      "id": "app:workmagicio/workmagic-agent-plugin",
+      "section": "apps",
+      "repo": "workmagicio/workmagic-agent-plugin",
+      "title": "Ask your WorkMagic marketing data anything — attribution, lift tests and budget plans in Claude, ChatGPT, Codex, Cursor,",
+      "url": "https://github.com/workmagicio/workmagic-agent-plugin",
+      "when": "2026-11-05T06:43:51Z",
+      "note": "Python · ★9 · #mcp-server"
+    },
+    {
+      "id": "app:dragonwolfshovel/youtube-uploader",
+      "section": "apps",
+      "repo": "dragonwolfshovel/youtube-uploader",
+      "title": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTu",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader",
+      "when": "2026-11-05T05:16:01Z",
+      "note": "Python · ★426 · #automation"
+    },
+    {
+      "id": "app:Mac-XK/telegram-xiuxian",
+      "section": "apps",
+      "repo": "Mac-XK/telegram-xiuxian",
+      "title": "Telegram 修仙文字游戏：机器人 + Mini App + 网页后台 + Cocos iOS 客户端。纯 PHP 8.1 + MySQL，宝塔一步步搭建教程。",
+      "url": "https://github.com/Mac-XK/telegram-xiuxian",
+      "when": "2026-11-05T04:47:04Z",
+      "note": "PHP · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:extracthub-io/web-scrapers",
+      "section": "apps",
+      "repo": "extracthub-io/web-scrapers",
+      "title": "Ready-to-use web scrapers (Google Search SERP scraper, YouTube scraper and more) as a scraping API and MCP tools for AI ",
+      "url": "https://github.com/extracthub-io/web-scrapers",
+      "when": "2026-11-05T04:32:50Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Glen-Web-App/best-agent-memory-mcp",
+      "section": "apps",
+      "repo": "Glen-Web-App/best-agent-memory-mcp",
+      "title": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. ",
+      "url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
+      "when": "2026-11-05T01:23:58Z",
+      "note": "— · ★65 · #mcp-server"
+    },
+    {
+      "id": "app:imsai-sh/fish-pocket",
+      "section": "apps",
+      "repo": "imsai-sh/fish-pocket",
+      "title": "Run DeepSeek Harness on iPhone and iPad, with a fully native SwiftUI interface. No computer, no server. 在 iPhone 和 iPad ",
+      "url": "https://github.com/imsai-sh/fish-pocket",
+      "when": "2026-11-05T01:10:38Z",
+      "note": "Swift · ★11 · #ai-agent"
+    },
+    {
+      "id": "app:aliothman123/zadtop-api",
+      "section": "apps",
+      "repo": "aliothman123/zadtop-api",
+      "title": "Free Fire redeem, PUBG UC redeem, Yalla Ludo, Jawaker, iTunes checker, Apple checker, and Razer Gold redeem and PIN chec",
+      "url": "https://github.com/aliothman123/zadtop-api",
+      "when": "2026-11-04T23:04:00Z",
+      "note": "HTML · ★227 · #telegram-bot"
+    },
+    {
+      "id": "app:Mohammed-051/AIVault",
+      "section": "apps",
+      "repo": "Mohammed-051/AIVault",
+      "title": "A lockfile and permissions for agent skills: pins what you approved, holds updates that add network, secret or publish a",
+      "url": "https://github.com/Mohammed-051/AIVault",
+      "when": "2026-11-04T22:15:08Z",
+      "note": "JavaScript · ★7 · #mcp-server"
+    },
+    {
+      "id": "app:relayworkslab/relayworks",
+      "section": "apps",
+      "repo": "relayworkslab/relayworks",
+      "title": "The RelayWorks website and recovery console. Your AI agent quit at 70%, and Patch finishes the job. Plain HTML, CSS and ",
+      "url": "https://github.com/relayworkslab/relayworks",
+      "when": "2026-11-04T21:30:08Z",
+      "note": "HTML · ★107 · #ai-agent"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50370440",
+      "id": "hn:50383827",
       "section": "showhn",
-      "repo": "Show HN #50370440",
-      "title": "Show HN: MAVO – Ukrainian air alerts by distance to Poland, with analytics",
-      "url": "https://mavo.org.pl/en",
-      "when": "2026-11-04T19:33:34Z",
+      "repo": "Show HN #50383827",
+      "title": "Show HN: GitHub-like reply with \"R\" for Basecamp and Slack",
+      "url": "https://github.com/nashbridges/dial-r-for-reply",
+      "when": "2026-11-05T20:10:18Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50370248",
+      "id": "hn:50383799",
       "section": "showhn",
-      "repo": "Show HN #50370248",
-      "title": "Show HN: Homotope, vectorize images to SVG in the browser, MIT engine on NPM",
-      "url": "https://github.com/stevenroman91/homotope-engine",
-      "when": "2026-11-04T19:18:26Z",
+      "repo": "Show HN #50383799",
+      "title": "Show HN: Zerg Client – a coding agent harness that drives its own terminal panes",
+      "url": "https://zergai.com/ztc",
+      "when": "2026-11-05T20:08:03Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50370194",
+      "id": "hn:50383785",
       "section": "showhn",
-      "repo": "Show HN #50370194",
-      "title": "Show HN: Jinna, Company Brain& AI agents that run a one-person business with you",
-      "url": "https://jinna.ai/",
-      "when": "2026-11-04T19:15:03Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50370142",
-      "section": "showhn",
-      "repo": "Show HN #50370142",
-      "title": "Show HN: OnCue – A clock my 4-year-old can read",
-      "url": "https://www.oncueboard.com/",
-      "when": "2026-11-04T19:10:34Z",
-      "note": "2 pts · 1 comments"
-    },
-    {
-      "id": "hn:50370057",
-      "section": "showhn",
-      "repo": "Show HN #50370057",
-      "title": "Show HN: Fount – Verifiably private AI for your spreadsheets and documents",
-      "url": "https://www.fount.sh/",
-      "when": "2026-11-04T19:03:31Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50369895",
-      "section": "showhn",
-      "repo": "Show HN #50369895",
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "url": "https://fireflyk64.github.io/wcmulti/",
-      "when": "2026-11-04T18:51:27Z",
-      "note": "1 pts · 1 comments"
-    },
-    {
-      "id": "hn:50369671",
-      "section": "showhn",
-      "repo": "Show HN #50369671",
-      "title": "Show HN: Safe and lightweight VMs for Coding agents",
-      "url": "https://github.com/skerrysoft/safeagent",
-      "when": "2026-11-04T18:34:50Z",
+      "repo": "Show HN #50383785",
+      "title": "Show HN: Teach a speech model (en) a name by saying it once, on your Mac",
+      "url": "https://detailkeeper.com/",
+      "when": "2026-11-05T20:06:33Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50369556",
+      "id": "hn:50383648",
       "section": "showhn",
-      "repo": "Show HN #50369556",
-      "title": "Show HN: GraphPilot, a GraphQL edge cache that purges by entity",
-      "url": "https://graphpilot.io/",
-      "when": "2026-11-04T18:26:05Z",
+      "repo": "Show HN #50383648",
+      "title": "Show HN: Data center build-out dashboard with interactive map, coverage, etc.",
+      "url": "https://pressaudit.org/dashboards/datacenters?chart=datacenter-buildout&tab=buildout-map",
+      "when": "2026-11-05T19:56:10Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50369542",
+      "id": "hn:50383498",
       "section": "showhn",
-      "repo": "Show HN #50369542",
-      "title": "Show HN: Atlas – Let AI agents use your Mac without taking over your screen",
-      "url": "https://atlas.insanearts.io/",
-      "when": "2026-11-04T18:25:20Z",
+      "repo": "Show HN #50383498",
+      "title": "Show HN: Edit and Generate Videos, Audio, and Images from One MCP",
+      "url": "https://www.kapwing.com/mcp",
+      "when": "2026-11-05T19:44:09Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50369493",
+      "id": "hn:50383438",
       "section": "showhn",
-      "repo": "Show HN #50369493",
-      "title": "Show HN: HackerDatasets-Discover remarkable datasets on HN",
-      "url": "https://hackerdatasets.remyli.com/en/",
-      "when": "2026-11-04T18:22:01Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50369457",
-      "section": "showhn",
-      "repo": "Show HN #50369457",
-      "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
-      "url": "https://ciphero.ai/cassandra/hn",
-      "when": "2026-11-04T18:19:46Z",
-      "note": "3 pts · 0 comments"
-    },
-    {
-      "id": "hn:50369277",
-      "section": "showhn",
-      "repo": "Show HN #50369277",
-      "title": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails",
-      "url": "https://unclickbait.app/",
-      "when": "2026-11-04T18:05:42Z",
-      "note": "2 pts · 1 comments"
-    },
-    {
-      "id": "hn:50369269",
-      "section": "showhn",
-      "repo": "Show HN #50369269",
-      "title": "Show HN: ChannelVault, browse and search your Slack exports",
-      "url": "https://github.com/mestr-io/channelvault",
-      "when": "2026-11-04T18:05:05Z",
-      "note": "2 pts · 1 comments"
-    },
-    {
-      "id": "hn:50369251",
-      "section": "showhn",
-      "repo": "Show HN #50369251",
-      "title": "Show HN: An open source repo to use your personal context with any agent",
-      "url": "https://predsymod.github.io/memex/",
-      "when": "2026-11-04T18:04:10Z",
-      "note": "4 pts · 0 comments"
-    },
-    {
-      "id": "hn:50369215",
-      "section": "showhn",
-      "repo": "Show HN #50369215",
-      "title": "Show HN: Phonon TTS on WebGPU, 44MB, 115x real time, with live word timings",
-      "url": "https://github.com/blixt/phonon",
-      "when": "2026-11-04T18:01:31Z",
+      "repo": "Show HN #50383438",
+      "title": "Show HN: Lo-fi layered over air traffic control (recorded myself)",
+      "url": "https://finalapproach.fm/",
+      "when": "2026-11-05T19:39:02Z",
       "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383396",
+      "section": "showhn",
+      "repo": "Show HN #50383396",
+      "title": "Show HN: Ls-service – minimal, namespaced, and typed localStorage wrapper",
+      "url": "https://github.com/brysonbw/ls-service",
+      "when": "2026-11-05T19:35:59Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383335",
+      "section": "showhn",
+      "repo": "Show HN #50383335",
+      "title": "Show HN: calsdk, one TypeScript API for Google Calendar, Outlook and iCloud",
+      "url": "https://github.com/vkpdeveloper/calsdk",
+      "when": "2026-11-05T19:31:56Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383228",
+      "section": "showhn",
+      "repo": "Show HN #50383228",
+      "title": "Show HN: Thinker – Trim context and cache knowledge to extend agent usage limits",
+      "url": "https://thinker.sh/how-it-works",
+      "when": "2026-11-05T19:22:23Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383215",
+      "section": "showhn",
+      "repo": "Show HN #50383215",
+      "title": "Show HN: Keynate – News sites and blogs installed on your own server in minutes",
+      "url": "https://www.keynate.com",
+      "when": "2026-11-05T19:21:16Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383189",
+      "section": "showhn",
+      "repo": "Show HN #50383189",
+      "title": "Show HN: Umbel – Remote-control agent CLIs over tmux",
+      "url": "https://github.com/jahala/umbel",
+      "when": "2026-11-05T19:18:18Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50383006",
+      "section": "showhn",
+      "repo": "Show HN #50383006",
+      "title": "Show HN: Sshole-audit – Find, prove and fix *sshole: the OpenSSH password bypass",
+      "url": "https://github.com/schappim/sshole-audit",
+      "when": "2026-11-05T19:04:14Z",
+      "note": "2 pts · 0 comments"
+    },
+    {
+      "id": "hn:50382923",
+      "section": "showhn",
+      "repo": "Show HN #50382923",
+      "title": "Show HN: Ski Voice-First Multilingual Neutral Coding Harness",
+      "url": "https://justski.it/",
+      "when": "2026-11-05T18:56:40Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50382892",
+      "section": "showhn",
+      "repo": "Show HN #50382892",
+      "title": "Show HN: Tokenome – code provenance for AI-assisted work, on your machine",
+      "url": "https://tokenome.ai/",
+      "when": "2026-11-05T18:54:29Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50382866",
+      "section": "showhn",
+      "repo": "Show HN #50382866",
+      "title": "Show HN: Escape the Room Puzzles",
+      "url": "https://enigma-game.specr.net/",
+      "when": "2026-11-05T18:52:42Z",
+      "note": "1 pts · 0 comments"
     }
   ],
   "trending": [
     {
-      "id": "trend:NVIDIA/auto-ontology",
+      "id": "trend:lz4/lz4",
       "section": "trending",
-      "repo": "NVIDIA/auto-ontology",
-      "title": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "when": null,
-      "note": "Python"
-    },
-    {
-      "id": "trend:github/spec-kit",
-      "section": "trending",
-      "repo": "github/spec-kit",
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "when": null,
-      "note": "Python"
-    },
-    {
-      "id": "trend:The-PR-Agent/pr-agent",
-      "section": "trending",
-      "repo": "The-PR-Agent/pr-agent",
-      "title": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "when": null,
-      "note": "Python"
-    },
-    {
-      "id": "trend:harry0703/MoneyPrinterTurbo",
-      "section": "trending",
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "when": null,
-      "note": "Python"
-    },
-    {
-      "id": "trend:FareedKhan-dev/kimi-k3-in-c",
-      "section": "trending",
-      "repo": "FareedKhan-dev/kimi-k3-in-c",
-      "title": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "repo": "lz4/lz4",
+      "title": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
       "when": null,
       "note": "C"
     },
     {
-      "id": "trend:JiaFeiMiao-K-Cat/DiscImageStudio",
+      "id": "trend:google/skills",
       "section": "trending",
-      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "when": null,
-      "note": "C#"
-    },
-    {
-      "id": "trend:sponsors/MichaelCade",
-      "section": "trending",
-      "repo": "sponsors/MichaelCade",
-      "title": "sponsors/MichaelCade",
-      "url": "https://github.com/sponsors/MichaelCade",
-      "when": null,
-      "note": "Shell"
-    },
-    {
-      "id": "trend:Thysrael/Horizon",
-      "section": "trending",
-      "repo": "Thysrael/Horizon",
-      "title": "Thysrael/Horizon",
-      "url": "https://github.com/Thysrael/Horizon",
+      "repo": "google/skills",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
       "when": null,
       "note": "Python"
     },
     {
-      "id": "trend:scenario-labs/skills",
+      "id": "trend:vercel-labs/agent-browser",
       "section": "trending",
-      "repo": "scenario-labs/skills",
-      "title": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
+      "repo": "vercel-labs/agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "when": null,
+      "note": "Rust"
+    },
+    {
+      "id": "trend:ConardLi/garden-skills",
+      "section": "trending",
+      "repo": "ConardLi/garden-skills",
+      "title": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "when": null,
+      "note": "JavaScript"
+    },
+    {
+      "id": "trend:microsoft/VibeVoice",
+      "section": "trending",
+      "repo": "microsoft/VibeVoice",
+      "title": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
       "when": null,
       "note": "Python"
     },
     {
-      "id": "trend:sponsors/melgarafael",
+      "id": "trend:tester-army/e2e",
       "section": "trending",
-      "repo": "sponsors/melgarafael",
-      "title": "sponsors/melgarafael",
-      "url": "https://github.com/sponsors/melgarafael",
+      "repo": "tester-army/e2e",
+      "title": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:elie222/rakazo",
+      "id": "trend:KenKaiii/gg-framework",
       "section": "trending",
-      "repo": "elie222/rakazo",
-      "title": "elie222/rakazo",
-      "url": "https://github.com/elie222/rakazo",
+      "repo": "KenKaiii/gg-framework",
+      "title": "KenKaiii/gg-framework",
+      "url": "https://github.com/KenKaiii/gg-framework",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:sponsors/mermaid-js",
+      "id": "trend:sponsors/southleft",
       "section": "trending",
-      "repo": "sponsors/mermaid-js",
-      "title": "sponsors/mermaid-js",
-      "url": "https://github.com/sponsors/mermaid-js",
+      "repo": "sponsors/southleft",
+      "title": "sponsors/southleft",
+      "url": "https://github.com/sponsors/southleft",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:jo-duchan/tapflow",
+      "id": "trend:cordiverse/cordis",
       "section": "trending",
-      "repo": "jo-duchan/tapflow",
-      "title": "jo-duchan/tapflow",
-      "url": "https://github.com/jo-duchan/tapflow",
+      "repo": "cordiverse/cordis",
+      "title": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
       "when": null,
       "note": "TypeScript"
     },
     {
-      "id": "trend:humanlayer/skills",
+      "id": "trend:awslabs/aidlc-workflows",
       "section": "trending",
-      "repo": "humanlayer/skills",
-      "title": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
+      "repo": "awslabs/aidlc-workflows",
+      "title": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "when": null,
+      "note": "TypeScript"
+    },
+    {
+      "id": "trend:mihomo-party-org/clash-party",
+      "section": "trending",
+      "repo": "mihomo-party-org/clash-party",
+      "title": "mihomo-party-org/clash-party",
+      "url": "https://github.com/mihomo-party-org/clash-party",
       "when": null,
       "note": "TypeScript"
     }
