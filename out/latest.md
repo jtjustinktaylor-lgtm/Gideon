@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-11-07
+# GitHub Radar — 2026-11-08
 
-_54 new item(s) since last run · generated 2026-11-07T17:49:12.326Z_
+_82 new item(s) since last run · generated 2026-11-08T18:00:11.702Z_
 
 ## 🚀 Releases
 
@@ -8,65 +8,74 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[Merge the qualified programs work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/89ac019f62a94099333aedc109188efd9db7b920)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Mark 2 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b9e3ed7ac601b35a23d414abe7bb4a9b2e11edad)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Merge task 22.38.11 into feature/programs [spec:layerx-merge/22.38.11]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/62a4817cc99a71ac94b4359a3b731d8e25a2d5aa)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Merge the qualified tools-ops work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f35a5e52ac735c037be42227f2c3f44cee982555)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Merge the qualified interop work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f8047403c1dff34cc6da6fcafa671aaa46897e67)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Merge task 22.31.622 into feature/interop [spec:layerx-merge/22.31.622]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/bcad686ad877e3e9e18c6981d930b7a3ea856396)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Widen the budget verifier task to its settlement callers, rerun the node package behind the skip before repairing and fr](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/06535ba6d2cbdfb6264899a14dbcaf6c658a2fb5)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/ed096062ce09f78a68feab2009e7af90202836c2)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-07
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/39fa8f850ac8a9df991600323bcfafc27f6f7eed)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Merge the qualified agent work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/19d9e2cc1551d02143a71dc27d06b0d699488838)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Merge task 9.35.24 into feature/agent [spec:layerx-merge/9.35.24]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/fb61ea6d29fa92b814b4967c57d2e5f5fb61bb2b)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Run the qualification check in its own job with the pinned requirements, mark the node-compiling case and restore the si](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/dd4addbf677b3c65e139efa6b4f44c2858fdedbd)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/6b85d71b4dbaaeba2aa2acbbb42c195e1103831a)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Merge commit '55a869acc7f7238eafc830efff7ddaed03d08621' into task/9.35.24](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/80fee432cdb8a5b894afd795a4eff277da437953)** `Sidiora-Labs/Paxeer-X-Network` — layerx-worker · 2026-11-08
+- **[Merge the qualified agent work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/5a5fac14dfac0afce545c017a1f7e1e48096a17a)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-08
+- **[Delete the agent daemon's legacy activity preparation module and the kernel signing helpers [spec:layerx-merge/9.35.24]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/1a58241e717b6e6a34e4b8bf546eaf8cd2f98434)** `Sidiora-Labs/Paxeer-X-Network` — layerx-worker · 2026-11-08
+- **[0.5.116](https://github.com/decolua/9router/commit/1339107e624d1ab150c6a0c2c2ee22caa7e9db2f)** `decolua/9router` — decolua · 2026-11-08
+- **[# v0.5.116 (2026-11-08)](https://github.com/decolua/9router/commit/eaeb54a66a4ff0f4aa5e933cfa41f5cb25952441)** `decolua/9router` — decolua · 2026-11-08
+- **[fix(dedupe): drop tool_reference blocks naming stripped tools](https://github.com/decolua/9router/commit/a3039ab141c4dfc71aab434cdd2c94579bceaa42)** `decolua/9router` — decolua · 2026-11-08
+- **[fix(runtime): keep runtime installs local during global npm hooks](https://github.com/decolua/9router/commit/e3139a43033d5947cd8e24a554644144150a3325)** `decolua/9router` — mj10612 · 2026-11-08
+- **[fix(cli-tools): include no-auth, alias and custom models in Add All Active Models](https://github.com/decolua/9router/commit/69d51c0c3f2d85b3f9aee10fd5f1e1ff5b1d30ef)** `decolua/9router` — yohansyahck · 2026-11-08
+- **[fix(opencode-go): use current inference endpoint](https://github.com/decolua/9router/commit/7ef6df5615118fcf041aaeb588618e233a8446a6)** `decolua/9router` — Sofia · 2026-11-08
+- **[feat(commandcode): align data bridge with CLI v1.88.5 and add CLI auto-import](https://github.com/decolua/9router/commit/b114fa9f6fd50e7b2405fed9b01a09eed3e5cfa2)** `decolua/9router` — alwaghani · 2026-11-08
 
 ## 🆕 New repos on the radar
 
-- **[Sturgis is an experimental agent architecture from Sidiora Labs, built around one idea: the agent's existence continues between model calls. Its identity, understanding of its environment, responsibilities, and the consequences of its actions belong to a persistent runtime.](https://github.com/Sidiora-Labs/sturgis-agent-harness)** `Sidiora-Labs/sturgis-agent-harness` — Python · ★3 · via @Sidiora-Labs · 2026-09-12
-- **[The first agent that truly evolves not through prompt tricks, but by modifying, testing, and safely promoting changes to its own harness.](https://github.com/Sidiora-Labs/keith-agent-harness)** `Sidiora-Labs/keith-agent-harness` — Rust · ★3 · via @Sidiora-Labs · 2026-09-02
+_Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Portable AI Agent Workbench for safer DNF/DFO Script.pvf inspection and editing. 自包含的 DNF PVF AI 工作台，支持只读分析与受控修改。](https://github.com/LadyViaCloud61243/PVF-Ai-resp-Agent-Workbench)** `LadyViaCloud61243/PVF-Ai-resp-Agent-Workbench` — HTML · ★32 · #ai-agent · 2026-11-07
-- **[Split bills with housemates on a laptop you already own. Self-hosted, free, no npm packages. A Budget It project.](https://github.com/sherrypanaich/split-it)** `sherrypanaich/split-it` — HTML · ★1 · #pwa · 2026-11-07
-- **[Lotrix — бесплатный бот для продавцов FunPay: автоподнятие, автовыдача, автоответы, автоскупка. Приложение для Windows.](https://github.com/CoraclerSoft/lotrix)** `CoraclerSoft/lotrix` — — · ★2 · #telegram-bot · 2026-11-07
-- **[Browser automation with evidence. An Agent Skill that lets an AI agent drive a real browser while every action passes a ](https://github.com/OMD-123/browser-verified-skill)** `OMD-123/browser-verified-skill` — TypeScript · ★1 · #web-scraping · 2026-11-07
-- **[Google AI Mode for Claude and any MCP client: cited AI answers from your own browser in ~3 s, no tabs, no API keys](https://github.com/timoncool/google-ai-mode-mcp)** `timoncool/google-ai-mode-mcp` — JavaScript · ★4 · #mcp-server · 2026-11-07
-- **[Give your agent eyes: search Wikimedia Commons and Openverse, download real images, and verify magic bytes and dimension](https://github.com/2039108952x-lab/image-scout)** `2039108952x-lab/image-scout` — JavaScript · ★2 · #web-scraping · 2026-11-07
-- **[Alight Motion Pro API - documentation, SDK clients, CLI tools, and bot integration examples for Python & TypeScript.](https://github.com/88JC/Alight-Motion-API)** `88JC/Alight-Motion-API` — — · ★3 · #telegram-bot · 2026-11-07
-- **[A unified collection and research toolkit for AI agents. Connect web and platform content, search, and evidence-backed a](https://github.com/AresWei/Crawl_for_agent)** `AresWei/Crawl_for_agent` — Python · ★1 · #web-scraping · 2026-11-07
-- **[AMITH: a J.A.R.V.I.S.-style AI assistant hub with voice, camera vision, tasks and memory, powered by Groq and Gemini wit](https://github.com/Nikhil-creat/amith)** `Nikhil-creat/amith` — HTML · ★1 · #pwa · 2026-11-07
-- **[Household apps for your own home server: a shared checkbook with bills, private and shared notes, a movie collection tra](https://github.com/Noobie3DPrinting/root-cellar)** `Noobie3DPrinting/root-cellar` — JavaScript · ★2 · #pwa · 2026-11-07
-- **[Base modular de bot Telegram com grammY, menus inline, administradores, rate limiting e deploy na RTCloud.](https://github.com/RTPySystems/telegram-bot-base)** `RTPySystems/telegram-bot-base` — JavaScript · ★1 · #telegram-bot · 2026-11-06
-- **[Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox](https://github.com/shanselman/sandbox-mcp)** `shanselman/sandbox-mcp` — JavaScript · ★208 · #mcp-server · 2026-11-06
-- **[Multiaccountmanager 2023 pre-configured environment for seamless automated deployment pipeline, ensuring robust multi-ac](https://github.com/loudspiritspade/multiaccountmanager)** `loudspiritspade/multiaccountmanager` — — · ★220 · #automation · 2026-11-06
-- **[One-button rotation module for AzerothCore WotLK 3.3.5a (playerbot fork). One trigger spell, 10 classes, 30 specializati](https://github.com/manuellopezgallardo406-bit/mod-rotation-resp)** `manuellopezgallardo406-bit/mod-rotation-resp` — — · ★33 · #mcp-server · 2026-11-06
-- **[自架的美股合理價、入手價與到價提醒（Telegram／Email），附台幣損益拆解。Self-hosted US stock fair-value & alert tool. Not investment advice.](https://github.com/alankowabunga/StockCapy)** `alankowabunga/StockCapy` — Python · ★1 · #telegram-bot · 2026-11-06
+- **[Native Rust desktop harness for local AI coding agents.](https://github.com/mitschud/Relay)** `mitschud/Relay` — Rust · ★4 · #ai-agent · 2026-11-08
+- **[Secure PDF Document Processor 2026 pre-configured production build for isolated local environment workstation deployment](https://github.com/BeauticianChopper/adobe-acrobat-pro)** `BeauticianChopper/adobe-acrobat-pro` — — · ★300 · #automation · 2026-11-08
+- **[Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox](https://github.com/RapidSailorFreeze/studsmith)** `RapidSailorFreeze/studsmith` — — · ★74 · #ai-agent · 2026-11-08
+- **[Start11 2023 pre-configured environment for efficient desktop software utility deployment on professional workstations.](https://github.com/updatesealeradicate/start11)** `updatesealeradicate/start11` — — · ★301 · #automation · 2026-11-08
+- **[Multiaccountmanager 2026 automated deployment pipeline for enterprise desktop software catalog, ensuring seamless multi-](https://github.com/SuperWarlord/multiaccountmanager)** `SuperWarlord/multiaccountmanager` — — · ★300 · #automation · 2026-11-08
+- **[Chimera 2026 automated deployment pipeline for enterprise desktop software utility, ensuring seamless pre-configured env](https://github.com/PugilistCycle/chimera)** `PugilistCycle/chimera` — — · ★300 · #automation · 2026-11-08
+- **[Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional deskt](https://github.com/PsycheGradeSpeak/chief-architect-premier)** `PsycheGradeSpeak/chief-architect-premier` — — · ★300 · #automation · 2026-11-08
+- **[Avid Media Composer 2026 pre-configured production build for seamless desktop software utility configuration.](https://github.com/PlaneDiverRevitalize/avid-media-composer)** `PlaneDiverRevitalize/avid-media-composer` — — · ★301 · #automation · 2026-11-08
+- **[Archicad 2026 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless l](https://github.com/Perceptionnehandcuff/archicad)** `Perceptionnehandcuff/archicad` — — · ★300 · #automation · 2026-11-08
+- **[Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ensuring seamless offl](https://github.com/PaladinDiscriminate/adobe-substance-3d)** `PaladinDiscriminate/adobe-substance-3d` — — · ★302 · #automation · 2026-11-08
+- **[AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in is](https://github.com/PaladinSmash84/aida-64-extreme)** `PaladinSmash84/aida-64-extreme` — — · ★302 · #automation · 2026-11-08
+- **[Actual Multiple Monitors 2026 pre-configured environment for seamless desktop software utility deployment on professiona](https://github.com/OnyxAmbassador/actual-multiplie-monitors)** `OnyxAmbassador/actual-multiplie-monitors` — — · ★301 · #automation · 2026-11-08
+- **[A private AI butler for your health and your wallet: meals, sleep, Apple Watch trends + an expense ledger that writes it](https://github.com/JamesNolan17/healthy-wealthy)** `JamesNolan17/healthy-wealthy` — Python · ★2 · #telegram-bot · 2026-11-08
+- **[Ultra High-Throughput 3-Tier Web Extraction & AI RAG Ingestion Engine (Scrapling + Lightpanda V8 + Crawl4AI)](https://github.com/Amz34/hyper-scrape)** `Amz34/hyper-scrape` — Python · ★1 · #web-scraping · 2026-11-08
+- **[DSH 插件：本地加密凭据库 + 无头浏览器登录态 + 带登录态抓取（贴吧/NGA/Pixiv/书屋），含浏览器密码迁移与设置页](https://github.com/binskyz/dsh-yunpa)** `binskyz/dsh-yunpa` — JavaScript · ★2 · #web-scraping · 2026-11-08
 
 ## 📣 Show HN launches
 
-- **[Show HN: Bodylang – ask anything about your body and watch it happen in 3D](https://bodylang.vercel.app/)** `Show HN #50406456` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: Digdeep.fyi – A DNS Debug Tool for DNSSEC, Mail, HTTP](https://digdeep.fyi/)** `Show HN #50406439` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: I mapped all known crypto scams](https://dontgetrekt.today/)** `Show HN #50406341` — 1 pts · 2 comments · 2026-11-07
-- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)** `Show HN #50406292` — 13 pts · 1 comments · 2026-11-07
-- **[Show HN: LaunchZone Submissions – we submit your product to directories by hand](https://submit.launchzone.co)** `Show HN #50406189` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: FoilGateway–Linux firewall gateway with telemetry blocking (2×Ethernet)](https://github.com/iBgeek/FoilGateway-Network)** `Show HN #50406146` — 2 pts · 0 comments · 2026-11-07
-- **[Show HN: Trendalyse – Explore Ideas with Google Trends and AI](https://trendalyse.com/)** `Show HN #50406012` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: CEF Python v147 – embed Chromium in desktop apps](https://github.com/cztomczak/cefpython/releases/tag/v147.0.dev1264)** `Show HN #50405983` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: AIVim – an open-source, Vim-inspired AI editor](https://news.ycombinator.com/item?id=50405893)** `Show HN #50405893` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: Federal Reserve Game – You Run the Fed](https://my12parsecs.github.io/federalreserve-game/)** `Show HN #50405477` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: DAID – Intelligence Built for Smarter Decisions](https://daid-sandy.vercel.app)** `Show HN #50405368` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: My App: Fabric.Market](https://fabric.market/)** `Show HN #50405353` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: My App: Ctrtool.com](https://ctrtool.com/)** `Show HN #50405346` — 1 pts · 0 comments · 2026-11-07
-- **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)** `Show HN #50405263` — 5 pts · 1 comments · 2026-11-07
-- **[Show HN: Fels – a systems language with compile-time code execution](https://github.com/fels-lang/fels)** `Show HN #50405227` — 2 pts · 1 comments · 2026-11-07
+- **[Show HN: Email-like interface to review, decide, and annotate agent work](https://plannotator.ai/inbox/)** `Show HN #50415476` — 2 pts · 0 comments · 2026-11-08
+- **[Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof](https://github.com/Dr-Logvinovich/round-square/blob/main/README.md)** `Show HN #50415474` — 3 pts · 0 comments · 2026-11-08
+- **[Show HN: Search Everywhere at Once. Instantly](https://antisoftworks.com/antifind)** `Show HN #50415469` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua](https://psicode.ai/)** `Show HN #50415406` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: Claude Code status line, hooks and permissions builders (in-browser)](https://orbtile.com/tools/claude-code-statusline-builder)** `Show HN #50415399` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)** `Show HN #50415379` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: FELF – AppImage-like single binaries without FUSE, root, or a runtime](https://github.com/Rucadi/FELF)** `Show HN #50415219` — 2 pts · 0 comments · 2026-11-08
+- **[Show HN: Recap Studio – A Mac screen recorder for clean, polished demos](https://recap.studio/)** `Show HN #50415185` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: Maple – Run Gemma 4 26B on a 6GB Laptop GPU at 45 TPS (Sub-2-BPW)](https://amsach.github.io/maple/)** `Show HN #50415106` — 2 pts · 0 comments · 2026-11-08
+- **[Show HN: FuckCaptcha – a field guide to 39 CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)** `Show HN #50415078` — 2 pts · 0 comments · 2026-11-08
+- **[Show HN: Just a Pause – Blur your Mac's screen when you turn away, using AirPods](https://justapause.com)** `Show HN #50415020` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: Kinesis API for Tests and CI](https://github.com/saidsef/aws-kinesis-local)** `Show HN #50414894` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: Jabhook – Harnessing computer vision for martial arts training](https://jabhook.ai/)** `Show HN #50414691` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: ModelRefs – Interactive reference hub for AI models](https://modelrefs.com/)** `Show HN #50414668` — 1 pts · 0 comments · 2026-11-08
+- **[Show HN: emcee – macOS Stage Manager alternative](https://fuzzyfoundry.com/emcee)** `Show HN #50414575` — 1 pts · 0 comments · 2026-11-08
 
 ## 💌 GitHub Trending (daily)
 
-- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** `sherlock-project/sherlock` — Python
-- **[sponsors/mbillow](https://github.com/sponsors/mbillow)** `sponsors/mbillow` — Python
-- **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** `dsx-ai-factory/nvke` — Go
-- **[chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode)** `chaitin/MonkeyCode` — TypeScript
-- **[Unleash/unleash](https://github.com/Unleash/unleash)** `Unleash/unleash` — TypeScript
-- **[morluto/rea](https://github.com/morluto/rea)** `morluto/rea` — TypeScript
-- **[Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** `Marker-Inc-Korea/AutoRAG` — TypeScript
+- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** `anthropics/claude-quickstarts` — Python
+- **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** `google-deepmind/mujoco` — C++
+- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** `Albert-Weasker/niubigeo` — TypeScript
+- **[kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS)** `kortix-ai/CompanyOS` — TypeScript
+- **[snarktank/ralph](https://github.com/snarktank/ralph)** `snarktank/ralph` — TypeScript
+- **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** `vercel-labs/json-render` — TypeScript
+- **[poco-ai/Agentero](https://github.com/poco-ai/Agentero)** `poco-ai/Agentero` — TypeScript
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** `Open-Dev-Society/OpenStock` — TypeScript
+- **[arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt)** `arcsin1/oh-my-ppt` — TypeScript
+- **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** `humanlayer/12-factor-agents` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
