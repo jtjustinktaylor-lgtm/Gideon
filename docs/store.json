@@ -1,6 +1,141 @@
 {
   "apps": [
     {
+      "id": "app:Pickardt/Chat-GPT-Astra-6.1",
+      "name": "Chat-GPT-Astra-6.1",
+      "repo": "Pickardt/Chat-GPT-Astra-6.1",
+      "desc": "A chat interface for exploring ideas, asking questions, drafting text, learning, and handling everyday tasks with AI. Si",
+      "url": "https://github.com/Pickardt/Chat-GPT-Astra-6.1",
+      "when": "2026-11-09T19:43:25Z",
+      "note": "— · ★29 · #ai-agent"
+    },
+    {
+      "id": "app:abdulrahmanHijazi/pos-douma",
+      "name": "pos-douma",
+      "repo": "abdulrahmanHijazi/pos-douma",
+      "desc": "Offline-first multi-tenant SaaS POS (Laravel + Filament + Vue PWA)",
+      "url": "https://github.com/abdulrahmanHijazi/pos-douma",
+      "when": "2026-11-09T18:22:44Z",
+      "note": "PHP · ★2 · #pwa"
+    },
+    {
+      "id": "app:mystudyos/mystudyos1",
+      "name": "mystudyos1",
+      "repo": "mystudyos/mystudyos1",
+      "desc": "Your premium responsive workspace for EXAM PREP. Practice anytime, anywhere.",
+      "url": "https://github.com/mystudyos/mystudyos1",
+      "when": "2026-11-09T16:28:57Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:minorun365/unslop-ai-app",
+      "name": "unslop-ai-app",
+      "repo": "minorun365/unslop-ai-app",
+      "desc": "AI臭くないAIエージェントアプリを作るスキル",
+      "url": "https://github.com/minorun365/unslop-ai-app",
+      "when": "2026-11-09T12:39:47Z",
+      "note": "JavaScript · ★20 · #ai-agent"
+    },
+    {
+      "id": "app:Nomadiction/hq-access-control-bot",
+      "name": "hq-access-control-bot",
+      "repo": "Nomadiction/hq-access-control-bot",
+      "desc": "Telegram bot that approves join requests to private groups against a per-group whitelist",
+      "url": "https://github.com/Nomadiction/hq-access-control-bot",
+      "when": "2026-11-09T12:36:08Z",
+      "note": "Python · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:Xebet/amazon-bsr-board",
+      "name": "amazon-bsr-board",
+      "repo": "Xebet/amazon-bsr-board",
+      "desc": "亚马逊任意站点/类目的榜单前 N 名 → 卡片看板 Excel（一天一页、一月一册）+ 可切日期 HTML；支持畅销榜/新品榜/飙升榜/心愿单榜，卡片字段可裁，长期积累排名与颜色数据（WorkBuddy Skill，纯 Python 也可直",
+      "url": "https://github.com/Xebet/amazon-bsr-board",
+      "when": "2026-11-09T09:02:20Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:yusuke-114/claude-xcode-agent",
+      "name": "claude-xcode-agent",
+      "repo": "yusuke-114/claude-xcode-agent",
+      "desc": "Use Claude Code as the coding agent in Xcode 27, powered by your own API key or gateway.",
+      "url": "https://github.com/yusuke-114/claude-xcode-agent",
+      "when": "2026-11-09T08:27:15Z",
+      "note": "Shell · ★16 · #ai-agent"
+    },
+    {
+      "id": "app:soheltanvir0699/scout-ai-browser-agent",
+      "name": "scout-ai-browser-agent",
+      "repo": "soheltanvir0699/scout-ai-browser-agent",
+      "desc": "Scout — free open-source AI browser agent. Tell it a task in plain English and it drives your real Chrome to do it: read",
+      "url": "https://github.com/soheltanvir0699/scout-ai-browser-agent",
+      "when": "2026-11-09T08:17:13Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:liqihaoshuai/platform-search",
+      "name": "platform-search",
+      "repo": "liqihaoshuai/platform-search",
+      "desc": "platform-search 是一个独立运行的跨平台互联网检索引擎，支持中文内容平台、海外社区和公开搜索引擎的统一检索，提供按来源分组、时间范围筛选、去重排序以及 Markdown、JSON、HTML 多格式结果输出。项目统一使用 Pyt",
+      "url": "https://github.com/liqihaoshuai/platform-search",
+      "when": "2026-11-09T06:17:16Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:FJNB5/fujiang-pojia",
+      "name": "fujiang-pojia",
+      "repo": "FJNB5/fujiang-pojia",
+      "desc": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "url": "https://github.com/FJNB5/fujiang-pojia",
+      "when": "2026-11-09T05:55:55Z",
+      "note": "JavaScript · ★278 · #ai-agent"
+    },
+    {
+      "id": "app:nguyencaotai1969/telegram-bot-router",
+      "name": "telegram-bot-router",
+      "repo": "nguyencaotai1969/telegram-bot-router",
+      "desc": "Control Claude Code from Telegram: one bot, one group, each topic drives Claude Code in its own project folder. Photos &",
+      "url": "https://github.com/nguyencaotai1969/telegram-bot-router",
+      "when": "2026-11-09T03:52:38Z",
+      "note": "TypeScript · ★4 · #telegram-bot"
+    },
+    {
+      "id": "app:xiangbiaoqiao/scrape-studio",
+      "name": "scrape-studio",
+      "repo": "xiangbiaoqiao/scrape-studio",
+      "desc": "Visual web scraping workbench with a built-in anti-bot doctor. Spring Boot 3 + Vue 3 + Playwright.",
+      "url": "https://github.com/xiangbiaoqiao/scrape-studio",
+      "when": "2026-11-09T01:43:13Z",
+      "note": "Vue · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:yolilin642-byte/screen-handoff",
+      "name": "screen-handoff",
+      "repo": "yolilin642-byte/screen-handoff",
+      "desc": "Let an AI use your computer while you watch from your phone, and take over anytime. Self-hosted, built on CrossDesk.",
+      "url": "https://github.com/yolilin642-byte/screen-handoff",
+      "when": "2026-11-09T01:13:45Z",
+      "note": "JavaScript · ★14 · #ai-agent"
+    },
+    {
+      "id": "app:zahidoverflow/viperclaw",
+      "name": "viperclaw",
+      "repo": "zahidoverflow/viperclaw",
+      "desc": "AI Pentesting Framework, Bug Bounty MCP Server, SAST/DAST Taint Engine & 12 Offensive Security Skills for Claude Code, G",
+      "url": "https://github.com/zahidoverflow/viperclaw",
+      "when": "2026-11-08T18:14:10Z",
+      "note": "Python · ★5 · #mcp-server"
+    },
+    {
+      "id": "app:shfqrkhn/shfqrkhn.github.io",
+      "name": "shfqrkhn.github.io",
+      "repo": "shfqrkhn/shfqrkhn.github.io",
+      "desc": "Omnevum: local-first apps, tools, games, guides, recipes and courses. Offline, installable, no account, no tracking. Thi",
+      "url": "https://github.com/shfqrkhn/shfqrkhn.github.io",
+      "when": "2026-11-08T16:46:51Z",
+      "note": "HTML · ★1 · #pwa"
+    },
+    {
       "id": "app:mitschud/Relay",
       "name": "Relay",
       "repo": "mitschud/Relay",
@@ -19,6 +154,15 @@
       "note": "— · ★300 · #automation"
     },
     {
+      "id": "app:kanaworksai-hue/sozai-search-mcp",
+      "name": "sozai-search-mcp",
+      "repo": "kanaworksai-hue/sozai-search-mcp",
+      "desc": "Free 3D assets for AI agents: search ~36,000 free (mostly CC0) models, materials and HDRIs with real-world sizes, as an ",
+      "url": "https://github.com/kanaworksai-hue/sozai-search-mcp",
+      "when": "2026-11-08T13:25:15Z",
+      "note": "Python · ★36 · #mcp-server"
+    },
+    {
       "id": "app:RapidSailorFreeze/studsmith",
       "name": "studsmith",
       "repo": "RapidSailorFreeze/studsmith",
@@ -26,6 +170,24 @@
       "url": "https://github.com/RapidSailorFreeze/studsmith",
       "when": "2026-11-08T13:11:10Z",
       "note": "— · ★74 · #ai-agent"
+    },
+    {
+      "id": "app:GauffrePierre/syncine",
+      "name": "syncine",
+      "repo": "GauffrePierre/syncine",
+      "desc": "🎬 Le compagnon des cinéphile auto-hébergé : streaming, cinémas de ta ville, watchlist et recommandations, synchronisés ",
+      "url": "https://github.com/GauffrePierre/syncine",
+      "when": "2026-11-08T09:22:40Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:VertexCoppersmith/total-commander",
+      "name": "total-commander",
+      "repo": "VertexCoppersmith/total-commander",
+      "desc": "Total Commander 10.5 automated deployment pipeline for efficient desktop software utility management in isolated local e",
+      "url": "https://github.com/VertexCoppersmith/total-commander",
+      "when": "2026-11-08T08:41:12Z",
+      "note": "— · ★292 · #automation"
     },
     {
       "id": "app:updatesealeradicate/start11",
@@ -46,6 +208,42 @@
       "note": "— · ★300 · #automation"
     },
     {
+      "id": "app:SolicitorKnife/keyshot-pro",
+      "name": "keyshot-pro",
+      "repo": "SolicitorKnife/keyshot-pro",
+      "desc": "Keyshot Pro 2026 pre-configured environment for professional desktop software utility, ready for automated deployment pi",
+      "url": "https://github.com/SolicitorKnife/keyshot-pro",
+      "when": "2026-11-08T08:39:19Z",
+      "note": "— · ★292 · #automation"
+    },
+    {
+      "id": "app:SleuthPropagate/imobie-anytrans",
+      "name": "imobie-anytrans",
+      "repo": "SleuthPropagate/imobie-anytrans",
+      "desc": "Imobie Anytrans 1.5.3 - Local workstation deployment package for efficient media management and synchronization tasks in",
+      "url": "https://github.com/SleuthPropagate/imobie-anytrans",
+      "when": "2026-11-08T08:39:11Z",
+      "note": "— · ★293 · #automation"
+    },
+    {
+      "id": "app:Quantumoarefresh/daemon-pro",
+      "name": "daemon-pro",
+      "repo": "Quantumoarefresh/daemon-pro",
+      "desc": "Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software ",
+      "url": "https://github.com/Quantumoarefresh/daemon-pro",
+      "when": "2026-11-08T08:37:52Z",
+      "note": "— · ★303 · #automation"
+    },
+    {
+      "id": "app:PurpleChordEvaluate/claude-jailbreak-prompt",
+      "name": "claude-jailbreak-prompt",
+      "repo": "PurpleChordEvaluate/claude-jailbreak-prompt",
+      "desc": "Optimized local environment suite for Claude AI pipeline management and custom automation workflows.",
+      "url": "https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt",
+      "when": "2026-11-08T08:37:50Z",
+      "note": "— · ★300 · #automation"
+    },
+    {
       "id": "app:PugilistCycle/chimera",
       "name": "chimera",
       "repo": "PugilistCycle/chimera",
@@ -55,6 +253,15 @@
       "note": "— · ★300 · #automation"
     },
     {
+      "id": "app:PugilistCarve/cinebench",
+      "name": "cinebench",
+      "repo": "PugilistCarve/cinebench",
+      "desc": "Cinebench 2026 pre-configured environment for professional desktop software utility configuration.",
+      "url": "https://github.com/PugilistCarve/cinebench",
+      "when": "2026-11-08T08:37:49Z",
+      "note": "— · ★317 · #automation"
+    },
+    {
       "id": "app:PsycheGradeSpeak/chief-architect-premier",
       "name": "chief-architect-premier",
       "repo": "PsycheGradeSpeak/chief-architect-premier",
@@ -62,6 +269,15 @@
       "url": "https://github.com/PsycheGradeSpeak/chief-architect-premier",
       "when": "2026-11-08T08:37:48Z",
       "note": "— · ★300 · #automation"
+    },
+    {
+      "id": "app:PuffinString/cellebrite-ufed",
+      "name": "cellebrite-ufed",
+      "repo": "PuffinString/cellebrite-ufed",
+      "desc": "Cellebrite UFED 2026 pre-configured production build for secure digital forensics and hardware validation toolkit deploy",
+      "url": "https://github.com/PuffinString/cellebrite-ufed",
+      "when": "2026-11-08T08:37:47Z",
+      "note": "— · ★325 · #automation"
     },
     {
       "id": "app:PlaneDiverRevitalize/avid-media-composer",
@@ -100,6 +316,24 @@
       "note": "— · ★302 · #automation"
     },
     {
+      "id": "app:PackGiraffeFaucet86/adobe-indesign",
+      "name": "adobe-indesign",
+      "repo": "PackGiraffeFaucet86/adobe-indesign",
+      "desc": "Publishing Layout Tool 2026 pre-configured production build for secure digital asset deployment pipeline, ensuring robus",
+      "url": "https://github.com/PackGiraffeFaucet86/adobe-indesign",
+      "when": "2026-11-08T08:36:56Z",
+      "note": "— · ★309 · #automation"
+    },
+    {
+      "id": "app:ParakeetWatch/adobe-audition",
+      "name": "adobe-audition",
+      "repo": "ParakeetWatch/adobe-audition",
+      "desc": "Advanced Audio Workbench 2026 pre-configured environment for secure digital asset deployment pipeline.",
+      "url": "https://github.com/ParakeetWatch/adobe-audition",
+      "when": "2026-11-08T08:36:56Z",
+      "note": "— · ★309 · #automation"
+    },
+    {
       "id": "app:OnyxAmbassador/actual-multiplie-monitors",
       "name": "actual-multiplie-monitors",
       "repo": "OnyxAmbassador/actual-multiplie-monitors",
@@ -107,6 +341,15 @@
       "url": "https://github.com/OnyxAmbassador/actual-multiplie-monitors",
       "when": "2026-11-08T08:36:55Z",
       "note": "— · ★301 · #automation"
+    },
+    {
+      "id": "app:OhmUrchinSee/abbyy-finereader-pdf",
+      "name": "abbyy-finereader-pdf",
+      "repo": "OhmUrchinSee/abbyy-finereader-pdf",
+      "desc": "Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026.",
+      "url": "https://github.com/OhmUrchinSee/abbyy-finereader-pdf",
+      "when": "2026-11-08T08:36:54Z",
+      "note": "— · ★356 · #automation"
     },
     {
       "id": "app:JamesNolan17/healthy-wealthy",
@@ -134,6 +377,15 @@
       "url": "https://github.com/binskyz/dsh-yunpa",
       "when": "2026-11-08T04:38:36Z",
       "note": "JavaScript · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:lixixiong999-prog/666gogogo",
+      "name": "666gogogo",
+      "repo": "lixixiong999-prog/666gogogo",
+      "desc": "666gogogo｜666爬虫：个人非商用爬虫工具，一台电脑搜遍 11 大平台（crawler / web scraper / spider），永久免费、无订阅；Windows 安装包见 Releases。｜666 Super Crawle",
+      "url": "https://github.com/lixixiong999-prog/666gogogo",
+      "when": "2026-11-08T04:21:48Z",
+      "note": "— · ★1 · #web-scraping"
     },
     {
       "id": "app:tailucanh/offload-mcp-server",
@@ -181,6 +433,15 @@
       "note": "Python · ★1 · #web-scraping"
     },
     {
+      "id": "app:Moh23rd/Sixfold",
+      "name": "Sixfold",
+      "repo": "Moh23rd/Sixfold",
+      "desc": "Six games. No filler. A pocket arcade of six offline puzzles: Merge, Water Sort, One Line, Fruit Merge, Tic Tac Toe and ",
+      "url": "https://github.com/Moh23rd/Sixfold",
+      "when": "2026-11-07T18:22:19Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
       "id": "app:Mladery/pojia-modifier",
       "name": "pojia-modifier",
       "repo": "Mladery/pojia-modifier",
@@ -215,6 +476,15 @@
       "url": "https://github.com/LadyViaCloud61243/PVF-Ai-resp-Agent-Workbench",
       "when": "2026-11-07T15:55:41Z",
       "note": "HTML · ★32 · #ai-agent"
+    },
+    {
+      "id": "app:kilolonion/agent-vscreen",
+      "name": "agent-vscreen",
+      "repo": "kilolonion/agent-vscreen",
+      "desc": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your",
+      "url": "https://github.com/kilolonion/agent-vscreen",
+      "when": "2026-11-07T15:51:54Z",
+      "note": "Kotlin · ★45 · #ai-agent"
     },
     {
       "id": "app:QwertyMcQwertz/four-six",
@@ -343,6 +613,24 @@
       "note": "Python · ★3 · #telegram-bot"
     },
     {
+      "id": "app:benakaben10/secret-mask",
+      "name": "secret-mask",
+      "repo": "benakaben10/secret-mask",
+      "desc": "Mask secrets in a project with stable placeholders, encrypt the originals, and restore them byte-for-byte. Guards Claude",
+      "url": "https://github.com/benakaben10/secret-mask",
+      "when": "2026-11-07T07:13:00Z",
+      "note": "Go · ★3 · #mcp-server"
+    },
+    {
+      "id": "app:YangBY-117/stilldesk",
+      "name": "stilldesk",
+      "repo": "YangBY-117/stilldesk",
+      "desc": "Your agent works. Your cursor stays yours. Background-first MCP + CLI for Chrome, Edge and native apps. No browser remot",
+      "url": "https://github.com/YangBY-117/stilldesk",
+      "when": "2026-11-07T06:10:23Z",
+      "note": "Python · ★4 · #mcp-server"
+    },
+    {
       "id": "app:yuki4266/ruin-everything",
       "name": "ruin-everything",
       "repo": "yuki4266/ruin-everything",
@@ -350,6 +638,15 @@
       "url": "https://github.com/yuki4266/ruin-everything",
       "when": "2026-11-07T02:35:02Z",
       "note": "Python · ★9 · #mcp-server"
+    },
+    {
+      "id": "app:zxy-fish/Meme",
+      "name": "Meme",
+      "repo": "zxy-fish/Meme",
+      "desc": "本地优先的个人媒体库：番剧 / 电视剧 / 电影 / 小说 / 漫画 / 网页书签，含备忘录与阅读器，支持私有仓库同步和桌面端应用内更新。",
+      "url": "https://github.com/zxy-fish/Meme",
+      "when": "2026-11-07T01:56:56Z",
+      "note": "TypeScript · ★1 · #pwa"
     },
     {
       "id": "app:Nikhil-creat/amith",
@@ -1502,304 +1799,7 @@
       "url": "https://github.com/XdekHckr/circle_so_scraper",
       "when": "2026-11-02T20:16:46Z",
       "note": "Python · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:VITASID57/ai-toy-hub",
-      "name": "ai-toy-hub",
-      "repo": "VITASID57/ai-toy-hub",
-      "desc": "让你家 AI 真的碰到你：自托管的多品牌蓝牙玩具中枢，MCP 接入，手机中继，遥控面板，写字和声音都能化成震动。18+ · 禁止商用 · Let your AI companion touch you.",
-      "url": "https://github.com/VITASID57/ai-toy-hub",
-      "when": "2026-11-02T20:01:48Z",
-      "note": "JavaScript · ★20 · #mcp-server"
-    },
-    {
-      "id": "app:skingko/PastAi",
-      "name": "PastAi",
-      "repo": "skingko/PastAi",
-      "desc": "Open-source AI clipboard manager and PopClip-style text selection toolbar for macOS. Clipboard history, OCR search, AI t",
-      "url": "https://github.com/skingko/PastAi",
-      "when": "2026-11-02T18:51:13Z",
-      "note": "Swift · ★51 · #ai-agent"
-    },
-    {
-      "id": "app:BaronCyrus/ShipMyGame",
-      "name": "ShipMyGame",
-      "repo": "BaronCyrus/ShipMyGame",
-      "desc": "把仓库丢给你的 AI Agent，一句话把 Unity 游戏上架 Google Play / 微信小游戏 / TapTap：从注册开发者账号到提交审核，步骤来自真实上架。Agent skills that ship your Unity g",
-      "url": "https://github.com/BaronCyrus/ShipMyGame",
-      "when": "2026-11-02T15:54:40Z",
-      "note": "C# · ★6 · #ai-agent"
-    },
-    {
-      "id": "app:adavidjulius/Julius",
-      "name": "Julius",
-      "repo": "adavidjulius/Julius",
-      "desc": "Autonomous AI Agent & Multi-Modal System Copilot — Tactile TypeScript TUI, Direct 550B Streaming API, Sandboxed Canvas",
-      "url": "https://github.com/adavidjulius/Julius",
-      "when": "2026-11-02T15:47:12Z",
-      "note": "Python · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:askglyph/glyph",
-      "name": "glyph",
-      "repo": "askglyph/glyph",
-      "desc": "an ascii manta that guards the $GLYPH reserve",
-      "url": "https://github.com/askglyph/glyph",
-      "when": "2026-11-02T14:55:37Z",
-      "note": "TypeScript · ★19 · #ai-agent"
-    },
-    {
-      "id": "app:crimeacs/OpenPetCam",
-      "name": "OpenPetCam",
-      "repo": "crimeacs/OpenPetCam",
-      "desc": "Open-source, self-hosted pet camera: live video, a camera that finds your dog, alerts. Thingino + a $5 server. No subscr",
-      "url": "https://github.com/crimeacs/OpenPetCam",
-      "when": "2026-11-02T14:35:02Z",
-      "note": "Python · ★6 · #pwa"
-    },
-    {
-      "id": "app:ishandutta2007/Make-A-Clone-of-X",
-      "name": "Make-A-Clone-of-X",
-      "repo": "ishandutta2007/Make-A-Clone-of-X",
-      "desc": "Replicate any Software (Opensource) 🌟 Star if you like it! 🌟",
-      "url": "https://github.com/ishandutta2007/Make-A-Clone-of-X",
-      "when": "2026-11-02T14:24:18Z",
-      "note": "Shell · ★5 · #mcp-server"
-    },
-    {
-      "id": "app:Bigibyte/track-products-prices-apis",
-      "name": "track-products-prices-apis",
-      "repo": "Bigibyte/track-products-prices-apis",
-      "desc": "21,000+ product and price APIs to monitor ecommerce prices, stock and catalogs on Amazon, Shopify, Etsy, eBay and more.",
-      "url": "https://github.com/Bigibyte/track-products-prices-apis",
-      "when": "2026-11-02T13:31:21Z",
-      "note": "— · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:Bigibyte/seo-marketing-apis",
-      "name": "seo-marketing-apis",
-      "repo": "Bigibyte/seo-marketing-apis",
-      "desc": "8,000+ SEO and marketing APIs for SERP results, keyword research, backlinks, site audits and ads data. Export to CSV or ",
-      "url": "https://github.com/Bigibyte/seo-marketing-apis",
-      "when": "2026-11-02T13:31:16Z",
-      "note": "— · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:Bigibyte/research-markets-competitors-apis",
-      "name": "research-markets-competitors-apis",
-      "repo": "Bigibyte/research-markets-competitors-apis",
-      "desc": "52,000+ market research and competitor APIs for competitive intelligence, industry data, reviews, pricing and market sig",
-      "url": "https://github.com/Bigibyte/research-markets-competitors-apis",
-      "when": "2026-11-02T13:31:10Z",
-      "note": "— · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Bigibyte/lead-generation-apis",
-      "name": "lead-generation-apis",
-      "repo": "Bigibyte/lead-generation-apis",
-      "desc": "13,000+ lead generation APIs for B2B leads, Google Maps businesses, emails and phones. Build prospect lists and enrich y",
-      "url": "https://github.com/Bigibyte/lead-generation-apis",
-      "when": "2026-11-02T13:31:00Z",
-      "note": "— · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:Bigibyte/developer-tools-apis",
-      "name": "developer-tools-apis",
-      "repo": "Bigibyte/developer-tools-apis",
-      "desc": "13,000+ developer tool APIs: headless browsers, scrapers, proxies, parsers, MCP servers and automation helpers for your ",
-      "url": "https://github.com/Bigibyte/developer-tools-apis",
-      "when": "2026-11-02T13:30:56Z",
-      "note": "— · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:Bigibyte/company-data-apis",
-      "name": "company-data-apis",
-      "repo": "Bigibyte/company-data-apis",
-      "desc": "28,000+ company data APIs for firmographics, business registries, funding, hiring signals and CRM enrichment. Export to ",
-      "url": "https://github.com/Bigibyte/company-data-apis",
-      "when": "2026-11-02T13:30:47Z",
-      "note": "— · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:0x45dd/pwner",
-      "name": "pwner",
-      "repo": "0x45dd/pwner",
-      "desc": "Autonomous agentic network penetration-testing tool (authorized use only)",
-      "url": "https://github.com/0x45dd/pwner",
-      "when": "2026-11-02T13:15:15Z",
-      "note": "Python · ★42 · #ai-agent"
-    },
-    {
-      "id": "app:sepehr071/iran-jobs-mcp",
-      "name": "iran-jobs-mcp",
-      "repo": "sepehr071/iran-jobs-mcp",
-      "desc": "Unofficial read-only MCP server for Iranian job sites (استخدام) IranTalent, Jobinja and Jobvision: job search, companies",
-      "url": "https://github.com/sepehr071/iran-jobs-mcp",
-      "when": "2026-11-02T13:03:36Z",
-      "note": "Python · ★21 · #mcp-server"
-    },
-    {
-      "id": "app:bychance6600/dsh-fish-river",
-      "name": "dsh-fish-river",
-      "repo": "bychance6600/dsh-fish-river",
-      "desc": "养一条会自己长大的鱼：没有人格设置，人格只能通过事件流长出来。DSH 插件 · 三层记忆 · QQ / B站私信 / 抖音 三个真实渠道。",
-      "url": "https://github.com/bychance6600/dsh-fish-river",
-      "when": "2026-11-02T12:37:36Z",
-      "note": "JavaScript · ★6 · #ai-agent"
-    },
-    {
-      "id": "app:canberkbekir/omarchy-remote",
-      "name": "omarchy-remote",
-      "repo": "canberkbekir/omarchy-remote",
-      "desc": "Control your Omarchy PC from your phone: volume, media, brightness, trackpad and keyboard, in a Home Screen web app.",
-      "url": "https://github.com/canberkbekir/omarchy-remote",
-      "when": "2026-11-02T12:03:36Z",
-      "note": "Go · ★6 · #pwa"
-    },
-    {
-      "id": "app:MrKabas/Otomoto-Scraper",
-      "name": "Otomoto-Scraper",
-      "repo": "MrKabas/Otomoto-Scraper",
-      "desc": "Scraper Otomoto.pl (GraphQL) — car listings with specs, equipment flags and photos. SQLite → CSV / Parquet.",
-      "url": "https://github.com/MrKabas/Otomoto-Scraper",
-      "when": "2026-11-02T11:12:02Z",
-      "note": "TypeScript · ★3 · #web-scraping"
-    },
-    {
-      "id": "app:DelphiMan68/Telegram4D",
-      "name": "Telegram4D",
-      "repo": "DelphiMan68/Telegram4D",
-      "desc": "Telegram Bot API library for Delphi and Free Pascal",
-      "url": "https://github.com/DelphiMan68/Telegram4D",
-      "when": "2026-11-02T10:28:57Z",
-      "note": "Pascal · ★5 · #telegram-bot"
-    },
-    {
-      "id": "app:GalaxyShadeSquare/windows-optimizer",
-      "name": "windows-optimizer",
-      "repo": "GalaxyShadeSquare/windows-optimizer",
-      "desc": "Optimized Windows Environment 2026 - Full working installer with advanced system tweaks and enhancements ready to run.",
-      "url": "https://github.com/GalaxyShadeSquare/windows-optimizer",
-      "when": "2026-11-02T10:15:45Z",
-      "note": "— · ★400 · #automation"
-    },
-    {
-      "id": "app:Tempofaengage/unlocktool",
-      "name": "unlocktool",
-      "repo": "Tempofaengage/unlocktool",
-      "desc": "Unlocktool 2023: Full working installer with enhanced security features for professional desktop use.",
-      "url": "https://github.com/Tempofaengage/unlocktool",
-      "when": "2026-11-02T10:15:33Z",
-      "note": "— · ★301 · #automation"
-    },
-    {
-      "id": "app:rivetpelicanstir/total-commander",
-      "name": "total-commander",
-      "repo": "rivetpelicanstir/total-commander",
-      "desc": "Total Commander 10.5 - Full working installer with all plugins and settings included for seamless desktop experience.",
-      "url": "https://github.com/rivetpelicanstir/total-commander",
-      "when": "2026-11-02T10:15:22Z",
-      "note": "— · ★499 · #automation"
-    },
-    {
-      "id": "app:MeshBeatDitch/startall-back",
-      "name": "startall-back",
-      "repo": "MeshBeatDitch/startall-back",
-      "desc": "Startall Back 2026 - Full working installer for professional desktop software utility configuration. Ready to run out-of",
-      "url": "https://github.com/MeshBeatDitch/startall-back",
-      "when": "2026-11-02T10:15:16Z",
-      "note": "— · ★400 · #automation"
-    },
-    {
-      "id": "app:Bridgeyaprovide/roblox-game-copier",
-      "name": "roblox-game-copier",
-      "repo": "Bridgeyaprovide/roblox-game-copier",
-      "desc": "Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.",
-      "url": "https://github.com/Bridgeyaprovide/roblox-game-copier",
-      "when": "2026-11-02T10:14:34Z",
-      "note": "— · ★501 · #automation"
-    },
-    {
-      "id": "app:marbleorbweb94/ninjatrader-bot",
-      "name": "ninjatrader-bot",
-      "repo": "marbleorbweb94/ninjatrader-bot",
-      "desc": "Robust Ninjatrader Bot 2026, a complete standalone setup ready to run with all features pre-activated.",
-      "url": "https://github.com/marbleorbweb94/ninjatrader-bot",
-      "when": "2026-11-02T10:14:05Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:TankPharaoh23/microsoft-project",
-      "name": "microsoft-project",
-      "repo": "TankPharaoh23/microsoft-project",
-      "desc": "Microsoft Project 2026 complete standalone setup, pre-activated and ready to run on your desktop.",
-      "url": "https://github.com/TankPharaoh23/microsoft-project",
-      "when": "2026-11-02T10:13:38Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:DistributorKnit/metatrader-5-bot",
-      "name": "metatrader-5-bot",
-      "repo": "DistributorKnit/metatrader-5-bot",
-      "desc": "Metatrader 5 Bot 2026: Full working installer with all features activated, ready for immediate desktop use.",
-      "url": "https://github.com/DistributorKnit/metatrader-5-bot",
-      "when": "2026-11-02T10:13:33Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:AquaTradesmanAbide/genesis-miner",
-      "name": "genesis-miner",
-      "repo": "AquaTradesmanAbide/genesis-miner",
-      "desc": "Genesis Miner 2026: Full working installer with all features unlocked, ready to run on your desktop.",
-      "url": "https://github.com/AquaTradesmanAbide/genesis-miner",
-      "when": "2026-11-02T10:12:41Z",
-      "note": "— · ★488 · #automation"
-    },
-    {
-      "id": "app:superwardenseek/discord-server-raider",
-      "name": "discord-server-raider",
-      "repo": "superwardenseek/discord-server-raider",
-      "desc": "Discord Server Raider 2026: Full working installer with all features activated for offline desktop use.",
-      "url": "https://github.com/superwardenseek/discord-server-raider",
-      "when": "2026-11-02T10:11:56Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:Holdterjetty/discord-server-cloner",
-      "name": "discord-server-cloner",
-      "repo": "Holdterjetty/discord-server-cloner",
-      "desc": "Discord Server Cloner 2026: Full working installer, ready-to-run desktop software for cloning Discord servers effortless",
-      "url": "https://github.com/Holdterjetty/discord-server-cloner",
-      "when": "2026-11-02T10:11:51Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:stalkerswifthub/discord-quest-completer",
-      "name": "discord-quest-completer",
-      "repo": "stalkerswifthub/discord-quest-completer",
-      "desc": "Discord Quest Completer 2026: Complete standalone setup, ready to run with all features activated.",
-      "url": "https://github.com/stalkerswifthub/discord-quest-completer",
-      "when": "2026-11-02T10:11:47Z",
-      "note": "— · ★469 · #automation"
-    },
-    {
-      "id": "app:CircumferenceBanker/autodesk-inventor",
-      "name": "autodesk-inventor",
-      "repo": "CircumferenceBanker/autodesk-inventor",
-      "desc": "Autodesk Inventor 2026 full working installer. Ready-to-run professional desktop configuration with all features pre-act",
-      "url": "https://github.com/CircumferenceBanker/autodesk-inventor",
-      "when": "2026-11-02T10:10:43Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:HandcuffHelper/ads-blocker",
-      "name": "ads-blocker",
-      "repo": "HandcuffHelper/ads-blocker",
-      "desc": "Ads Blocker 2026: Full working installer with enhanced ad detection and blocking capabilities. Ready-to-run desktop soft",
-      "url": "https://github.com/HandcuffHelper/ads-blocker",
-      "when": "2026-11-02T10:10:12Z",
-      "note": "— · ★400 · #automation"
     }
   ],
-  "updated": "2026-11-08T18:00:11.702Z"
+  "updated": "2026-11-09T22:37:50.204Z"
 }
