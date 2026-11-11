@@ -1,6 +1,159 @@
 {
   "apps": [
     {
+      "id": "app:SsKanDon/blender-ai-mcp-addon",
+      "name": "blender-ai-mcp-addon",
+      "repo": "SsKanDon/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+      "url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+      "when": "2026-11-11T17:24:32Z",
+      "note": "— · ★3 · #mcp-server"
+    },
+    {
+      "id": "app:abjelosevic88/pocket-homelab-karaoke",
+      "name": "pocket-homelab-karaoke",
+      "repo": "abjelosevic88/pocket-homelab-karaoke",
+      "desc": "Pocket Karaoke — self-hosted karaoke: songs from uploads (MP3, MP4, MP3+CDG, .lrc), YouTube and your music library with ",
+      "url": "https://github.com/abjelosevic88/pocket-homelab-karaoke",
+      "when": "2026-11-11T14:22:12Z",
+      "note": "Go · ★2 · #pwa"
+    },
+    {
+      "id": "app:potato1778/phone-driven-booking-scrape",
+      "name": "phone-driven-booking-scrape",
+      "repo": "potato1778/phone-driven-booking-scrape",
+      "desc": "Beat flight & hotel bot-walls by driving the user real phone via adb instead of a headless browser.",
+      "url": "https://github.com/potato1778/phone-driven-booking-scrape",
+      "when": "2026-11-11T14:20:14Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:alexturkey/ozel-uzak-masaustu",
+      "name": "ozel-uzak-masaustu",
+      "repo": "alexturkey/ozel-uzak-masaustu",
+      "desc": "Tailscale + RustDesk ile port açmadan, kendi cihazların arasında özel uzak masaüstü. Yapay zekâ ajanınla adım adım kurul",
+      "url": "https://github.com/alexturkey/ozel-uzak-masaustu",
+      "when": "2026-11-11T14:01:54Z",
+      "note": "PowerShell · ★14 · #ai-agent"
+    },
+    {
+      "id": "app:scrape-hub/koon",
+      "name": "koon",
+      "repo": "scrape-hub/koon",
+      "desc": "Browser-impersonating HTTP client: TLS, HTTP/2 and HTTP/3 fingerprints of Chrome, Firefox, Safari, Edge, Opera, Brave, S",
+      "url": "https://github.com/scrape-hub/koon",
+      "when": "2026-11-11T13:43:24Z",
+      "note": "Rust · ★3 · #web-scraping"
+    },
+    {
+      "id": "app:MidasAI/finvector-mcp",
+      "name": "finvector-mcp",
+      "repo": "MidasAI/finvector-mcp",
+      "desc": "SEC filing search for AI agents. Hosted MCP server: every answer cites the filing it came from.",
+      "url": "https://github.com/MidasAI/finvector-mcp",
+      "when": "2026-11-11T13:11:25Z",
+      "note": "— · ★3 · #mcp-server"
+    },
+    {
+      "id": "app:DensityApothecary/adobe-substance-3d",
+      "name": "adobe-substance-3d",
+      "repo": "DensityApothecary/adobe-substance-3d",
+      "desc": "Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ready for isolated loc",
+      "url": "https://github.com/DensityApothecary/adobe-substance-3d",
+      "when": "2026-11-11T09:22:38Z",
+      "note": "HTML · ★32 · #automation"
+    },
+    {
+      "id": "app:xiake910/gdk-rules",
+      "name": "gdk-rules",
+      "repo": "xiake910/gdk-rules",
+      "desc": "GDK 订阅规则（AI 辅助制作）：1056 App / 3509 组 / 5432 条规则，三个版本自选 —— 极简版只屏蔽开屏+弹出广告(1367组)、精简版广告类全开(2146组)、全量版全开(3509组)。地址见 README（用 ",
+      "url": "https://github.com/xiake910/gdk-rules",
+      "when": "2026-11-11T01:53:58Z",
+      "note": "TypeScript · ★6 · #automation"
+    },
+    {
+      "id": "app:transparent-pegasus/utsurigi-agent-hub",
+      "name": "utsurigi-agent-hub",
+      "repo": "transparent-pegasus/utsurigi-agent-hub",
+      "desc": "externalizes AI agent data and manages multiple bots across services.",
+      "url": "https://github.com/transparent-pegasus/utsurigi-agent-hub",
+      "when": "2026-11-11T00:07:38Z",
+      "note": "Rust · ★9 · #ai-agent"
+    },
+    {
+      "id": "app:sicaboy/claude-code-remote-control-launchd",
+      "name": "claude-code-remote-control-launchd",
+      "repo": "sicaboy/claude-code-remote-control-launchd",
+      "desc": "Run Claude Code Remote Control (claude remote-control) as an always-on macOS background service via launchd LaunchAgent.",
+      "url": "https://github.com/sicaboy/claude-code-remote-control-launchd",
+      "when": "2026-11-10T22:23:59Z",
+      "note": "Shell · ★4 · #automation"
+    },
+    {
+      "id": "app:al3x4kov/teleharness",
+      "name": "teleharness",
+      "repo": "al3x4kov/teleharness",
+      "desc": "Your coding-agent CLIs, with their whole harness, on your phone. Mobile-first web portal for Claude Code and opencode (a",
+      "url": "https://github.com/al3x4kov/teleharness",
+      "when": "2026-11-10T21:09:44Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:originaldeliquate-hub/image-smith",
+      "name": "image-smith",
+      "repo": "originaldeliquate-hub/image-smith",
+      "desc": "Image-Smith: Visual Batch Automation for Windows Workflows",
+      "url": "https://github.com/originaldeliquate-hub/image-smith",
+      "when": "2026-11-10T19:40:30Z",
+      "note": "TypeScript · ★14 · #automation"
+    },
+    {
+      "id": "app:arashvakil/shadowshare",
+      "name": "shadowshare",
+      "repo": "arashvakil/shadowshare",
+      "desc": "Self-hosted, invite-based distribution of censorship-resistant VPN access",
+      "url": "https://github.com/arashvakil/shadowshare",
+      "when": "2026-11-10T17:57:54Z",
+      "note": "TypeScript · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:lets-data-science/heads-up",
+      "name": "heads-up",
+      "repo": "lets-data-science/heads-up",
+      "desc": "Build a local assistant that interrupts you only when it matters: a 2B judge model on your Mac scores GitHub and calenda",
+      "url": "https://github.com/lets-data-science/heads-up",
+      "when": "2026-11-10T16:32:43Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:rjcuff/Woolly",
+      "name": "Woolly",
+      "repo": "rjcuff/Woolly",
+      "desc": "One memory for all your AI tools. Local, private, and always up to date. Works with Claude, Cursor, Ollama and any MCP a",
+      "url": "https://github.com/rjcuff/Woolly",
+      "when": "2026-11-10T15:36:30Z",
+      "note": "Go · ★6 · #mcp-server"
+    },
+    {
+      "id": "app:502372626/OmniShade",
+      "name": "OmniShade",
+      "repo": "502372626/OmniShade",
+      "desc": "OmniShade — 本地 AI 作业台：Electron 桌面应用 + MCP 工具桥，注册即永久授权、免卡密。交流 QQ 群 1124698128",
+      "url": "https://github.com/502372626/OmniShade",
+      "when": "2026-11-10T15:13:21Z",
+      "note": "JavaScript · ★14 · #ai-agent"
+    },
+    {
+      "id": "app:haritel97/fillprompt",
+      "name": "fillprompt",
+      "repo": "haritel97/fillprompt",
+      "desc": "Free AI prompt library: 6,700+ ready-to-copy image, video and text prompts with sample results, plus an MCP server and C",
+      "url": "https://github.com/haritel97/fillprompt",
+      "when": "2026-11-10T14:04:48Z",
+      "note": "Astro · ★2 · #mcp-server"
+    },
+    {
       "id": "app:kiritomp3/rtl-sdr-mcp",
       "name": "rtl-sdr-mcp",
       "repo": "kiritomp3/rtl-sdr-mcp",
@@ -8,6 +161,15 @@
       "url": "https://github.com/kiritomp3/rtl-sdr-mcp",
       "when": "2026-11-10T14:02:59Z",
       "note": "Python · ★5 · #mcp-server"
+    },
+    {
+      "id": "app:xiaoyang111222/botgo",
+      "name": "botgo",
+      "repo": "xiaoyang111222/botgo",
+      "desc": "Agent Shell 独立版：装在手机本地运行的个人 AI 助手 App（多提供方/多 bot/长期记忆，数据只存本机）",
+      "url": "https://github.com/xiaoyang111222/botgo",
+      "when": "2026-11-10T11:57:13Z",
+      "note": "JavaScript · ★6 · #ai-agent"
     },
     {
       "id": "app:DhanushNehru/GhostWalk",
@@ -55,6 +217,33 @@
       "note": "— · ★95 · #automation"
     },
     {
+      "id": "app:chiempt/odoo-mcp-lite",
+      "name": "odoo-mcp-lite",
+      "repo": "chiempt/odoo-mcp-lite",
+      "desc": "Free, read-only MCP server for Odoo 17/18/19 (Community & Enterprise). Connect Claude, ChatGPT, Cursor to your Odoo with",
+      "url": "https://github.com/chiempt/odoo-mcp-lite",
+      "when": "2026-11-10T09:52:53Z",
+      "note": "Python · ★2 · #mcp-server"
+    },
+    {
+      "id": "app:leetp2001-cmd/dsh-android-apk",
+      "name": "dsh-android-apk",
+      "repo": "leetp2001-cmd/dsh-android-apk",
+      "desc": "Put dsh (DeepSeek Harness) on your phone: proxy + PWA + Android APK. 把电脑上的 dsh 装进手机——会话列表、流式聊天、命令审批、推送通知。Mobile client f",
+      "url": "https://github.com/leetp2001-cmd/dsh-android-apk",
+      "when": "2026-11-10T09:26:21Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:omkarcloud/immobiliare-it-scraper",
+      "name": "immobiliare-it-scraper",
+      "repo": "omkarcloud/immobiliare-it-scraper",
+      "desc": "Immobiliare It Scraper — free, open-source Immobiliare.it scraper. Unlimited Italian listings, prices, photos & agencies",
+      "url": "https://github.com/omkarcloud/immobiliare-it-scraper",
+      "when": "2026-11-10T07:06:24Z",
+      "note": "HTML · ★1 · #web-scraping"
+    },
+    {
       "id": "app:DoubleData/doublecrawl-cli",
       "name": "doublecrawl-cli",
       "repo": "DoubleData/doublecrawl-cli",
@@ -62,6 +251,15 @@
       "url": "https://github.com/DoubleData/doublecrawl-cli",
       "when": "2026-11-10T06:58:22Z",
       "note": "— · ★3 · #web-scraping"
+    },
+    {
+      "id": "app:omkarcloud/realtor-com-scraper",
+      "name": "realtor-com-scraper",
+      "repo": "omkarcloud/realtor-com-scraper",
+      "desc": "Realtor Com Scraper — free, open-source Realtor.com scraper. Unlimited homes for sale, sold prices, rentals & agents as ",
+      "url": "https://github.com/omkarcloud/realtor-com-scraper",
+      "when": "2026-11-10T06:53:17Z",
+      "note": "Python · ★1 · #web-scraping"
     },
     {
       "id": "app:mo0981/pocket-ledger",
@@ -145,6 +343,15 @@
       "note": "PHP · ★2 · #pwa"
     },
     {
+      "id": "app:whywouldnt/e-fatura-surec-otomasyonu",
+      "name": "e-fatura-surec-otomasyonu",
+      "repo": "whywouldnt/e-fatura-surec-otomasyonu",
+      "desc": "🥖 Defterden faturaya, tek mesajla — el yazısı çetele fotoğrafı veya metinden Telegram onayıyla Veriban SOAP (UBL-TR 2.1",
+      "url": "https://github.com/whywouldnt/e-fatura-surec-otomasyonu",
+      "when": "2026-11-09T17:28:05Z",
+      "note": "— · ★2 · #telegram-bot"
+    },
+    {
       "id": "app:kasualityitalia-create/gekko-runner",
       "name": "gekko-runner",
       "repo": "kasualityitalia-create/gekko-runner",
@@ -226,6 +433,15 @@
       "note": "JavaScript · ★2 · #pwa"
     },
     {
+      "id": "app:jastfan/JobCraft",
+      "name": "JobCraft",
+      "repo": "jastfan/JobCraft",
+      "desc": "JobCraft AI — Autonomous Career Engine, Real-time Job Radar & Application Studio",
+      "url": "https://github.com/jastfan/JobCraft",
+      "when": "2026-11-09T10:24:27Z",
+      "note": "Python · ★6 · #automation"
+    },
+    {
       "id": "app:Xebet/amazon-bsr-board",
       "name": "amazon-bsr-board",
       "repo": "Xebet/amazon-bsr-board",
@@ -251,6 +467,24 @@
       "url": "https://github.com/soheltanvir0699/scout-ai-browser-agent",
       "when": "2026-11-09T08:17:13Z",
       "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:AunuCore/AunuBaileys-lib",
+      "name": "AunuBaileys-lib",
+      "repo": "AunuCore/AunuBaileys-lib",
+      "desc": "AunuBaileys ⚡ the WhatsApp Web API that heals itself — self-repairing Bad MAC & session errors, an LID↔PN identity layer",
+      "url": "https://github.com/AunuCore/AunuBaileys-lib",
+      "when": "2026-11-09T07:36:00Z",
+      "note": "JavaScript · ★5 · #automation"
+    },
+    {
+      "id": "app:mcode-webui/minimax-code",
+      "name": "minimax-code",
+      "repo": "mcode-webui/minimax-code",
+      "desc": "MiniMax Code WebUI — a browser workspace with a local agent runtime.",
+      "url": "https://github.com/mcode-webui/minimax-code",
+      "when": "2026-11-09T06:58:32Z",
+      "note": "TypeScript · ★6 · #ai-agent"
     },
     {
       "id": "app:liqihaoshuai/platform-search",
@@ -1565,241 +1799,7 @@
       "url": "https://github.com/michaelap86/telegram-support-assistant-bot",
       "when": "2026-11-05T00:24:37Z",
       "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:aliothman123/zadtop-api",
-      "name": "zadtop-api",
-      "repo": "aliothman123/zadtop-api",
-      "desc": "Free Fire redeem, PUBG UC redeem, Yalla Ludo, Jawaker, iTunes checker, Apple checker, and Razer Gold redeem and PIN chec",
-      "url": "https://github.com/aliothman123/zadtop-api",
-      "when": "2026-11-04T23:04:00Z",
-      "note": "HTML · ★227 · #telegram-bot"
-    },
-    {
-      "id": "app:KarlaMedina97/lightstick-bts-concert-sync",
-      "name": "lightstick-bts-concert-sync",
-      "repo": "KarlaMedina97/lightstick-bts-concert-sync",
-      "desc": "Página web no oficial (PWA) para sincronizar tu lightstick / ARMY Bomb con canciones de BTS en modo concierto. Open sour",
-      "url": "https://github.com/KarlaMedina97/lightstick-bts-concert-sync",
-      "when": "2026-11-04T23:02:02Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:vSkyfall/sky",
-      "name": "sky",
-      "repo": "vSkyfall/sky",
-      "desc": "Claude Code için Türkçe, her şey dahil geliştirici eklentisi: 182 skill, 35 uzman agent, 25 komut, 8 koruyucu hook ve ca",
-      "url": "https://github.com/vSkyfall/sky",
-      "when": "2026-11-04T22:33:57Z",
-      "note": "HTML · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:Mohammed-051/AIVault",
-      "name": "AIVault",
-      "repo": "Mohammed-051/AIVault",
-      "desc": "A lockfile and permissions for agent skills: pins what you approved, holds updates that add network, secret or publish a",
-      "url": "https://github.com/Mohammed-051/AIVault",
-      "when": "2026-11-04T22:15:08Z",
-      "note": "JavaScript · ★7 · #mcp-server"
-    },
-    {
-      "id": "app:relayworkslab/relayworks",
-      "name": "relayworks",
-      "repo": "relayworkslab/relayworks",
-      "desc": "The RelayWorks website and recovery console. Your AI agent quit at 70%, and Patch finishes the job. Plain HTML, CSS and ",
-      "url": "https://github.com/relayworkslab/relayworks",
-      "when": "2026-11-04T21:30:08Z",
-      "note": "HTML · ★107 · #ai-agent"
-    },
-    {
-      "id": "app:ekomen77/erko-ai-video-engine",
-      "name": "erko-ai-video-engine",
-      "repo": "ekomen77/erko-ai-video-engine",
-      "desc": "Ses kaydını ekomen77 tarzı 1080p anlatım videosuna çeviren motor. Turn a voiceover into an ekomen77-style 1080p explaine",
-      "url": "https://github.com/ekomen77/erko-ai-video-engine",
-      "when": "2026-11-04T16:50:52Z",
-      "note": "JavaScript · ★5 · #ai-agent"
-    },
-    {
-      "id": "app:MisterBD/carnet",
-      "name": "carnet",
-      "repo": "MisterBD/carnet",
-      "desc": "Un Notion maison, libre, où tes agents IA écrivent en Markdown. Self-hosted, Markdown files, Tiptap 3, PWA.",
-      "url": "https://github.com/MisterBD/carnet",
-      "when": "2026-11-04T16:09:52Z",
-      "note": "TypeScript · ★3 · #pwa"
-    },
-    {
-      "id": "app:Larryzpl123/Skybreak--Protocol",
-      "name": "Skybreak--Protocol",
-      "repo": "Larryzpl123/Skybreak--Protocol",
-      "desc": "Build a plane from parts, then fly it: a 3D dogfighting game in the browser (three.js). Waves and bosses, an AI ladder, ",
-      "url": "https://github.com/Larryzpl123/Skybreak--Protocol",
-      "when": "2026-11-04T15:41:11Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:steel-dev/sdk",
-      "name": "sdk",
-      "repo": "steel-dev/sdk",
-      "desc": "Official Steel SDKs for TypeScript, Python, Go and Rust, with Java and Kotlin in beta. Cloud browsers for AI agents.",
-      "url": "https://github.com/steel-dev/sdk",
-      "when": "2026-11-04T15:26:17Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:yungnnam/cike-timer",
-      "name": "cike-timer",
-      "repo": "yungnnam/cike-timer",
-      "desc": "一个手机离线记时软件，方便自己复盘和总结。A one-tap time tracker — web app + offline Android APK, Chinese & English, no accounts, no network。",
-      "url": "https://github.com/yungnnam/cike-timer",
-      "when": "2026-11-04T15:01:35Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:kawsarlog/awesome-hermes-agent",
-      "name": "awesome-hermes-agent",
-      "repo": "kawsarlog/awesome-hermes-agent",
-      "desc": "Beginner-friendly awesome list and guides for Hermes Agent by Nous Research. Install, skills, memory, MCP, cron, workflo",
-      "url": "https://github.com/kawsarlog/awesome-hermes-agent",
-      "when": "2026-11-04T12:37:08Z",
-      "note": "— · ★16 · #telegram-bot"
-    },
-    {
-      "id": "app:komako-workshop/stringers",
-      "name": "stringers",
-      "repo": "komako-workshop/stringers",
-      "desc": "把「什么值得做」(stringers.io)接进你的 agent:MCP、命令行、skill",
-      "url": "https://github.com/komako-workshop/stringers",
-      "when": "2026-11-04T11:48:14Z",
-      "note": "Python · ★4 · #mcp-server"
-    },
-    {
-      "id": "app:nengong/download-anything",
-      "name": "download-anything",
-      "repo": "nengong/download-anything",
-      "desc": "面向 AI Agent 与终端的全能下载与归档工具 / All-in-one CLI & Skill to download anything: videos, docs, cloud drives, music, papers & boo",
-      "url": "https://github.com/nengong/download-anything",
-      "when": "2026-11-04T10:23:04Z",
-      "note": "Python · ★20 · #ai-agent"
-    },
-    {
-      "id": "app:DawnShaperFrost90/slideshow-video-maker",
-      "name": "slideshow-video-maker",
-      "repo": "DawnShaperFrost90/slideshow-video-maker",
-      "desc": "Slideshow Video Maker 2026: Complete standalone setup with all features unlocked and ready to run.",
-      "url": "https://github.com/DawnShaperFrost90/slideshow-video-maker",
-      "when": "2026-11-04T08:45:28Z",
-      "note": "— · ★400 · #automation"
-    },
-    {
-      "id": "app:PolishBitTweezers/serato-dj-pro",
-      "name": "serato-dj-pro",
-      "repo": "PolishBitTweezers/serato-dj-pro",
-      "desc": "Serato Dj Pro 2026 complete standalone setup. Ready-to-run, fully activated installation with all features included.",
-      "url": "https://github.com/PolishBitTweezers/serato-dj-pro",
-      "when": "2026-11-04T08:45:14Z",
-      "note": "— · ★330 · #automation"
-    },
-    {
-      "id": "app:ProsecutorBreed/portfolio-rebalancer",
-      "name": "portfolio-rebalancer",
-      "repo": "ProsecutorBreed/portfolio-rebalancer",
-      "desc": "Portfolio Rebalancer 2026: Full working installer with all tools and features ready to run on your desktop.",
-      "url": "https://github.com/ProsecutorBreed/portfolio-rebalancer",
-      "when": "2026-11-04T08:44:39Z",
-      "note": "— · ★330 · #automation"
-    },
-    {
-      "id": "app:purehazecottage/metatrader-5-bot",
-      "name": "metatrader-5-bot",
-      "repo": "purehazecottage/metatrader-5-bot",
-      "desc": "Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop.",
-      "url": "https://github.com/purehazecottage/metatrader-5-bot",
-      "when": "2026-11-04T08:43:59Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:DenColonelWrinkle/ios-unlocker",
-      "name": "ios-unlocker",
-      "repo": "DenColonelWrinkle/ios-unlocker",
-      "desc": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
-      "url": "https://github.com/DenColonelWrinkle/ios-unlocker",
-      "when": "2026-11-04T08:43:35Z",
-      "note": "— · ★301 · #automation"
-    },
-    {
-      "id": "app:driftcoralemporium/instagram-liker-bot",
-      "name": "instagram-liker-bot",
-      "repo": "driftcoralemporium/instagram-liker-bot",
-      "desc": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your d",
-      "url": "https://github.com/driftcoralemporium/instagram-liker-bot",
-      "when": "2026-11-04T08:43:33Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:MagpieDirect/imei-repair",
-      "name": "imei-repair",
-      "repo": "MagpieDirect/imei-repair",
-      "desc": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
-      "url": "https://github.com/MagpieDirect/imei-repair",
-      "when": "2026-11-04T08:43:31Z",
-      "note": "— · ★400 · #automation"
-    },
-    {
-      "id": "app:beamechoinertia/fortnite-skin-swapper",
-      "name": "fortnite-skin-swapper",
-      "repo": "beamechoinertia/fortnite-skin-swapper",
-      "desc": "Fortnite Skin Swapper 2026 - Full working installer, ready-to-run desktop build with anti-ban system.",
-      "url": "https://github.com/beamechoinertia/fortnite-skin-swapper",
-      "when": "2026-11-04T08:43:02Z",
-      "note": "— · ★330 · #automation"
-    },
-    {
-      "id": "app:AstralBursarProvide/fabfilter-total",
-      "name": "fabfilter-total",
-      "repo": "AstralBursarProvide/fabfilter-total",
-      "desc": "Fabfilter Total 2026: Full working installer with all features activated, ready for immediate desktop use.",
-      "url": "https://github.com/AstralBursarProvide/fabfilter-total",
-      "when": "2026-11-04T08:42:38Z",
-      "note": "— · ★330 · #automation"
-    },
-    {
-      "id": "app:ToneCommanderWave/fabfilter-pro",
-      "name": "fabfilter-pro",
-      "repo": "ToneCommanderWave/fabfilter-pro",
-      "desc": "Fabfilter Pro 2026: Full working installer with all features activated, ready to run on your desktop.",
-      "url": "https://github.com/ToneCommanderWave/fabfilter-pro",
-      "when": "2026-11-04T08:42:35Z",
-      "note": "— · ★330 · #automation"
-    },
-    {
-      "id": "app:nestjs/mcp",
-      "name": "mcp",
-      "repo": "nestjs/mcp",
-      "desc": "An MCP module for NestJS (Node.js) 🤖",
-      "url": "https://github.com/nestjs/mcp",
-      "when": "2026-11-04T08:37:03Z",
-      "note": "TypeScript · ★9 · #mcp-server"
-    },
-    {
-      "id": "app:kadaliao/open-super-agent",
-      "name": "open-super-agent",
-      "repo": "kadaliao/open-super-agent",
-      "desc": "Self-hosted, always-on AI teammate with its own computer — an open-source Grok Bot alternative. Bring your own model.",
-      "url": "https://github.com/kadaliao/open-super-agent",
-      "when": "2026-11-04T08:35:34Z",
-      "note": "Python · ★5 · #telegram-bot"
-    },
-    {
-      "id": "app:echoD886/dramacanvas-ai-filmmaking-mcp",
-      "name": "dramacanvas-ai-filmmaking-mcp",
-      "repo": "echoD886/dramacanvas-ai-filmmaking-mcp",
-      "desc": "DramaCanvas AI filmmaking MCP server: an AI film maker for short dramas, storyboards and AI video generation from Claude",
-      "url": "https://github.com/echoD886/dramacanvas-ai-filmmaking-mcp",
-      "when": "2026-11-04T08:06:42Z",
-      "note": "Shell · ★4 · #mcp-server"
     }
   ],
-  "updated": "2026-11-10T19:55:25.121Z"
+  "updated": "2026-11-11T19:47:50.673Z"
 }
