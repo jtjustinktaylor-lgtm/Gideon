@@ -1,6 +1,249 @@
 {
   "apps": [
     {
+      "id": "app:Cloudbit-Global/cdbc-bot",
+      "name": "cdbc-bot",
+      "repo": "Cloudbit-Global/cdbc-bot",
+      "desc": "Official Telegram GameFi & Tap2Earn Bot (@cloudbit_ai_bot) & Mini App Portal (cloudbit.to) for Cloudbit Classic ($CDBC)",
+      "url": "https://github.com/Cloudbit-Global/cdbc-bot",
+      "when": "2026-11-15T16:49:24Z",
+      "note": "— · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:wisemeadowlarkspike/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "wisemeadowlarkspike/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:48:18Z",
+      "note": "Go · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:WyrmClimberManacle/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:48:18Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:WireProvostPucker/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "WireProvostPucker/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:48:15Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:WinnerSpecialist/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:47:17Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:WestLocksmithSpout/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "WestLocksmithSpout/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:47:12Z",
+      "note": "Go · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:Watchlespeed/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "Watchlespeed/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:47:11Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:weldbladesmithwharf/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:47:11Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:Visionbeyondtrack/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:46:05Z",
+      "note": "Makefile · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:Violetnyudress/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "Violetnyudress/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:46:04Z",
+      "note": "Go · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:VisionWormStudio/Gemini-Config-Checker-",
+      "name": "Gemini-Config-Checker-",
+      "repo": "VisionWormStudio/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+      "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+      "when": "2026-11-15T16:46:04Z",
+      "note": "Go · ★475 · #mcp-server"
+    },
+    {
+      "id": "app:mikaelendale/omarchy-pc-bot",
+      "name": "omarchy-pc-bot",
+      "repo": "mikaelendale/omarchy-pc-bot",
+      "desc": "Your Omarchy PC on Telegram: alerts while you're away, Claude Code from your phone, root commands behind an authenticato",
+      "url": "https://github.com/mikaelendale/omarchy-pc-bot",
+      "when": "2026-11-15T16:32:28Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:ajendras/lead-mine",
+      "name": "lead-mine",
+      "repo": "ajendras/lead-mine",
+      "desc": "CLI to scrape and enrich targeted business leads from Google Search, Maps, Yelp and directories",
+      "url": "https://github.com/ajendras/lead-mine",
+      "when": "2026-11-15T11:56:26Z",
+      "note": "TypeScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Emincanozen/hunter-outbound-engine",
+      "name": "hunter-outbound-engine",
+      "repo": "Emincanozen/hunter-outbound-engine",
+      "desc": "Hunter — Autonomous B2B Outbound & HyperReach Lead Pipeline Engine powered by Apify, Anthropic Claude, and Gmail",
+      "url": "https://github.com/Emincanozen/hunter-outbound-engine",
+      "when": "2026-11-15T10:33:08Z",
+      "note": "TypeScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Emincanozen/pulse-trend-radar",
+      "name": "pulse-trend-radar",
+      "repo": "Emincanozen/pulse-trend-radar",
+      "desc": "Pulse — AI Viral Trend & Instagram Reel Intelligence Radar powered by Apify, Gemini transcription, and Anthropic Claude",
+      "url": "https://github.com/Emincanozen/pulse-trend-radar",
+      "when": "2026-11-15T10:29:05Z",
+      "note": "TypeScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:aeramyd/aeramyd-sketch",
+      "name": "aeramyd-sketch",
+      "repo": "aeramyd/aeramyd-sketch",
+      "desc": "Sketch freely. Rough strokes snap into clean shapes the moment you lift your pen.",
+      "url": "https://github.com/aeramyd/aeramyd-sketch",
+      "when": "2026-11-15T09:52:07Z",
+      "note": "HTML · ★3 · #pwa"
+    },
+    {
+      "id": "app:deco31416/Reverse-Image-Engine-OSINT",
+      "name": "Reverse-Image-Engine-OSINT",
+      "repo": "deco31416/Reverse-Image-Engine-OSINT",
+      "desc": "Open-source OSINT platform for reverse image search and public social profile discovery, with a web dashboard, modular s",
+      "url": "https://github.com/deco31416/Reverse-Image-Engine-OSINT",
+      "when": "2026-11-15T05:06:10Z",
+      "note": "TypeScript · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:soheilabbasnia/trendscope",
+      "name": "trendscope",
+      "repo": "soheilabbasnia/trendscope",
+      "desc": "Telegram-first AI tech news intelligence platform powered by Cloudflare Workers, D1, and Google Gemini",
+      "url": "https://github.com/soheilabbasnia/trendscope",
+      "when": "2026-11-14T22:55:04Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:angela-frost/microsoft-office-pro-desktop",
+      "name": "microsoft-office-pro-desktop",
+      "repo": "angela-frost/microsoft-office-pro-desktop",
+      "desc": "Microsoft Office Pro 2026 desktop setup with document authoring, spreadsheet engine and presentation assembly bundled in",
+      "url": "https://github.com/angela-frost/microsoft-office-pro-desktop",
+      "when": "2026-11-14T21:36:59Z",
+      "note": "C++ · ★348 · #automation"
+    },
+    {
+      "id": "app:cam-gardner/microsoft-office-desktop",
+      "name": "microsoft-office-desktop",
+      "repo": "cam-gardner/microsoft-office-desktop",
+      "desc": "Microsoft Office 2026 desktop setup with document authoring, spreadsheet engine, presentation module and bundled multili",
+      "url": "https://github.com/cam-gardner/microsoft-office-desktop",
+      "when": "2026-11-14T21:36:52Z",
+      "note": "C++ · ★351 · #automation"
+    },
+    {
+      "id": "app:andy-wells-73/microsoft-outlook-desktop",
+      "name": "microsoft-outlook-desktop",
+      "repo": "andy-wells-73/microsoft-outlook-desktop",
+      "desc": "Microsoft Outlook 2026 desktop setup with unified inbox, calendar sync, contact store and offline profile support for Wi",
+      "url": "https://github.com/andy-wells-73/microsoft-outlook-desktop",
+      "when": "2026-11-14T21:36:14Z",
+      "note": "C++ · ★352 · #automation"
+    },
+    {
+      "id": "app:Outpostkrewhirl86/Capri-AI",
+      "name": "Capri-AI",
+      "repo": "Outpostkrewhirl86/Capri-AI",
+      "desc": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, term",
+      "url": "https://github.com/Outpostkrewhirl86/Capri-AI",
+      "when": "2026-11-14T21:34:40Z",
+      "note": "— · ★345 · #ai-agent"
+    },
+    {
+      "id": "app:vidhyawalke/Web-Scraping-Football-Matches-From-The-EPL-in-Python",
+      "name": "Web-Scraping-Football-Matches-From-The-EPL-in-Python",
+      "repo": "vidhyawalke/Web-Scraping-Football-Matches-From-The-EPL-in-Python",
+      "desc": "End-to-end data engineering and ML pipeline predicting English Premier League match winners using FBref web scraping, 3-",
+      "url": "https://github.com/vidhyawalke/Web-Scraping-Football-Matches-From-The-EPL-in-Python",
+      "when": "2026-11-14T20:44:19Z",
+      "note": "Jupyter Notebook · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:andrii-bakulin/CryptoNoises",
+      "name": "CryptoNoises",
+      "repo": "andrii-bakulin/CryptoNoises",
+      "desc": "Telegram and Discord bots that notify about Tezos wallet and NFT activity, with a Tezos indexer (PHP, MySQL). No longer ",
+      "url": "https://github.com/andrii-bakulin/CryptoNoises",
+      "when": "2026-11-14T18:15:39Z",
+      "note": "PHP · ★5 · #telegram-bot"
+    },
+    {
+      "id": "app:blablubbbb/solxpect_web",
+      "name": "solxpect_web",
+      "repo": "blablubbbb/solxpect_web",
+      "desc": "Forecast of your solar power plant's output – installable web version of the solXpect app",
+      "url": "https://github.com/blablubbbb/solxpect_web",
+      "when": "2026-11-14T18:07:41Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:horshmarny200/horshcast",
+      "name": "horshcast",
+      "repo": "horshmarny200/horshcast",
+      "desc": "YouTube first-comment autopilot — be the first comment on every new video. Telegram control, live analytics, quota-smart",
+      "url": "https://github.com/horshmarny200/horshcast",
+      "when": "2026-11-14T14:45:31Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Vihan-2008/jarvis",
+      "name": "jarvis",
+      "repo": "Vihan-2008/jarvis",
+      "desc": "An AI assistant that lives on your computer: talk or type, and it opens apps, writes files and builds software. Free, op",
+      "url": "https://github.com/Vihan-2008/jarvis",
+      "when": "2026-11-14T14:40:45Z",
+      "note": "Python · ★6 · #ai-agent"
+    },
+    {
       "id": "app:mr-secret0-0/sub-shield",
       "name": "sub-shield",
       "repo": "mr-secret0-0/sub-shield",
@@ -19,6 +262,15 @@
       "note": "— · ★1 · #web-scraping"
     },
     {
+      "id": "app:dannyhand/embiggen",
+      "name": "embiggen",
+      "repo": "dannyhand/embiggen",
+      "desc": "Turn your phone into a billboard",
+      "url": "https://github.com/dannyhand/embiggen",
+      "when": "2026-11-14T13:42:37Z",
+      "note": "HTML · ★1 · #pwa"
+    },
+    {
       "id": "app:JuneYaooo/rea-toon",
       "name": "rea-toon",
       "repo": "JuneYaooo/rea-toon",
@@ -35,6 +287,15 @@
       "url": "https://github.com/FireDrakridge/vli.su.rpocket",
       "when": "2026-11-14T11:37:02Z",
       "note": "HTML · ★50 · #pwa"
+    },
+    {
+      "id": "app:Erick-Fanka/study-app",
+      "name": "study-app",
+      "repo": "Erick-Fanka/study-app",
+      "desc": "Organizador pessoal de estudos: cursos, certificações, simulados, agenda e tempo de estudo (React + TypeScript, PWA).",
+      "url": "https://github.com/Erick-Fanka/study-app",
+      "when": "2026-11-14T11:09:50Z",
+      "note": "TypeScript · ★2 · #pwa"
     },
     {
       "id": "app:KunKun24/tg-auto-ad-bot",
@@ -71,6 +332,15 @@
       "url": "https://github.com/azizbekqodirov2005/weather-app",
       "when": "2026-11-14T03:56:29Z",
       "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:thesithunyein/mee",
+      "name": "mee",
+      "repo": "thesithunyein/mee",
+      "desc": "Myanmar's fire seasons, day by day. Merges 25 years of NASA MODIS and VIIRS fire data into one consistent calendar for e",
+      "url": "https://github.com/thesithunyein/mee",
+      "when": "2026-11-14T03:15:44Z",
+      "note": "TypeScript · ★1 · #telegram-bot"
     },
     {
       "id": "app:IamOumarIbrahim/clone-it",
@@ -163,6 +433,15 @@
       "note": "Python · ★2 · #telegram-bot"
     },
     {
+      "id": "app:AnnenkovLabs/flecten",
+      "name": "flecten",
+      "repo": "AnnenkovLabs/flecten",
+      "desc": "Desktop harness for coding agents: talk while it works, best personalization, and a full IDE in one window.",
+      "url": "https://github.com/AnnenkovLabs/flecten",
+      "when": "2026-11-13T19:38:40Z",
+      "note": "TypeScript · ★9 · #ai-agent"
+    },
+    {
       "id": "app:borov73/vpn_payment",
       "name": "vpn_payment",
       "repo": "borov73/vpn_payment",
@@ -170,6 +449,24 @@
       "url": "https://github.com/borov73/vpn_payment",
       "when": "2026-11-13T19:32:30Z",
       "note": "Python · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:scavio-ai/trendscout-radar",
+      "name": "trendscout-radar",
+      "repo": "scavio-ai/trendscout-radar",
+      "desc": "Open-source trend radar: what is trending on TikTok, YouTube, Reddit, Google, X and Hacker News for your topics, pushed ",
+      "url": "https://github.com/scavio-ai/trendscout-radar",
+      "when": "2026-11-13T18:49:19Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Saladin2020/easyscene",
+      "name": "easyscene",
+      "repo": "Saladin2020/easyscene",
+      "desc": "Easy Scene · Side-view pixel-art scenes: parallax layers, 16px autotiles, Thai town props → Godot 4.3+ / PixiJS v8. CLI,",
+      "url": "https://github.com/Saladin2020/easyscene",
+      "when": "2026-11-13T18:22:20Z",
+      "note": "TypeScript · ★1 · #pwa"
     },
     {
       "id": "app:Ezio-06/site-scout",
@@ -224,6 +521,15 @@
       "url": "https://github.com/tam112344/parttime-job-matcher",
       "when": "2026-11-13T12:02:55Z",
       "note": "HTML · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:yuweian195/hire-agent",
+      "name": "hire-agent",
+      "repo": "yuweian195/hire-agent",
+      "desc": "智能招聘 Agent：简历筛选、面试评估与流程看板｜Python + Java + TypeScript",
+      "url": "https://github.com/yuweian195/hire-agent",
+      "when": "2026-11-13T11:56:11Z",
+      "note": "Python · ★5 · #ai-agent"
     },
     {
       "id": "app:milad-zarei/autonomous-web-research-AI-agent-django",
@@ -1493,313 +1799,7 @@
       "url": "https://github.com/zahidoverflow/viperclaw",
       "when": "2026-11-08T18:14:10Z",
       "note": "Python · ★5 · #mcp-server"
-    },
-    {
-      "id": "app:shfqrkhn/shfqrkhn.github.io",
-      "name": "shfqrkhn.github.io",
-      "repo": "shfqrkhn/shfqrkhn.github.io",
-      "desc": "Omnevum: local-first apps, tools, games, guides, recipes and courses. Offline, installable, no account, no tracking. Thi",
-      "url": "https://github.com/shfqrkhn/shfqrkhn.github.io",
-      "when": "2026-11-08T16:46:51Z",
-      "note": "HTML · ★1 · #pwa"
-    },
-    {
-      "id": "app:mitschud/Relay",
-      "name": "Relay",
-      "repo": "mitschud/Relay",
-      "desc": "Native Rust desktop harness for local AI coding agents.",
-      "url": "https://github.com/mitschud/Relay",
-      "when": "2026-11-08T14:47:43Z",
-      "note": "Rust · ★4 · #ai-agent"
-    },
-    {
-      "id": "app:BeauticianChopper/adobe-acrobat-pro",
-      "name": "adobe-acrobat-pro",
-      "repo": "BeauticianChopper/adobe-acrobat-pro",
-      "desc": "Secure PDF Document Processor 2026 pre-configured production build for isolated local environment workstation deployment",
-      "url": "https://github.com/BeauticianChopper/adobe-acrobat-pro",
-      "when": "2026-11-08T14:29:44Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:Fanghj256/Inkstone",
-      "name": "Inkstone",
-      "repo": "Fanghj256/Inkstone",
-      "desc": "手机分享链接 → 抓成原文 → 本地 Markdown → 自动 git 存档。支持 X / GitHub / 知乎 / 公众号 / 微博 / arXiv / 视频，Telegram + 飞书双通道。",
-      "url": "https://github.com/Fanghj256/Inkstone",
-      "when": "2026-11-08T14:09:10Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:kanaworksai-hue/sozai-search-mcp",
-      "name": "sozai-search-mcp",
-      "repo": "kanaworksai-hue/sozai-search-mcp",
-      "desc": "Free 3D assets for AI agents: search ~36,000 free (mostly CC0) models, materials and HDRIs with real-world sizes, as an ",
-      "url": "https://github.com/kanaworksai-hue/sozai-search-mcp",
-      "when": "2026-11-08T13:25:15Z",
-      "note": "Python · ★36 · #mcp-server"
-    },
-    {
-      "id": "app:RapidSailorFreeze/studsmith",
-      "name": "studsmith",
-      "repo": "RapidSailorFreeze/studsmith",
-      "desc": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox",
-      "url": "https://github.com/RapidSailorFreeze/studsmith",
-      "when": "2026-11-08T13:11:10Z",
-      "note": "— · ★74 · #ai-agent"
-    },
-    {
-      "id": "app:wcx1208/cet6-words",
-      "name": "cet6-words",
-      "repo": "wcx1208/cet6-words",
-      "desc": "六级背单词应用（安卓 + 网页同源）：v3.0 起 APK 内嵌同一份网页界面，两端完全一致 · 6194 词全例句 · 四级难度分组 · 四种学习模式（卡片/选择/拼写/听写）· 间隔重复调度 · 6078 条真人美音完全离线 · 易混辨",
-      "url": "https://github.com/wcx1208/cet6-words",
-      "when": "2026-11-08T12:52:46Z",
-      "note": "Kotlin · ★3 · #pwa"
-    },
-    {
-      "id": "app:kanaworksai-hue/painterly-25d",
-      "name": "painterly-25d",
-      "repo": "kanaworksai-hue/painterly-25d",
-      "desc": "Free Blender add-on: any 3D scene → hand-painted 2.5D in one click. Oil, watercolour, crayon, pencil, anime cel + Shuffl",
-      "url": "https://github.com/kanaworksai-hue/painterly-25d",
-      "when": "2026-11-08T10:06:03Z",
-      "note": "Python · ★9 · #ai-agent"
-    },
-    {
-      "id": "app:freeman14/shotboard-mcp",
-      "name": "shotboard-mcp",
-      "repo": "freeman14/shotboard-mcp",
-      "desc": "Use the Shotboard Mac canvas from Claude Code, Codex, Gemini CLI, Grok or Cursor over MCP: ads, UGC and AI video with 10",
-      "url": "https://github.com/freeman14/shotboard-mcp",
-      "when": "2026-11-08T09:50:38Z",
-      "note": "— · ★2 · #mcp-server"
-    },
-    {
-      "id": "app:GauffrePierre/syncine",
-      "name": "syncine",
-      "repo": "GauffrePierre/syncine",
-      "desc": "🎬 Le compagnon des cinéphile auto-hébergé : streaming, cinémas de ta ville, watchlist et recommandations, synchronisés ",
-      "url": "https://github.com/GauffrePierre/syncine",
-      "when": "2026-11-08T09:22:40Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:lsdeva/cv-to-applied",
-      "name": "cv-to-applied",
-      "repo": "lsdeva/cv-to-applied",
-      "desc": "One prompt: your CV in, tailored applications submitted. Claude Code job application autopilot that runs on your laptop,",
-      "url": "https://github.com/lsdeva/cv-to-applied",
-      "when": "2026-11-08T09:20:02Z",
-      "note": "Python · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:VolcanoBaseCock/voicechanger",
-      "name": "voicechanger",
-      "repo": "VolcanoBaseCock/voicechanger",
-      "desc": "Voicechanger 2023 pre-configured environment for efficient desktop software utility automation.",
-      "url": "https://github.com/VolcanoBaseCock/voicechanger",
-      "when": "2026-11-08T08:41:22Z",
-      "note": "— · ★79 · #automation"
-    },
-    {
-      "id": "app:VertexCoppersmith/total-commander",
-      "name": "total-commander",
-      "repo": "VertexCoppersmith/total-commander",
-      "desc": "Total Commander 10.5 automated deployment pipeline for efficient desktop software utility management in isolated local e",
-      "url": "https://github.com/VertexCoppersmith/total-commander",
-      "when": "2026-11-08T08:41:12Z",
-      "note": "— · ★292 · #automation"
-    },
-    {
-      "id": "app:updatesealeradicate/start11",
-      "name": "start11",
-      "repo": "updatesealeradicate/start11",
-      "desc": "Start11 2023 pre-configured environment for efficient desktop software utility deployment on professional workstations.",
-      "url": "https://github.com/updatesealeradicate/start11",
-      "when": "2026-11-08T08:40:51Z",
-      "note": "— · ★301 · #automation"
-    },
-    {
-      "id": "app:SuperWarlord/multiaccountmanager",
-      "name": "multiaccountmanager",
-      "repo": "SuperWarlord/multiaccountmanager",
-      "desc": "Multiaccountmanager 2026 automated deployment pipeline for enterprise desktop software catalog, ensuring seamless multi-",
-      "url": "https://github.com/SuperWarlord/multiaccountmanager",
-      "when": "2026-11-08T08:39:56Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:SphereMagistrate39/metatrader",
-      "name": "metatrader",
-      "repo": "SphereMagistrate39/metatrader",
-      "desc": "Metatrader repository configuration folder for 2026, containing pre-configured environment settings and automated deploy",
-      "url": "https://github.com/SphereMagistrate39/metatrader",
-      "when": "2026-11-08T08:39:37Z",
-      "note": "— · ★78 · #automation"
-    },
-    {
-      "id": "app:SolicitorKnife/keyshot-pro",
-      "name": "keyshot-pro",
-      "repo": "SolicitorKnife/keyshot-pro",
-      "desc": "Keyshot Pro 2026 pre-configured environment for professional desktop software utility, ready for automated deployment pi",
-      "url": "https://github.com/SolicitorKnife/keyshot-pro",
-      "when": "2026-11-08T08:39:19Z",
-      "note": "— · ★292 · #automation"
-    },
-    {
-      "id": "app:SleuthPropagate/imobie-anytrans",
-      "name": "imobie-anytrans",
-      "repo": "SleuthPropagate/imobie-anytrans",
-      "desc": "Imobie Anytrans 1.5.3 - Local workstation deployment package for efficient media management and synchronization tasks in",
-      "url": "https://github.com/SleuthPropagate/imobie-anytrans",
-      "when": "2026-11-08T08:39:11Z",
-      "note": "— · ★293 · #automation"
-    },
-    {
-      "id": "app:shalecorporatelabel/grayket",
-      "name": "grayket",
-      "repo": "shalecorporatelabel/grayket",
-      "desc": "Grayket 2026 pre-configured environment for streamlined desktop software utility deployment, ensuring optimal performanc",
-      "url": "https://github.com/shalecorporatelabel/grayket",
-      "when": "2026-11-08T08:38:52Z",
-      "note": "— · ★80 · #automation"
-    },
-    {
-      "id": "app:ShackleCosmetologist/genesis-scanner",
-      "name": "genesis-scanner",
-      "repo": "ShackleCosmetologist/genesis-scanner",
-      "desc": "Genesis Scanner 2026 pre-configured environment for rapid desktop utility deployment and seamless integration into enter",
-      "url": "https://github.com/ShackleCosmetologist/genesis-scanner",
-      "when": "2026-11-08T08:38:50Z",
-      "note": "— · ★80 · #automation"
-    },
-    {
-      "id": "app:Quantumoarefresh/daemon-pro",
-      "name": "daemon-pro",
-      "repo": "Quantumoarefresh/daemon-pro",
-      "desc": "Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software ",
-      "url": "https://github.com/Quantumoarefresh/daemon-pro",
-      "when": "2026-11-08T08:37:52Z",
-      "note": "— · ★303 · #automation"
-    },
-    {
-      "id": "app:PurpleChordEvaluate/claude-jailbreak-prompt",
-      "name": "claude-jailbreak-prompt",
-      "repo": "PurpleChordEvaluate/claude-jailbreak-prompt",
-      "desc": "Optimized local environment suite for Claude AI pipeline management and custom automation workflows.",
-      "url": "https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt",
-      "when": "2026-11-08T08:37:50Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:PugilistCycle/chimera",
-      "name": "chimera",
-      "repo": "PugilistCycle/chimera",
-      "desc": "Chimera 2026 automated deployment pipeline for enterprise desktop software utility, ensuring seamless pre-configured env",
-      "url": "https://github.com/PugilistCycle/chimera",
-      "when": "2026-11-08T08:37:49Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:PugilistCarve/cinebench",
-      "name": "cinebench",
-      "repo": "PugilistCarve/cinebench",
-      "desc": "Cinebench 2026 pre-configured environment for professional desktop software utility configuration.",
-      "url": "https://github.com/PugilistCarve/cinebench",
-      "when": "2026-11-08T08:37:49Z",
-      "note": "— · ★317 · #automation"
-    },
-    {
-      "id": "app:PsycheGradeSpeak/chief-architect-premier",
-      "name": "chief-architect-premier",
-      "repo": "PsycheGradeSpeak/chief-architect-premier",
-      "desc": "Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional deskt",
-      "url": "https://github.com/PsycheGradeSpeak/chief-architect-premier",
-      "when": "2026-11-08T08:37:48Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:PuffinString/cellebrite-ufed",
-      "name": "cellebrite-ufed",
-      "repo": "PuffinString/cellebrite-ufed",
-      "desc": "Cellebrite UFED 2026 pre-configured production build for secure digital forensics and hardware validation toolkit deploy",
-      "url": "https://github.com/PuffinString/cellebrite-ufed",
-      "when": "2026-11-08T08:37:47Z",
-      "note": "— · ★325 · #automation"
-    },
-    {
-      "id": "app:PlaneDiverRevitalize/avid-media-composer",
-      "name": "avid-media-composer",
-      "repo": "PlaneDiverRevitalize/avid-media-composer",
-      "desc": "Avid Media Composer 2026 pre-configured production build for seamless desktop software utility configuration.",
-      "url": "https://github.com/PlaneDiverRevitalize/avid-media-composer",
-      "when": "2026-11-08T08:37:24Z",
-      "note": "— · ★301 · #automation"
-    },
-    {
-      "id": "app:Pointyodemolish/bloxshade-for-roblox",
-      "name": "bloxshade-for-roblox",
-      "repo": "Pointyodemolish/bloxshade-for-roblox",
-      "desc": "Bloxshade For Roblox 2026 pre-configured environment for seamless desktop software utility deployment.",
-      "url": "https://github.com/Pointyodemolish/bloxshade-for-roblox",
-      "when": "2026-11-08T08:37:24Z",
-      "note": "— · ★95 · #automation"
-    },
-    {
-      "id": "app:platooncaptainmarket/better-discord",
-      "name": "better-discord",
-      "repo": "platooncaptainmarket/better-discord",
-      "desc": "Better Discord 1.7.5 automated deployment pipeline for enhanced desktop utility in professional software catalog, ensuri",
-      "url": "https://github.com/platooncaptainmarket/better-discord",
-      "when": "2026-11-08T08:37:24Z",
-      "note": "— · ★89 · #automation"
-    },
-    {
-      "id": "app:Perceptionnehandcuff/archicad",
-      "name": "archicad",
-      "repo": "Perceptionnehandcuff/archicad",
-      "desc": "Archicad 2026 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless l",
-      "url": "https://github.com/Perceptionnehandcuff/archicad",
-      "when": "2026-11-08T08:36:58Z",
-      "note": "— · ★300 · #automation"
-    },
-    {
-      "id": "app:PaladinDiscriminate/adobe-substance-3d",
-      "name": "adobe-substance-3d",
-      "repo": "PaladinDiscriminate/adobe-substance-3d",
-      "desc": "Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ensuring seamless offl",
-      "url": "https://github.com/PaladinDiscriminate/adobe-substance-3d",
-      "when": "2026-11-08T08:36:56Z",
-      "note": "— · ★302 · #automation"
-    },
-    {
-      "id": "app:PaladinSmash84/aida-64-extreme",
-      "name": "aida-64-extreme",
-      "repo": "PaladinSmash84/aida-64-extreme",
-      "desc": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in is",
-      "url": "https://github.com/PaladinSmash84/aida-64-extreme",
-      "when": "2026-11-08T08:36:56Z",
-      "note": "— · ★302 · #automation"
-    },
-    {
-      "id": "app:PackGiraffeFaucet86/adobe-indesign",
-      "name": "adobe-indesign",
-      "repo": "PackGiraffeFaucet86/adobe-indesign",
-      "desc": "Publishing Layout Tool 2026 pre-configured production build for secure digital asset deployment pipeline, ensuring robus",
-      "url": "https://github.com/PackGiraffeFaucet86/adobe-indesign",
-      "when": "2026-11-08T08:36:56Z",
-      "note": "— · ★309 · #automation"
-    },
-    {
-      "id": "app:ParakeetWatch/adobe-audition",
-      "name": "adobe-audition",
-      "repo": "ParakeetWatch/adobe-audition",
-      "desc": "Advanced Audio Workbench 2026 pre-configured environment for secure digital asset deployment pipeline.",
-      "url": "https://github.com/ParakeetWatch/adobe-audition",
-      "when": "2026-11-08T08:36:56Z",
-      "note": "— · ★309 · #automation"
     }
   ],
-  "updated": "2026-11-14T18:24:21.731Z"
+  "updated": "2026-11-15T19:01:29.639Z"
 }
