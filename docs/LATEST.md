@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-11-15
+# GitHub Radar — 2026-11-16
 
-_63 new item(s) since last run · generated 2026-11-15T19:01:29.639Z_
+_60 new item(s) since last run · generated 2026-11-16T22:25:53.553Z_
 
 ## 🚀 Releases
 
@@ -8,63 +8,66 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[Merge the qualified wallet work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/a56d7a0d22a9f5fa69e1a0aefa08fc2fd238513d)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Merge the qualified platform work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/68d5d7a78ed492256cedfb90adc1f9db864e3fc4)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/785d3916cf4020c53919ec431f61740710eea4a8)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Merge task 22.39.684 into feature/platform [spec:layerx-merge/22.39.684]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/272d5261e361b60e9df83d16aa2675944ed9695f)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Merge task 22.44.25 into feature/wallet [spec:layerx-merge/22.44.25]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/5cda9a5179c807c0f554dadc8c520e1241359af3)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Merge the qualified platform work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/7b176b68161c6682a44c436025eeae9d0f6f1566)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Merge task 22.39.681 into feature/platform [spec:layerx-merge/22.39.681]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/aa2c0d284e7c75c250bf8ed2cb21d4e7be93be56)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/59a5bfdd8c536b0efb089d6fb1ee57023aefd130)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-15
+- **[Add the bounded outbox of the perps data service and the bound of age for its price rows per block [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/d6a26a8ebcafe6ffa8ac88457cd0845253b76c75)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/03ef39945b78778d5d7c06e6be4ea5fc26a30ef9)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Merge the qualified platform work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/0abaf21019e872cb080af152d2f2338eb092b066)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Merge task 22.44.77 into feature/platform [spec:layerx-merge/22.44.77]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/1c8616805cffd1372722965868a67b8e6cd5b94f)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Add the rule that a surface keeps its earlier sizes and the task that brings the bridge to it [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/bc3545cbf6e3b124c459301ccef5a0a36935efaf)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b0ed4e5acb14a2b4840ed56e22146c9b2c2c0ab9)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Merge the qualified web-explorer-bridge work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/7ec17a66e424aa0925ec0fc4e0197e0d655994cf)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
+- **[Merge task 22.44.78 into feature/web-explorer-bridge [spec:layerx-merge/22.44.78]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/fc91ebb7eceb9b0e6442e50f3b993136f1da6093)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-16
 
 ## 🆕 New repos on the radar
 
-_Nothing new._
+- **[Workbox Cloud is a fork of Openship customized for the internal use at Sidiora Labs ](https://github.com/Sidiora-Labs/workbox-cloud)** `Sidiora-Labs/workbox-cloud` — TypeScript · ★1 · via @Sidiora-Labs · 2026-11-16
 
 ## 🧰 Fresh apps & tools
 
-- **[Official Telegram GameFi & Tap2Earn Bot (@cloudbit_ai_bot) & Mini App Portal (cloudbit.to) for Cloudbit Classic ($CDBC)](https://github.com/Cloudbit-Global/cdbc-bot)** `Cloudbit-Global/cdbc-bot` — — · ★1 · #telegram-bot · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-)** `wisemeadowlarkspike/Gemini-Config-Checker-` — Go · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-)** `WyrmClimberManacle/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/WireProvostPucker/Gemini-Config-Checker-)** `WireProvostPucker/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/WinnerSpecialist/Gemini-Config-Checker-)** `WinnerSpecialist/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/WestLocksmithSpout/Gemini-Config-Checker-)** `WestLocksmithSpout/Gemini-Config-Checker-` — Go · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/Watchlespeed/Gemini-Config-Checker-)** `Watchlespeed/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-)** `weldbladesmithwharf/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-)** `Visionbeyondtrack/Gemini-Config-Checker-` — Makefile · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/Violetnyudress/Gemini-Config-Checker-)** `Violetnyudress/Gemini-Config-Checker-` — Go · ★475 · #mcp-server · 2026-11-15
-- **[Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP](https://github.com/VisionWormStudio/Gemini-Config-Checker-)** `VisionWormStudio/Gemini-Config-Checker-` — Go · ★475 · #mcp-server · 2026-11-15
-- **[Your Omarchy PC on Telegram: alerts while you're away, Claude Code from your phone, root commands behind an authenticato](https://github.com/mikaelendale/omarchy-pc-bot)** `mikaelendale/omarchy-pc-bot` — Python · ★1 · #telegram-bot · 2026-11-15
-- **[CLI to scrape and enrich targeted business leads from Google Search, Maps, Yelp and directories](https://github.com/ajendras/lead-mine)** `ajendras/lead-mine` — TypeScript · ★1 · #web-scraping · 2026-11-15
-- **[Hunter — Autonomous B2B Outbound & HyperReach Lead Pipeline Engine powered by Apify, Anthropic Claude, and Gmail](https://github.com/Emincanozen/hunter-outbound-engine)** `Emincanozen/hunter-outbound-engine` — TypeScript · ★1 · #web-scraping · 2026-11-15
-- **[Pulse — AI Viral Trend & Instagram Reel Intelligence Radar powered by Apify, Gemini transcription, and Anthropic Claude](https://github.com/Emincanozen/pulse-trend-radar)** `Emincanozen/pulse-trend-radar` — TypeScript · ★1 · #web-scraping · 2026-11-15
+- **[Capri — Free open-source AI desktop pet, gaming overlay & voice companion for Windows. Visual GUI for Claude Code, Ollam](https://github.com/edgerunners2/capri-ai-desktop)** `edgerunners2/capri-ai-desktop` — Python · ★212 · #ai-agent · 2026-11-16
+- **[Telegram bot that roasts, explains and rates posts. OpenAI Codex writes every reply from inside a jail where it can't ru](https://github.com/mikaelendale/Claudius)** `mikaelendale/Claudius` — Python · ★1 · #telegram-bot · 2026-11-16
+- **[Oracle Cloud Free Tier monitor for Hermes Agent: daily OCI Always Free usage & cost alerts to Telegram, Discord, WhatsAp](https://github.com/pgen0x/hermes-oci-free-tier-report)** `pgen0x/hermes-oci-free-tier-report` — Python · ★2 · #telegram-bot · 2026-11-16
+- **[万能注册机模板 | Universal Auto-Registration Template](https://github.com/waw666waw666/RegisterHub)** `waw666waw666/RegisterHub` — Python · ★123 · #automation · 2026-11-16
+- **[Linux per Samsung Galaxy A20e senza Android: postmarketOS, Home a riquadri web, Claude integrato · Linux for the Galaxy ](https://github.com/MinoCiardo/sistema-operativo-android)** `MinoCiardo/sistema-operativo-android` — JavaScript · ★3 · #pwa · 2026-11-16
+- **[Tray app for Windows, macOS and Linux that shows upcoming events in Osaka and TOHO Cinemas showtimes with seat availabil](https://github.com/ian-ledig/osaka-now)** `ian-ledig/osaka-now` — Go · ★1 · #web-scraping · 2026-11-16
+- **[通用型实战型 AI 渗透测试智能体：多阶段头编排 + 人工审批 + 确定性治理门 + 证据链报告。仅供书面授权测试使用。 | AI agent platform for authorized penetration testing.](https://github.com/shihao101/jiutouniao)** `shihao101/jiutouniao` — Python · ★11 · #ai-agent · 2026-11-16
+- **[MiniMax H3（海螺02）全类目 TikTok Shop 美区实拍带货提示词 Skill｜27 条铁律 + 36 项自检 + 七层真实感模型｜治多手/悬空/穿模/蜡像脸/固定痣/开头没人看｜20 品类实测全落位｜MIT 开源](https://github.com/Ayanlin1688/Minimax-H3-Tiktok-skill)** `Ayanlin1688/Minimax-H3-Tiktok-skill` — Python · ★3 · #ai-agent · 2026-11-16
+- **[Telegram ID / DC 查询机器人：纯 Bot API 查询用户、机器人、频道、群组的数字 ID、估算创建时间与所在数据中心](https://github.com/PekingJam/tgidbot)** `PekingJam/tgidbot` — Python · ★1 · #telegram-bot · 2026-11-16
+- **[Self-hosted infrastructure inventory: servers, sites, domains, hosting and credentials, with uptime/SSL/domain-expiry mo](https://github.com/MrBorisov/infra-panel-public)** `MrBorisov/infra-panel-public` — TypeScript · ★2 · #telegram-bot · 2026-11-16
+- **[轻量级 H5 即时通讯服务器配置与 PWA 离线推送避坑指南 | Lightweight H5 Instant Messaging & PWA Offline Push Starter Kit (Django Channels, Redis](https://github.com/xwshow/welo-h5-im-docker-guide)** `xwshow/welo-h5-im-docker-guide` — Python · ★12 · #pwa · 2026-11-16
+- **[AI-powered CRM and customer support platform built with the MERN stack.](https://github.com/donovancraig54/buz-ai)** `donovancraig54/buz-ai` — JavaScript · ★3 · #ai-agent · 2026-11-15
+- **[Cradle of small Python automation scripts — files, mail, scraping.](https://github.com/restordinaryjoint/python-script-cradle)** `restordinaryjoint/python-script-cradle` — — · ★100 · #automation · 2026-11-15
+- **[AutoHotkey trove — window management and text expansion packs.](https://github.com/Middlecluvanquish/autohotkey-trove)** `Middlecluvanquish/autohotkey-trove` — — · ★100 · #automation · 2026-11-15
+- **[Find job postings the hour they go up, apply first with Claude, and see what is actually getting you interviews.](https://github.com/xu826Jamin/applyfirst)** `xu826Jamin/applyfirst` — Python · ★3 · #ai-agent · 2026-11-15
 
 ## 📣 Show HN launches
 
-- **[Show HN: Widefleet Cloud - Deploy agent-built internal apps with SSO and storage](https://widefleet.com/)** `Show HN #50509606` — 2 pts · 1 comments · 2026-11-15
-- **[Show HN: PokéBonk – free 3D Pokémon-style survivor roguelite](https://pokebonkfree.online/)** `Show HN #50509593` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: A Markdown and Mermaid pane for Herdr, the terminal for coding agents](https://github.com/daneb/herdr-markdown)** `Show HN #50509537` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: Bad Apple but it's Strava [video]](https://www.youtube.com/watch?v=HxdQawDIlnU)** `Show HN #50509386` — 2 pts · 0 comments · 2026-11-15
-- **[Show HN: Settlers of Catan Playable via SSH](https://github.com/VichoReyes/el-poblador)** `Show HN #50509374` — 3 pts · 0 comments · 2026-11-15
-- **[Show HN: Learn Piano Easy App – Free and Open Source](https://learn-piano-easy.app/)** `Show HN #50509221` — 2 pts · 0 comments · 2026-11-15
-- **[Show HN: I wrote 100 SaaS ideas with buyer, pricing, and MVP plan for each](https://www.bestmillionstartups.com/100-saas-ideas)** `Show HN #50509208` — 2 pts · 0 comments · 2026-11-15
-- **[Show HN: PongArena – Play Pong and see how tiny neural networks think](https://jonaslindblom.github.io/pongarena/)** `Show HN #50509161` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: Attest – Test what AI agents do, not just what they say](https://attest-framework.github.io/)** `Show HN #50509107` — 3 pts · 0 comments · 2026-11-15
-- **[Show HN: Performance-driven terminal diff renderer](https://github.com/plannotator/diffs-rs)** `Show HN #50509096` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: Cloudflare Workers-style infrastructure without the cloud](https://github.com/elliothux/open-compute)** `Show HN #50509069` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: Local AI Video Agent](https://www.wiyomi.com/)** `Show HN #50509047` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: Pocket Garden – a player interface to over 130 AI based web games](https://triptych.github.io/web-games-andrew/console/)** `Show HN #50508977` — 1 pts · 0 comments · 2026-11-15
-- **[Show HN: I built a free, Python micro-learning platform with real Python tasks](https://www.blockofbytes.com/)** `Show HN #50508720` — 4 pts · 1 comments · 2026-11-15
-- **[Show HN: Fondue – A meeting where everyone talks at once](https://fondue.chat/p/36ebd9c3/j/A9UY-Y2S5)** `Show HN #50508692` — 3 pts · 0 comments · 2026-11-15
+- **[Show HN: Emergency-AI – Offline knowledge base and AI chat (with no Internet)](https://github.com/skanga/Emergency-AI)** `Show HN #50523427` — 2 pts · 0 comments · 2026-11-16
+- **[Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)** `Show HN #50523377` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: Stromboli Open-source AI SRE agent focused on fast incident mitigation](https://github.com/openstatusHQ/stromboli)** `Show HN #50523348` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: Duplex-Safe Viterbi Compiler – mRNA optimization on a discrete torus](https://github.com/Dr-Logvinovich/codon-torus-syntax)** `Show HN #50523116` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: Goethe – turn your computer into an inference engine](https://github.com/meshapplied/goethe)** `Show HN #50523086` — 4 pts · 1 comments · 2026-11-16
+- **[Show HN: WhiBoard – A fast Miro alternative with AI diagramming](https://whiboard.com/)** `Show HN #50523024` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: A geography game where you aim a compass at cities on a real globe](https://compasspost.nodewires.com/)** `Show HN #50522994` — 3 pts · 0 comments · 2026-11-16
+- **[Show HN: Annotations for Your Obsidian Notes](https://community.obsidian.md/plugins/annotations)** `Show HN #50522983` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: T'Pico, a classless CSS library for modern browsers](https://github.com/dday9/t-pico)** `Show HN #50522950` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: I built a alternative for Product Hunt – ShowStartup](https://showstartup.com/)** `Show HN #50522797` — 2 pts · 2 comments · 2026-11-16
+- **[Show HN: sourcesli.st, browse Debian ISOs, packages and bug reports](https://sourcesli.st)** `Show HN #50522773` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: My OSS Claude Meetings alternative that works with any agent or call](https://github.com/wanderingstan/vibeconf-app/)** `Show HN #50522602` — 3 pts · 1 comments · 2026-11-16
+- **[Show HN: AgentMon Live a Local Monitor for Claude Code, Codex and Kiro Crew](https://github.com/codenotary/agentmon-live)** `Show HN #50522518` — 2 pts · 1 comments · 2026-11-16
+- **[Show HN: Atlas – One ID for every market on 28 crypto exchanges, stock perps too](https://github.com/aperiodic-io/atlas)** `Show HN #50522450` — 1 pts · 0 comments · 2026-11-16
+- **[Show HN: Own your AI at full speed](https://www.rightnowai.co/)** `Show HN #50522241` — 1 pts · 0 comments · 2026-11-16
 
 ## 💌 GitHub Trending (daily)
 
-- **[ggml-org/ggml](https://github.com/ggml-org/ggml)** `ggml-org/ggml` — C++
-- **[sponsors/elementalsouls](https://github.com/sponsors/elementalsouls)** `sponsors/elementalsouls` — Python
-- **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** `NVIDIA/SkillEvaluator` — Python
-- **[assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)** `assistant-ui/assistant-ui` — TypeScript
-- **[nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)** `nolly-studio/cult-ui` — TypeScript
-- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** `motion-canvas/motion-canvas` — TypeScript
+- **[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)** `getarcaneapp/arcane` — Go
+- **[DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)** `DeanChensj/jiangshan-map` — JavaScript
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** `mvanhorn/last30days-skill` — Python
+- **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** `google-research/paper-orchestra` — Python
+- **[sponsors/sveltejs](https://github.com/sponsors/sveltejs)** `sponsors/sveltejs` — JavaScript
+- **[sponsors/kajisho5](https://github.com/sponsors/kajisho5)** `sponsors/kajisho5` — Python
+- **[s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode)** `s0ld13rr/pentestcode` — TypeScript
+- **[nestjs/nest](https://github.com/nestjs/nest)** `nestjs/nest` — TypeScript
+- **[esengine/estella](https://github.com/esengine/estella)** `esengine/estella` — TypeScript
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_
