@@ -1,6 +1,204 @@
 {
   "apps": [
     {
+      "id": "app:Russel-Zimbwa/marketplace-sniper",
+      "name": "marketplace-sniper",
+      "repo": "Russel-Zimbwa/marketplace-sniper",
+      "desc": "Get a Telegram message the moment a real bargain is posted on Facebook Marketplace near you - and skip the scams. Free, ",
+      "url": "https://github.com/Russel-Zimbwa/marketplace-sniper",
+      "when": "2026-11-19T18:24:02Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:AtomBackerPillar/Adobe-InDesign-AI-Latest",
+      "name": "Adobe-InDesign-AI-Latest",
+      "repo": "AtomBackerPillar/Adobe-InDesign-AI-Latest",
+      "desc": "How to get Adobe InDesign with AI",
+      "url": "https://github.com/AtomBackerPillar/Adobe-InDesign-AI-Latest",
+      "when": "2026-11-19T17:30:02Z",
+      "note": "Go · ★86 · #automation"
+    },
+    {
+      "id": "app:RescuerDevelop/CapCut-AI-PC-Latest",
+      "name": "CapCut-AI-PC-Latest",
+      "repo": "RescuerDevelop/CapCut-AI-PC-Latest",
+      "desc": "How to get CapCut 2026",
+      "url": "https://github.com/RescuerDevelop/CapCut-AI-PC-Latest",
+      "when": "2026-11-19T17:30:02Z",
+      "note": "Python · ★85 · #automation"
+    },
+    {
+      "id": "app:bookwjitchieni1986/blender-ai-mcp-addon",
+      "name": "blender-ai-mcp-addon",
+      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "when": "2026-11-19T14:43:10Z",
+      "note": "— · ★308 · #mcp-server"
+    },
+    {
+      "id": "app:socoliuc/telegram-codex-assistant",
+      "name": "telegram-codex-assistant",
+      "repo": "socoliuc/telegram-codex-assistant",
+      "desc": "A private Telegram control panel for Codex on macOS, Linux and Windows. Route messages, follow projects and reply from y",
+      "url": "https://github.com/socoliuc/telegram-codex-assistant",
+      "when": "2026-11-19T14:17:35Z",
+      "note": "JavaScript · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:nguyenthuan2412/native-playwright",
+      "name": "native-playwright",
+      "repo": "nguyenthuan2412/native-playwright",
+      "desc": "Playwright-style browser automation for PHP over CDP — no Node.js, Swoole-ready, PHP 8.4+. Installable with PIE/PECL.",
+      "url": "https://github.com/nguyenthuan2412/native-playwright",
+      "when": "2026-11-19T12:36:59Z",
+      "note": "C++ · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Jasonwei21/LinkReader",
+      "name": "LinkReader",
+      "repo": "Jasonwei21/LinkReader",
+      "desc": "给一批文章链接，自动抓正文、生成摘要、译成中文，导出 txt / Markdown / Word，并汇总成表。本地运行的网页界面，附 Windows 双击即用 exe。",
+      "url": "https://github.com/Jasonwei21/LinkReader",
+      "when": "2026-11-19T10:15:50Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:xeminz/clipcards",
+      "name": "clipcards",
+      "repo": "xeminz/clipcards",
+      "desc": "YouTube-Video rein, Zusammenfassung und Lernkarten raus.",
+      "url": "https://github.com/xeminz/clipcards",
+      "when": "2026-11-19T08:04:01Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
+      "id": "app:setyamickala/airdrop-agent",
+      "name": "airdrop-agent",
+      "repo": "setyamickala/airdrop-agent",
+      "desc": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
+      "url": "https://github.com/setyamickala/airdrop-agent",
+      "when": "2026-11-19T07:56:28Z",
+      "note": "Python · ★79 · #automation"
+    },
+    {
+      "id": "app:beyondtahir/beyondgtaclips",
+      "name": "beyondgtaclips",
+      "repo": "beyondtahir/beyondgtaclips",
+      "desc": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
+      "url": "https://github.com/beyondtahir/beyondgtaclips",
+      "when": "2026-11-19T04:36:22Z",
+      "note": "Python · ★46 · #ai-agent"
+    },
+    {
+      "id": "app:huynguyenvietwork/StackScout",
+      "name": "StackScout",
+      "repo": "huynguyenvietwork/StackScout",
+      "desc": "New tech, matched to your stack. A weekly tech radar that compares new tools and AI models with the ones you use, with a",
+      "url": "https://github.com/huynguyenvietwork/StackScout",
+      "when": "2026-11-19T02:53:04Z",
+      "note": "Python · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:kyouki-ai/glean",
+      "name": "glean",
+      "repo": "kyouki-ai/glean",
+      "desc": "A browser for AI agents that costs ~500 tokens per page instead of ~250,000",
+      "url": "https://github.com/kyouki-ai/glean",
+      "when": "2026-11-19T00:34:44Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:asiifdev/infra-copilot-ai-server-control-panel",
+      "name": "infra-copilot-ai-server-control-panel",
+      "repo": "asiifdev/infra-copilot-ai-server-control-panel",
+      "desc": "Open-source server control panel with an approval-gated AI agent: AI proposes, you approve. Works today from source: rea",
+      "url": "https://github.com/asiifdev/infra-copilot-ai-server-control-panel",
+      "when": "2026-11-18T23:13:06Z",
+      "note": "Rust · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:Deddyne/omreq",
+      "name": "omreq",
+      "repo": "Deddyne/omreq",
+      "desc": "The fastest HTTP client for Node.js and Bun with a real Chrome TLS (JA3/JA4) and HTTP/2 fingerprint. Rust + BoringSSL.",
+      "url": "https://github.com/Deddyne/omreq",
+      "when": "2026-11-18T21:16:29Z",
+      "note": "JavaScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Kochurin/SkyrimVPN",
+      "name": "SkyrimVPN",
+      "repo": "Kochurin/SkyrimVPN",
+      "desc": "VPN в Telegram: обход блокировок и белых списков, 50+ серверов в 16 странах, 3 дня бесплатно",
+      "url": "https://github.com/Kochurin/SkyrimVPN",
+      "when": "2026-11-18T21:05:02Z",
+      "note": "HTML · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:jordanstrobing/firecrawl-local-docker",
+      "name": "firecrawl-local-docker",
+      "repo": "jordanstrobing/firecrawl-local-docker",
+      "desc": "Firecrawl Local with headless Chromium as a multi-arch Docker image, rebuilt automatically on new releases and security ",
+      "url": "https://github.com/jordanstrobing/firecrawl-local-docker",
+      "when": "2026-11-18T21:03:27Z",
+      "note": "Shell · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:LocustWrinkle/process-lasso-alternative",
+      "name": "process-lasso-alternative",
+      "repo": "LocustWrinkle/process-lasso-alternative",
+      "desc": "Three-word profiles: Game, Normal, Quiet. Priority and power plans flip when you launch a game and revert when you close",
+      "url": "https://github.com/LocustWrinkle/process-lasso-alternative",
+      "when": "2026-11-18T20:55:49Z",
+      "note": "— · ★110 · #automation"
+    },
+    {
+      "id": "app:carabain-digital/apify-agent-skills",
+      "name": "apify-agent-skills",
+      "repo": "carabain-digital/apify-agent-skills",
+      "desc": "Agent skills for Claude Code, Codex and Cursor: scrape cars, real estate, jobs, reviews and more via Apify Actors",
+      "url": "https://github.com/carabain-digital/apify-agent-skills",
+      "when": "2026-11-18T19:48:14Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:nebigoktug/android-agent",
+      "name": "android-agent",
+      "repo": "nebigoktug/android-agent",
+      "desc": "Let an AI agent use your Android phone and its apps - ~10x cheaper than screenshot-based tools. CLI + MCP server, works ",
+      "url": "https://github.com/nebigoktug/android-agent",
+      "when": "2026-11-18T19:33:15Z",
+      "note": "Python · ★4 · #ai-agent"
+    },
+    {
+      "id": "app:wintercraxker/MudaeCore",
+      "name": "MudaeCore",
+      "repo": "wintercraxker/MudaeCore",
+      "desc": "MudaeCore — An automated Mudae companion for Discord with AutoClaim, AutoRoll & AutoReact working in 2026. Features smar",
+      "url": "https://github.com/wintercraxker/MudaeCore",
+      "when": "2026-11-18T19:22:56Z",
+      "note": "Python · ★10 · #automation"
+    },
+    {
+      "id": "app:fsy357/crawl-analyst",
+      "name": "crawl-analyst",
+      "repo": "fsy357/crawl-analyst",
+      "desc": "公开网址 → 自动抓取 → 结构化 → 出图/摘要 | Crawl4AI + LIDA + FastAPI + Celery",
+      "url": "https://github.com/fsy357/crawl-analyst",
+      "when": "2026-11-18T17:13:24Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:hazelcaffe/sekai",
+      "name": "sekai",
+      "repo": "hazelcaffe/sekai",
+      "desc": "A PJSK themed OSS alternative to products like Grokbot, Muse, Dots, etc.",
+      "url": "https://github.com/hazelcaffe/sekai",
+      "when": "2026-11-18T15:55:57Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
       "id": "app:IvanKuzyshyn/skills",
       "name": "skills",
       "repo": "IvanKuzyshyn/skills",
@@ -19,6 +217,15 @@
       "note": "Python · ★3 · #telegram-bot"
     },
     {
+      "id": "app:nofrizal05/makefun-guide",
+      "name": "makefun-guide",
+      "repo": "nofrizal05/makefun-guide",
+      "desc": "A guide to make.fun — where AI agents build software for cash bounties. Built by an AI agent for make.fun's “Bring the h",
+      "url": "https://github.com/nofrizal05/makefun-guide",
+      "when": "2026-11-18T10:34:13Z",
+      "note": "— · ★4 · #ai-agent"
+    },
+    {
       "id": "app:gaoshanyuhupo/agy-bot",
       "name": "agy-bot",
       "repo": "gaoshanyuhupo/agy-bot",
@@ -35,6 +242,15 @@
       "url": "https://github.com/geragarazagh/feed-bot",
       "when": "2026-11-18T06:45:20Z",
       "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:1056210674-sketch/guanghe-project-example",
+      "name": "guanghe-project-example",
+      "repo": "1056210674-sketch/guanghe-project-example",
+      "desc": "光禾AI智能体框架 | Guanghe AI Agent Framework — React + Java + Python，全栈 AI Agent、GEO 品牌监测、内容创作与企业工作流。由广州光禾未来人工智能科技有限公司提供。",
+      "url": "https://github.com/1056210674-sketch/guanghe-project-example",
+      "when": "2026-11-18T06:39:36Z",
+      "note": "Java · ★4 · #ai-agent"
     },
     {
       "id": "app:howznguyen/phonedesk",
@@ -80,6 +296,24 @@
       "url": "https://github.com/michaelchavarronope/SafeRest360",
       "when": "2026-11-18T01:43:23Z",
       "note": "Python · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:chiikabu/minecraft-web",
+      "name": "minecraft-web",
+      "repo": "chiikabu/minecraft-web",
+      "desc": "Minecraft: Java Edition 26.3 in the browser. Tooling and patches only; build it from your own copy of the game.",
+      "url": "https://github.com/chiikabu/minecraft-web",
+      "when": "2026-11-18T01:08:23Z",
+      "note": "Java · ★2 · #pwa"
+    },
+    {
+      "id": "app:scryer-media/archiver",
+      "name": "archiver",
+      "repo": "scryer-media/archiver",
+      "desc": "Free archive tool that runs in your browser. Open ZIP, 7z, RAR, TAR and ISO, create encrypted ZIP and 7z, repair with PA",
+      "url": "https://github.com/scryer-media/archiver",
+      "when": "2026-11-18T00:22:05Z",
+      "note": "JavaScript · ★2 · #pwa"
     },
     {
       "id": "app:gleameconomicjetty/Adobe-Indesign-For-Windows-And-Macos",
@@ -199,6 +433,15 @@
       "note": "Go · ★62 · #mcp-server"
     },
     {
+      "id": "app:YIOYIOIOI/baton",
+      "name": "baton",
+      "repo": "YIOYIOIOI/baton",
+      "desc": "Continue local Claude Code, OpenAI Codex, and Gemini Antigravity sessions from any browser or phone — zero cloud relay, ",
+      "url": "https://github.com/YIOYIOIOI/baton",
+      "when": "2026-11-17T17:21:27Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
       "id": "app:Sina-Shafeian/forexai",
       "name": "forexai",
       "repo": "Sina-Shafeian/forexai",
@@ -260,6 +503,15 @@
       "url": "https://github.com/romanti3172/fasthtmlparser-js",
       "when": "2026-11-17T14:50:54Z",
       "note": "TypeScript · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:SecFathy/otpkit",
+      "name": "otpkit",
+      "repo": "SecFathy/otpkit",
+      "desc": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
+      "url": "https://github.com/SecFathy/otpkit",
+      "when": "2026-11-17T14:43:11Z",
+      "note": "Python · ★66 · #mcp-server"
     },
     {
       "id": "app:chuxuan861119/zhichan-xiaozhan-work",
@@ -325,6 +577,15 @@
       "note": "Python · ★1 · #web-scraping"
     },
     {
+      "id": "app:MaxwellIsaacs/tsdrop",
+      "name": "tsdrop",
+      "repo": "MaxwellIsaacs/tsdrop",
+      "desc": "AirDrop for your tailnet; LocalSend over Tailscale, homelab relay, iPhone web app with push",
+      "url": "https://github.com/MaxwellIsaacs/tsdrop",
+      "when": "2026-11-17T07:16:49Z",
+      "note": "Go · ★4 · #pwa"
+    },
+    {
       "id": "app:seczoid/localleads",
       "name": "localleads",
       "repo": "seczoid/localleads",
@@ -341,6 +602,15 @@
       "url": "https://github.com/STEALTHNET-APP/STEALTHNET-RW-SYSTEM",
       "when": "2026-11-17T06:17:38Z",
       "note": "Rust · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:yocontra/pulsar",
+      "name": "pulsar",
+      "repo": "yocontra/pulsar",
+      "desc": "MCP server that lets AI coding agents in any harness find and message each other: one list, tags, multicast, * bus.",
+      "url": "https://github.com/yocontra/pulsar",
+      "when": "2026-11-17T03:07:57Z",
+      "note": "TypeScript · ★53 · #mcp-server"
     },
     {
       "id": "app:mingqiangdu1-arch/web-automation-development",
@@ -1529,277 +1799,7 @@
       "url": "https://github.com/DavisDmitry/aiogram-screens",
       "when": "2026-11-12T17:39:50Z",
       "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:RealMrHex/Gramophone",
-      "name": "Gramophone",
-      "repo": "RealMrHex/Gramophone",
-      "desc": "A vinyl music player that reads your songs — melody, hooks, key and tempo — and plays them on a spinning record. Web, PW",
-      "url": "https://github.com/RealMrHex/Gramophone",
-      "when": "2026-11-12T17:10:52Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:OGVortexed/Craft-rpocket-Cards",
-      "name": "Craft-rpocket-Cards",
-      "repo": "OGVortexed/Craft-rpocket-Cards",
-      "desc": "适用于 Minecraft 1.21.1 NeoForge 的多人卡牌游戏模组，支持斗地主、最多九格拼接牌桌、公共牌桌配置与可选物品筹码，并支持自定义音乐包。",
-      "url": "https://github.com/OGVortexed/Craft-rpocket-Cards",
-      "when": "2026-11-12T16:55:38Z",
-      "note": "— · ★44 · #automation"
-    },
-    {
-      "id": "app:Therealwh/mtproto-live-bot",
-      "name": "mtproto-live-bot",
-      "repo": "Therealwh/mtproto-live-bot",
-      "desc": "Бот-автопостинг рабочих MTProto прокси в Telegram-канал: проверка каждые 5 минут, пост каждые 30 минут. Без сервера — Gi",
-      "url": "https://github.com/Therealwh/mtproto-live-bot",
-      "when": "2026-11-12T16:01:36Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:SPSivapriya/tamil_fake_news_detection",
-      "name": "tamil_fake_news_detection",
-      "repo": "SPSivapriya/tamil_fake_news_detection",
-      "desc": "Tamil Fake News Detection using Machine Learning and NLP to classify news content as fake or real through text preproces",
-      "url": "https://github.com/SPSivapriya/tamil_fake_news_detection",
-      "when": "2026-11-12T15:52:23Z",
-      "note": "Jupyter Notebook · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Velocityatrhythm/Autodesk-3ds-Max-For-Windows",
-      "name": "Autodesk-3ds-Max-For-Windows",
-      "repo": "Velocityatrhythm/Autodesk-3ds-Max-For-Windows",
-      "desc": "Autodesk 3ds Max for Windows — 3D modeling, animation and rendering software for design visualization, games, film and m",
-      "url": "https://github.com/Velocityatrhythm/Autodesk-3ds-Max-For-Windows",
-      "when": "2026-11-12T15:28:02Z",
-      "note": "— · ★25 · #automation"
-    },
-    {
-      "id": "app:FallsLarvaInterest/Sketchup-Pro-For-Windows",
-      "name": "Sketchup-Pro-For-Windows",
-      "repo": "FallsLarvaInterest/Sketchup-Pro-For-Windows",
-      "desc": "SketchUp Pro for Windows — 3D modeling software for architecture, interior design, construction documentation and spatia",
-      "url": "https://github.com/FallsLarvaInterest/Sketchup-Pro-For-Windows",
-      "when": "2026-11-12T15:05:07Z",
-      "note": "— · ★52 · #automation"
-    },
-    {
-      "id": "app:OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows",
-      "name": "Abbyy-Finereader-Pdf-For-Windows",
-      "repo": "OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows",
-      "desc": "ABBYY FineReader PDF for Windows — OCR and PDF application for scanning, converting documents, editing PDFs and extracti",
-      "url": "https://github.com/OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows",
-      "when": "2026-11-12T14:34:57Z",
-      "note": "— · ★51 · #automation"
-    },
-    {
-      "id": "app:Xavier14-aqua/DSH_memory",
-      "name": "DSH_memory",
-      "repo": "Xavier14-aqua/DSH_memory",
-      "desc": "Long-term memory plugin and standalone worker for QQbridge and DeepSeek Harness",
-      "url": "https://github.com/Xavier14-aqua/DSH_memory",
-      "when": "2026-11-12T14:33:03Z",
-      "note": "JavaScript · ★18 · #ai-agent"
-    },
-    {
-      "id": "app:hitkeeen/blender-ai-mcp-addon",
-      "name": "blender-ai-mcp-addon",
-      "repo": "hitkeeen/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
-      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-      "when": "2026-11-12T14:32:15Z",
-      "note": "— · ★138 · #mcp-server"
-    },
-    {
-      "id": "app:Echo0602/kairos",
-      "name": "kairos",
-      "repo": "Echo0602/kairos",
-      "desc": "纯本地待办与每日计划 PWA，三层提醒不错过任何事 · Local-first to-do & daily planner PWA",
-      "url": "https://github.com/Echo0602/kairos",
-      "when": "2026-11-12T14:15:48Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:BetaChampionTitle/Coreldraw-For-Windows",
-      "name": "Coreldraw-For-Windows",
-      "repo": "BetaChampionTitle/Coreldraw-For-Windows",
-      "desc": "CorelDRAW for Windows — vector graphics and design suite for illustration, layout, typography and print-ready artwork on",
-      "url": "https://github.com/BetaChampionTitle/Coreldraw-For-Windows",
-      "when": "2026-11-12T13:33:33Z",
-      "note": "— · ★52 · #automation"
-    },
-    {
-      "id": "app:aasejacobsen56168/fastdown",
-      "name": "fastdown",
-      "repo": "aasejacobsen56168/fastdown",
-      "desc": "Fastdown — 公开短视频分享链接 → 无水印直链。CLI / MCP / REST API 用法与示例代码：TikTok、抖音、小红书、YouTube Shorts、Instagram Reels 无水印解析，Agent-first",
-      "url": "https://github.com/aasejacobsen56168/fastdown",
-      "when": "2026-11-12T13:28:09Z",
-      "note": "— · ★8 · #mcp-server"
-    },
-    {
-      "id": "app:joyfulneurob/SLB-Agent",
-      "name": "SLB-Agent",
-      "repo": "joyfulneurob/SLB-Agent",
-      "desc": "SLB-Agent — 桌面 AI Agent 与 Armor Engine 破限引擎。Multi-model AI client, LLM jailbreak research, MCP tools, refusal analysis a",
-      "url": "https://github.com/joyfulneurob/SLB-Agent",
-      "when": "2026-11-12T11:37:13Z",
-      "note": "— · ★9 · #ai-agent"
-    },
-    {
-      "id": "app:baoxinwen/home-stock",
-      "name": "home-stock",
-      "repo": "baoxinwen/home-stock",
-      "desc": "面向家庭的自托管库存助手：物品库存与开封管理、购物清单转库存、临期过期提醒（企业微信/邮件/应用内）、浪费统计与备份恢复",
-      "url": "https://github.com/baoxinwen/home-stock",
-      "when": "2026-11-12T10:52:07Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:next-token-tv/next-token-skill",
-      "name": "next-token-skill",
-      "repo": "next-token-tv/next-token-skill",
-      "desc": "让 AI Agent 检索 Next Token｜词元之外 播客的 Skill：回答 AI 问题时引用主理人观点，并附 B 站 / YouTube 时间戳直跳链接",
-      "url": "https://github.com/next-token-tv/next-token-skill",
-      "when": "2026-11-12T09:55:17Z",
-      "note": "Python · ★24 · #ai-agent"
-    },
-    {
-      "id": "app:f1devbin/GrodnoBikeClub",
-      "name": "GrodnoBikeClub",
-      "repo": "f1devbin/GrodnoBikeClub",
-      "desc": "Ежедневный велодайджест Беларуси и Гродно: новости, погода и курсы — в Telegram. Работает на GitHub Actions без вашего П",
-      "url": "https://github.com/f1devbin/GrodnoBikeClub",
-      "when": "2026-11-12T08:55:25Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:jackson-cmd/zeus-options-terminal",
-      "name": "zeus-options-terminal",
-      "repo": "jackson-cmd/zeus-options-terminal",
-      "desc": "Self-hosted, all-in-one options trading terminal: live positions & Greeks, P/L and risk, exit discipline, bilingual news",
-      "url": "https://github.com/jackson-cmd/zeus-options-terminal",
-      "when": "2026-11-12T07:16:02Z",
-      "note": "Python · ★10 · #pwa"
-    },
-    {
-      "id": "app:ErLingSan0/MCP-Manager",
-      "name": "MCP-Manager",
-      "repo": "ErLingSan0/MCP-Manager",
-      "desc": "面向 AI 编码智能体的 MCP Server 可视化管理中心：统一添加、同步、监控与调试，默认中文。",
-      "url": "https://github.com/ErLingSan0/MCP-Manager",
-      "when": "2026-11-12T06:44:05Z",
-      "note": "Rust · ★4 · #mcp-server"
-    },
-    {
-      "id": "app:JulianCodespoti/omp-pulse",
-      "name": "omp-pulse",
-      "repo": "JulianCodespoti/omp-pulse",
-      "desc": "Drive your desktop Oh My Pi coding sessions from your phone, or run omp natively on Android.",
-      "url": "https://github.com/JulianCodespoti/omp-pulse",
-      "when": "2026-11-12T06:37:26Z",
-      "note": "JavaScript · ★3 · #pwa"
-    },
-    {
-      "id": "app:ZLA-lab/books-data-analysis",
-      "name": "books-data-analysis",
-      "repo": "ZLA-lab/books-data-analysis",
-      "desc": "从 books.toscrape 采集 1000 本书的书名/评分/价格并完成统计分析 | requests + BeautifulSoup + pandas | 三层容错设计与数据分布校验",
-      "url": "https://github.com/ZLA-lab/books-data-analysis",
-      "when": "2026-11-12T05:20:26Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:CXYM021/guide",
-      "name": "guide",
-      "repo": "CXYM021/guide",
-      "desc": "向导（熟练度系统） · Guide — 本地优先的技能熟练度账本，只记有效练习",
-      "url": "https://github.com/CXYM021/guide",
-      "when": "2026-11-12T05:10:42Z",
-      "note": "Python · ★1 · #pwa"
-    },
-    {
-      "id": "app:wang-bool/travel-story-dsh",
-      "name": "travel-story-dsh",
-      "repo": "wang-bool/travel-story-dsh",
-      "desc": "🧳 把 Travel Story 搬进 DeepSeek Harness：AI 直接帮你规划行程、查天气、驱动地图的旅行插件（18 个 agent 工具）",
-      "url": "https://github.com/wang-bool/travel-story-dsh",
-      "when": "2026-11-12T03:50:49Z",
-      "note": "JavaScript · ★7 · #ai-agent"
-    },
-    {
-      "id": "app:4wl2d/mon22r",
-      "name": "mon22r",
-      "repo": "4wl2d/mon22r",
-      "desc": "Your money, in your own hands. Self-hosted Telegram ledger with a React Mini App, multi-currency accounts, monthly plans",
-      "url": "https://github.com/4wl2d/mon22r",
-      "when": "2026-11-12T02:37:04Z",
-      "note": "TypeScript · ★2 · #telegram-bot"
-    },
-    {
-      "id": "app:pouya6672/MikroTik-Backup-Telegram-bot",
-      "name": "MikroTik-Backup-Telegram-bot",
-      "repo": "pouya6672/MikroTik-Backup-Telegram-bot",
-      "desc": "Telegram bot that automatically backsup MikroTik routers over SSH and sends the files to a chat, group or channel. Suppo",
-      "url": "https://github.com/pouya6672/MikroTik-Backup-Telegram-bot",
-      "when": "2026-11-12T02:21:01Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:plagesribeiro/pombo",
-      "name": "pombo",
-      "repo": "plagesribeiro/pombo",
-      "desc": "🕊️ Um bot do Telegram por pasta, rodando o Claude Code no seu computador · One Telegram bot per folder, running Claude ",
-      "url": "https://github.com/plagesribeiro/pombo",
-      "when": "2026-11-12T02:13:00Z",
-      "note": "Python · ★2 · #telegram-bot"
-    },
-    {
-      "id": "app:hedeqiang/dsh-nl2sql",
-      "name": "dsh-nl2sql",
-      "repo": "hedeqiang/dsh-nl2sql",
-      "desc": "Ask MySQL, PostgreSQL, Elasticsearch and CSV/Excel in plain language inside DeepSeek Harness — charts, dashboards, alert",
-      "url": "https://github.com/hedeqiang/dsh-nl2sql",
-      "when": "2026-11-12T02:10:35Z",
-      "note": "JavaScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:MoguchiyDuh/hmm",
-      "name": "hmm",
-      "repo": "MoguchiyDuh/hmm",
-      "desc": "Community platform for hackathon team formation, projects, events and mentorship — FastAPI, PostgreSQL, React, Telegram ",
-      "url": "https://github.com/MoguchiyDuh/hmm",
-      "when": "2026-11-12T02:09:13Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:MarcoCall96/GlassRemoteTv",
-      "name": "GlassRemoteTv",
-      "repo": "MarcoCall96/GlassRemoteTv",
-      "desc": "Free, ad-free remote control for Android TV / Google TV. Open links on the TV, see what uses CPU and memory, instant key",
-      "url": "https://github.com/MarcoCall96/GlassRemoteTv",
-      "when": "2026-11-11T23:07:41Z",
-      "note": "Java · ★2 · #pwa"
-    },
-    {
-      "id": "app:wh3r3ar3you/UptimeForge",
-      "name": "UptimeForge",
-      "repo": "wh3r3ar3you/UptimeForge",
-      "desc": "Monitoring for VPN and proxy infrastructure: down, blocked in a region, or failing at one ISP — checked from many networ",
-      "url": "https://github.com/wh3r3ar3you/UptimeForge",
-      "when": "2026-11-11T22:55:00Z",
-      "note": "Go · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:yada/reshapr-container-poc",
-      "name": "reshapr-container-poc",
-      "repo": "yada/reshapr-container-poc",
-      "desc": "reShapr MCP gateway stack on apple/container: scripts, K8s cluster manifest and test findings",
-      "url": "https://github.com/yada/reshapr-container-poc",
-      "when": "2026-11-11T21:30:57Z",
-      "note": "Shell · ★2 · #mcp-server"
     }
   ],
-  "updated": "2026-11-18T20:47:53.388Z"
+  "updated": "2026-11-19T20:53:29.241Z"
 }
