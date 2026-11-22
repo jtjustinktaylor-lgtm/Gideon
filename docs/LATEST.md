@@ -1,6 +1,6 @@
-# GitHub Radar — 2026-11-21
+# GitHub Radar — 2026-11-22
 
-_53 new item(s) since last run · generated 2026-11-21T19:38:45.697Z_
+_51 new item(s) since last run · generated 2026-11-22T19:54:39.258Z_
 
 ## 🚀 Releases
 
@@ -8,14 +8,7 @@ _Nothing new._
 
 ## 🔨 Fresh commits
 
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/ce9dbd71efafe429abad6ec89bff8760b87495fb)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Merge the qualified launchpad work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/eb02f3102eb2cae2e8a387f8c6f7bc6e33836329)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Merge task 22.39.1069 into feature/launchpad [spec:layerx-merge/22.39.1069]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/d0cdd6734c19af0dd9381b470331070a75ff283a)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b73cb43bff9b5ecc90c14bc6e6736123c78af313)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Merge the qualified launchpad work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/ee9ec610752b99023949bab6d50d7cd94a1d0698)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/d29d8c945140eb4971a66e919a075b8f85df1a88)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Merge task 22.39.1067 into feature/launchpad [spec:layerx-merge/22.39.1067]](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/b99d7ed84dfab47862081b83b14e33b7fa4c6813)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
-- **[Merge the qualified launchpad work into main](https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f50da2ba6e6c63acf61dc69256ec8992e1e563ce)** `Sidiora-Labs/Paxeer-X-Network` — paxlabs-inc · 2026-11-21
+_Nothing new._
 
 ## 🆕 New repos on the radar
 
@@ -23,43 +16,53 @@ _Nothing new._
 
 ## 🧰 Fresh apps & tools
 
-- **[Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you](https://github.com/EL4CTEO/fast-anything)** `EL4CTEO/fast-anything` — Rust · ★9 · #mcp-server · 2026-11-21
-- **[A focused Rust external trainer delivering practical in-game aid and readable data panels.](https://github.com/takidd767-ship-it/rust-external-trainer-sanolan)** `takidd767-ship-it/rust-external-trainer-sanolan` — HTML · ★187 · #automation · 2026-11-21
-- **[Streamlined PDF workspace for editing, converting, and organizing documents.](https://github.com/Blaqsoft/acrobat-pro-fajalor-pdf-workspace)** `Blaqsoft/acrobat-pro-fajalor-pdf-workspace` — HTML · ★188 · #automation · 2026-11-21
-- **[Office Velelan delivers a structured directory for Microsoft Office components and modules.](https://github.com/Nhoel-hub/microsoft-office-velelan)** `Nhoel-hub/microsoft-office-velelan` — HTML · ★191 · #automation · 2026-11-21
-- **[一个能出活、肯问、会列证据的 Agent 工作方法。](https://github.com/ShioUmiusi/Intern.skill)** `ShioUmiusi/Intern.skill` — — · ★10 · #ai-agent · 2026-11-21
-- **[Build a Multi-Agent AI Research System with LangChain (Full Project)](https://github.com/BlockNotes-4515/DeepScope)** `BlockNotes-4515/DeepScope` — Python · ★1 · #web-scraping · 2026-11-21
-- **[训练记录：本地优先的 Android 训练日历与训练记录工具](https://github.com/338871/lianji)** `338871/lianji` — JavaScript · ★1 · #pwa · 2026-11-21
-- **[Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines a](https://github.com/w01fb0ss/PiBot)** `w01fb0ss/PiBot` — TypeScript · ★142 · #ai-agent · 2026-11-21
-- **[伴办 · 手机端日历 + 备忘录 + 智能待办](https://github.com/light-FY/daypal)** `light-FY/daypal` — JavaScript · ★2 · #pwa · 2026-11-21
-- **[Offline desktop and CLI icon asset generator for Windows, Web/PWA, Linux, Apple, Android, and MSIX.](https://github.com/HusteDev/imaguncula)** `HusteDev/imaguncula` — Rust · ★1 · #pwa · 2026-11-21
-- **[Clipador automático de lives (Twitch, Kick, YouTube): detecta momentos pelo chat/áudio, cura com Claude, edita e envia a](https://github.com/Teodorox/livecut-ai)** `Teodorox/livecut-ai` — Python · ★8 · #telegram-bot · 2026-11-21
-- **[Трекер цен на FastAPI: парсеры магазинов, история цен, Chart.js-дашборд и Telegram-алерты](https://github.com/HBBoy102011/price-pulse)** `HBBoy102011/price-pulse` — Python · ★1 · #telegram-bot · 2026-11-21
-- **[Modular add-in framework that extends Microsoft Office workflows with custom task panes.](https://github.com/cowok-au/microsoft-office-pro-jakaron)** `cowok-au/microsoft-office-pro-jakaron` — HTML · ★202 · #automation · 2026-11-20
-- **[Self-hosted, open-source bot that notifies you, without noise, about vulnerabilities, exploits, malicious packages, brea](https://github.com/NicoTomasin/secure-notify)** `NicoTomasin/secure-notify` — — · ★1 · #telegram-bot · 2026-11-20
-- **[Play Delta Force with Velmora's trainer for live tactical readouts.](https://github.com/2411500034-indra/delta-force-trainer-velmora)** `2411500034-indra/delta-force-trainer-velmora` — HTML · ★149 · #automation · 2026-11-20
+- **[Remote MCP server with live data tools on Apify: company jobs, Arbeitsagentur jobs, Luma events, Steam games & reviews, ](https://github.com/spase-scu/extractlyspace-mcp)** `spase-scu/extractlyspace-mcp` — — · ★1 · #web-scraping · 2026-11-22
+- **[A sleek, self-hosted TeslaMate companion PWA for mobile and desktop. Explore journeys, charging costs and battery histor](https://github.com/itchyparrot53/mate4mobile)** `itchyparrot53/mate4mobile` — JavaScript · ★2 · #pwa · 2026-11-22
+- **[Autonomous AI agent for hacking: penetration testing, red teaming, vulnerability research, reverse engineering and syste](https://github.com/sepiol026-wq/Kestrel)** `sepiol026-wq/Kestrel` — Python · ★2 · #telegram-bot · 2026-11-22
+- **[Live multiplayer territory quiz on a map of Australia. Next.js, Firebase, PWA.](https://github.com/SnowyFox505/australian-battles)** `SnowyFox505/australian-battles` — TypeScript · ★1 · #pwa · 2026-11-22
+- **[Self-hosted OVH dedicated server stock monitor & auto-order panel (StockHawk for OVH). Not affiliated with OVHcloud.](https://github.com/super888-png/stockhawk-ovh)** `super888-png/stockhawk-ovh` — Python · ★11 · #telegram-bot · 2026-11-22
+- **[Installable web app (PWA) for viewing ISDOC and ISDOCX invoices: XSLT layouts, signature check, XSD validation, QR payme](https://github.com/heptau/isdoc)** `heptau/isdoc` — — · ★1 · #pwa · 2026-11-22
+- **[Zero-signup web scraping, HTML-to-JSON extraction, and payload compliance checks for AI agents on Base L2.](https://github.com/ianshelp/x402-cluster)** `ianshelp/x402-cluster` — — · ★2 · #web-scraping · 2026-11-21
+- **[Installable offline-first PWA for trades businesses: job tickets, photos, parts, time, signature, invoice. IndexedDB, Ty](https://github.com/chasebuilds/field-service-pwa)** `chasebuilds/field-service-pwa` — TypeScript · ★2 · #pwa · 2026-11-21
+- **[Studioonepro7 Release: Complete Desktop Suite with All Features Included](https://github.com/Adabi0304/studioonepro7-release)** `Adabi0304/studioonepro7-release` — HTML · ★339 · #automation · 2026-11-21
+- **[CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10](https://github.com/Aroralayla99/capcut-seedance-win)** `Aroralayla99/capcut-seedance-win` — — · ★339 · #ai-agent · 2026-11-21
+- **[Sol Next: Ultra-fast Android AI phone agent built upon Mika (Apache-2.0) — Rust v3.10 UI pruning, 1:1 native background ](https://github.com/chongyangzhang92-hub/Sol-Next)** `chongyangzhang92-hub/Sol-Next` — Python · ★13 · #ai-agent · 2026-11-21
+- **[Ableton - digital audio workstation for live performance, MIDI sequencing and audio effect processing on Windows 10/11](https://github.com/alexandere58/ableton-live-win)** `alexandere58/ableton-live-win` — — · ★344 · #mcp-server · 2026-11-21
+- **[AI financial intelligence bot for Telegram: live crypto, forex and stock prices, AI analysis, whale and congressional tr](https://github.com/StreetLevelTech1/stridebot-public)** `StreetLevelTech1/stridebot-public` — — · ★1 · #telegram-bot · 2026-11-21
+- **[Microsoft Office - productivity suite for document authoring, spreadsheet analysis and presentation design on Windows 10](https://github.com/cacheapp2003/microsoft-office-win)** `cacheapp2003/microsoft-office-win` — — · ★347 · #automation · 2026-11-21
+- **[CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10](https://github.com/josephyoung28/capcut-seedance-win)** `josephyoung28/capcut-seedance-win` — — · ★338 · #ai-agent · 2026-11-21
 
 ## 📣 Show HN launches
 
-- **[Show HN: CVPebble – Free CV builder that runs in the browser, no account needed](https://cvpebble.com/)** `Show HN #50592821` — 1 pts · 1 comments · 2026-11-21
-- **[Show HN: Fundamental, page elements that bend a shared field and read it back](https://fundamentalengine.com/)** `Show HN #50592369` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Pencil – LLM writes whiteboard lessons as JSON, a browser draws them](https://github.com/VBS2004/pencil)** `Show HN #50592137` — 2 pts · 0 comments · 2026-11-21
-- **[Show HN: Scalar codebook quantization, an interactive guide](https://myli.page/posts/202611211800-how-a-weight-fits-in-4-bits/)** `Show HN #50592131` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Test product ideas on synthetic customers (open-source SSR skill)](https://github.com/AryamanSi17/synthetic-consumer-research)** `Show HN #50592073` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Some messages are more fun when you have to discover them](https://onlineimageoptimizer.com/say-it-with-a-qr-code)** `Show HN #50591831` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Craoli – find jobs without bias and manipulation from the platforms](https://craoli.com)** `Show HN #50591727` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Emx, an editor for co-working with agents with Emacs key-bindings](https://github.com/emergingrobotics/emx)** `Show HN #50591721` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Startup credits you can get with $0 raised](https://github.com/aidenixai/bootstrapped-credits)** `Show HN #50591712` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Free Plus Friday – first 3 sign-ups each Friday get a year of Plus free](https://novabuddyai.com/free-plus-friday.html)** `Show HN #50591470` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: A modern reimagining of the Python progresssss bar](https://github.com/minimaxir/psnek)** `Show HN #50591350` — 3 pts · 0 comments · 2026-11-21
-- **[Show HN: Compare how codex and Claude Build a procedural octopus jar escape](https://keepplain.com/b/build-a-procedural-octopus-jar-escape-in-threejs/vs/build-a-procedural-octopus-jar-escape-in-threejs-cjma,build-a-procedural-octopus-escaping-a-jar-in-threejs,build-a-procedural-octopus-jar-escape-scene-in-threejs)** `Show HN #50591321` — 1 pts · 1 comments · 2026-11-21
-- **[Show HN: Kimi-K3.1-Pro Unlimited API](https://www.youtube.com/watch?v=Hu-xaL-OCgE)** `Show HN #50591071` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: Build Xcode Projects on Linux with SweetPad](https://sweetpad.hyzyla.dev/blog/2026/11/21/build-xcode-projects-on-linux/)** `Show HN #50591063` — 1 pts · 0 comments · 2026-11-21
-- **[Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS](https://github.com/PQCrypta/pqcrypta-proxy)** `Show HN #50591024` — 1 pts · 0 comments · 2026-11-21
+- **[Show HN: Enjoy the Silence, a software factory on a box that isn't yours](https://dmytroportianka.github.io/enjoy-the-silence/)** `Show HN #50603195` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Convert bank statements to QuickBooks or Xero files in the browser](https://statement-converter-c41.pages.dev/)** `Show HN #50603018` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Eleria OS – A Debian 13 Based Distro with an HTML Desktop Shell](https://news.ycombinator.com/item?id=50603015)** `Show HN #50603015` — 2 pts · 0 comments · 2026-11-22
+- **[Show HN: A simple decision layer for coding agents](https://smarchone.github.io/signals/)** `Show HN #50602894` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Lanlan Jam – a multiplayer DJ booth in the browser](https://jam.lanlan.site/)** `Show HN #50602892` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: A one-time $5 API pass for text,image,and audio models](https://ai.fissionagents.com/#models)** `Show HN #50602812` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: I made a manifestation film tool in 5 days](https://www.visionflick.com/)** `Show HN #50602685` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Type-C – variants, options, generics and pattern matching to C, like TS](https://github.com/stass/type-c)** `Show HN #50602561` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN:Get Tied of Fast.com And build My own Speed testing site.](https://velocest.vercel.app)** `Show HN #50602535` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: I made a multiplayer mushroom forage game](https://mantar.duobook.co/)** `Show HN #50602457` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: OpenNotebook – Self-hosted NotebookLM alternative with video overviews](https://github.com/mahmoud-emad/opennotebook)** `Show HN #50602388` — 2 pts · 0 comments · 2026-11-22
+- **[Show HN: I built a command center to assess your personal security posture](https://installplango.com)** `Show HN #50602111` — 5 pts · 3 comments · 2026-11-22
+- **[Show HN: Loomstation – Read-only analytics terminal, MCP for Polymarket/Kalshi](https://loomstation.com/)** `Show HN #50602059` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Gitfold – every Git branch as a folder, ready in a second](https://github.com/pkukielka/gitfold)** `Show HN #50601881` — 1 pts · 0 comments · 2026-11-22
+- **[Show HN: Mapped wild edible plants and fungi near you](https://edibilia.org/map)** `Show HN #50601878` — 1 pts · 0 comments · 2026-11-22
 
 ## 💌 GitHub Trending (daily)
 
 _Nothing new._
+
+## ⚠️ Sources that failed
+
+- releases · Sidiora-Labs/Paxeer-X-Network: rate limited, resets 2026-11-22T20:06:46.000Z
+- commits · Sidiora-Labs/Paxeer-X-Network: rate limited, resets 2026-11-22T20:06:46.000Z
+- new repos · Sidiora-Labs: rate limited, resets 2026-11-22T20:06:46.000Z
+- releases · Sidiora-Labs/centra-gideon-agent: rate limited, resets 2026-11-22T20:06:46.000Z
+- commits · Sidiora-Labs/centra-gideon-agent: rate limited, resets 2026-11-22T20:06:46.000Z
+- releases · decolua/9router: rate limited, resets 2026-11-22T20:06:46.000Z
+- commits · decolua/9router: rate limited, resets 2026-11-22T20:06:46.000Z
 
 ---
 _github-radar v1.2 · zero-dependency Node scraper_

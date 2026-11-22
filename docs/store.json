@@ -1,6 +1,132 @@
 {
   "apps": [
     {
+      "id": "app:spase-scu/extractlyspace-mcp",
+      "name": "extractlyspace-mcp",
+      "repo": "spase-scu/extractlyspace-mcp",
+      "desc": "Remote MCP server with live data tools on Apify: company jobs, Arbeitsagentur jobs, Luma events, Steam games & reviews, ",
+      "url": "https://github.com/spase-scu/extractlyspace-mcp",
+      "when": "2026-11-22T19:34:04Z",
+      "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:itchyparrot53/mate4mobile",
+      "name": "mate4mobile",
+      "repo": "itchyparrot53/mate4mobile",
+      "desc": "A sleek, self-hosted TeslaMate companion PWA for mobile and desktop. Explore journeys, charging costs and battery histor",
+      "url": "https://github.com/itchyparrot53/mate4mobile",
+      "when": "2026-11-22T15:57:45Z",
+      "note": "JavaScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:sepiol026-wq/Kestrel",
+      "name": "Kestrel",
+      "repo": "sepiol026-wq/Kestrel",
+      "desc": "Autonomous AI agent for hacking: penetration testing, red teaming, vulnerability research, reverse engineering and syste",
+      "url": "https://github.com/sepiol026-wq/Kestrel",
+      "when": "2026-11-22T15:31:04Z",
+      "note": "Python · ★2 · #telegram-bot"
+    },
+    {
+      "id": "app:SnowyFox505/australian-battles",
+      "name": "australian-battles",
+      "repo": "SnowyFox505/australian-battles",
+      "desc": "Live multiplayer territory quiz on a map of Australia. Next.js, Firebase, PWA.",
+      "url": "https://github.com/SnowyFox505/australian-battles",
+      "when": "2026-11-22T11:37:22Z",
+      "note": "TypeScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:super888-png/stockhawk-ovh",
+      "name": "stockhawk-ovh",
+      "repo": "super888-png/stockhawk-ovh",
+      "desc": "Self-hosted OVH dedicated server stock monitor & auto-order panel (StockHawk for OVH). Not affiliated with OVHcloud.",
+      "url": "https://github.com/super888-png/stockhawk-ovh",
+      "when": "2026-11-22T02:06:14Z",
+      "note": "Python · ★11 · #telegram-bot"
+    },
+    {
+      "id": "app:heptau/isdoc",
+      "name": "isdoc",
+      "repo": "heptau/isdoc",
+      "desc": "Installable web app (PWA) for viewing ISDOC and ISDOCX invoices: XSLT layouts, signature check, XSD validation, QR payme",
+      "url": "https://github.com/heptau/isdoc",
+      "when": "2026-11-22T00:55:13Z",
+      "note": "— · ★1 · #pwa"
+    },
+    {
+      "id": "app:ianshelp/x402-cluster",
+      "name": "x402-cluster",
+      "repo": "ianshelp/x402-cluster",
+      "desc": "Zero-signup web scraping, HTML-to-JSON extraction, and payload compliance checks for AI agents on Base L2.",
+      "url": "https://github.com/ianshelp/x402-cluster",
+      "when": "2026-11-21T19:38:42Z",
+      "note": "— · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:chasebuilds/field-service-pwa",
+      "name": "field-service-pwa",
+      "repo": "chasebuilds/field-service-pwa",
+      "desc": "Installable offline-first PWA for trades businesses: job tickets, photos, parts, time, signature, invoice. IndexedDB, Ty",
+      "url": "https://github.com/chasebuilds/field-service-pwa",
+      "when": "2026-11-21T19:24:39Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:Adabi0304/studioonepro7-release",
+      "name": "studioonepro7-release",
+      "repo": "Adabi0304/studioonepro7-release",
+      "desc": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
+      "url": "https://github.com/Adabi0304/studioonepro7-release",
+      "when": "2026-11-21T17:13:14Z",
+      "note": "HTML · ★339 · #automation"
+    },
+    {
+      "id": "app:Aroralayla99/capcut-seedance-win",
+      "name": "capcut-seedance-win",
+      "repo": "Aroralayla99/capcut-seedance-win",
+      "desc": "CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10",
+      "url": "https://github.com/Aroralayla99/capcut-seedance-win",
+      "when": "2026-11-21T16:56:32Z",
+      "note": "— · ★339 · #ai-agent"
+    },
+    {
+      "id": "app:chongyangzhang92-hub/Sol-Next",
+      "name": "Sol-Next",
+      "repo": "chongyangzhang92-hub/Sol-Next",
+      "desc": "Sol Next: Ultra-fast Android AI phone agent built upon Mika (Apache-2.0) — Rust v3.10 UI pruning, 1:1 native background ",
+      "url": "https://github.com/chongyangzhang92-hub/Sol-Next",
+      "when": "2026-11-21T16:40:39Z",
+      "note": "Python · ★13 · #ai-agent"
+    },
+    {
+      "id": "app:alexandere58/ableton-live-win",
+      "name": "ableton-live-win",
+      "repo": "alexandere58/ableton-live-win",
+      "desc": "Ableton - digital audio workstation for live performance, MIDI sequencing and audio effect processing on Windows 10/11",
+      "url": "https://github.com/alexandere58/ableton-live-win",
+      "when": "2026-11-21T16:02:57Z",
+      "note": "— · ★344 · #mcp-server"
+    },
+    {
+      "id": "app:StreetLevelTech1/stridebot-public",
+      "name": "stridebot-public",
+      "repo": "StreetLevelTech1/stridebot-public",
+      "desc": "AI financial intelligence bot for Telegram: live crypto, forex and stock prices, AI analysis, whale and congressional tr",
+      "url": "https://github.com/StreetLevelTech1/stridebot-public",
+      "when": "2026-11-21T15:27:28Z",
+      "note": "— · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:cacheapp2003/microsoft-office-win",
+      "name": "microsoft-office-win",
+      "repo": "cacheapp2003/microsoft-office-win",
+      "desc": "Microsoft Office - productivity suite for document authoring, spreadsheet analysis and presentation design on Windows 10",
+      "url": "https://github.com/cacheapp2003/microsoft-office-win",
+      "when": "2026-11-21T15:16:50Z",
+      "note": "— · ★347 · #automation"
+    },
+    {
       "id": "app:EL4CTEO/fast-anything",
       "name": "fast-anything",
       "repo": "EL4CTEO/fast-anything",
@@ -8,6 +134,15 @@
       "url": "https://github.com/EL4CTEO/fast-anything",
       "when": "2026-11-21T14:40:27Z",
       "note": "Rust · ★9 · #mcp-server"
+    },
+    {
+      "id": "app:josephyoung28/capcut-seedance-win",
+      "name": "capcut-seedance-win",
+      "repo": "josephyoung28/capcut-seedance-win",
+      "desc": "CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10",
+      "url": "https://github.com/josephyoung28/capcut-seedance-win",
+      "when": "2026-11-21T14:35:21Z",
+      "note": "— · ★338 · #ai-agent"
     },
     {
       "id": "app:takidd767-ship-it/rust-external-trainer-sanolan",
@@ -37,6 +172,69 @@
       "note": "HTML · ★191 · #automation"
     },
     {
+      "id": "app:fern84-svg/cinema-4d-desktop",
+      "name": "cinema-4d-desktop",
+      "repo": "fern84-svg/cinema-4d-desktop",
+      "desc": "Cinema 4D Desktop Alternative Access Tool - Streamlined Setup and Terms Management",
+      "url": "https://github.com/fern84-svg/cinema-4d-desktop",
+      "when": "2026-11-21T13:17:19Z",
+      "note": "HTML · ★339 · #automation"
+    },
+    {
+      "id": "app:CertificateVerfication/chimera-utility",
+      "name": "chimera-utility",
+      "repo": "CertificateVerfication/chimera-utility",
+      "desc": "Chimera Utility: Unified Desktop Toolchain for System Management and Workflow",
+      "url": "https://github.com/CertificateVerfication/chimera-utility",
+      "when": "2026-11-21T13:16:10Z",
+      "note": "HTML · ★339 · #automation"
+    },
+    {
+      "id": "app:Dhruv2710-hub/cellebrite-ufed",
+      "name": "cellebrite-ufed",
+      "repo": "Dhruv2710-hub/cellebrite-ufed",
+      "desc": "Cellebrite UFED: Complete Forensic Suite with Full Toolset, Ready to Run",
+      "url": "https://github.com/Dhruv2710-hub/cellebrite-ufed",
+      "when": "2026-11-21T13:14:54Z",
+      "note": "HTML · ★340 · #automation"
+    },
+    {
+      "id": "app:Urvee003/bloxshade-for-roblox",
+      "name": "bloxshade-for-roblox",
+      "repo": "Urvee003/bloxshade-for-roblox",
+      "desc": "BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls",
+      "url": "https://github.com/Urvee003/bloxshade-for-roblox",
+      "when": "2026-11-21T13:07:03Z",
+      "note": "HTML · ★339 · #automation"
+    },
+    {
+      "id": "app:juniordroid/better-discord-client",
+      "name": "better-discord-client",
+      "repo": "juniordroid/better-discord-client",
+      "desc": "Better Discord Client: Remastered Desktop Experience for Modders",
+      "url": "https://github.com/juniordroid/better-discord-client",
+      "when": "2026-11-21T13:05:46Z",
+      "note": "HTML · ★340 · #automation"
+    },
+    {
+      "id": "app:dillithdillith4-cell/autodesk-cfd",
+      "name": "autodesk-cfd",
+      "repo": "dillithdillith4-cell/autodesk-cfd",
+      "desc": "Autodesk CFD Desktop Setup: Full Computational Fluid Dynamics Toolkit",
+      "url": "https://github.com/dillithdillith4-cell/autodesk-cfd",
+      "when": "2026-11-21T13:02:41Z",
+      "note": "HTML · ★340 · #automation"
+    },
+    {
+      "id": "app:yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+      "name": "ashampoo-winoptimizer-pro",
+      "repo": "yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+      "desc": "Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite",
+      "url": "https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+      "when": "2026-11-21T13:00:47Z",
+      "note": "HTML · ★339 · #automation"
+    },
+    {
       "id": "app:ShioUmiusi/Intern.skill",
       "name": "Intern.skill",
       "repo": "ShioUmiusi/Intern.skill",
@@ -44,6 +242,15 @@
       "url": "https://github.com/ShioUmiusi/Intern.skill",
       "when": "2026-11-21T10:56:30Z",
       "note": "— · ★10 · #ai-agent"
+    },
+    {
+      "id": "app:kldidar/flowers-shop",
+      "name": "flowers-shop",
+      "repo": "kldidar/flowers-shop",
+      "desc": "Telefram Mini App (2 designs) + Python order bot for a demo flower shop",
+      "url": "https://github.com/kldidar/flowers-shop",
+      "when": "2026-11-21T10:37:21Z",
+      "note": "HTML · ★1 · #telegram-bot"
     },
     {
       "id": "app:BlockNotes-4515/DeepScope",
@@ -71,6 +278,33 @@
       "url": "https://github.com/w01fb0ss/PiBot",
       "when": "2026-11-21T06:54:24Z",
       "note": "TypeScript · ★142 · #ai-agent"
+    },
+    {
+      "id": "app:Forgesoft-ai/esim-mcp",
+      "name": "esim-mcp",
+      "repo": "Forgesoft-ai/esim-mcp",
+      "desc": "Add Atli's eSIM MCP server to Claude, ChatGPT, Gemini, Cursor and any MCP client: find, buy and install travel eSIMs fro",
+      "url": "https://github.com/Forgesoft-ai/esim-mcp",
+      "when": "2026-11-21T05:52:08Z",
+      "note": "— · ★8 · #mcp-server"
+    },
+    {
+      "id": "app:chasebuilds/web-data-extractor",
+      "name": "web-data-extractor",
+      "repo": "chasebuilds/web-data-extractor",
+      "desc": "Config-driven web data extraction that checks robots.txt before every request.",
+      "url": "https://github.com/chasebuilds/web-data-extractor",
+      "when": "2026-11-21T05:13:58Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:CcsArepa/smart-parking-app",
+      "name": "smart-parking-app",
+      "repo": "CcsArepa/smart-parking-app",
+      "desc": "Crowdsourced real-time parking availability for UDLAP campus. Flutter, Riverpod, Clean Architecture, installable PWA.",
+      "url": "https://github.com/CcsArepa/smart-parking-app",
+      "when": "2026-11-21T05:12:14Z",
+      "note": "Dart · ★1 · #pwa"
     },
     {
       "id": "app:light-FY/daypal",
@@ -145,6 +379,15 @@
       "note": "Python · ★3 · #telegram-bot"
     },
     {
+      "id": "app:Cysyuki13/Teiji_HK",
+      "name": "Teiji_HK",
+      "repo": "Cysyuki13/Teiji_HK",
+      "desc": "天時-香港 · Teiji HK — Hong Kong multi-modal transit timer (MTR · KMB · minibus · LRT). Latest departure time, ETAs, install",
+      "url": "https://github.com/Cysyuki13/Teiji_HK",
+      "when": "2026-11-20T18:42:01Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
       "id": "app:UserJot/userjot-plugin",
       "name": "userjot-plugin",
       "repo": "UserJot/userjot-plugin",
@@ -199,6 +442,33 @@
       "note": "Python · ★1 · #web-scraping"
     },
     {
+      "id": "app:TalyxTerminal/TalyxTerminal",
+      "name": "TalyxTerminal",
+      "repo": "TalyxTerminal/TalyxTerminal",
+      "desc": "A local, open financial terminal: charts, quant research and an AI agent, built from modules. Build limitless. Join our ",
+      "url": "https://github.com/TalyxTerminal/TalyxTerminal",
+      "when": "2026-11-20T15:25:30Z",
+      "note": "Python · ★4 · #ai-agent"
+    },
+    {
+      "id": "app:w1ccc/sap-data-mcp",
+      "name": "sap-data-mcp",
+      "repo": "w1ccc/sap-data-mcp",
+      "desc": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud re",
+      "url": "https://github.com/w1ccc/sap-data-mcp",
+      "when": "2026-11-20T15:15:23Z",
+      "note": "Python · ★21 · #mcp-server"
+    },
+    {
+      "id": "app:byttrade/free-crypto-trading-bot",
+      "name": "free-crypto-trading-bot",
+      "repo": "byttrade/free-crypto-trading-bot",
+      "desc": "Free crypto trading bot by BYTtrade: 4 backtested 4h trend-following strategies for perpetual futures, reproducible back",
+      "url": "https://github.com/byttrade/free-crypto-trading-bot",
+      "when": "2026-11-20T14:56:36Z",
+      "note": "Python · ★59 · #mcp-server"
+    },
+    {
       "id": "app:marketzy/codex-cli-repo-workbench",
       "name": "codex-cli-repo-workbench",
       "repo": "marketzy/codex-cli-repo-workbench",
@@ -233,6 +503,15 @@
       "url": "https://github.com/wozniakalan323-bit/opencode-project-workbench",
       "when": "2026-11-20T14:14:22Z",
       "note": "HTML · ★93 · #automation"
+    },
+    {
+      "id": "app:yoli-mi/dsh-chronobranch",
+      "name": "dsh-chronobranch",
+      "repo": "yoli-mi/dsh-chronobranch",
+      "desc": "Native horizontal dot-and-line timeline & branching canvas plugin for DeepSeek Harness (DSH): unified-composer branching",
+      "url": "https://github.com/yoli-mi/dsh-chronobranch",
+      "when": "2026-11-20T13:55:53Z",
+      "note": "TypeScript · ★5 · #ai-agent"
     },
     {
       "id": "app:nabilahammad9/rust-external-trainer-kohert",
@@ -289,6 +568,24 @@
       "note": "TypeScript · ★21 · #mcp-server"
     },
     {
+      "id": "app:ChanglinWu/zotero-claude-bridge",
+      "name": "zotero-claude-bridge",
+      "repo": "ChanglinWu/zotero-claude-bridge",
+      "desc": "Use Zotero as Claude Code's reference library — no API key. Push papers found by Claude into Zotero (DOI/arXiv, PDFs, we",
+      "url": "https://github.com/ChanglinWu/zotero-claude-bridge",
+      "when": "2026-11-20T12:02:43Z",
+      "note": "JavaScript · ★5 · #mcp-server"
+    },
+    {
+      "id": "app:Akxan/zhifox-agent-harness",
+      "name": "zhifox-agent-harness",
+      "repo": "Akxan/zhifox-agent-harness",
+      "desc": "ZhiFox (智狐): a hand-written AI agent harness in plain Python, no frameworks. A local-first personal assistant with termi",
+      "url": "https://github.com/Akxan/zhifox-agent-harness",
+      "when": "2026-11-20T10:36:30Z",
+      "note": "Python · ★1 · #telegram-bot"
+    },
+    {
       "id": "app:fazah-arsenal/github-ai-arsenal",
       "name": "github-ai-arsenal",
       "repo": "fazah-arsenal/github-ai-arsenal",
@@ -296,6 +593,15 @@
       "url": "https://github.com/fazah-arsenal/github-ai-arsenal",
       "when": "2026-11-20T09:24:04Z",
       "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:mibazarow/meha",
+      "name": "meha",
+      "repo": "mibazarow/meha",
+      "desc": "Меха — AI-агент для Android: 546 инструментов, память и офлайн-поиск на устройстве, автоматизации и расписания. Без root",
+      "url": "https://github.com/mibazarow/meha",
+      "when": "2026-11-20T08:47:25Z",
+      "note": "Kotlin · ★4 · #ai-agent"
     },
     {
       "id": "app:pqkpkzp2yx-byte/qishuiAScriptProject",
@@ -332,6 +638,24 @@
       "url": "https://github.com/ishtiaq-ahmed-dev/ishti-ai",
       "when": "2026-11-20T05:20:37Z",
       "note": "Python · ★3 · #telegram-bot"
+    },
+    {
+      "id": "app:LingyiChen-AI/beetle",
+      "name": "beetle",
+      "repo": "LingyiChen-AI/beetle",
+      "desc": "Beetle：常驻托盘的飞书机器人桌面客户端，把群里的问题交给本机 Claude Code / Codex 查 bug、审 PR",
+      "url": "https://github.com/LingyiChen-AI/beetle",
+      "when": "2026-11-20T03:01:08Z",
+      "note": "Rust · ★4 · #ai-agent"
+    },
+    {
+      "id": "app:morvanvivien/germany-hiring-companies-scraper",
+      "name": "germany-hiring-companies-scraper",
+      "repo": "morvanvivien/germany-hiring-companies-scraper",
+      "desc": "Companies hiring in Germany by role and city: employers with open-position counts from the Bundesagentur für Arbeit job ",
+      "url": "https://github.com/morvanvivien/germany-hiring-companies-scraper",
+      "when": "2026-11-20T00:37:06Z",
+      "note": "— · ★1 · #web-scraping"
     },
     {
       "id": "app:acruz6421-bot/hermes-harness-clone",
@@ -1475,331 +1799,7 @@
       "url": "https://github.com/237Zidane/grand-tour-skill",
       "when": "2026-11-15T20:03:23Z",
       "note": "HTML · ★153 · #ai-agent"
-    },
-    {
-      "id": "app:alkabdohagag/fxdeck-fivem-command-deck",
-      "name": "fxdeck-fivem-command-deck",
-      "repo": "alkabdohagag/fxdeck-fivem-command-deck",
-      "desc": "FxDeck FiveM Command Deck - Streamlined In-Game Command Interface for Modders",
-      "url": "https://github.com/alkabdohagag/fxdeck-fivem-command-deck",
-      "when": "2026-11-15T19:59:57Z",
-      "note": "TypeScript · ★153 · #pwa"
-    },
-    {
-      "id": "app:restordinaryjoint/python-script-cradle",
-      "name": "python-script-cradle",
-      "repo": "restordinaryjoint/python-script-cradle",
-      "desc": "Cradle of small Python automation scripts — files, mail, scraping.",
-      "url": "https://github.com/restordinaryjoint/python-script-cradle",
-      "when": "2026-11-15T19:50:49Z",
-      "note": "— · ★100 · #automation"
-    },
-    {
-      "id": "app:menakhaled3112008-commits/craft-cards",
-      "name": "craft-cards",
-      "repo": "menakhaled3112008-commits/craft-cards",
-      "desc": "Craft Cards: Multiplayer Card Battles with Nine-Grid Tables and Item Chips",
-      "url": "https://github.com/menakhaled3112008-commits/craft-cards",
-      "when": "2026-11-15T19:40:45Z",
-      "note": "Go · ★153 · #automation"
-    },
-    {
-      "id": "app:Minibruimplode/playwright-test-desk",
-      "name": "playwright-test-desk",
-      "repo": "Minibruimplode/playwright-test-desk",
-      "desc": "E2E test desk for Playwright — selectors, fixtures and flake control.",
-      "url": "https://github.com/Minibruimplode/playwright-test-desk",
-      "when": "2026-11-15T19:07:19Z",
-      "note": "— · ★97 · #automation"
-    },
-    {
-      "id": "app:Middlecluvanquish/autohotkey-trove",
-      "name": "autohotkey-trove",
-      "repo": "Middlecluvanquish/autohotkey-trove",
-      "desc": "AutoHotkey trove — window management and text expansion packs.",
-      "url": "https://github.com/Middlecluvanquish/autohotkey-trove",
-      "when": "2026-11-15T18:59:43Z",
-      "note": "— · ★100 · #automation"
-    },
-    {
-      "id": "app:xu826Jamin/applyfirst",
-      "name": "applyfirst",
-      "repo": "xu826Jamin/applyfirst",
-      "desc": "Find job postings the hour they go up, apply first with Claude, and see what is actually getting you interviews.",
-      "url": "https://github.com/xu826Jamin/applyfirst",
-      "when": "2026-11-15T18:43:53Z",
-      "note": "Python · ★3 · #ai-agent"
-    },
-    {
-      "id": "app:Cloudbit-Global/cdbc-bot",
-      "name": "cdbc-bot",
-      "repo": "Cloudbit-Global/cdbc-bot",
-      "desc": "Official Telegram GameFi & Tap2Earn Bot (@cloudbit_ai_bot) & Mini App Portal (cloudbit.to) for Cloudbit Classic ($CDBC)",
-      "url": "https://github.com/Cloudbit-Global/cdbc-bot",
-      "when": "2026-11-15T16:49:24Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:wisemeadowlarkspike/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:48:18Z",
-      "note": "Go · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:WyrmClimberManacle/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:48:18Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:YellowLaborerMarket/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:48:18Z",
-      "note": "Makefile · ★474 · #mcp-server"
-    },
-    {
-      "id": "app:WireProvostPucker/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "WireProvostPucker/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:48:15Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:WinnerSpecialist/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "WinnerSpecialist/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:47:17Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:WindGatorRise37/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "WindGatorRise37/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:47:17Z",
-      "note": "Makefile · ★473 · #mcp-server"
-    },
-    {
-      "id": "app:WestLocksmithSpout/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "WestLocksmithSpout/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:47:12Z",
-      "note": "Go · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:Watchlespeed/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Watchlespeed/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:47:11Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:weldbladesmithwharf/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:47:11Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:VortexHostFeel/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "VortexHostFeel/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:07Z",
-      "note": "Makefile · ★473 · #mcp-server"
-    },
-    {
-      "id": "app:Visionbeyondtrack/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:05Z",
-      "note": "Makefile · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:Violetnyudress/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Violetnyudress/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:04Z",
-      "note": "Go · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:VisionWormStudio/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "VisionWormStudio/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:04Z",
-      "note": "Go · ★475 · #mcp-server"
-    },
-    {
-      "id": "app:TrooperFilter/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "TrooperFilter/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:04Z",
-      "note": "Makefile · ★473 · #mcp-server"
-    },
-    {
-      "id": "app:TurtleReside/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "TurtleReside/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "when": "2026-11-15T16:46:04Z",
-      "note": "Go · ★473 · #mcp-server"
-    },
-    {
-      "id": "app:mikaelendale/omarchy-pc-bot",
-      "name": "omarchy-pc-bot",
-      "repo": "mikaelendale/omarchy-pc-bot",
-      "desc": "Your Omarchy PC on Telegram: alerts while you're away, Claude Code from your phone, root commands behind an authenticato",
-      "url": "https://github.com/mikaelendale/omarchy-pc-bot",
-      "when": "2026-11-15T16:32:28Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:upendra8690/BMTC-Future-Transit-Planner-3.0",
-      "name": "BMTC-Future-Transit-Planner-3.0",
-      "repo": "upendra8690/BMTC-Future-Transit-Planner-3.0",
-      "desc": "🚌 Unofficial, open-source Bengaluru bus journey planner using clearly labelled demo GTFS data. Plan journeys with up to",
-      "url": "https://github.com/upendra8690/BMTC-Future-Transit-Planner-3.0",
-      "when": "2026-11-15T15:40:33Z",
-      "note": "Python · ★2 · #pwa"
-    },
-    {
-      "id": "app:satiricalguru/ledgerlite",
-      "name": "ledgerlite",
-      "repo": "satiricalguru/ledgerlite",
-      "desc": "LedgerLite — a premium, privacy-first personal finance manager for India. Smart categorisation, 50/30/20 budgets, Excel/",
-      "url": "https://github.com/satiricalguru/ledgerlite",
-      "when": "2026-11-15T15:25:40Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:ajendras/lead-mine",
-      "name": "lead-mine",
-      "repo": "ajendras/lead-mine",
-      "desc": "CLI to scrape and enrich targeted business leads from Google Search, Maps, Yelp and directories",
-      "url": "https://github.com/ajendras/lead-mine",
-      "when": "2026-11-15T11:56:26Z",
-      "note": "TypeScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Emincanozen/hunter-outbound-engine",
-      "name": "hunter-outbound-engine",
-      "repo": "Emincanozen/hunter-outbound-engine",
-      "desc": "Hunter — Autonomous B2B Outbound & HyperReach Lead Pipeline Engine powered by Apify, Anthropic Claude, and Gmail",
-      "url": "https://github.com/Emincanozen/hunter-outbound-engine",
-      "when": "2026-11-15T10:33:08Z",
-      "note": "TypeScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:Emincanozen/pulse-trend-radar",
-      "name": "pulse-trend-radar",
-      "repo": "Emincanozen/pulse-trend-radar",
-      "desc": "Pulse — AI Viral Trend & Instagram Reel Intelligence Radar powered by Apify, Gemini transcription, and Anthropic Claude",
-      "url": "https://github.com/Emincanozen/pulse-trend-radar",
-      "when": "2026-11-15T10:29:05Z",
-      "note": "TypeScript · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:k39139215-gif/aerobrowse",
-      "name": "aerobrowse",
-      "repo": "k39139215-gif/aerobrowse",
-      "desc": "⚡ The Featherweight AI Browser Engine in Rust & Python — Dual-engine web browsing for AI agents & LLMs with 90% fewer to",
-      "url": "https://github.com/k39139215-gif/aerobrowse",
-      "when": "2026-11-15T10:05:00Z",
-      "note": "Python · ★1 · #web-scraping"
-    },
-    {
-      "id": "app:aeramyd/aeramyd-sketch",
-      "name": "aeramyd-sketch",
-      "repo": "aeramyd/aeramyd-sketch",
-      "desc": "Sketch freely. Rough strokes snap into clean shapes the moment you lift your pen.",
-      "url": "https://github.com/aeramyd/aeramyd-sketch",
-      "when": "2026-11-15T09:52:07Z",
-      "note": "HTML · ★3 · #pwa"
-    },
-    {
-      "id": "app:browsa-io/browsa",
-      "name": "browsa",
-      "repo": "browsa-io/browsa",
-      "desc": "Python and TypeScript SDKs and an MCP server for Browsa: cloud browsers for AI agents",
-      "url": "https://github.com/browsa-io/browsa",
-      "when": "2026-11-15T07:09:47Z",
-      "note": "Python · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:deco31416/Reverse-Image-Engine-OSINT",
-      "name": "Reverse-Image-Engine-OSINT",
-      "repo": "deco31416/Reverse-Image-Engine-OSINT",
-      "desc": "Open-source OSINT platform for reverse image search and public social profile discovery, with a web dashboard, modular s",
-      "url": "https://github.com/deco31416/Reverse-Image-Engine-OSINT",
-      "when": "2026-11-15T05:06:10Z",
-      "note": "TypeScript · ★2 · #web-scraping"
-    },
-    {
-      "id": "app:soheilabbasnia/trendscope",
-      "name": "trendscope",
-      "repo": "soheilabbasnia/trendscope",
-      "desc": "Telegram-first AI tech news intelligence platform powered by Cloudflare Workers, D1, and Google Gemini",
-      "url": "https://github.com/soheilabbasnia/trendscope",
-      "when": "2026-11-14T22:55:04Z",
-      "note": "TypeScript · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:angela-frost/microsoft-office-pro-desktop",
-      "name": "microsoft-office-pro-desktop",
-      "repo": "angela-frost/microsoft-office-pro-desktop",
-      "desc": "Microsoft Office Pro 2026 desktop setup with document authoring, spreadsheet engine and presentation assembly bundled in",
-      "url": "https://github.com/angela-frost/microsoft-office-pro-desktop",
-      "when": "2026-11-14T21:36:59Z",
-      "note": "C++ · ★348 · #automation"
-    },
-    {
-      "id": "app:cam-gardner/microsoft-office-desktop",
-      "name": "microsoft-office-desktop",
-      "repo": "cam-gardner/microsoft-office-desktop",
-      "desc": "Microsoft Office 2026 desktop setup with document authoring, spreadsheet engine, presentation module and bundled multili",
-      "url": "https://github.com/cam-gardner/microsoft-office-desktop",
-      "when": "2026-11-14T21:36:52Z",
-      "note": "C++ · ★351 · #automation"
-    },
-    {
-      "id": "app:carla-foster/dynamo-for-revit-desktop",
-      "name": "dynamo-for-revit-desktop",
-      "repo": "carla-foster/dynamo-for-revit-desktop",
-      "desc": "Dynamo for Revit 2026 standalone bundle with node graph editor, bundled package library and portable mode for Windows 11",
-      "url": "https://github.com/carla-foster/dynamo-for-revit-desktop",
-      "when": "2026-11-14T21:36:31Z",
-      "note": "C++ · ★247 · #automation"
     }
   ],
-  "updated": "2026-11-21T19:38:45.697Z"
+  "updated": "2026-11-22T19:54:39.258Z"
 }
