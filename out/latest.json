@@ -1,291 +1,419 @@
 {
-  "date": "2026-11-22",
-  "generated": "2026-11-22T19:54:39.258Z",
-  "newCount": 51,
-  "errors": [
-    "releases · Sidiora-Labs/Paxeer-X-Network: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "commits · Sidiora-Labs/Paxeer-X-Network: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "new repos · Sidiora-Labs: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "releases · Sidiora-Labs/centra-gideon-agent: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "commits · Sidiora-Labs/centra-gideon-agent: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "releases · decolua/9router: rate limited, resets 2026-11-22T20:06:46.000Z",
-    "commits · decolua/9router: rate limited, resets 2026-11-22T20:06:46.000Z"
-  ],
+  "date": "2026-11-24",
+  "generated": "2026-11-24T00:11:33.356Z",
+  "newCount": 81,
+  "errors": [],
   "releases": [],
-  "commits": [],
+  "commits": [
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/dee1912bb115a11a367cd4004e78e9345e2e1a0e",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Add the tasks for the retained reference record with its scan and its case files and for the file lists of the governanc",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/dee1912bb115a11a367cd4004e78e9345e2e1a0e",
+      "when": "2026-11-23T23:53:53Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/0151a6b937133f9d4aa130abb2956fdad1e32760",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Mark 1 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/0151a6b937133f9d4aa130abb2956fdad1e32760",
+      "when": "2026-11-23T19:14:23Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/7b022e429d1387c9c90de95c1f3e71d2674112b0",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Merge the qualified platform work into main",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/7b022e429d1387c9c90de95c1f3e71d2674112b0",
+      "when": "2026-11-23T19:10:00Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/f746c4b2ea69a5364dc9339fd9bbd97f9ae88950",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Mark 3 layerx-merge tasks done whose qualified commits are on main [spec:layerx-merge]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f746c4b2ea69a5364dc9339fd9bbd97f9ae88950",
+      "when": "2026-11-23T19:08:43Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/570856db0e4ee0f273cf527f24448924ebf6e98c",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Merge task 22.39.1164 into feature/platform [spec:layerx-merge/22.39.1164]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/570856db0e4ee0f273cf527f24448924ebf6e98c",
+      "when": "2026-11-23T19:06:36Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/e87c5c7812bd6d8efcf5a3475abde6ab6f41e343",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Merge task 22.39.1165 into feature/platform [spec:layerx-merge/22.39.1165]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/e87c5c7812bd6d8efcf5a3475abde6ab6f41e343",
+      "when": "2026-11-23T19:02:43Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/2cce6bfea307f4efccae248fd75e9ce5f9cf99dc",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Merge task 22.39.1163 into feature/platform [spec:layerx-merge/22.39.1163]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/2cce6bfea307f4efccae248fd75e9ce5f9cf99dc",
+      "when": "2026-11-23T19:02:37Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:Sidiora-Labs/Paxeer-X-Network/f6e6b36253090ce050c0a892a88c638a12335337",
+      "section": "commits",
+      "repo": "Sidiora-Labs/Paxeer-X-Network",
+      "title": "Merge task 22.39.1162 into feature/platform [spec:layerx-merge/22.39.1162]",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo/commit/f6e6b36253090ce050c0a892a88c638a12335337",
+      "when": "2026-11-23T19:02:31Z",
+      "note": "paxlabs-inc"
+    },
+    {
+      "id": "cmt:decolua/9router/5ae63d22847e07042e235b40e1d926b65e509013",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "# v0.5.123 (2026-11-22)",
+      "url": "https://github.com/decolua/9router/commit/5ae63d22847e07042e235b40e1d926b65e509013",
+      "when": "2026-11-23T02:13:33Z",
+      "note": "decolua"
+    },
+    {
+      "id": "cmt:decolua/9router/6b8b7ceb9f8809b6df73a4c3bf4d6c98295cd734",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "fix(antigravity): align the client identity with the live IDE and keep the UA shape",
+      "url": "https://github.com/decolua/9router/commit/6b8b7ceb9f8809b6df73a4c3bf4d6c98295cd734",
+      "when": "2026-11-22T11:40:48Z",
+      "note": "Andy Vandaric"
+    },
+    {
+      "id": "cmt:decolua/9router/1da78e2bfabb0ed743b4ea345cd8438cb5ed3879",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "fix(kiro): send the IDE identity on token refresh and align the Hydrogen changelog",
+      "url": "https://github.com/decolua/9router/commit/1da78e2bfabb0ed743b4ea345cd8438cb5ed3879",
+      "when": "2026-11-22T11:22:31Z",
+      "note": "decolua"
+    },
+    {
+      "id": "cmt:decolua/9router/bc3a88b993a1f52631af7b79c071d08c1157311f",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "test(antigravity): align hydrogen pricing and injected-identity expectations",
+      "url": "https://github.com/decolua/9router/commit/bc3a88b993a1f52631af7b79c071d08c1157311f",
+      "when": "2026-11-22T04:33:44Z",
+      "note": "decolua"
+    },
+    {
+      "id": "cmt:decolua/9router/767d7aeb0b342cfd849d54de19bd04e13810bb7f",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "fix(antigravity): correct Gemini 4 and Claude 5.5 model ids and thinking tiers",
+      "url": "https://github.com/decolua/9router/commit/767d7aeb0b342cfd849d54de19bd04e13810bb7f",
+      "when": "2026-11-22T04:25:14Z",
+      "note": "gauconhihi"
+    },
+    {
+      "id": "cmt:decolua/9router/ada236daec98d7ee89914ac3af9f93080843c417",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "fix(kiro): identify as Kiro IDE 1.4.154 on every call and add Gemini 4 Hydrogen tiers",
+      "url": "https://github.com/decolua/9router/commit/ada236daec98d7ee89914ac3af9f93080843c417",
+      "when": "2026-11-22T04:25:09Z",
+      "note": "fahmi0812"
+    },
+    {
+      "id": "cmt:decolua/9router/109e4816e38263feedd3d92187ad37ec2410438a",
+      "section": "commits",
+      "repo": "decolua/9router",
+      "title": "feat(antigravity): add Gemini 4 Hydrogen with long decode and prompt-rejection recovery",
+      "url": "https://github.com/decolua/9router/commit/109e4816e38263feedd3d92187ad37ec2410438a",
+      "when": "2026-11-22T04:25:07Z",
+      "note": "anojndr"
+    }
+  ],
   "new-repos": [],
   "apps": [
     {
-      "id": "app:spase-scu/extractlyspace-mcp",
+      "id": "app:abmd4694-del/rust-external-trainer-sadalan",
       "section": "apps",
-      "repo": "spase-scu/extractlyspace-mcp",
-      "title": "Remote MCP server with live data tools on Apify: company jobs, Arbeitsagentur jobs, Luma events, Steam games & reviews, ",
-      "url": "https://github.com/spase-scu/extractlyspace-mcp",
-      "when": "2026-11-22T19:34:04Z",
+      "repo": "abmd4694-del/rust-external-trainer-sadalan",
+      "title": "Play Rust smarter with Sadalan’s external trainer for live player and world intel.",
+      "url": "https://github.com/abmd4694-del/rust-external-trainer-sadalan",
+      "when": "2026-11-23T22:23:57Z",
+      "note": "HTML · ★122 · #automation"
+    },
+    {
+      "id": "app:Nkyoko109/acrobat-pro-benomir-pdf-workspace",
+      "section": "apps",
+      "repo": "Nkyoko109/acrobat-pro-benomir-pdf-workspace",
+      "title": "Document workflows refined - precise PDF editing and layout control.",
+      "url": "https://github.com/Nkyoko109/acrobat-pro-benomir-pdf-workspace",
+      "when": "2026-11-23T21:50:59Z",
+      "note": "HTML · ★122 · #automation"
+    },
+    {
+      "id": "app:asimbakii/MiniDesktop",
+      "section": "apps",
+      "repo": "asimbakii/MiniDesktop",
+      "title": "Turn any tablet (Android, iPad, HarmonyOS) into a second screen for your Windows PC: media controls, Discord, CPU/GPU st",
+      "url": "https://github.com/asimbakii/MiniDesktop",
+      "when": "2026-11-23T20:53:58Z",
+      "note": "Python · ★2 · #pwa"
+    },
+    {
+      "id": "app:adops-tool/awesome-ai-outreach",
+      "section": "apps",
+      "repo": "adops-tool/awesome-ai-outreach",
+      "title": "🧲 Curated list of AI outreach tools for B2B sales: autonomous SDRs, lead generation, social listening, data enrichment,",
+      "url": "https://github.com/adops-tool/awesome-ai-outreach",
+      "when": "2026-11-23T20:51:34Z",
       "note": "— · ★1 · #web-scraping"
     },
     {
-      "id": "app:itchyparrot53/mate4mobile",
+      "id": "app:stoyantsiparov/buffett-munger-investor-bot",
       "section": "apps",
-      "repo": "itchyparrot53/mate4mobile",
-      "title": "A sleek, self-hosted TeslaMate companion PWA for mobile and desktop. Explore journeys, charging costs and battery histor",
-      "url": "https://github.com/itchyparrot53/mate4mobile",
-      "when": "2026-11-22T15:57:45Z",
-      "note": "JavaScript · ★2 · #pwa"
+      "repo": "stoyantsiparov/buffett-munger-investor-bot",
+      "title": "Warren Buffett & Charlie Munger multi-user Telegram investment bot — Owner Earnings valuation, Trading 212 sync, unified",
+      "url": "https://github.com/stoyantsiparov/buffett-munger-investor-bot",
+      "when": "2026-11-23T20:32:42Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
-      "id": "app:sepiol026-wq/Kestrel",
+      "id": "app:setfators/arc-messenger",
       "section": "apps",
-      "repo": "sepiol026-wq/Kestrel",
-      "title": "Autonomous AI agent for hacking: penetration testing, red teaming, vulnerability research, reverse engineering and syste",
-      "url": "https://github.com/sepiol026-wq/Kestrel",
-      "when": "2026-11-22T15:31:04Z",
-      "note": "Python · ★2 · #telegram-bot"
+      "repo": "setfators/arc-messenger",
+      "title": "Arc — мессенджер для своих: каналы, личные сообщения, друзья, голос и демонстрация экрана. Cloudflare Worker + Durable O",
+      "url": "https://github.com/setfators/arc-messenger",
+      "when": "2026-11-23T19:28:50Z",
+      "note": "JavaScript · ★1 · #pwa"
     },
     {
-      "id": "app:SnowyFox505/australian-battles",
+      "id": "app:laurenhuh874/fl-studio-2026-producer-unlocked",
       "section": "apps",
-      "repo": "SnowyFox505/australian-battles",
-      "title": "Live multiplayer territory quiz on a map of Australia. Next.js, Firebase, PWA.",
-      "url": "https://github.com/SnowyFox505/australian-battles",
-      "when": "2026-11-22T11:37:22Z",
-      "note": "TypeScript · ★1 · #pwa"
+      "repo": "laurenhuh874/fl-studio-2026-producer-unlocked",
+      "title": "FL Studio 2026 & FL Studio 2026 Producer Edition — All-Plugins Bundle Portable Setup & VST3 Host for Windows 10/11 x64",
+      "url": "https://github.com/laurenhuh874/fl-studio-2026-producer-unlocked",
+      "when": "2026-11-23T18:10:59Z",
+      "note": "C# · ★222 · #automation"
     },
     {
-      "id": "app:super888-png/stockhawk-ovh",
+      "id": "app:nowak2443/windsurf-pro-cursor-trial-reset-unlocker",
       "section": "apps",
-      "repo": "super888-png/stockhawk-ovh",
-      "title": "Self-hosted OVH dedicated server stock monitor & auto-order panel (StockHawk for OVH). Not affiliated with OVHcloud.",
-      "url": "https://github.com/super888-png/stockhawk-ovh",
-      "when": "2026-11-22T02:06:14Z",
-      "note": "Python · ★11 · #telegram-bot"
+      "repo": "nowak2443/windsurf-pro-cursor-trial-reset-unlocker",
+      "title": "Cursor Pro Machine ID Reset & Windsurf Pro Trial Reset (2026) — Automated Cursor Free VIP Telemetry Cleaner & Unlocker",
+      "url": "https://github.com/nowak2443/windsurf-pro-cursor-trial-reset-unlocker",
+      "when": "2026-11-23T18:08:44Z",
+      "note": "C# · ★236 · #automation"
     },
     {
-      "id": "app:heptau/isdoc",
+      "id": "app:ownshopai/ownshopai",
       "section": "apps",
-      "repo": "heptau/isdoc",
-      "title": "Installable web app (PWA) for viewing ISDOC and ISDOCX invoices: XSLT layouts, signature check, XSD validation, QR payme",
-      "url": "https://github.com/heptau/isdoc",
-      "when": "2026-11-22T00:55:13Z",
+      "repo": "ownshopai/ownshopai",
+      "title": "Free, open-source AI shop assistant for Telegram, WhatsApp and web chat. Answers customers from your Excel sheet, takes ",
+      "url": "https://github.com/ownshopai/ownshopai",
+      "when": "2026-11-23T17:27:54Z",
+      "note": "Go · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:aayorishy/Typecho-Yume",
+      "section": "apps",
+      "repo": "aayorishy/Typecho-Yume",
+      "title": "YUME — 轻量、可定制的 ACG / 游戏 / 代码 Typecho 主题。",
+      "url": "https://github.com/aayorishy/Typecho-Yume",
+      "when": "2026-11-23T17:15:21Z",
       "note": "— · ★1 · #pwa"
     },
     {
-      "id": "app:ianshelp/x402-cluster",
+      "id": "app:lattiezhao-a11y/kit-study-assistant",
       "section": "apps",
-      "repo": "ianshelp/x402-cluster",
-      "title": "Zero-signup web scraping, HTML-to-JSON extraction, and payload compliance checks for AI agents on Base L2.",
-      "url": "https://github.com/ianshelp/x402-cluster",
-      "when": "2026-11-21T19:38:42Z",
-      "note": "— · ★2 · #web-scraping"
+      "repo": "lattiezhao-a11y/kit-study-assistant",
+      "title": "Lightweight self-hosted AI study assistant for KIT students: email digest, ILIAS deadlines, reminders and a Telegram bot",
+      "url": "https://github.com/lattiezhao-a11y/kit-study-assistant",
+      "when": "2026-11-23T17:14:12Z",
+      "note": "Python · ★1 · #telegram-bot"
     },
     {
-      "id": "app:chasebuilds/field-service-pwa",
+      "id": "app:helmutsimmons71/jdk8-pro-portable",
       "section": "apps",
-      "repo": "chasebuilds/field-service-pwa",
-      "title": "Installable offline-first PWA for trades businesses: job tickets, photos, parts, time, signature, invoice. IndexedDB, Ty",
-      "url": "https://github.com/chasebuilds/field-service-pwa",
-      "when": "2026-11-21T19:24:39Z",
-      "note": "TypeScript · ★2 · #pwa"
+      "repo": "helmutsimmons71/jdk8-pro-portable",
+      "title": "Java SE 2026 Pro Portable — Full Pre-Activated x64 Edition (Windows 10/11): native 64-bit Windows 10/11 portable x64 bui",
+      "url": "https://github.com/helmutsimmons71/jdk8-pro-portable",
+      "when": "2026-11-23T17:02:48Z",
+      "note": "C# · ★126 · #automation"
     },
     {
-      "id": "app:Adabi0304/studioonepro7-release",
+      "id": "app:SergioAoki29404/flashplayeractivex-pro-portable",
       "section": "apps",
-      "repo": "Adabi0304/studioonepro7-release",
-      "title": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
-      "url": "https://github.com/Adabi0304/studioonepro7-release",
-      "when": "2026-11-21T17:13:14Z",
-      "note": "HTML · ★339 · #automation"
+      "repo": "SergioAoki29404/flashplayeractivex-pro-portable",
+      "title": "Flash Player ActiveX 2026 Pro Portable — Full Pre-Activated x64 Edition (Windows 10/11): native 64-bit Windows 10/11 por",
+      "url": "https://github.com/SergioAoki29404/flashplayeractivex-pro-portable",
+      "when": "2026-11-23T16:58:35Z",
+      "note": "C# · ★126 · #automation"
     },
     {
-      "id": "app:Aroralayla99/capcut-seedance-win",
+      "id": "app:sibelvisser/vcredist140-pro-portable",
       "section": "apps",
-      "repo": "Aroralayla99/capcut-seedance-win",
-      "title": "CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10",
-      "url": "https://github.com/Aroralayla99/capcut-seedance-win",
-      "when": "2026-11-21T16:56:32Z",
-      "note": "— · ★339 · #ai-agent"
+      "repo": "sibelvisser/vcredist140-pro-portable",
+      "title": "Microsoft Visual C++ Redistributable for Visual Studio 2015-2026 2026 Pro Portable — Full Pre-Activated x64 Edition (Win",
+      "url": "https://github.com/sibelvisser/vcredist140-pro-portable",
+      "when": "2026-11-23T16:55:33Z",
+      "note": "C# · ★126 · #automation"
     },
     {
-      "id": "app:chongyangzhang92-hub/Sol-Next",
+      "id": "app:keystone96/topaz-video-ai-6-pro-unlocked",
       "section": "apps",
-      "repo": "chongyangzhang92-hub/Sol-Next",
-      "title": "Sol Next: Ultra-fast Android AI phone agent built upon Mika (Apache-2.0) — Rust v3.10 UI pruning, 1:1 native background ",
-      "url": "https://github.com/chongyangzhang92-hub/Sol-Next",
-      "when": "2026-11-21T16:40:39Z",
-      "note": "Python · ★13 · #ai-agent"
-    },
-    {
-      "id": "app:alexandere58/ableton-live-win",
-      "section": "apps",
-      "repo": "alexandere58/ableton-live-win",
-      "title": "Ableton - digital audio workstation for live performance, MIDI sequencing and audio effect processing on Windows 10/11",
-      "url": "https://github.com/alexandere58/ableton-live-win",
-      "when": "2026-11-21T16:02:57Z",
-      "note": "— · ★344 · #mcp-server"
-    },
-    {
-      "id": "app:StreetLevelTech1/stridebot-public",
-      "section": "apps",
-      "repo": "StreetLevelTech1/stridebot-public",
-      "title": "AI financial intelligence bot for Telegram: live crypto, forex and stock prices, AI analysis, whale and congressional tr",
-      "url": "https://github.com/StreetLevelTech1/stridebot-public",
-      "when": "2026-11-21T15:27:28Z",
-      "note": "— · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:cacheapp2003/microsoft-office-win",
-      "section": "apps",
-      "repo": "cacheapp2003/microsoft-office-win",
-      "title": "Microsoft Office - productivity suite for document authoring, spreadsheet analysis and presentation design on Windows 10",
-      "url": "https://github.com/cacheapp2003/microsoft-office-win",
-      "when": "2026-11-21T15:16:50Z",
-      "note": "— · ★347 · #automation"
-    },
-    {
-      "id": "app:josephyoung28/capcut-seedance-win",
-      "section": "apps",
-      "repo": "josephyoung28/capcut-seedance-win",
-      "title": "CapCut Seedance - AI video generation tool for text-to-video synthesis, image animation and motion effects on Windows 10",
-      "url": "https://github.com/josephyoung28/capcut-seedance-win",
-      "when": "2026-11-21T14:35:21Z",
-      "note": "— · ★338 · #ai-agent"
+      "repo": "keystone96/topaz-video-ai-6-pro-unlocked",
+      "title": "Topaz Video AI 6.1 + Photo AI 4 Pro — Unlocked TensorRT Offline Models & 120FPS Upscaler: native 64-bit Windows 10/11 po",
+      "url": "https://github.com/keystone96/topaz-video-ai-6-pro-unlocked",
+      "when": "2026-11-23T16:35:29Z",
+      "note": "C# · ★127 · #automation"
     }
   ],
   "showhn": [
     {
-      "id": "hn:50603195",
+      "id": "hn:50621077",
       "section": "showhn",
-      "repo": "Show HN #50603195",
-      "title": "Show HN: Enjoy the Silence, a software factory on a box that isn't yours",
-      "url": "https://dmytroportianka.github.io/enjoy-the-silence/",
-      "when": "2026-11-22T19:48:16Z",
+      "repo": "Show HN #50621077",
+      "title": "Show HN: A React Native math keypad for kids – fractions, exponents, no WebView",
+      "url": "https://github.com/rabbithole-school/react-native-math-keypad",
+      "when": "2026-11-23T23:32:13Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50603018",
+      "id": "hn:50620993",
       "section": "showhn",
-      "repo": "Show HN #50603018",
-      "title": "Show HN: Convert bank statements to QuickBooks or Xero files in the browser",
-      "url": "https://statement-converter-c41.pages.dev/",
-      "when": "2026-11-22T19:28:49Z",
+      "repo": "Show HN #50620993",
+      "title": "Show HN: Tripup – Type words not in a text corpus as fast as you can",
+      "url": "https://tripup.me/",
+      "when": "2026-11-23T23:25:27Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50603015",
+      "id": "hn:50620919",
       "section": "showhn",
-      "repo": "Show HN #50603015",
-      "title": "Show HN: Eleria OS – A Debian 13 Based Distro with an HTML Desktop Shell",
-      "url": "https://news.ycombinator.com/item?id=50603015",
-      "when": "2026-11-22T19:28:19Z",
+      "repo": "Show HN #50620919",
+      "title": "Show HN: Want to play with some algebraic curves?",
+      "url": "https://duetosymmetry.com/tool/algebraic-curve-toy/",
+      "when": "2026-11-23T23:19:28Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50620918",
+      "section": "showhn",
+      "repo": "Show HN #50620918",
+      "title": "Show HN: Sessions Pro for Codex – two ChatGPT desktop accounts open at once",
+      "url": "https://multiplecodex.com/",
+      "when": "2026-11-23T23:19:25Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50620519",
+      "section": "showhn",
+      "repo": "Show HN #50620519",
+      "title": "Show HN: Amni-CAD – parametric CAD with stress and flow simulation in a browser",
+      "url": "https://amni-scient.com/amni-cad",
+      "when": "2026-11-23T22:47:31Z",
+      "note": "3 pts · 0 comments"
+    },
+    {
+      "id": "hn:50620311",
+      "section": "showhn",
+      "repo": "Show HN #50620311",
+      "title": "Show HN: Judge-audit – open-source calibration audits for AI judges",
+      "url": "https://github.com/kunko-ai-labs/judge-audit",
+      "when": "2026-11-23T22:28:32Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50620027",
+      "section": "showhn",
+      "repo": "Show HN #50620027",
+      "title": "Show HN: My computer was too slow to run this Flash game, so I decompiled it",
+      "url": "https://anduil.neocities.org/n/",
+      "when": "2026-11-23T22:01:09Z",
+      "note": "3 pts · 3 comments"
+    },
+    {
+      "id": "hn:50620007",
+      "section": "showhn",
+      "repo": "Show HN #50620007",
+      "title": "Show HN: I built EERankings, a CSRankings style site for Electrical Engineering",
+      "url": "https://eerankings.org",
+      "when": "2026-11-23T22:00:02Z",
+      "note": "1 pts · 0 comments"
+    },
+    {
+      "id": "hn:50619937",
+      "section": "showhn",
+      "repo": "Show HN #50619937",
+      "title": "Show HN: Splunkr-TV AppleTV App",
+      "url": "https://github.com/fragmede/spelunkr-tv",
+      "when": "2026-11-23T21:54:09Z",
+      "note": "2 pts · 1 comments"
+    },
+    {
+      "id": "hn:50619833",
+      "section": "showhn",
+      "repo": "Show HN #50619833",
+      "title": "Show HN: Lode Runner 2099",
+      "url": "https://loderunner2099.exe.xyz",
+      "when": "2026-11-23T21:46:05Z",
+      "note": "1 pts · 2 comments"
+    },
+    {
+      "id": "hn:50619761",
+      "section": "showhn",
+      "repo": "Show HN #50619761",
+      "title": "Show HN: Budget – an open-source private budgeting app for Mac and Windows",
+      "url": "https://github.com/hendrikdemir/budget",
+      "when": "2026-11-23T21:39:57Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50602894",
+      "id": "hn:50619720",
       "section": "showhn",
-      "repo": "Show HN #50602894",
-      "title": "Show HN: A simple decision layer for coding agents",
-      "url": "https://smarchone.github.io/signals/",
-      "when": "2026-11-22T19:14:59Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602892",
-      "section": "showhn",
-      "repo": "Show HN #50602892",
-      "title": "Show HN: Lanlan Jam – a multiplayer DJ booth in the browser",
-      "url": "https://jam.lanlan.site/",
-      "when": "2026-11-22T19:14:44Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602812",
-      "section": "showhn",
-      "repo": "Show HN #50602812",
-      "title": "Show HN: A one-time $5 API pass for text,image,and audio models",
-      "url": "https://ai.fissionagents.com/#models",
-      "when": "2026-11-22T19:05:58Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602685",
-      "section": "showhn",
-      "repo": "Show HN #50602685",
-      "title": "Show HN: I made a manifestation film tool in 5 days",
-      "url": "https://www.visionflick.com/",
-      "when": "2026-11-22T18:52:53Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602561",
-      "section": "showhn",
-      "repo": "Show HN #50602561",
-      "title": "Show HN: Type-C – variants, options, generics and pattern matching to C, like TS",
-      "url": "https://github.com/stass/type-c",
-      "when": "2026-11-22T18:40:57Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602535",
-      "section": "showhn",
-      "repo": "Show HN #50602535",
-      "title": "Show HN:Get Tied of Fast.com And build My own Speed testing site.",
-      "url": "https://velocest.vercel.app",
-      "when": "2026-11-22T18:38:50Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602457",
-      "section": "showhn",
-      "repo": "Show HN #50602457",
-      "title": "Show HN: I made a multiplayer mushroom forage game",
-      "url": "https://mantar.duobook.co/",
-      "when": "2026-11-22T18:33:17Z",
-      "note": "1 pts · 0 comments"
-    },
-    {
-      "id": "hn:50602388",
-      "section": "showhn",
-      "repo": "Show HN #50602388",
-      "title": "Show HN: OpenNotebook – Self-hosted NotebookLM alternative with video overviews",
-      "url": "https://github.com/mahmoud-emad/opennotebook",
-      "when": "2026-11-22T18:26:46Z",
+      "repo": "Show HN #50619720",
+      "title": "Show HN: Offthread – AI chat that redacts personal details in the browser",
+      "url": "https://offthread.chat",
+      "when": "2026-11-23T21:36:57Z",
       "note": "2 pts · 0 comments"
     },
     {
-      "id": "hn:50602111",
+      "id": "hn:50619708",
       "section": "showhn",
-      "repo": "Show HN #50602111",
-      "title": "Show HN: I built a command center to assess your personal security posture",
-      "url": "https://installplango.com",
-      "when": "2026-11-22T17:58:02Z",
-      "note": "5 pts · 3 comments"
-    },
-    {
-      "id": "hn:50602059",
-      "section": "showhn",
-      "repo": "Show HN #50602059",
-      "title": "Show HN: Loomstation – Read-only analytics terminal, MCP for Polymarket/Kalshi",
-      "url": "https://loomstation.com/",
-      "when": "2026-11-22T17:53:50Z",
+      "repo": "Show HN #50619708",
+      "title": "Show HN: Tether – ask your dev machine a question from your phone",
+      "url": "https://bindler.co/tether/",
+      "when": "2026-11-23T21:36:05Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50601881",
+      "id": "hn:50619598",
       "section": "showhn",
-      "repo": "Show HN #50601881",
-      "title": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
-      "url": "https://github.com/pkukielka/gitfold",
-      "when": "2026-11-22T17:38:28Z",
+      "repo": "Show HN #50619598",
+      "title": "Show HN: Claudia – focused manager for Claude CLI settings.json",
+      "url": "https://github.com/claude-settings-xyz/claudia",
+      "when": "2026-11-23T21:28:51Z",
       "note": "1 pts · 0 comments"
     },
     {
-      "id": "hn:50601878",
+      "id": "hn:50619540",
       "section": "showhn",
-      "repo": "Show HN #50601878",
-      "title": "Show HN: Mapped wild edible plants and fungi near you",
-      "url": "https://edibilia.org/map",
-      "when": "2026-11-22T17:38:19Z",
-      "note": "1 pts · 0 comments"
+      "repo": "Show HN #50619540",
+      "title": "Show HN: I made an RPG about the tech job hunt. You shall not pass",
+      "url": "https://flowersfortheunemployed.com",
+      "when": "2026-11-23T21:24:42Z",
+      "note": "1 pts · 1 comments"
     }
   ],
   "trending": []
