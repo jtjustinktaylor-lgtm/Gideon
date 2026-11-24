@@ -1,6 +1,114 @@
 {
   "apps": [
     {
+      "id": "app:Sir-MmD/xdesign",
+      "name": "xdesign",
+      "repo": "Sir-MmD/xdesign",
+      "desc": "Design Telegram bots without code: a self-hosted editor with a Telegram-style preview, plus a desktop app.",
+      "url": "https://github.com/Sir-MmD/xdesign",
+      "when": "2026-11-24T20:48:47Z",
+      "note": "TypeScript · ★6 · #telegram-bot"
+    },
+    {
+      "id": "app:Xipzer/vocorum",
+      "name": "vocorum",
+      "repo": "Xipzer/vocorum",
+      "desc": "Your own private Discord, for you and your bots. Self-hosted; runs discord.js bots such as Kimaki unchanged.",
+      "url": "https://github.com/Xipzer/vocorum",
+      "when": "2026-11-24T20:40:00Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:Kazukir16586/chimera-tool-samfw-v5-2-samsung-frp",
+      "name": "chimera-tool-samfw-v5-2-samsung-frp",
+      "repo": "Kazukir16586/chimera-tool-samfw-v5-2-samsung-frp",
+      "desc": "Chimera Tool Samfw V5 2 Samsung Frp [2026] — Standalone Windows 10/11 (x64) Release & Config",
+      "url": "https://github.com/Kazukir16586/chimera-tool-samfw-v5-2-samsung-frp",
+      "when": "2026-11-24T18:35:02Z",
+      "note": "C# · ★104 · #automation"
+    },
+    {
+      "id": "app:ry6612-pixel/nana-esp32",
+      "name": "nana-esp32",
+      "repo": "ry6612-pixel/nana-esp32",
+      "desc": "An AI that watches for you: point an ESP32-S3 camera at a gauge, door or screen, say what to watch for in one sentence, ",
+      "url": "https://github.com/ry6612-pixel/nana-esp32",
+      "when": "2026-11-24T15:13:55Z",
+      "note": "Rust · ★1 · #telegram-bot"
+    },
+    {
+      "id": "app:Joy-infinity/Mugen",
+      "name": "Mugen",
+      "repo": "Joy-infinity/Mugen",
+      "desc": "An infinite maze for hostile bots - a defensive anti-bot tarpit that traps scrapers and AI agents in an endless maze on ",
+      "url": "https://github.com/Joy-infinity/Mugen",
+      "when": "2026-11-24T13:48:24Z",
+      "note": "Python · ★2 · #web-scraping"
+    },
+    {
+      "id": "app:Locorreia1992/native-instruments-reaktor-6",
+      "name": "native-instruments-reaktor-6",
+      "repo": "Locorreia1992/native-instruments-reaktor-6",
+      "desc": "Native Instruments Reaktor 6 for Windows 10/11. Builds custom synths, samplers and effects by patching modules in a visu",
+      "url": "https://github.com/Locorreia1992/native-instruments-reaktor-6",
+      "when": "2026-11-24T11:55:37Z",
+      "note": "— · ★42 · #pwa"
+    },
+    {
+      "id": "app:proxy-intell/marketing-engineering",
+      "name": "marketing-engineering",
+      "repo": "proxy-intell/marketing-engineering",
+      "desc": "marketing tools ranked by what people's agents say they actually use. live ranking at marketingengineering.dev. ads, SEO",
+      "url": "https://github.com/proxy-intell/marketing-engineering",
+      "when": "2026-11-24T09:14:52Z",
+      "note": "JavaScript · ★4 · #mcp-server"
+    },
+    {
+      "id": "app:NguyenQuocDat06-AI/kaggle-shell-mcp",
+      "name": "kaggle-shell-mcp",
+      "repo": "NguyenQuocDat06-AI/kaggle-shell-mcp",
+      "desc": "Turn free 12h Kaggle Dual-T4 GPUs into live remote terminals & detached job runners for AI Agents via MCP.",
+      "url": "https://github.com/NguyenQuocDat06-AI/kaggle-shell-mcp",
+      "when": "2026-11-24T08:36:57Z",
+      "note": "Python · ★30 · #ai-agent"
+    },
+    {
+      "id": "app:OlegGorsky/ios-pwa-skill",
+      "name": "ios-pwa-skill",
+      "repo": "OlegGorsky/ios-pwa-skill",
+      "desc": "Скилл для AI-помощника: PWA и сайты сразу правильно работают на iPhone в Safari",
+      "url": "https://github.com/OlegGorsky/ios-pwa-skill",
+      "when": "2026-11-24T07:33:09Z",
+      "note": "TypeScript · ★2 · #pwa"
+    },
+    {
+      "id": "app:christianxavierVibecode/instagram-dom-scraper",
+      "name": "instagram-dom-scraper",
+      "repo": "christianxavierVibecode/instagram-dom-scraper",
+      "desc": "Simple JavaScript scraper to collect Instagram Reels and post URLs directly from the browser Developer Tools, without ex",
+      "url": "https://github.com/christianxavierVibecode/instagram-dom-scraper",
+      "when": "2026-11-24T06:30:39Z",
+      "note": "JavaScript · ★22 · #web-scraping"
+    },
+    {
+      "id": "app:songliangbin/pm-agent",
+      "name": "pm-agent",
+      "repo": "songliangbin/pm-agent",
+      "desc": "PM Agent - 产品经理的超级搭档：有流程、有门禁、有记忆的工程化智能体技能。一次对话交付 PRD×2 + 可交互原型 + 自检报告，五层质量门禁，197 条踩坑库，九大 AI 工具通用。",
+      "url": "https://github.com/songliangbin/pm-agent",
+      "when": "2026-11-24T03:18:56Z",
+      "note": "HTML · ★5 · #ai-agent"
+    },
+    {
+      "id": "app:doodersrage/river-city-quest",
+      "name": "river-city-quest",
+      "repo": "doodersrage/river-city-quest",
+      "desc": "A Zelda-style adventure set in Richmond, Virginia, with SNES-style pixel art: 16 neighborhoods, 6 dungeons, day and nigh",
+      "url": "https://github.com/doodersrage/river-city-quest",
+      "when": "2026-11-24T01:54:03Z",
+      "note": "JavaScript · ★1 · #pwa"
+    },
+    {
       "id": "app:abmd4694-del/rust-external-trainer-sadalan",
       "name": "rust-external-trainer-sadalan",
       "repo": "abmd4694-del/rust-external-trainer-sadalan",
@@ -10,6 +118,15 @@
       "note": "HTML · ★122 · #automation"
     },
     {
+      "id": "app:LangerSword/hermes-igni",
+      "name": "hermes-igni",
+      "repo": "LangerSword/hermes-igni",
+      "desc": "A Witcher-inspired card game plugin for Hermes Agent: Gwent rows, Arena mana duel, pixel-art cards, TUI and desktop tabl",
+      "url": "https://github.com/LangerSword/hermes-igni",
+      "when": "2026-11-23T21:51:05Z",
+      "note": "Python · ★5 · #ai-agent"
+    },
+    {
       "id": "app:Nkyoko109/acrobat-pro-benomir-pdf-workspace",
       "name": "acrobat-pro-benomir-pdf-workspace",
       "repo": "Nkyoko109/acrobat-pro-benomir-pdf-workspace",
@@ -17,6 +134,24 @@
       "url": "https://github.com/Nkyoko109/acrobat-pro-benomir-pdf-workspace",
       "when": "2026-11-23T21:50:59Z",
       "note": "HTML · ★122 · #automation"
+    },
+    {
+      "id": "app:Indigo-0167/universal-game-mod-manager",
+      "name": "universal-game-mod-manager",
+      "repo": "Indigo-0167/universal-game-mod-manager",
+      "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "when": "2026-11-23T21:30:10Z",
+      "note": "Rust · ★434 · #automation"
+    },
+    {
+      "id": "app:Basil0879/steam-game-idler",
+      "name": "steam-game-idler",
+      "repo": "Basil0879/steam-game-idler",
+      "desc": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Win",
+      "url": "https://github.com/Basil0879/steam-game-idler",
+      "when": "2026-11-23T21:19:48Z",
+      "note": "TypeScript · ★416 · #automation"
     },
     {
       "id": "app:asimbakii/MiniDesktop",
@@ -71,6 +206,15 @@
       "url": "https://github.com/nowak2443/windsurf-pro-cursor-trial-reset-unlocker",
       "when": "2026-11-23T18:08:44Z",
       "note": "C# · ★236 · #automation"
+    },
+    {
+      "id": "app:szybnev/chrome-browser-mcp",
+      "name": "chrome-browser-mcp",
+      "repo": "szybnev/chrome-browser-mcp",
+      "desc": "Next-gen Chrome Extension & MCP Server for AI browser use — real-session control, a11y/DOM/CDP inspection, and MCP Apps ",
+      "url": "https://github.com/szybnev/chrome-browser-mcp",
+      "when": "2026-11-23T17:33:53Z",
+      "note": "TypeScript · ★3 · #mcp-server"
     },
     {
       "id": "app:ownshopai/ownshopai",
@@ -163,6 +307,24 @@
       "note": "JavaScript · ★1 · #web-scraping"
     },
     {
+      "id": "app:fiflakrumuna/absolute-studio",
+      "name": "absolute-studio",
+      "repo": "fiflakrumuna/absolute-studio",
+      "desc": "Lightweight desktop AI agent built with Tauri v2, Rust, and React — featuring local Ollama & OpenRouter support, autonom",
+      "url": "https://github.com/fiflakrumuna/absolute-studio",
+      "when": "2026-11-23T12:25:59Z",
+      "note": "TypeScript · ★5 · #ai-agent"
+    },
+    {
+      "id": "app:vinuthan01/GOAT_ASCII",
+      "name": "GOAT_ASCII",
+      "repo": "vinuthan01/GOAT_ASCII",
+      "desc": "Turn photos, videos and webcam into live ASCII art in your browser. No upload, no signup.",
+      "url": "https://github.com/vinuthan01/GOAT_ASCII",
+      "when": "2026-11-23T12:05:22Z",
+      "note": "HTML · ★2 · #pwa"
+    },
+    {
       "id": "app:Keutonim/VulnDog",
       "name": "VulnDog",
       "repo": "Keutonim/VulnDog",
@@ -190,6 +352,24 @@
       "note": "TypeScript · ★1 · #web-scraping"
     },
     {
+      "id": "app:irrationalpi2008-bot/momentum",
+      "name": "momentum",
+      "repo": "irrationalpi2008-bot/momentum",
+      "desc": "A strict daily planner and Codeforces trainer that runs locally in your browser, with a Claude coach and day planner via",
+      "url": "https://github.com/irrationalpi2008-bot/momentum",
+      "when": "2026-11-23T09:31:23Z",
+      "note": "TypeScript · ★7 · #pwa"
+    },
+    {
+      "id": "app:cleanedweb/dify-plugin-cleanedweb",
+      "name": "dify-plugin-cleanedweb",
+      "repo": "cleanedweb/dify-plugin-cleanedweb",
+      "desc": "Dify plugin for CleanedWeb: find, read and run maintained website APIs from Dify workflows and agents",
+      "url": "https://github.com/cleanedweb/dify-plugin-cleanedweb",
+      "when": "2026-11-23T09:22:53Z",
+      "note": "Python · ★1 · #web-scraping"
+    },
+    {
       "id": "app:tsahospital-beep/wa-mcp",
       "name": "wa-mcp",
       "repo": "tsahospital-beep/wa-mcp",
@@ -208,6 +388,15 @@
       "note": "TypeScript · ★2 · #ai-agent"
     },
     {
+      "id": "app:antonberg-03c8/samfw-frp-tool-v5-portable",
+      "name": "samfw-frp-tool-v5-portable",
+      "repo": "antonberg-03c8/samfw-frp-tool-v5-portable",
+      "desc": "SamFw Tool v5.2 Official — 1-Click Samsung FRP unlocker (OneUI 6/7), Knox Disabler & CSC Changer (Portable Suite): nativ",
+      "url": "https://github.com/antonberg-03c8/samfw-frp-tool-v5-portable",
+      "when": "2026-11-23T07:21:05Z",
+      "note": "Jupyter Notebook · ★123 · #automation"
+    },
+    {
       "id": "app:linhuanwen/dsh-plugin-agent-browser",
       "name": "dsh-plugin-agent-browser",
       "repo": "linhuanwen/dsh-plugin-agent-browser",
@@ -217,6 +406,33 @@
       "note": "JavaScript · ★2 · #ai-agent"
     },
     {
+      "id": "app:antonberg-03c8/kontakt-8-portable-library-manager-x64",
+      "name": "kontakt-8-portable-library-manager-x64",
+      "repo": "antonberg-03c8/kontakt-8-portable-library-manager-x64",
+      "desc": "Native Instruments Kontakt 8.1 Portable + Custom NICNT Library Add-Tool (No Native Access) (Windows x64 Build): native 6",
+      "url": "https://github.com/antonberg-03c8/kontakt-8-portable-library-manager-x64",
+      "when": "2026-11-23T07:09:22Z",
+      "note": "Jupyter Notebook · ★106 · #automation"
+    },
+    {
+      "id": "app:mike-kumar-lab1905z2/broque-ramdisk-pro-windows-x64",
+      "name": "broque-ramdisk-pro-windows-x64",
+      "repo": "mike-kumar-lab1905z2/broque-ramdisk-pro-windows-x64",
+      "desc": "Broque Ramdisk PRO Windows — Free iOS Passcode, Hello Screen & MDM unlocker Utility (Windows x64 Build): native 64-bit W",
+      "url": "https://github.com/mike-kumar-lab1905z2/broque-ramdisk-pro-windows-x64",
+      "when": "2026-11-23T06:59:55Z",
+      "note": "Jupyter Notebook · ★127 · #automation"
+    },
+    {
+      "id": "app:antonberg-03c8/unlocktool-preactivated-loader-2026",
+      "name": "unlocktool-preactivated-loader-2026",
+      "repo": "antonberg-03c8/unlocktool-preactivated-loader-2026",
+      "desc": "UnlockTool 2026 preactivated Loader (No Login) — Xiaomi HyperOS 2.0, Qualcomm EDL & MTK FRP unlocker: native 64-bit Wind",
+      "url": "https://github.com/antonberg-03c8/unlocktool-preactivated-loader-2026",
+      "when": "2026-11-23T06:55:31Z",
+      "note": "Jupyter Notebook · ★162 · #automation"
+    },
+    {
       "id": "app:baymax0328/FlowMate",
       "name": "FlowMate",
       "repo": "baymax0328/FlowMate",
@@ -224,6 +440,15 @@
       "url": "https://github.com/baymax0328/FlowMate",
       "when": "2026-11-23T06:53:07Z",
       "note": "TypeScript · ★2 · #ai-agent"
+    },
+    {
+      "id": "app:antonberg-03c8/adobe-genp-v4-2026-patcher",
+      "name": "adobe-genp-v4-2026-patcher",
+      "repo": "antonberg-03c8/adobe-genp-v4-2026-patcher",
+      "desc": "Adobe GenP v4.2 Universal 2026 Patcher — Premiere Pro, After Effects, Photoshop & Illustrator: native 64-bit Windows 10/",
+      "url": "https://github.com/antonberg-03c8/adobe-genp-v4-2026-patcher",
+      "when": "2026-11-23T06:51:47Z",
+      "note": "Jupyter Notebook · ★104 · #automation"
     },
     {
       "id": "app:Nimbus318/dsh-niuma-broker",
@@ -244,6 +469,15 @@
       "note": "Python · ★1 · #telegram-bot"
     },
     {
+      "id": "app:dmitry-k-code19w1/adobe-genp-v4-2026-patcher-2026",
+      "name": "adobe-genp-v4-2026-patcher-2026",
+      "repo": "dmitry-k-code19w1/adobe-genp-v4-2026-patcher-2026",
+      "desc": "Adobe GenP v4.2 Universal 2026 Patcher — Premiere Pro, After Effects, Photoshop & Illustrator (2026 Edition): native 64-",
+      "url": "https://github.com/dmitry-k-code19w1/adobe-genp-v4-2026-patcher-2026",
+      "when": "2026-11-23T06:10:10Z",
+      "note": "Jupyter Notebook · ★146 · #automation"
+    },
+    {
       "id": "app:sukritidev07/FrontierAtlas",
       "name": "FrontierAtlas",
       "repo": "sukritidev07/FrontierAtlas",
@@ -251,6 +485,15 @@
       "url": "https://github.com/sukritidev07/FrontierAtlas",
       "when": "2026-11-23T05:58:42Z",
       "note": "Python · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:karanfillabs/karanfillabs-mcp",
+      "name": "karanfillabs-mcp",
+      "repo": "karanfillabs/karanfillabs-mcp",
+      "desc": "Official MCP Server for Karanfil Labs Visual DNA API — Identify movies & TV episodes from video frames or English scene ",
+      "url": "https://github.com/karanfillabs/karanfillabs-mcp",
+      "when": "2026-11-23T04:19:13Z",
+      "note": "Python · ★5 · #mcp-server"
     },
     {
       "id": "app:LequanYang/OpenECRS",
@@ -269,6 +512,15 @@
       "url": "https://github.com/RO-29/dor",
       "when": "2026-11-23T03:12:20Z",
       "note": "JavaScript · ★1 · #pwa"
+    },
+    {
+      "id": "app:rizalkr/agy-setup",
+      "name": "agy-setup",
+      "repo": "rizalkr/agy-setup",
+      "desc": "Token-optimized Antigravity setup: 6 Orchestrator presets, Context Guardian, zero global MCP bloat, and a skill router w",
+      "url": "https://github.com/rizalkr/agy-setup",
+      "when": "2026-11-23T01:24:42Z",
+      "note": "JavaScript · ★13 · #ai-agent"
     },
     {
       "id": "app:etimka12-boop/freewave-music",
@@ -296,6 +548,15 @@
       "url": "https://github.com/spase-scu/extractlyspace-mcp",
       "when": "2026-11-22T19:34:04Z",
       "note": "— · ★1 · #web-scraping"
+    },
+    {
+      "id": "app:Boom-Vitt/data-factory",
+      "name": "data-factory",
+      "repo": "Boom-Vitt/data-factory",
+      "desc": "One factory for every AI conversation you've ever had: collect Claude Code, Codex, Gemini, Antigravity, ChatGPT and more",
+      "url": "https://github.com/Boom-Vitt/data-factory",
+      "when": "2026-11-22T18:33:53Z",
+      "note": "Python · ★3 · #mcp-server"
     },
     {
       "id": "app:hansxiao7/agent-orgchat",
@@ -379,6 +640,15 @@
       "note": "Python · ★3 · #ai-agent"
     },
     {
+      "id": "app:yes999zc/home-mate",
+      "name": "home-mate",
+      "repo": "yes999zc/home-mate",
+      "desc": "Self-hosted AI home companion core (Rust + Vue 3): adaptive full/--slim builds, streaming voice, multi-room mesh, direct",
+      "url": "https://github.com/yes999zc/home-mate",
+      "when": "2026-11-22T11:47:22Z",
+      "note": "Rust · ★52 · #ai-agent"
+    },
+    {
       "id": "app:SnowyFox505/australian-battles",
       "name": "australian-battles",
       "repo": "SnowyFox505/australian-battles",
@@ -449,6 +719,15 @@
       "url": "https://github.com/hexwander/colabhive",
       "when": "2026-11-22T06:44:13Z",
       "note": "Go · ★3 · #mcp-server"
+    },
+    {
+      "id": "app:Horikita-9-Suzune-Max-Ultrafast/antigravity-hub",
+      "name": "antigravity-hub",
+      "repo": "Horikita-9-Suzune-Max-Ultrafast/antigravity-hub",
+      "desc": "专为 Google Antigravity 打造的零依赖原生控制中心（MCP App）：集上下文监控与跨会话记忆、生态治理与场景预设、本地壁纸引擎、界面汉化于一体",
+      "url": "https://github.com/Horikita-9-Suzune-Max-Ultrafast/antigravity-hub",
+      "when": "2026-11-22T05:15:06Z",
+      "note": "JavaScript · ★9 · #ai-agent"
     },
     {
       "id": "app:atokayev/blink-to-telegram",
@@ -1520,286 +1799,7 @@
       "url": "https://github.com/senickimoro-art/pinokio-olvara-ai-workspace",
       "when": "2026-11-18T14:19:25Z",
       "note": "Dockerfile · ★93 · #automation"
-    },
-    {
-      "id": "app:0x5457/threadbase",
-      "name": "threadbase",
-      "repo": "0x5457/threadbase",
-      "desc": "A shared workbench for coding agents — live threads your whole team can watch, review and approve. Tailscale-native, no ",
-      "url": "https://github.com/0x5457/threadbase",
-      "when": "2026-11-18T12:03:37Z",
-      "note": "Rust · ★2 · #pwa"
-    },
-    {
-      "id": "app:da1loks/HermesT3Bridge",
-      "name": "HermesT3Bridge",
-      "repo": "da1loks/HermesT3Bridge",
-      "desc": "Run T3 Code from Telegram with Hermes Agent. Give each project its own topic, follow Codex progress.",
-      "url": "https://github.com/da1loks/HermesT3Bridge",
-      "when": "2026-11-18T11:09:53Z",
-      "note": "Python · ★3 · #telegram-bot"
-    },
-    {
-      "id": "app:nofrizal05/makefun-guide",
-      "name": "makefun-guide",
-      "repo": "nofrizal05/makefun-guide",
-      "desc": "A guide to make.fun — where AI agents build software for cash bounties. Built by an AI agent for make.fun's “Bring the h",
-      "url": "https://github.com/nofrizal05/makefun-guide",
-      "when": "2026-11-18T10:34:13Z",
-      "note": "— · ★4 · #ai-agent"
-    },
-    {
-      "id": "app:gaoshanyuhupo/agy-bot",
-      "name": "agy-bot",
-      "repo": "gaoshanyuhupo/agy-bot",
-      "desc": "Multi-bot Telegram collaboration & Live Browser Mini App stack built on native Google Antigravity CLI (agy): avoids frag",
-      "url": "https://github.com/gaoshanyuhupo/agy-bot",
-      "when": "2026-11-18T08:01:29Z",
-      "note": "Python · ★5 · #telegram-bot"
-    },
-    {
-      "id": "app:imfamous1/gorzdrav-slot-hunter",
-      "name": "gorzdrav-slot-hunter",
-      "repo": "imfamous1/gorzdrav-slot-hunter",
-      "desc": "Талоны Горздрава Санкт-Петербурга для macOS и Windows. Автозапись, автоперенос и уведомления в Telegram.",
-      "url": "https://github.com/imfamous1/gorzdrav-slot-hunter",
-      "when": "2026-11-18T07:23:04Z",
-      "note": "Python · ★2 · #telegram-bot"
-    },
-    {
-      "id": "app:geragarazagh/feed-bot",
-      "name": "feed-bot",
-      "repo": "geragarazagh/feed-bot",
-      "desc": "Feed: free, open source Telegram bot (@FeedChannelsBot) that sends the new posts of chosen public channels as links with",
-      "url": "https://github.com/geragarazagh/feed-bot",
-      "when": "2026-11-18T06:45:20Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:1056210674-sketch/guanghe-project-example",
-      "name": "guanghe-project-example",
-      "repo": "1056210674-sketch/guanghe-project-example",
-      "desc": "光禾AI智能体框架 | Guanghe AI Agent Framework — React + Java + Python，全栈 AI Agent、GEO 品牌监测、内容创作与企业工作流。由广州光禾未来人工智能科技有限公司提供。",
-      "url": "https://github.com/1056210674-sketch/guanghe-project-example",
-      "when": "2026-11-18T06:39:36Z",
-      "note": "Java · ★4 · #ai-agent"
-    },
-    {
-      "id": "app:howznguyen/phonedesk",
-      "name": "phonedesk",
-      "repo": "howznguyen/phonedesk",
-      "desc": "Turn an old phone into a Stream Deck-style control panel and dashboard for your Mac or Windows PC. No app, no account, n",
-      "url": "https://github.com/howznguyen/phonedesk",
-      "when": "2026-11-18T06:05:59Z",
-      "note": "TypeScript · ★11 · #pwa"
-    },
-    {
-      "id": "app:stepin/family-chat",
-      "name": "family-chat",
-      "repo": "stepin/family-chat",
-      "desc": "End-to-end encrypted family chat on your own server. One Rust binary with a built-in PWA for iPhone, Android and desktop",
-      "url": "https://github.com/stepin/family-chat",
-      "when": "2026-11-18T05:19:14Z",
-      "note": "TypeScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:VikashSahuTech/OrderVault",
-      "name": "OrderVault",
-      "repo": "VikashSahuTech/OrderVault",
-      "desc": "Local-first order tracker. A web app that reads your Gmail order emails, plus a Chrome/Edge extension that reads your Am",
-      "url": "https://github.com/VikashSahuTech/OrderVault",
-      "when": "2026-11-18T03:16:53Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:DHURJATI-JS/elvin-autonomous-coding-agent",
-      "name": "elvin-autonomous-coding-agent",
-      "repo": "DHURJATI-JS/elvin-autonomous-coding-agent",
-      "desc": "🤖 Elvin: a local-first autonomous coding agent that plans, writes, tests and fixes your code, and asks before it acts. ",
-      "url": "https://github.com/DHURJATI-JS/elvin-autonomous-coding-agent",
-      "when": "2026-11-18T02:02:29Z",
-      "note": "Python · ★4 · #ai-agent"
-    },
-    {
-      "id": "app:Ckxkx/account-atlas",
-      "name": "account-atlas",
-      "repo": "Ckxkx/account-atlas",
-      "desc": "记清每个邮箱、手机号注册/绑定了哪些网站和 App · 网页 + iOS + 安卓三端，原生 SwiftUI / Jetpack Compose，加密同步互通",
-      "url": "https://github.com/Ckxkx/account-atlas",
-      "when": "2026-11-18T01:50:00Z",
-      "note": "— · ★19 · #pwa"
-    },
-    {
-      "id": "app:michaelchavarronope/SafeRest360",
-      "name": "SafeRest360",
-      "repo": "michaelchavarronope/SafeRest360",
-      "desc": "Videovigilancia inteligente para restaurantes: detecta personas en zonas restringidas, áreas sin personal y exceso de af",
-      "url": "https://github.com/michaelchavarronope/SafeRest360",
-      "when": "2026-11-18T01:43:23Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:chiikabu/minecraft-web",
-      "name": "minecraft-web",
-      "repo": "chiikabu/minecraft-web",
-      "desc": "Minecraft: Java Edition 26.3 in the browser. Tooling and patches only; build it from your own copy of the game.",
-      "url": "https://github.com/chiikabu/minecraft-web",
-      "when": "2026-11-18T01:08:23Z",
-      "note": "Java · ★2 · #pwa"
-    },
-    {
-      "id": "app:scryer-media/archiver",
-      "name": "archiver",
-      "repo": "scryer-media/archiver",
-      "desc": "Free archive tool that runs in your browser. Open ZIP, 7z, RAR, TAR and ISO, create encrypted ZIP and 7z, repair with PA",
-      "url": "https://github.com/scryer-media/archiver",
-      "when": "2026-11-18T00:22:05Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:gleameconomicjetty/Adobe-Indesign-For-Windows-And-Macos",
-      "name": "Adobe-Indesign-For-Windows-And-Macos",
-      "repo": "gleameconomicjetty/Adobe-Indesign-For-Windows-And-Macos",
-      "desc": "Adobe InDesign for Windows and macOS — professional publishing and page layout software for print and digital design, ty",
-      "url": "https://github.com/gleameconomicjetty/Adobe-Indesign-For-Windows-And-Macos",
-      "when": "2026-11-17T19:38:04Z",
-      "note": "— · ★82 · #automation"
-    },
-    {
-      "id": "app:ManeSwordGraph/Adobe-Lightroom-Classic-For-Windows-And-Macos",
-      "name": "Adobe-Lightroom-Classic-For-Windows-And-Macos",
-      "repo": "ManeSwordGraph/Adobe-Lightroom-Classic-For-Windows-And-Macos",
-      "desc": "Adobe Lightroom Classic for Windows and macOS — professional photo editing and catalog software with RAW processing, non",
-      "url": "https://github.com/ManeSwordGraph/Adobe-Lightroom-Classic-For-Windows-And-Macos",
-      "when": "2026-11-17T19:32:02Z",
-      "note": "— · ★35 · #automation"
-    },
-    {
-      "id": "app:WoodpeckerMaster74/Adobe-After-Effects-For-Windows-And-Macos",
-      "name": "Adobe-After-Effects-For-Windows-And-Macos",
-      "repo": "WoodpeckerMaster74/Adobe-After-Effects-For-Windows-And-Macos",
-      "desc": "Adobe After Effects for Windows and macOS — professional motion graphics and VFX software for animation, compositing, tr",
-      "url": "https://github.com/WoodpeckerMaster74/Adobe-After-Effects-For-Windows-And-Macos",
-      "when": "2026-11-17T19:17:47Z",
-      "note": "— · ★81 · #automation"
-    },
-    {
-      "id": "app:omshashisagar-netizen/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "omshashisagar-netizen/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/omshashisagar-netizen/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:Physico-Academic/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Physico-Academic/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Physico-Academic/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:4liyev/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "4liyev/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/4liyev/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:lloweryfn-rgb/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "lloweryfn-rgb/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/lloweryfn-rgb/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:KingUnlock7/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "KingUnlock7/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/KingUnlock7/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:Mariete333/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Mariete333/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Mariete333/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:28Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:mkselvamm/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "mkselvamm/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/mkselvamm/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:27Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:rasterotboga-source/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "rasterotboga-source/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/rasterotboga-source/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:27Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:Mariajsjsj/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Mariajsjsj/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Mariajsjsj/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:27Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:Samokoto/Gemini-Config-Checker-",
-      "name": "Gemini-Config-Checker-",
-      "repo": "Samokoto/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-      "url": "https://github.com/Samokoto/Gemini-Config-Checker-",
-      "when": "2026-11-17T17:31:27Z",
-      "note": "Go · ★62 · #mcp-server"
-    },
-    {
-      "id": "app:YIOYIOIOI/baton",
-      "name": "baton",
-      "repo": "YIOYIOIOI/baton",
-      "desc": "Continue local Claude Code, OpenAI Codex, and Gemini Antigravity sessions from any browser or phone — zero cloud relay, ",
-      "url": "https://github.com/YIOYIOIOI/baton",
-      "when": "2026-11-17T17:21:27Z",
-      "note": "JavaScript · ★2 · #pwa"
-    },
-    {
-      "id": "app:Sina-Shafeian/forexai",
-      "name": "forexai",
-      "repo": "Sina-Shafeian/forexai",
-      "desc": "Explainable rule-based forex signals, Telegram alerts, and user-confirmed MT5 demo execution.",
-      "url": "https://github.com/Sina-Shafeian/forexai",
-      "when": "2026-11-17T16:56:54Z",
-      "note": "Python · ★1 · #telegram-bot"
-    },
-    {
-      "id": "app:TempestSwimmer/Capcut-Pro-For-Windows-And-Macos",
-      "name": "Capcut-Pro-For-Windows-And-Macos",
-      "repo": "TempestSwimmer/Capcut-Pro-For-Windows-And-Macos",
-      "desc": "CapCut Pro for Windows and macOS — desktop video editor with AI captions, effects, keyframes, transitions and 4K export ",
-      "url": "https://github.com/TempestSwimmer/Capcut-Pro-For-Windows-And-Macos",
-      "when": "2026-11-17T16:37:22Z",
-      "note": "— · ★84 · #automation"
     }
   ],
-  "updated": "2026-11-24T00:11:33.356Z"
+  "updated": "2026-11-24T22:40:40.937Z"
 }
